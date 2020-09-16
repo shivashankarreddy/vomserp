@@ -3560,6 +3560,301 @@ namespace DataTables_Dot_Net2010
             }
         }
 
+
+        /// <summary>
+        /// Status Page for Overview Page
+        /// </summary>
+        /// <returns></returns>
+        [WebMethod(EnableSession = true)]
+        [ScriptMethod(UseHttpGet = true)]
+        [WebInvoke(ResponseFormat = WebMessageFormat.Json, BodyStyle = WebMessageBodyStyle.Bare, Method = "GET")]
+        public string GetFeOverview()
+        {
+            try
+            {
+                int sEcho = ToInt(HttpContext.Current.Request.Params["sEcho"]);
+                int iDisplayLength = ToInt(HttpContext.Current.Request.Params["iDisplayLength"]);
+                int iDisplayStart = ToInt(HttpContext.Current.Request.Params["iDisplayStart"]);
+                string rawSearch = HttpContext.Current.Request.Params["sSearch"];
+
+                string Cust = HttpContext.Current.Request.Params["sSearch_0"];
+                string Edate = HttpContext.Current.Request.Params["sSearch_1"];
+                string FeNo = HttpContext.Current.Request.Params["sSearch_2"];
+                string FPONoo = HttpContext.Current.Request.Params["sSearch_4"];
+                string RDate = HttpContext.Current.Request.Params["sSearch_3"];
+                string date = HttpContext.Current.Request.Params["sSearch_5"];
+                string Dept = HttpContext.Current.Request.Params["sSearch_8"];
+                string Status = HttpContext.Current.Request.Params["sSearch_7"];
+                string Subject = HttpContext.Current.Request.Params["sSearch_6"];
+                //string date = HttpContext.Current.Request.Params["sSearch_7"];
+                string ModeWhere = "";
+
+                if (Session["UserID"].ToString() != "1" && HttpUtility.ParseQueryString(HttpContext.Current.Request.UrlReferrer.Query)["Mode"] != "")
+                {
+                    string Mode = HttpUtility.ParseQueryString(HttpContext.Current.Request.UrlReferrer.Query)["Mode"];
+                    if (Mode == "tldt")
+                        ModeWhere = " and createdby =" + Session["UserID"];
+                }
+
+                StringBuilder s = new StringBuilder();
+                if (Edate != "" && Edate != "~")
+                {
+                    DateTime FrmDt = Edate.Split('~')[0].ToString() == "" ? CommonBLL.StartDate : CommonBLL.DateCheck(Edate.Split('~')[0].ToString());
+                    DateTime EndDat = Edate.Split('~')[1].ToString() == "" ? CommonBLL.EndDate : CommonBLL.DateCheck(Edate.Split('~')[1].ToString());
+                    if (FrmDt.ToShortDateString() != "1/1/0001" && EndDat.ToShortDateString() != "1/1/0001")
+                        s.Append(" and EnquiryDate between '" + FrmDt.ToString("MM/dd/yyyy") + "' and '" + EndDat.ToString("MM/dd/yyyy") + "'");
+                }
+                if (date != "" && date != "~")
+                {
+                    DateTime FrmDt = date.Split('~')[0].ToString() == "" ? CommonBLL.StartDate : CommonBLL.DateCheck(date.Split('~')[0].ToString());
+                    DateTime EndDat = date.Split('~')[1].ToString() == "" ? CommonBLL.EndDate : CommonBLL.DateCheck(date.Split('~')[1].ToString());
+                    if (FrmDt.ToShortDateString() != "1/1/0001" && EndDat.ToShortDateString() != "1/1/0001")
+                        s.Append(" and FPODueDate between '" + FrmDt.ToString("MM/dd/yyyy") + "' and '" + EndDat.ToString("MM/dd/yyyy") + "'");
+                }
+                if (FeNo != "")
+                    s.Append(" and EnquireNumber LIKE '%" + FeNo + "%'");
+                if (FPONoo != "")
+                    s.Append(" and FPONumber LIKE '%" + FPONoo + "%'");
+                if (RDate != "")
+                {
+                    if (RDate != "~")
+                    {
+                        DateTime FrmDt = RDate.Split('~')[0].ToString() == "" ? CommonBLL.StartDate : CommonBLL.DateCheck(RDate.Split('~')[0].ToString());
+                        DateTime EndDat = RDate.Split('~')[1].ToString() == "" ? CommonBLL.EndDate : CommonBLL.DateCheck(RDate.Split('~')[1].ToString());
+                        if (FrmDt.ToShortDateString() != "1/1/0001" && EndDat.ToShortDateString() != "1/1/0001")
+                            s.Append(" and ReceivedDate between '" + FrmDt.ToString("MM/dd/yyyy") + "' and '" + EndDat.ToString("MM/dd/yyyy") + "'");
+                    }
+                }
+                if (Subject != "")
+                    s.Append(" and Subject LIKE '%" + Subject + "%'");
+                if (Status != "")
+                    s.Append(" and Status LIKE '%" + Status.Replace("'", "''") + "%'");
+                if (Dept != "")
+                    s.Append(" and DepartmentId LIKE '%" + Dept + "%'");
+                if (Cust != "")
+                    s.Append(" and CustmrNm LIKE '%" + Cust + "%'");
+
+                var sb = new StringBuilder();
+                var filteredWhere = string.Empty;
+                var wrappedSearch = "'%" + rawSearch + "%'";
+                if (rawSearch.Length > 0)
+                {
+                    sb.Append(" WHERE EnquiryDate LIKE ");
+                    sb.Append(wrappedSearch);
+                    sb.Append(" OR EnquireNumber LIKE ");
+                    sb.Append(wrappedSearch);
+                    sb.Append(" OR FPONumber LIKE ");
+                    sb.Append(wrappedSearch);
+                    sb.Append(" OR ReceivedDate LIKE ");
+                    sb.Append(wrappedSearch);
+                    sb.Append(" OR FPODueDate LIKE ");
+                    sb.Append(wrappedSearch);
+                    sb.Append(" OR Subject LIKE ");
+                    sb.Append(wrappedSearch);
+                    sb.Append(" OR Status LIKE ");
+                    sb.Append(wrappedSearch);
+                    sb.Append(" OR DepartmentId LIKE ");
+                    sb.Append(wrappedSearch);
+                    sb.Append(" OR CustmrNm LIKE ");
+                    sb.Append(wrappedSearch);
+                    filteredWhere = sb.ToString();
+                }
+                sb.Clear();
+                string orderByClause = string.Empty;
+                sb.Append(ToInt(HttpContext.Current.Request.Params["iSortCol_0"]));
+                sb.Append(" ");
+                sb.Append(HttpContext.Current.Request.Params["sSortDir_0"]);
+                orderByClause = "0 DESC";
+                if (!String.IsNullOrEmpty(orderByClause))
+                {
+                    orderByClause = orderByClause.Replace("0", ", EnquiryDate");
+                    orderByClause = orderByClause.Remove(0, 1);
+                }
+                else
+                    orderByClause = "EnquiryDate Desc";
+                orderByClause = "ORDER BY " + orderByClause;
+
+                sb.Clear();
+
+                var numberOfRowsToReturn = "";
+                numberOfRowsToReturn = iDisplayLength == -1 ? "TotalRows" : (iDisplayStart + iDisplayLength).ToString();
+
+                string query = @"  
+							declare @MAA TABLE(ForeignEnquireId uniqueidentifier,EnquiryDate datetime,EnquireNumber varchar(500),FPONumber varchar(max),
+							ReceivedDate datetime,FPODueDate datetime,Subject varchar(max),Status varchar(500),DepartmentId varchar(500),CustmrNm varchar(500),
+							CreatedBy uniqueidentifier)
+							INSERT
+							INTO
+								@MAA (ForeignEnquireId,EnquiryDate,EnquireNumber,FPONumber,ReceivedDate,f.FPODueDate,Subject,Status,DepartmentId,CustmrNm,CreatedBy)
+										select f.ForeignEnquireId,f.EnquiryDate,f.EnquireNumber,f.FPONumber,f.ReceivedDate,f.FPODueDate,f.Subject,
+										f.Status,f.DepartmentId,f.CustmrNm,f.CreatedBy from FE_SinglePage f
+									{4}                   
+
+							SELECT *
+							FROM
+								(SELECT row_number() OVER ({0}) AS RowNumber
+									  , *
+								 FROM
+									 (SELECT (SELECT count([@MAA].ForeignEnquireId)
+											  FROM
+												  @MAA) AS TotalRows
+										   , ( SELECT  count( [@MAA].ForeignEnquireId) FROM @MAA {1}) AS TotalDisplayRows			   
+										   ,[@MAA].ForeignEnquireId
+										   ,[@MAA].EnquiryDate
+										   ,[@MAA].EnquireNumber
+										   ,[@MAA].FPONumber
+										   ,[@MAA].ReceivedDate
+										   ,[@MAA].Subject
+										   ,[@MAA].Status
+										   ,[@MAA].FPODueDate
+										   ,[@MAA].CustmrNm
+										   ,[@MAA].CreatedBy 
+                                           ,[@MAA].DepartmentId 
+									  FROM
+										  @MAA {1}) RawResults) Results WHERE
+												RowNumber BETWEEN {2} AND {3} order by ReceivedDate Desc";
+
+                if (HttpUtility.ParseQueryString(HttpContext.Current.Request.UrlReferrer.Query)["Mode"] != "")
+                {
+                    string Mode = HttpUtility.ParseQueryString(HttpContext.Current.Request.UrlReferrer.Query)["Mode"];
+                    if (Mode == "tldt")
+                    {
+                        if (Session["AccessRole"].ToString() == CommonBLL.SuperAdminRole)
+                            query = String.Format(query, orderByClause, filteredWhere, iDisplayStart + 1, numberOfRowsToReturn,
+                                " where f.IsActive <> 0 " + s.ToString());
+                        if (Session["AccessRole"].ToString() == CommonBLL.AdminRole)
+                            query = String.Format(query, orderByClause, filteredWhere, iDisplayStart + 1, numberOfRowsToReturn,
+                                " where f.IsActive <> 0 and f.CompanyId = '" + Session["CompanyID"] + "'" + s.ToString());
+                        else if (CommonBLL.CustmrContactTypeText == (((ArrayList)(HttpContext.Current.Session["UserDtls"]))[7].ToString()) || (CommonBLL.TraffickerContactTypeText == (((ArrayList)(HttpContext.Current.Session["UserDtls"]))[7].ToString())))
+                            query = String.Format(query, orderByClause, filteredWhere, iDisplayStart + 1, numberOfRowsToReturn + s.ToString(),
+                                "where f.CreatedBy = '" + ((ArrayList)(HttpContext.Current.Session["UserDtls"]))[1].ToString() + "' AND f.IsActive <> 0 and f.CompanyId = '" + Session["CompanyID"] + "'");
+                    }
+                    else
+                        query = String.Format(query, orderByClause, filteredWhere, iDisplayStart + 1, numberOfRowsToReturn, " where f.IsActive <> 0 and f.CompanyId = '" + Session["CompanyID"] + "'" + s.ToString());
+                }
+                s.Clear();
+                var connectionString = ConfigurationManager.ConnectionStrings["Constring"].ConnectionString;
+                SqlConnection conn = new SqlConnection(connectionString);
+
+                if (conn.State == ConnectionState.Closed)
+                    conn.Open();
+
+                var DB = new SqlCommand();
+                DB.Connection = conn;
+                DB.CommandText = query;
+                var data = DB.ExecuteReader();
+
+                var totalDisplayRecords = "";
+                var totalRecords = "";
+                string outputJson = string.Empty;
+
+                var rowClass = "";
+                var count = 0;
+
+                while (data.Read())
+                {
+                    if (totalRecords.Length == 0)
+                    {
+                        totalRecords = data["TotalRows"].ToString();
+                        totalDisplayRecords = data["TotalDisplayRows"].ToString();
+                    }
+                    sb.Append("{");
+                    sb.AppendFormat(@"""DT_RowId"": ""{0}""", data["ForeignEnquireId"].ToString());
+                    sb.Append(",");
+                    sb.AppendFormat(@"""DT_RowClass"": ""{0}""", rowClass);
+                    sb.Append(",");
+                    //sb.AppendFormat(@"""3"": ""{0:dd/MM/yyyy}""", data["EnquiryDate"]);
+                    //sb.Append(",");
+
+                    string EnqNo = data["EnquireNumber"].ToString().Replace("\"", "\\\"");
+                    string EnqId = data["ForeignEnquireId"].ToString().Replace("\"", "\\\"");
+                    EnqNo = EnqNo.Replace("\t", "-");
+                    sb.AppendFormat(@"""2"": ""<a href=FEStages.aspx?FEnqID={0}>{1}</a>""", EnqId, EnqNo.Replace(Environment.NewLine, "\\n"));
+                    //sb.AppendFormat(@"""1"": ""<a href=FullDetails.aspx?FEnqID={0}>{1}</a>""", EnqId, EnqNo.Replace(Environment.NewLine, "\\n"));                    
+                    sb.Append(",");
+
+                    string FPONo = data["FPONumber"].ToString().Replace("\"", "\\\"");
+                    FPONo = FPONo.Replace("\t", "-");
+                    sb.AppendFormat(@"""4"": ""{0}""", FPONo.Replace(Environment.NewLine, "\\n"));
+                    sb.Append(",");
+
+                    sb.AppendFormat(@"""3"": ""{0:dd/MM/yyyy}""", data["ReceivedDate"]);
+                    sb.Append(",");
+
+                    sb.AppendFormat(@"""1"": ""{0:dd/MM/yyyy}""", data["EnquiryDate"]);
+                    sb.Append(",");
+
+                    string Subjt = data["Subject"].ToString().Replace("\"", "\\\"");
+                    Subjt = Subjt.Replace("\t", "-");
+                    sb.AppendFormat(@"""6"": ""{0}""", Subjt.Replace(Environment.NewLine, "\\n"));
+                    sb.Append(",");
+
+                    string DeptID = data["DepartmentId"].ToString().Replace("\"", "\\\"");
+                    DeptID = DeptID.Replace("\t", "-");
+                    sb.AppendFormat(@"""8"": ""{0}""", DeptID.Replace(Environment.NewLine, "\\n"));
+                    sb.Append(",");
+
+                    string StatIDd = data["Status"].ToString().Replace("\"", "\\\"");
+                    StatIDd = StatIDd.Replace("\t", "-");
+                    sb.AppendFormat(@"""7"": ""{0}""", StatIDd.Replace(Environment.NewLine, "\\n"));
+                    sb.Append(",");
+
+                    sb.AppendFormat(@"""5"": ""{0:dd/MM/yyyy}""", data["FPODueDate"]);
+                    sb.Append(",");
+
+                    string CustID = data["CustmrNm"].ToString().Replace("\"", "\\\"");
+                    CustID = CustID.Replace("\t", "-");
+                    sb.AppendFormat(@"""0"": ""{0}""", CustID.Replace(Environment.NewLine, "\\n"));
+                    sb.Append("},");
+
+                }
+                conn.Close();
+                if (totalRecords.Length == 0)
+                {
+                    sb.Append("{");
+                    sb.Append(@"""sEcho"": ");
+                    sb.AppendFormat(@"""{0}""", sEcho);
+                    sb.Append(",");
+                    sb.Append(@"""iTotalRecords"": 0");
+                    sb.Append(",");
+                    sb.Append(@"""iTotalDisplayRecords"": 0");
+                    sb.Append(", ");
+                    sb.Append(@"""aaData"": [ ");
+                    sb.Append("]}");
+                    outputJson = sb.ToString();
+
+                    return outputJson;
+                }
+                outputJson = sb.Remove(sb.Length - 1, 1).ToString();
+                sb.Clear();
+
+                sb.Append("{");
+                sb.Append(@"""sEcho"": ");
+                sb.AppendFormat(@"""{0}""", sEcho);
+                sb.Append(",");
+                sb.Append(@"""iTotalRecords"": ");
+                sb.Append(totalRecords);
+                sb.Append(",");
+                sb.Append(@"""iTotalDisplayRecords"": ");
+                sb.Append(totalDisplayRecords);
+                sb.Append(", ");
+                sb.Append(@"""aaData"": [ ");
+                sb.Append(outputJson);
+                sb.Append("]}");
+                outputJson = sb.ToString();
+
+                return outputJson;
+            }
+            catch (Exception ex)
+            {
+                ErrorLog ELog = new ErrorLog();
+                string ErrMsg = ex.Message;
+                int LineNo = ExceptionHelper.LineNumber(ex);
+                ELog.CreateErrorLog(Server.MapPath("../Logs/Enquiries/ErrorLog"), "Added Items WebService", ex.Message.ToString());
+                return "";
+            }
+        }
+
         /// <summary>
         /// FOR Item Master
         /// </summary>
