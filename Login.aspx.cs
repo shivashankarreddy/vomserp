@@ -197,7 +197,10 @@ namespace VOMS_ERP
                                 }
                                 else
                                 {
-                                    Response.Redirect("~/Masters/Dashboard.aspx", false);
+                                    if (Session["UserMail"].ToString() == "msrvprasad@gmail.com")
+                                        Response.Redirect("~/Enquiries/FeStatusOverView.aspx", false);
+                                    else
+                                        Response.Redirect("~/Masters/Dashboard.aspx", false);
                                 }
                                 #region Old code before Customer Access
 
