@@ -1,0 +1,60 @@
+﻿
+/***** Implemented By Ramesh *****/
+table.scroll
+{
+    margin: 0 auto;
+    clear: both;
+    width: 100%;
+    overflow: auto;
+}
+
+table.scroll tbody, table.scroll thead
+{
+    display: block;
+}
+
+tbody tr:nth-child(odd) td, tbody tr:nth-child(odd) th
+{
+    background-color: #EEECF5;
+}
+
+tbody tr:nth-child(even) td, .tbody tr:nth-child(even) th
+{
+    background-color: white;
+}
+thead tr th
+{
+    height: 30px;
+    line-height: 30px;
+    text-align: center;
+}
+tbody tr td
+{
+    height: 30px;
+    line-height: 30px;
+    text-align: center;
+}
+
+thead, tr
+{
+    display: table;
+    width: calc(100% - 17px);
+    table-layout: fixed;
+    text-align: center;
+}
+thead, tbody tr
+{
+    display: table;
+    table-layout: fixed;
+}
+table.scroll tbody
+{
+    min-height: 0px;
+    max-height: 250px;
+    overflow: auto;
+}
+/* *****************End Here **********/
+
+
+
+

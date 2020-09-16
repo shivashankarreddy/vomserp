@@ -1,0 +1,393 @@
+08-25-2014 PM 04:42:38 ==> Local Quotation Comparison ==> The IListSource does not contain any data sources. ==> User Novo ==> LineNo : 202
+08-25-2014 PM 04:42:44 ==> Local Quotation Comparison ==> The IListSource does not contain any data sources. ==> User Novo ==> LineNo : 202
+08-25-2014 PM 04:43:30 ==> Local Quotation Comparison ==> The IListSource does not contain any data sources. ==> User Novo ==> LineNo : 202
+08-25-2014 PM 04:44:41 ==> Local Quotation Comparison ==> The IListSource does not contain any data sources. ==> User Novo ==> LineNo : 202
+08-25-2014 PM 04:44:57 ==> Local Quotation Comparison ==> The IListSource does not contain any data sources. ==> User Novo ==> LineNo : 202
+08-25-2014 PM 04:45:48 ==> Local Quotation Comparison ==> The IListSource does not contain any data sources. ==> User Novo ==> LineNo : 202
+08-25-2014 PM 04:46:38 ==> Local Quotation Comparison ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx). ==> DELL INDIA PVT LTD DELL ==> LineNo : 100
+08-25-2014 PM 04:47:16 ==> Local Quotation Comparison ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx). ==> DELL INDIA PVT LTD DELL ==> LineNo : 100
+08-25-2014 PM 04:47:26 ==> Local Quotation Comparison ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx). ==> DELL INDIA PVT LTD DELL ==> LineNo : 100
+08-25-2014 PM 04:48:17 ==> Local Quotation Comparison ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx). ==> DELL INDIA PVT LTD DELL ==> LineNo : 100
+08-25-2014 PM 04:49:48 ==> Local Quotation Comparison ==> The IListSource does not contain any data sources. ==> User Novo ==> LineNo : 202
+08-25-2014 PM 04:49:51 ==> Local Quotation Comparison ==> The IListSource does not contain any data sources. ==> User Novo ==> LineNo : 202
+08-25-2014 PM 04:49:57 ==> Local Quotation Comparison ==> The IListSource does not contain any data sources. ==> User Novo ==> LineNo : 202
+08-25-2014 PM 04:50:24 ==> Local Quotation Comparison ==> The IListSource does not contain any data sources. ==> User Novo ==> LineNo : 202
+08-25-2014 PM 04:51:10 ==> Local Quotation Comparison ==> The IListSource does not contain any data sources. ==> User Novo ==> LineNo : 202
+08-25-2014 PM 04:51:19 ==> Local Quotation Comparison ==> The IListSource does not contain any data sources. ==> User Novo ==> LineNo : 202
+08-25-2014 PM 04:53:09 ==> Local Quotation Comparison ==> The IListSource does not contain any data sources. ==> User Novo ==> LineNo : 202
+08-25-2014 PM 04:53:16 ==> Local Quotation Comparison ==> The IListSource does not contain any data sources. ==> User Novo ==> LineNo : 202
+08-25-2014 PM 04:53:22 ==> Local Quotation Comparison ==> The IListSource does not contain any data sources. ==> User Novo ==> LineNo : 202
+08-25-2014 PM 04:54:15 ==> Local Quotation Comparison ==> The IListSource does not contain any data sources. ==> User Novo ==> LineNo : 202
+08-27-2014 AM 11:13:20 ==> Foreign Quotation Status ==> Thread was being aborted. ==> Customer User ==> LineNo : 57
+09-01-2014 PM 12:11:10 ==> EmailSend/Foreign Enquiry Details ==> Missing parameter values. ==> Deepika Glocem User ==> LineNo : 1567
+09-01-2014 PM 12:37:09 ==> Local Quotation Comparison ==> Object reference not set to an instance of an object. ==> Deepika Glocem User ==> LineNo : 1318
+09-01-2014 PM 12:37:19 ==> Local Quotation Comparison ==> Object reference not set to an instance of an object. ==> Deepika Glocem User ==> LineNo : 1318
+09-01-2014 PM 05:50:05 ==> EmailSend/Foreign Enquiry Details ==> Missing parameter values. ==> Deepika Glocem User ==> LineNo : 1567
+09-02-2014 PM 03:46:59 ==> New Local Quotation ==> Input string was not in a correct format. ==> GLOCEM PVT LTD GCM ==> LineNo : 189
+09-02-2014 PM 05:07:57 ==> New Local Quotation ==> Input string was not in a correct format. ==> GLOCEM PVT LTD GCM ==> LineNo : 191
+09-02-2014 PM 05:07:58 ==> New Local Quotation ==> Object reference not set to an instance of an object. ==> GLOCEM PVT LTD GCM ==> LineNo : 271
+09-02-2014 PM 05:07:58 ==> New Local Quotation ==> Object reference not set to an instance of an object. ==> GLOCEM PVT LTD GCM ==> LineNo : 132
+09-02-2014 PM 05:07:58 ==> New Local Quotation ==> Object reference not set to an instance of an object. ==> GLOCEM PVT LTD GCM ==> LineNo : 1850
+09-02-2014 PM 05:08:26 ==> New Local Quotation ==> Input string was not in a correct format. ==> GLOCEM PVT LTD GCM ==> LineNo : 191
+09-02-2014 PM 05:08:26 ==> New Local Quotation ==> Object reference not set to an instance of an object. ==> GLOCEM PVT LTD GCM ==> LineNo : 271
+09-02-2014 PM 05:08:26 ==> New Local Quotation ==> Object reference not set to an instance of an object. ==> GLOCEM PVT LTD GCM ==> LineNo : 132
+09-02-2014 PM 05:08:26 ==> New Local Quotation ==> Object reference not set to an instance of an object. ==> GLOCEM PVT LTD GCM ==> LineNo : 1850
+09-02-2014 PM 05:10:13 ==> New Local Quotation ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx). ==> GLOCEM PVT LTD GCM ==> LineNo : 201
+09-02-2014 PM 05:10:14 ==> New Local Quotation ==> Object reference not set to an instance of an object. ==> GLOCEM PVT LTD GCM ==> LineNo : 272
+09-02-2014 PM 05:10:14 ==> New Local Quotation ==> Object reference not set to an instance of an object. ==> GLOCEM PVT LTD GCM ==> LineNo : 132
+09-02-2014 PM 05:10:14 ==> New Local Quotation ==> Object reference not set to an instance of an object. ==> GLOCEM PVT LTD GCM ==> LineNo : 1851
+09-02-2014 PM 05:10:55 ==> New Local Quotation ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx). ==> GLOCEM PVT LTD GCM ==> LineNo : 201
+09-02-2014 PM 05:10:55 ==> New Local Quotation ==> Object reference not set to an instance of an object. ==> GLOCEM PVT LTD GCM ==> LineNo : 272
+09-02-2014 PM 05:10:55 ==> New Local Quotation ==> Object reference not set to an instance of an object. ==> GLOCEM PVT LTD GCM ==> LineNo : 132
+09-02-2014 PM 05:10:55 ==> New Local Quotation ==> Object reference not set to an instance of an object. ==> GLOCEM PVT LTD GCM ==> LineNo : 1851
+09-02-2014 PM 05:12:32 ==> New Local Quotation ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx). ==> GLOCEM PVT LTD GCM ==> LineNo : 202
+09-03-2014 PM 05:14:23 ==> New Local Quotation ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx). ==> DEEPIKA K ==> LineNo : 207
+09-03-2014 PM 05:26:25 ==> New Local Quotation ==> 'ddlfenq' has a SelectedValue which is invalid because it does not exist in the list of items.
+Parameter name: value ==> DEEPIKA K ==> LineNo : 254
+09-10-2014 PM 06:10:44 ==> EmailSend/LPO Details ==> Load report failed. ==> NEW COMPANY COMPANY ONE ==> LineNo : 1807
+09-10-2014 PM 06:34:13 ==> Local Quotation Details System.String[] ==> Load report failed. ==> Company One CMP
+09-10-2014 PM 06:34:14 ==> Local Quotation Details System.String[] ==> Load report failed. ==> Company One CMP
+09-10-2014 PM 06:34:16 ==> Foreign Quotation Details ==> Load report failed. ==> Company One CMP
+09-10-2014 PM 06:34:17 ==> Foreign Quotation Details ==> Load report failed. ==> Company One CMP
+09-15-2014 AM 11:11:31 ==> Foreign Quotation Details ==> A generic error occurred in GDI+. ==> Company One CMP
+09-15-2014 AM 11:11:32 ==> Foreign Quotation Details ==> A generic error occurred in GDI+. ==> Company One CMP
+09-19-2014 PM 04:08:24 ==> New Foreign Quotation ==> Object cannot be cast from DBNull to other types. ==> DECCAN AUTO PVT LTD DC ==> LineNo : 1537
+09-19-2014 PM 04:08:25 ==> New Foreign Quotation ==> Object cannot be cast from DBNull to other types. ==> DECCAN AUTO PVT LTD DC ==> LineNo : 1537
+09-19-2014 PM 04:08:27 ==> New Foreign Quotation ==> Object cannot be cast from DBNull to other types. ==> DECCAN AUTO PVT LTD DC ==> LineNo : 1537
+09-19-2014 PM 04:08:33 ==> New Foreign Quotation ==> Object cannot be cast from DBNull to other types. ==> DECCAN AUTO PVT LTD DC ==> LineNo : 1537
+09-19-2014 PM 04:17:08 ==> Foreign Quotation Details ==> A generic error occurred in GDI+. ==> NEW COMPANY COMPANY ONE
+09-19-2014 PM 04:17:10 ==> Foreign Quotation Details ==> A generic error occurred in GDI+. ==> NEW COMPANY COMPANY ONE
+09-24-2014 PM 01:06:59 ==> New Local Quotation ==> Object reference not set to an instance of an object. ==> Company One CMP ==> LineNo : 349
+09-24-2014 PM 01:07:03 ==> New Local Quotation ==> Object reference not set to an instance of an object. ==> Company One CMP ==> LineNo : 349
+09-24-2014 PM 01:07:04 ==> New Local Quotation ==> Object reference not set to an instance of an object. ==> Company One CMP ==> LineNo : 349
+09-24-2014 PM 01:08:36 ==> New Local Quotation ==> Object reference not set to an instance of an object. ==> Company One CMP ==> LineNo : 349
+09-24-2014 PM 01:23:24 ==> New Local Quotation ==> Object reference not set to an instance of an object. ==> Company One CMP ==> LineNo : 349
+09-24-2014 PM 02:59:00 ==> New Foreign Quotation ==> Object cannot be cast from DBNull to other types. ==> Test Company TST ==> LineNo : 1537
+09-24-2014 PM 02:59:03 ==> New Foreign Quotation ==> Object cannot be cast from DBNull to other types. ==> Test Company TST ==> LineNo : 1537
+06-10-2014 14:48:55 ==> New Foreign Quotation ==> Object cannot be cast from DBNull to other types. ==> First Client SECOND User ==> LineNo : 1537
+06-10-2014 14:48:56 ==> New Foreign Quotation ==> Object cannot be cast from DBNull to other types. ==> First Client SECOND User ==> LineNo : 1537
+06-10-2014 14:49:51 ==> New Foreign Quotation ==> Object cannot be cast from DBNull to other types. ==> First Client SECOND User ==> LineNo : 1537
+06-10-2014 14:49:52 ==> New Foreign Quotation ==> Object cannot be cast from DBNull to other types. ==> First Client SECOND User ==> LineNo : 1537
+06-10-2014 18:51:27 ==> New Foreign Quotation ==> Object cannot be cast from DBNull to other types. ==> Super Admin ==> LineNo : 1537
+16-10-2014 15:18:41 ==> New Foreign Quotation ==> Thread was being aborted. ==> Test Customer
+16-10-2014 15:19:52 ==> Local Quotation Conformation Basket ==> 'ddlcustmr' has a SelectedValue which is invalid because it does not exist in the list of items.
+Parameter name: value ==> Test Customer ==> LineNo : 265
+16-10-2014 15:20:00 ==> New Foreign Quotation ==> Thread was being aborted. ==> Test Customer
+16-10-2014 15:22:40 ==> LQ-Conformation Basket ==> Error While Deleting ==> Test Customer
+16-10-2014 15:22:55 ==> Local Quotation Conformation Basket ==> 'ddlcustmr' has a SelectedValue which is invalid because it does not exist in the list of items.
+Parameter name: value ==> Test Customer ==> LineNo : 265
+21-10-2014 11:25:48 ==> Foreign Purchase Order Details ==> Column 'IsVerbalFPO' does not belong to table Table. ==> First Client SECOND User
+21-10-2014 11:28:24 ==> Foreign Purchase Order Details ==> Column 'IsVerbalFPO' does not belong to table Table. ==> First Client SECOND User
+07-11-2014 12:07:01 ==> Foreign Quotation Details ==> There is no row at position 0. ==> First Client SECOND User
+13-11-2014 14:41:25 ==> New Local Quotation ==> Error while Inserting. ==> Apollo Admin
+13-11-2014 14:41:26 ==> New Local Quotation ==> Column 'IsSubItems' does not belong to table Table. ==> Apollo Admin ==> LineNo : 1140
+13-11-2014 14:42:43 ==> New Local Quotation ==> Cannot find column [Check]. ==> Apollo Admin ==> LineNo : 351
+13-11-2014 14:42:58 ==> New Local Quotation ==> Cannot find column [Check]. ==> Apollo Admin ==> LineNo : 351
+14-11-2014 14:54:07 ==> New Local Quotation ==> Input string was not in a correct format.Couldn't store <100.00> in AmountC Column.  Expected type is Int32. ==> Balaji Group BLG ==> LineNo : 2485
+14-11-2014 14:54:53 ==> New Local Quotation ==> Input string was not in a correct format.Couldn't store <10.00> in AmountC Column.  Expected type is Int32. ==> Balaji Group BLG ==> LineNo : 2485
+17-11-2014 12:20:08 ==> Local Quotation Comparison ==> Thread was being aborted. ==> Apollo Admin ==> LineNo : 1190
+17-11-2014 12:22:46 ==> Local Quotation Comparison ==> Thread was being aborted. ==> Apollo Admin ==> LineNo : 1190
+20-11-2014 12:08:03 ==> New Foreign Quotation ==> Object cannot be cast from DBNull to other types. ==> Apollo Admin ==> LineNo : 1540
+20-11-2014 12:08:04 ==> New Foreign Quotation ==> Object cannot be cast from DBNull to other types. ==> Apollo Admin ==> LineNo : 1540
+20-11-2014 12:08:05 ==> New Foreign Quotation ==> Object cannot be cast from DBNull to other types. ==> Apollo Admin ==> LineNo : 1540
+26-11-2014 16:51:58 ==> Local Quotation Comparison ==> Thread was being aborted. ==> Apollo Admin ==> LineNo : 1440
+27-11-2014 18:30:56 ==> FQ-Conformation Basket ==> Error While Deleting ==> Balaji Group BLG
+02-12-2014 16:51:05 ==> FQ Status WebService ==> Invalid column name 'Stat'. ==> Apollo Admin ==> LineNo : 3424
+02-12-2014 16:51:05 ==> FQ Status WebService ==> Invalid column name 'Stat'. ==> Apollo Admin ==> LineNo : 3424
+02-12-2014 16:51:05 ==> FQ Status WebService ==> Invalid column name 'Stat'. ==> Apollo Admin ==> LineNo : 3424
+02-12-2014 16:51:06 ==> FQ Status WebService ==> Invalid column name 'Stat'. ==> Apollo Admin ==> LineNo : 3424
+02-12-2014 16:51:07 ==> FQ Status WebService ==> Invalid column name 'Stat'. ==> Apollo Admin ==> LineNo : 3424
+02-12-2014 16:51:07 ==> FQ Status WebService ==> Invalid column name 'Stat'. ==> Apollo Admin ==> LineNo : 3424
+02-12-2014 16:51:08 ==> FQ Status WebService ==> Invalid column name 'Stat'. ==> Apollo Admin ==> LineNo : 3424
+02-12-2014 16:52:18 ==> FQ Status WebService ==> Invalid column name 'Stat'. ==> Apollo Admin ==> LineNo : 3424
+02-12-2014 16:52:18 ==> FQ Status WebService ==> Invalid column name 'Stat'. ==> Apollo Admin ==> LineNo : 3424
+02-12-2014 16:52:18 ==> FQ Status WebService ==> Invalid column name 'Stat'. ==> Apollo Admin ==> LineNo : 3424
+02-12-2014 16:56:24 ==> FQ Status WebService ==> Invalid column name 'Stat'. ==> RR RRG ==> LineNo : 3424
+02-12-2014 16:56:24 ==> FQ Status WebService ==> Invalid column name 'Stat'. ==> RR RRG ==> LineNo : 3424
+09-12-2014 17:00:42 ==> Local Quotation Comparison ==> Index was outside the bounds of the array. ==> Apollo Admin ==> LineNo : 561
+09-12-2014 17:41:01 ==> Local Quotation Conformation Basket ==> 'ddlcustmr' has a SelectedValue which is invalid because it does not exist in the list of items.
+Parameter name: value ==> Apollo Admin ==> LineNo : 265
+09-12-2014 17:42:26 ==> Local Quotation Comparison ==> Error While Saving ==> Apollo Admin
+09-12-2014 17:52:14 ==> Local Quotation Comparison ==> Column 'DOT_ItemStatus' does not belong to table . ==> Apollo Admin ==> LineNo : 562
+09-12-2014 17:54:02 ==> Local Quotation Comparison ==> Column 'DOT_ItemStatus' does not belong to table . ==> Apollo Admin ==> LineNo : 562
+09-12-2014 17:54:17 ==> Local Quotation Comparison ==> Column 'DOT_ItemStatus' does not belong to table . ==> Apollo Admin ==> LineNo : 562
+09-12-2014 17:54:39 ==> Local Quotation Comparison ==> Column 'DOT_ItemStatus' does not belong to table . ==> Apollo Admin ==> LineNo : 562
+09-12-2014 17:55:37 ==> Local Quotation Comparison ==> Column 'DOT_ItemStatus' does not belong to table . ==> Apollo Admin ==> LineNo : 562
+09-12-2014 17:55:54 ==> Local Quotation Comparison ==> Column 'DOT_ItemStatus' does not belong to table . ==> Apollo Admin ==> LineNo : 562
+15-12-2014 16:02:07 ==> Local Quotation Status ==> There is no row at position 0. ==> Apollo Admin ==> LineNo : 218
+15-12-2014 16:05:21 ==> Local Quotation Status ==> There is no row at position 0. ==> Apollo Admin ==> LineNo : 218
+15-12-2014 16:05:46 ==> Local Quotation Status ==> There is no row at position 0. ==> Apollo Admin ==> LineNo : 218
+15-12-2014 16:06:46 ==> Local Quotation Status ==> There is no row at position 0. ==> Apollo Admin ==> LineNo : 221
+15-12-2014 17:48:21 ==> New Local Quotation ==> Object reference not set to an instance of an object. ==> RR RRG ==> LineNo : 1025
+15-12-2014 17:48:33 ==> New Local Quotation ==> Object reference not set to an instance of an object. ==> RR RRG ==> LineNo : 1025
+15-12-2014 17:49:31 ==> New Local Quotation ==> Object reference not set to an instance of an object. ==> RR RRG ==> LineNo : 1025
+15-12-2014 17:54:22 ==> New Local Quotation ==> Object reference not set to an instance of an object. ==> RR RRG ==> LineNo : 1025
+16-12-2014 14:27:31 ==> New Local Quotation ==> Unable to cast object of type 'Ajax.AjaxHandlerSessionStateRW' to type 'System.Web.UI.Page'. ==> Apollo Admin ==> LineNo : 2469
+16-12-2014 14:27:31 ==> New Local Quotation ==> Object reference not set to an instance of an object. ==> Apollo Admin ==> LineNo : 1026
+23-12-2014 14:27:20 ==> EmailSend/LPO Details ==> Missing parameter values. ==> RR RRG ==> LineNo : 1857
+23-12-2014 17:15:12 ==> EmailSend/Foreign Quotation Details ==> Missing parameter values. ==> Customer User RRG ==> LineNo : 1732
+23-12-2014 17:16:01 ==> EmailSend/Foreign Quotation Details ==> Missing parameter values. ==> Customer User RRG ==> LineNo : 1732
+23-12-2014 17:16:15 ==> EmailSend/Foreign Quotation Details ==> Missing parameter values. ==> Customer User RRG ==> LineNo : 1732
+23-12-2014 17:30:33 ==> EmailSend/Foreign Quotation Details ==> Missing parameter values. ==> Customer User RRG ==> LineNo : 1732
+23-12-2014 17:32:48 ==> EmailSend/Foreign Quotation Details ==> Missing parameter values. ==> Customer User RRG ==> LineNo : 1732
+24-12-2014 11:01:21 ==> EmailSend/Foreign Quotation Details ==> Missing parameter values. ==> RR RRG ==> LineNo : 1732
+24-12-2014 11:04:18 ==> EmailSend/Foreign Quotation Details ==> Missing parameter values. ==> RR RRG ==> LineNo : 1732
+03-01-2015 11:13:49 ==> New Local Quotation ==> Column 'Status' does not belong to table Table1. ==> Apollo Admin ==> LineNo : 2466
+03-01-2015 11:13:57 ==> New Local Quotation ==> Object reference not set to an instance of an object. ==> Apollo Admin ==> LineNo : 1026
+06-01-2015 12:59:15 ==> Local Quotation Comparison ==> Thread was being aborted. ==> Apollo Admin ==> LineNo : 1190
+06-01-2015 13:00:17 ==> Local Quotation Comparison ==> Thread was being aborted. ==> Apollo Admin ==> LineNo : 1190
+09-01-2015 18:05:53 ==> Local Quotation Comparison ==> Object reference not set to an instance of an object. ==> Balaji Group BLG ==> LineNo : 1779
+09-01-2015 18:05:58 ==> Local Quotation Comparison ==> Object reference not set to an instance of an object. ==> Balaji Group BLG ==> LineNo : 1779
+09-01-2015 18:07:11 ==> Local Quotation Conformation Basket ==> 'ddlcustmr' has a SelectedValue which is invalid because it does not exist in the list of items.
+Parameter name: value ==> Balaji Group BLG ==> LineNo : 265
+12-01-2015 10:26:56 ==> New Local Quotation ==> Input string was not in a correct format. ==> Apollo Admin ==> LineNo : 1035
+12-01-2015 10:26:56 ==> New Local Quotation ==> Input string was not in a correct format. ==> Apollo Admin ==> LineNo : 1035
+12-01-2015 14:59:39 ==> New Local Quotation ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx). ==> RR RRG ==> LineNo : 1028
+12-01-2015 15:00:30 ==> New Local Quotation ==> There is no row at position 0. ==> RR RRG ==> LineNo : 1036
+12-01-2015 15:00:38 ==> New Local Quotation ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx). ==> RR RRG ==> LineNo : 1028
+12-01-2015 15:01:16 ==> New Local Quotation ==> There is no row at position 0. ==> RR RRG ==> LineNo : 1036
+14-01-2015 12:58:32 ==> New Local Quotation ==> Object reference not set to an instance of an object. ==> Apollo Admin ==> LineNo : 2458
+14-01-2015 12:58:32 ==> New Local Quotation ==> Object reference not set to an instance of an object. ==> Apollo Admin ==> LineNo : 1027
+14-01-2015 13:02:03 ==> New Local Quotation ==> Column 'FornPOID' does not belong to table Table. ==> Apollo Admin ==> LineNo : 2459
+14-01-2015 13:02:03 ==> New Local Quotation ==> Object reference not set to an instance of an object. ==> Apollo Admin ==> LineNo : 1028
+14-01-2015 14:33:38 ==> New Local Quotation ==> There is no row at position 2. ==> Apollo Admin ==> LineNo : 2492
+14-01-2015 14:33:38 ==> New Local Quotation ==> Object reference not set to an instance of an object. ==> Apollo Admin ==> LineNo : 1028
+14-01-2015 14:57:54 ==> New Local Quotation ==> There is no row at position 4. ==> Apollo Admin ==> LineNo : 2492
+14-01-2015 14:57:54 ==> New Local Quotation ==> Object reference not set to an instance of an object. ==> Apollo Admin ==> LineNo : 1028
+14-01-2015 14:59:18 ==> New Local Quotation ==> There is no row at position 4. ==> Apollo Admin ==> LineNo : 2492
+14-01-2015 14:59:18 ==> New Local Quotation ==> Object reference not set to an instance of an object. ==> Apollo Admin ==> LineNo : 1028
+27-01-2015 16:02:43 ==> New Local Quotation ==> Column 'Status' does not belong to table Table1. ==> RR RRG ==> LineNo : 2477
+27-01-2015 16:02:43 ==> New Local Quotation ==> Object reference not set to an instance of an object. ==> RR RRG ==> LineNo : 1028
+27-01-2015 16:06:49 ==> New Local Quotation ==> Column 'Status' does not belong to table Table1. ==> RR RRG ==> LineNo : 2477
+27-01-2015 16:06:49 ==> New Local Quotation ==> Object reference not set to an instance of an object. ==> RR RRG ==> LineNo : 1028
+27-01-2015 16:07:09 ==> New Local Quotation ==> Column 'Status' does not belong to table Table1. ==> RR RRG ==> LineNo : 2477
+27-01-2015 16:07:56 ==> New Local Quotation ==> Object reference not set to an instance of an object. ==> RR RRG ==> LineNo : 1028
+27-01-2015 16:08:07 ==> New Local Quotation ==> Column 'Status' does not belong to table Table1. ==> RR RRG ==> LineNo : 2477
+27-01-2015 16:08:53 ==> New Local Quotation ==> Object reference not set to an instance of an object. ==> RR RRG ==> LineNo : 1028
+27-01-2015 16:09:04 ==> New Local Quotation ==> Column 'Status' does not belong to table Table1. ==> RR RRG ==> LineNo : 2477
+27-01-2015 16:15:48 ==> New Local Quotation ==> Object reference not set to an instance of an object. ==> RR RRG ==> LineNo : 1028
+27-01-2015 16:24:46 ==> New Local Quotation ==> Column 'Status' does not belong to table Table1. ==> RR RRG ==> LineNo : 2477
+27-01-2015 16:57:55 ==> New Local Quotation ==> Object reference not set to an instance of an object. ==> RR RRG ==> LineNo : 1028
+27-01-2015 17:25:02 ==> Local Quotation Comparison ==> Index was outside the bounds of the array. ==> Apollo Customer User Two ==> LineNo : 554
+27-01-2015 17:25:04 ==> Local Quotation Comparison ==> Index was outside the bounds of the array. ==> Apollo Customer User Two ==> LineNo : 554
+27-01-2015 17:28:57 ==> Local Quotation Comparison ==> Index was outside the bounds of the array. ==> Apollo Customer User Two ==> LineNo : 554
+27-01-2015 17:29:57 ==> Local Quotation Comparison ==> Index was outside the bounds of the array. ==> Apollo Customer User Two ==> LineNo : 554
+27-01-2015 17:30:25 ==> Local Quotation Comparison ==> Index was outside the bounds of the array. ==> Apollo Customer User Two ==> LineNo : 563
+27-01-2015 17:34:45 ==> Local Quotation Comparison ==> Index was outside the bounds of the array. ==> Apollo Customer User Two ==> LineNo : 563
+27-01-2015 18:19:42 ==> New Local Quotation ==> Column 'Status' does not belong to table Table1. ==> RR RRG ==> LineNo : 2477
+27-01-2015 18:19:57 ==> New Local Quotation ==> Object reference not set to an instance of an object. ==> RR RRG ==> LineNo : 1028
+27-01-2015 19:00:30 ==> New Local Quotation ==> Column 'Status' does not belong to table Table1. ==> RR RRG ==> LineNo : 2478
+27-01-2015 19:05:53 ==> New Local Quotation ==> Object reference not set to an instance of an object. ==> RR RRG ==> LineNo : 1020
+27-01-2015 19:06:05 ==> New Local Quotation ==> Column 'Status' does not belong to table Table1. ==> RR RRG ==> LineNo : 2478
+27-01-2015 19:06:13 ==> New Local Quotation ==> Object reference not set to an instance of an object. ==> RR RRG ==> LineNo : 1020
+27-01-2015 19:11:14 ==> New Local Quotation ==> Column 'Status' does not belong to table Table1. ==> RR RRG ==> LineNo : 2478
+27-01-2015 19:11:26 ==> New Local Quotation ==> Object reference not set to an instance of an object. ==> RR RRG ==> LineNo : 1020
+27-01-2015 19:12:11 ==> New Local Quotation ==> Column 'Status' does not belong to table Table1. ==> RR RRG ==> LineNo : 2478
+27-01-2015 19:12:12 ==> New Local Quotation ==> Object reference not set to an instance of an object. ==> RR RRG ==> LineNo : 1020
+27-01-2015 19:20:47 ==> New Local Quotation ==> Column 'Status' does not belong to table Table1. ==> RR RRG ==> LineNo : 2478
+27-01-2015 19:20:48 ==> New Local Quotation ==> Object reference not set to an instance of an object. ==> RR RRG ==> LineNo : 1020
+28-01-2015 11:00:03 ==> New Local Quotation ==> Object reference not set to an instance of an object. ==> RR RRG ==> LineNo : 1020
+28-01-2015 11:24:04 ==> New Local Quotation ==> Object reference not set to an instance of an object. ==> RR RRG ==> LineNo : 1020
+28-01-2015 11:25:15 ==> New Local Quotation ==> There is no row at position 0. ==> RR RRG ==> LineNo : 1039
+28-01-2015 11:26:09 ==> New Local Quotation ==> There is no row at position 0. ==> RR RRG ==> LineNo : 1039
+28-01-2015 11:26:50 ==> New Local Quotation ==> There is no row at position 0. ==> RR RRG ==> LineNo : 1039
+28-01-2015 11:27:52 ==> New Local Quotation ==> There is no row at position 0. ==> RR RRG ==> LineNo : 1040
+28-01-2015 11:28:55 ==> New Local Quotation ==> There is no row at position 0. ==> RR RRG ==> LineNo : 1041
+28-01-2015 11:31:24 ==> New Local Quotation ==> There is no row at position 0. ==> RR RRG ==> LineNo : 1041
+28-01-2015 11:38:07 ==> Local Quotation Comparison ==> Thread was being aborted. ==> RR RRG ==> LineNo : 1443
+28-01-2015 16:28:41 ==> Local Quotation Comparison ==> Thread was being aborted. ==> RR RRG ==> LineNo : 1443
+28-01-2015 17:14:55 ==> Local Quotation Comparison ==> Thread was being aborted. ==> RR RRG ==> LineNo : 1443
+28-01-2015 17:16:30 ==> Local Quotation Comparison ==> Thread was being aborted. ==> RR RRG ==> LineNo : 1444
+28-01-2015 17:18:36 ==> Local Quotation Comparison ==> Thread was being aborted. ==> RR RRG ==> LineNo : 1445
+28-01-2015 17:19:55 ==> Local Quotation Comparison ==> Thread was being aborted. ==> RR RRG ==> LineNo : 1446
+28-01-2015 17:23:31 ==> Local Quotation Comparison ==> Thread was being aborted. ==> RR RRG ==> LineNo : 1448
+28-01-2015 17:24:58 ==> Local Quotation Comparison ==> Thread was being aborted. ==> RR RRG ==> LineNo : 1450
+28-01-2015 17:38:48 ==> Local Quotation Comparison ==> Thread was being aborted. ==> RR RRG ==> LineNo : 1455
+28-01-2015 17:39:49 ==> Local Quotation Comparison ==> Thread was being aborted. ==> RR RRG ==> LineNo : 1455
+28-01-2015 17:41:01 ==> Local Quotation Comparison ==> Thread was being aborted. ==> RR RRG ==> LineNo : 1455
+28-01-2015 17:42:02 ==> Local Quotation Comparison ==> Thread was being aborted. ==> RR RRG ==> LineNo : 1455
+28-01-2015 17:45:32 ==> Local Quotation Comparison ==> Thread was being aborted. ==> RR RRG ==> LineNo : 1455
+28-01-2015 17:46:45 ==> Local Quotation Comparison ==> Thread was being aborted. ==> RR RRG ==> LineNo : 1455
+28-01-2015 17:47:53 ==> Local Quotation Comparison ==> Thread was being aborted. ==> RR RRG ==> LineNo : 1455
+28-01-2015 17:47:56 ==> Local Quotation Comparison ==> Thread was being aborted. ==> RR RRG ==> LineNo : 1455
+28-01-2015 17:51:26 ==> Local Quotation Comparison ==> Thread was being aborted. ==> RR RRG ==> LineNo : 1455
+29-01-2015 11:16:44 ==> Local Quotation Comparison ==> Thread was being aborted. ==> RR RRG ==> LineNo : 1455
+29-01-2015 11:17:00 ==> Local Quotation Comparison ==> Thread was being aborted. ==> RR RRG ==> LineNo : 1455
+29-01-2015 11:22:03 ==> Local Quotation Comparison ==> Thread was being aborted. ==> RR RRG ==> LineNo : 1456
+29-01-2015 11:23:38 ==> Local Quotation Comparison ==> Thread was being aborted. ==> RR RRG ==> LineNo : 1456
+29-01-2015 11:25:21 ==> Local Quotation Comparison ==> Thread was being aborted. ==> RR RRG ==> LineNo : 1456
+29-01-2015 11:27:03 ==> Local Quotation Comparison ==> Thread was being aborted. ==> RR RRG ==> LineNo : 1458
+29-01-2015 11:28:35 ==> Local Quotation Comparison ==> Thread was being aborted. ==> RR RRG ==> LineNo : 1459
+29-01-2015 11:30:43 ==> Local Quotation Comparison ==> Thread was being aborted. ==> RR RRG ==> LineNo : 1459
+29-01-2015 11:32:38 ==> Local Quotation Comparison ==> Thread was being aborted. ==> RR RRG ==> LineNo : 1459
+29-01-2015 11:36:25 ==> Local Quotation Comparison ==> Thread was being aborted. ==> RR RRG ==> LineNo : 1459
+29-01-2015 11:39:41 ==> Local Quotation Comparison ==> Thread was being aborted. ==> RR RRG ==> LineNo : 1463
+29-01-2015 11:45:06 ==> Local Quotation Comparison ==> Thread was being aborted. ==> RR RRG ==> LineNo : 1463
+29-01-2015 11:55:55 ==> Local Quotation Comparison ==> Thread was being aborted. ==> RR RRG ==> LineNo : 1463
+29-01-2015 11:56:49 ==> Local Quotation Comparison ==> Thread was being aborted. ==> RR RRG ==> LineNo : 1463
+29-01-2015 12:09:18 ==> Local Quotation Comparison ==> Thread was being aborted. ==> RR RRG ==> LineNo : 1463
+29-01-2015 12:15:12 ==> Local Quotation Comparison ==> Thread was being aborted. ==> RR RRG ==> LineNo : 1467
+29-01-2015 12:16:43 ==> Local Quotation Comparison ==> Thread was being aborted. ==> RR RRG ==> LineNo : 1468
+29-01-2015 12:20:52 ==> Local Quotation Comparison ==> Thread was being aborted. ==> RR RRG ==> LineNo : 1470
+29-01-2015 12:23:26 ==> Local Quotation Comparison ==> Thread was being aborted. ==> RR RRG ==> LineNo : 1471
+29-01-2015 12:35:01 ==> Local Quotation Comparison ==> Thread was being aborted. ==> RR RRG ==> LineNo : 1476
+29-01-2015 12:36:13 ==> Local Quotation Comparison ==> Thread was being aborted. ==> RR RRG ==> LineNo : 1475
+29-01-2015 13:02:58 ==> Local Quotation Comparison ==> Thread was being aborted. ==> RR RRG ==> LineNo : 1484
+29-01-2015 13:03:43 ==> Local Quotation Comparison ==> Thread was being aborted. ==> RR RRG ==> LineNo : 1484
+29-01-2015 13:04:31 ==> Local Quotation Comparison ==> Thread was being aborted. ==> RR RRG ==> LineNo : 1484
+29-01-2015 13:10:32 ==> Local Quotation Comparison ==> Thread was being aborted. ==> RR RRG ==> LineNo : 1485
+29-01-2015 14:14:06 ==> Local Quotation Comparison ==> Thread was being aborted. ==> RR RRG ==> LineNo : 1486
+29-01-2015 14:16:46 ==> Local Quotation Comparison ==> Thread was being aborted. ==> RR RRG ==> LineNo : 1488
+29-01-2015 14:18:13 ==> Local Quotation Comparison ==> Thread was being aborted. ==> RR RRG ==> LineNo : 1488
+29-01-2015 14:20:24 ==> Local Quotation Comparison ==> Thread was being aborted. ==> RR RRG ==> LineNo : 1489
+29-01-2015 14:21:42 ==> Local Quotation Comparison ==> Thread was being aborted. ==> RR RRG ==> LineNo : 1489
+29-01-2015 14:22:40 ==> Local Quotation Comparison ==> Thread was being aborted. ==> RR RRG ==> LineNo : 1489
+29-01-2015 14:23:18 ==> Local Quotation Comparison ==> Thread was being aborted. ==> RR RRG ==> LineNo : 1489
+29-01-2015 14:24:30 ==> Local Quotation Comparison ==> Thread was being aborted. ==> RR RRG ==> LineNo : 1489
+29-01-2015 14:26:18 ==> Local Quotation Comparison ==> Thread was being aborted. ==> RR RRG ==> LineNo : 1473
+29-01-2015 14:27:05 ==> Local Quotation Comparison ==> Thread was being aborted. ==> RR RRG ==> LineNo : 1473
+29-01-2015 14:28:02 ==> Local Quotation Comparison ==> Thread was being aborted. ==> RR RRG ==> LineNo : 1473
+29-01-2015 14:28:46 ==> Local Quotation Comparison ==> Thread was being aborted. ==> RR RRG ==> LineNo : 1473
+29-01-2015 14:29:32 ==> Local Quotation Comparison ==> Thread was being aborted. ==> RR RRG ==> LineNo : 1473
+29-01-2015 14:29:59 ==> Local Quotation Comparison ==> Thread was being aborted. ==> RR RRG ==> LineNo : 1473
+29-01-2015 14:35:44 ==> Local Quotation Comparison ==> Thread was being aborted. ==> RR RRG ==> LineNo : 1473
+29-01-2015 14:36:02 ==> Local Quotation Comparison ==> Thread was being aborted. ==> RR RRG ==> LineNo : 1473
+29-01-2015 14:39:12 ==> Local Quotation Comparison ==> Thread was being aborted. ==> RR RRG ==> LineNo : 1473
+29-01-2015 14:40:07 ==> Local Quotation Comparison ==> Thread was being aborted. ==> RR RRG ==> LineNo : 1473
+29-01-2015 14:41:52 ==> Local Quotation Comparison ==> Thread was being aborted. ==> RR RRG ==> LineNo : 1473
+29-01-2015 14:46:40 ==> Local Quotation Comparison ==> Thread was being aborted. ==> RR RRG ==> LineNo : 1473
+29-01-2015 14:47:44 ==> Local Quotation Comparison ==> Thread was being aborted. ==> RR RRG ==> LineNo : 1473
+29-01-2015 14:48:57 ==> Local Quotation Comparison ==> Thread was being aborted. ==> RR RRG ==> LineNo : 1473
+29-01-2015 14:50:40 ==> Local Quotation Comparison ==> Thread was being aborted. ==> RR RRG ==> LineNo : 1474
+29-01-2015 14:51:31 ==> Local Quotation Comparison ==> Thread was being aborted. ==> RR RRG ==> LineNo : 1473
+29-01-2015 14:52:50 ==> Local Quotation Comparison ==> Thread was being aborted. ==> RR RRG ==> LineNo : 1472
+29-01-2015 14:58:25 ==> Local Quotation Comparison ==> Thread was being aborted. ==> RR RRG ==> LineNo : 1477
+29-01-2015 15:05:51 ==> Local Quotation Comparison ==> Thread was being aborted. ==> RR RRG ==> LineNo : 1477
+29-01-2015 15:06:23 ==> Local Quotation Comparison ==> Thread was being aborted. ==> RR RRG ==> LineNo : 1477
+29-01-2015 15:07:30 ==> Local Quotation Comparison ==> Thread was being aborted. ==> RR RRG ==> LineNo : 1477
+29-01-2015 15:18:36 ==> Local Quotation Comparison ==> Thread was being aborted. ==> RR RRG ==> LineNo : 1478
+29-01-2015 15:19:39 ==> Local Quotation Comparison ==> Thread was being aborted. ==> RR RRG ==> LineNo : 1478
+29-01-2015 15:20:53 ==> Local Quotation Comparison ==> Thread was being aborted. ==> RR RRG ==> LineNo : 1478
+29-01-2015 15:23:58 ==> Local Quotation Comparison ==> Thread was being aborted. ==> RR RRG ==> LineNo : 1478
+29-01-2015 15:24:47 ==> Local Quotation Comparison ==> Thread was being aborted. ==> RR RRG ==> LineNo : 1478
+29-01-2015 15:25:08 ==> Local Quotation Comparison ==> Thread was being aborted. ==> RR RRG ==> LineNo : 1478
+29-01-2015 16:00:18 ==> Local Quotation Comparison ==> Thread was being aborted. ==> RR RRG ==> LineNo : 1206
+29-01-2015 16:01:43 ==> Local Quotation Comparison ==> Thread was being aborted. ==> RR RRG ==> LineNo : 1206
+29-01-2015 16:03:05 ==> Local Quotation Comparison ==> Thread was being aborted. ==> RR RRG ==> LineNo : 1206
+29-01-2015 16:05:46 ==> Local Quotation Comparison ==> Thread was being aborted. ==> RR RRG ==> LineNo : 1206
+29-01-2015 16:07:16 ==> Local Quotation Comparison ==> Thread was being aborted. ==> RR RRG ==> LineNo : 1206
+29-01-2015 16:07:32 ==> Local Quotation Comparison ==> Thread was being aborted. ==> RR RRG ==> LineNo : 1206
+29-01-2015 16:25:10 ==> Local Quotation Comparison ==> Thread was being aborted. ==> RR RRG ==> LineNo : 1206
+29-01-2015 16:33:51 ==> Local Quotation Comparison ==> Thread was being aborted. ==> RR RRG ==> LineNo : 1206
+29-01-2015 16:35:14 ==> Local Quotation Comparison ==> Thread was being aborted. ==> RR RRG ==> LineNo : 1210
+29-01-2015 16:36:01 ==> Local Quotation Comparison ==> Thread was being aborted. ==> RR RRG ==> LineNo : 1210
+29-01-2015 16:36:30 ==> Local Quotation Comparison ==> Thread was being aborted. ==> RR RRG ==> LineNo : 1210
+29-01-2015 16:39:39 ==> Local Quotation Comparison ==> Thread was being aborted. ==> RR RRG ==> LineNo : 1210
+29-01-2015 17:18:50 ==> New Local Quotation ==> Object reference not set to an instance of an object. ==> Apollo Admin ==> LineNo : 1034
+29-01-2015 17:19:03 ==> New Local Quotation ==> Object reference not set to an instance of an object. ==> Apollo Admin ==> LineNo : 1034
+29-01-2015 17:20:21 ==> New Local Quotation ==> Object reference not set to an instance of an object. ==> Apollo Admin ==> LineNo : 1034
+04-02-2015 14:22:21 ==> Foreign Purchase Order Details ==> Cannot find table 0. ==> Apollo Admin
+04-02-2015 14:23:14 ==> Foreign Purchase Order Details ==> Cannot find table 0. ==> Apollo Admin
+04-02-2015 14:23:52 ==> Foreign Purchase Order Details ==> Cannot find table 0. ==> Apollo Admin
+12-02-2015 12:34:24 ==> New Local Quotation ==> Object reference not set to an instance of an object. ==> Apollo Admin ==> LineNo : 1034
+12-02-2015 13:05:32 ==> New Local Quotation ==> Object reference not set to an instance of an object. ==> Apollo Admin ==> LineNo : 1034
+12-02-2015 13:10:30 ==> New Local Quotation ==> Object reference not set to an instance of an object. ==> Apollo Admin ==> LineNo : 1034
+12-02-2015 13:32:06 ==> New Local Quotation ==> There is no row at position 1. ==> Apollo Admin ==> LineNo : 2503
+12-02-2015 13:32:07 ==> New Local Quotation ==> Object reference not set to an instance of an object. ==> Apollo Admin ==> LineNo : 1040
+12-02-2015 13:32:31 ==> New Local Quotation ==> There is no row at position 1. ==> Apollo Admin ==> LineNo : 2503
+12-02-2015 13:32:41 ==> New Local Quotation ==> Object reference not set to an instance of an object. ==> Apollo Admin ==> LineNo : 1040
+12-02-2015 14:10:10 ==> New Local Quotation ==> There is no row at position 1. ==> Apollo Admin ==> LineNo : 2503
+12-02-2015 14:11:02 ==> New Local Quotation ==> Object reference not set to an instance of an object. ==> Apollo Admin ==> LineNo : 1040
+12-02-2015 14:11:37 ==> New Local Quotation ==> There is no row at position 1. ==> Apollo Admin ==> LineNo : 2503
+12-02-2015 14:12:26 ==> New Local Quotation ==> Object reference not set to an instance of an object. ==> Apollo Admin ==> LineNo : 1040
+12-02-2015 14:13:03 ==> New Local Quotation ==> There is no row at position 1. ==> Apollo Admin ==> LineNo : 2503
+12-02-2015 14:13:24 ==> New Local Quotation ==> Object reference not set to an instance of an object. ==> Apollo Admin ==> LineNo : 1040
+12-02-2015 14:13:58 ==> New Local Quotation ==> There is no row at position 1. ==> Apollo Admin ==> LineNo : 2503
+12-02-2015 14:14:33 ==> New Local Quotation ==> Object reference not set to an instance of an object. ==> Apollo Admin ==> LineNo : 1040
+12-02-2015 14:14:53 ==> New Local Quotation ==> There is no row at position 1. ==> Apollo Admin ==> LineNo : 2503
+12-02-2015 14:15:01 ==> New Local Quotation ==> Object reference not set to an instance of an object. ==> Apollo Admin ==> LineNo : 1040
+12-02-2015 14:17:08 ==> New Local Quotation ==> There is no row at position 1. ==> Apollo Admin ==> LineNo : 2503
+12-02-2015 14:17:12 ==> New Local Quotation ==> Object reference not set to an instance of an object. ==> Apollo Admin ==> LineNo : 1040
+12-02-2015 14:17:33 ==> New Local Quotation ==> There is no row at position 1. ==> Apollo Admin ==> LineNo : 2503
+12-02-2015 14:17:35 ==> New Local Quotation ==> Object reference not set to an instance of an object. ==> Apollo Admin ==> LineNo : 1040
+12-02-2015 14:18:54 ==> New Local Quotation ==> There is no row at position 1. ==> Apollo Admin ==> LineNo : 2503
+12-02-2015 14:18:54 ==> New Local Quotation ==> Object reference not set to an instance of an object. ==> Apollo Admin ==> LineNo : 1040
+12-02-2015 14:44:31 ==> New Local Quotation ==> There is no row at position 1. ==> Apollo Admin ==> LineNo : 2503
+12-02-2015 14:44:31 ==> New Local Quotation ==> Object reference not set to an instance of an object. ==> Apollo Admin ==> LineNo : 1040
+12-02-2015 15:03:10 ==> New Local Quotation ==> There is no row at position 1. ==> Apollo Admin ==> LineNo : 2504
+12-02-2015 15:03:11 ==> New Local Quotation ==> Object reference not set to an instance of an object. ==> Apollo Admin ==> LineNo : 1040
+12-02-2015 15:05:13 ==> New Local Quotation ==> There is no row at position 1. ==> Apollo Admin ==> LineNo : 2504
+12-02-2015 15:05:13 ==> New Local Quotation ==> Object reference not set to an instance of an object. ==> Apollo Admin ==> LineNo : 1040
+12-02-2015 15:21:28 ==> New Local Quotation ==> There is no row at position 1. ==> Apollo Admin ==> LineNo : 2504
+12-02-2015 15:21:28 ==> New Local Quotation ==> Object reference not set to an instance of an object. ==> Apollo Admin ==> LineNo : 1040
+12-02-2015 15:25:36 ==> New Local Quotation ==> There is no row at position 1. ==> Apollo Admin ==> LineNo : 2504
+12-02-2015 15:25:36 ==> New Local Quotation ==> Object reference not set to an instance of an object. ==> Apollo Admin ==> LineNo : 1040
+12-02-2015 15:28:01 ==> New Local Quotation ==> There is no row at position 1. ==> Apollo Admin
+12-02-2015 15:28:01 ==> New Local Quotation ==> Object reference not set to an instance of an object. ==> Apollo Admin
+26-02-2015 16:17:06 ==> Local Quotation Status ==> Thread was being aborted. ==> Supplier User Two Apollo ==> LineNo : 56
+25-03-2015 17:49:20 ==> Foreign Quotation Status ==> Cannot find table 0. ==> Apollo Admin ==> LineNo : 509
+25-03-2015 17:51:16 ==> Foreign Quotation Status ==> Cannot find table 0. ==> Apollo Admin ==> LineNo : 509
+02-04-2015 12:32:03 ==> New Foreign Quotation ==> Object cannot be cast from DBNull to other types. ==> Apollo Admin ==> LineNo : 1564
+02-04-2015 12:32:23 ==> Local Quotation Conformation Basket ==> 'ddlcustmr' has a SelectedValue which is invalid because it does not exist in the list of items.
+Parameter name: value ==> Apollo Admin ==> LineNo : 265
+02-04-2015 12:32:36 ==> New Foreign Quotation ==> Object cannot be cast from DBNull to other types. ==> Apollo Admin ==> LineNo : 1564
+02-04-2015 12:32:55 ==> Local Quotation Conformation Basket ==> 'ddlcustmr' has a SelectedValue which is invalid because it does not exist in the list of items.
+Parameter name: value ==> Apollo Admin ==> LineNo : 265
+02-04-2015 12:33:37 ==> New Foreign Quotation ==> Object cannot be cast from DBNull to other types. ==> Apollo Admin ==> LineNo : 1564
+02-04-2015 14:34:00 ==> Local Quotation Conformation Basket ==> 'ddlcustmr' has a SelectedValue which is invalid because it does not exist in the list of items.
+Parameter name: value ==> Apollo Admin ==> LineNo : 265
+02-04-2015 14:34:11 ==> New Foreign Quotation ==> Object cannot be cast from DBNull to other types. ==> Apollo Admin ==> LineNo : 1564
+02-04-2015 14:41:44 ==> New Foreign Quotation ==> Object cannot be cast from DBNull to other types. ==> Apollo Admin ==> LineNo : 1564
+18-05-2015 11:34:25 ==> Local Quotation Conformation Basket ==> 'ddlcustmr' has a SelectedValue which is invalid because it does not exist in the list of items.
+Parameter name: value ==> GLOCEM PVT LTD GCM ==> LineNo : 265
+29-05-2015 14:21:58 ==> Local Quotation Conformation Basket ==> 'ddlcustmr' has a SelectedValue which is invalid because it does not exist in the list of items.
+Parameter name: value ==> ZenQ ZenQ ==> LineNo : 265
+01-06-2015 11:42:25 ==> Local Quotation Conformation Basket ==> 'ddlcustmr' has a SelectedValue which is invalid because it does not exist in the list of items.
+Parameter name: value ==> Computer Comp ==> LineNo : 265
+01-06-2015 11:43:18 ==> Local Quotation Conformation Basket ==> 'ddlcustmr' has a SelectedValue which is invalid because it does not exist in the list of items.
+Parameter name: value ==> Computer Comp ==> LineNo : 265
+10-06-2015 16:52:05 ==> New Foreign Quotation ==> Object cannot be cast from DBNull to other types. ==> CEAT Limited CEAT ==> LineNo : 1564
+10-06-2015 16:52:55 ==> New Foreign Quotation ==> Object cannot be cast from DBNull to other types. ==> CEAT Limited CEAT ==> LineNo : 1564
+10-06-2015 16:53:15 ==> Local Quotation Conformation Basket ==> 'ddlcustmr' has a SelectedValue which is invalid because it does not exist in the list of items.
+Parameter name: value ==> CEAT Limited CEAT ==> LineNo : 265
+10-06-2015 17:03:26 ==> New Foreign Quotation ==> Object cannot be cast from DBNull to other types. ==> CEAT Limited CEAT ==> LineNo : 1564
+10-06-2015 17:12:46 ==> Foreign Quotation Details ==> Thread was being aborted. ==> Apollo Customer User Two
+16-06-2015 11:59:08 ==> New Local Quotation ==> Object reference not set to an instance of an object. ==> Super Admin ==> LineNo : 3213
+16-06-2015 11:59:08 ==> New Local Quotation ==> Object reference not set to an instance of an object. ==> Super Admin ==> LineNo : 983
+16-06-2015 12:54:44 ==> New Local Quotation ==> 'ddlfenq' has a SelectedValue which is invalid because it does not exist in the list of items.
+Parameter name: value ==> GLOCEM PVT LTD GCM ==> LineNo : 268
+16-06-2015 12:55:54 ==> New Local Quotation ==> 'ddlfenq' has a SelectedValue which is invalid because it does not exist in the list of items.
+Parameter name: value ==> GLOCEM PVT LTD GCM ==> LineNo : 268
+16-06-2015 15:45:22 ==> Local Quotation Details System.String[] ==> The communication channel has not been created. ==> GLOCEM PVT LTD GCM
+17-06-2015 14:42:39 ==> Local Quotation Details System.String[] ==> Cannot find table 0. ==> GLOCEM PVT LTD GCM
+17-06-2015 14:42:49 ==> Local Quotation Details System.String[] ==> Cannot find table 0. ==> GLOCEM PVT LTD GCM
+18-06-2015 11:28:28 ==> New Foreign Quotation ==> Object cannot be cast from DBNull to other types. ==> GLOCEM PVT LTD GCM ==> LineNo : 1564
+30-06-2015 11:33:59 ==> New Local Quotation ==> Error while Inserting. ==> System Admin
+30-06-2015 11:33:59 ==> New Local Quotation ==> Column 'IsSubItems' does not belong to table Table. ==> System Admin ==> LineNo : 1159
+03-07-2015 18:41:33 ==> Local Quotation Details System.String[] ==> Cannot find table 0. ==> System Admin
+17-07-2015 12:11:05 ==> Local Quotation Conformation Basket ==> 'ddlcustmr' has a SelectedValue which is invalid because it does not exist in the list of items.
+Parameter name: value ==> Glocem Glocem ==> LineNo : 265
+17-07-2015 12:17:17 ==> Local Quotation Conformation Basket ==> 'ddlcustmr' has a SelectedValue which is invalid because it does not exist in the list of items.
+Parameter name: value ==> Glocem Glocem ==> LineNo : 265
+30-07-2015 12:04:14 ==> FQ Status WebService ==> Invalid column name 'CreatedBy'. ==> Volta Impex Pvt.Ltd. VIPL ==> LineNo : 208
+30-07-2015 14:22:47 ==> LQ Status WebService ==> Invalid column name 'CreatedBy'. ==> Volta Impex Pvt.Ltd. VIPL ==> LineNo : 516
+30-07-2015 14:23:02 ==> LQ Status WebService ==> Invalid column name 'CreatedBy'. ==> Volta Impex Pvt.Ltd. VIPL ==> LineNo : 516
+11-08-2015 12:30:44 ==> New Local Quotation ==> Object cannot be cast from DBNull to other types. ==> Glocem Glocem ==> LineNo : 1159
+11-08-2015 12:43:34 ==> New Local Quotation ==> String was not recognized as a valid Boolean. ==> Glocem Glocem ==> LineNo : 1159
+11-08-2015 12:45:59 ==> New Local Quotation ==> Specified cast is not valid. ==> Glocem Glocem ==> LineNo : 1159
+11-08-2015 15:43:58 ==> FQ Status WebService ==> Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding. ==> Volta Impex Pvt.Ltd. VIPL ==> LineNo : 208
+11-08-2015 15:51:39 ==> FQ Status WebService ==> Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding. ==> Volta Impex Pvt.Ltd. VIPL ==> LineNo : 208
+26-08-2015 15:06:36 ==> FQ Status WebService ==> A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server) ==> Volta Impex Pvt. Ltd. ==> LineNo : 203
+10/15/2018 12:46:14 PM ==> Foreign Purchase Order Details ==> Load report failed. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+10/15/2018 12:46:19 PM ==> Foreign Purchase Order Details ==> Load report failed. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+10/15/2018 12:47:36 PM ==> Foreign Purchase Order Details ==> Load report failed. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+10/15/2018 12:48:35 PM ==> Foreign Purchase Order Details ==> Load report failed. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+5/15/2019 2:20:41 PM ==> Foreign Quotation Details ==> There is no row at position 0. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+5/16/2019 11:33:38 AM ==> New Foreign Quotation ==> Object cannot be cast from DBNull to other types. ==> Manjuna Devi ==> LineNo : 1671
+5/16/2019 11:33:44 AM ==> New Foreign Quotation ==> Object cannot be cast from DBNull to other types. ==> Manjuna Devi ==> LineNo : 1671
+6/3/2019 3:13:47 PM ==> New Local Purchase Order ==> Object reference not set to an instance of an object. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 1083
+6/3/2019 3:13:59 PM ==> New Local Purchase Order ==> Object reference not set to an instance of an object. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 1083
+6/3/2019 3:14:49 PM ==> New Local Purchase Order ==> Object reference not set to an instance of an object. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 1083
+6/3/2019 3:19:33 PM ==> New Local Purchase Order ==> Object reference not set to an instance of an object. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 1083
+6/4/2019 2:20:57 PM ==> New Local Purchase Order ==> Object reference not set to an instance of an object. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 1083
+6/4/2019 2:21:18 PM ==> New Local Purchase Order ==> Object reference not set to an instance of an object. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 1083

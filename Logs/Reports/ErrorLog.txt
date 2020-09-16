@@ -1,0 +1,86 @@
+05-12-2014 12:35:36 ==> Weekly Reports ==> DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'Foreign Enquiry ID'. ==> RR RRG ==> LineNo : 120
+05-12-2014 12:47:24 ==> Weekly Reports ==> DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'Foreign Enquiry ID'. ==> RR RRG ==> LineNo : 120
+05-12-2014 13:02:16 ==> Weekly Reports ==> DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'Foreign Enquiry ID'. ==> RR RRG ==> LineNo : 120
+05-12-2014 13:02:45 ==> Weekly Reports ==> DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'Foreign Enquiry ID'. ==> RR RRG ==> LineNo : 120
+05-12-2014 13:03:41 ==> Weekly Reports ==> DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'Foreign Enquiry ID'. ==> RR RRG ==> LineNo : 120
+05-12-2014 13:04:12 ==> Weekly Reports ==> DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'Foreign Enquiry ID'. ==> RR RRG ==> LineNo : 120
+05-12-2014 13:06:02 ==> Weekly Reports ==> DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'Foreign Enquiry ID'. ==> RR RRG ==> LineNo : 120
+05-12-2014 13:06:21 ==> Weekly Reports ==> DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'Foreign Enquiry ID'. ==> RR RRG ==> LineNo : 120
+05-12-2014 13:07:42 ==> Weekly Reports ==> DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'Foreign Enquiry ID'. ==> RR RRG ==> LineNo : 120
+05-12-2014 14:59:55 ==> Report Service ==> The definition for column 'CreatedDate' must include a data type. ==> RR RRG ==> LineNo : 804
+05-12-2014 15:02:27 ==> Report Service ==> The definition for column 'CreatedDate' must include a data type. ==> RR RRG ==> LineNo : 804
+05-12-2014 16:36:46 ==> Weekly FPO Reports ==> DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'ForeignPurchaseOrderId'. ==> RR RRG ==> LineNo : 122
+05-12-2014 16:36:51 ==> Weekly FPO Reports ==> DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'ForeignPurchaseOrderId'. ==> RR RRG ==> LineNo : 122
+05-12-2014 16:37:50 ==> Weekly FPO Reports ==> DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'ForeignPurchaseOrderId'. ==> RR RRG ==> LineNo : 122
+05-12-2014 16:37:58 ==> Weekly FPO Reports ==> DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'ForeignPurchaseOrderId'. ==> RR RRG ==> LineNo : 122
+05-12-2014 16:39:06 ==> Weekly FPO Reports ==> DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'ForeignPurchaseOrderId'. ==> RR RRG ==> LineNo : 122
+08-12-2014 12:51:27 ==> Weekly FPO Reports ==> Thread was being aborted. ==> Apollo Admin ==> LineNo : 611
+08-12-2014 12:54:47 ==> Weekly FPO Reports ==> Thread was being aborted. ==> Apollo Admin ==> LineNo : 611
+11-12-2014 15:49:57 ==> Weekly FPO Reports ==> DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'ForeignPurchaseOrderId'. ==> RR RRG ==> LineNo : 122
+11-12-2014 15:50:20 ==> Weekly FPO Reports ==> DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'ForeignPurchaseOrderId'. ==> RR RRG ==> LineNo : 122
+11-12-2014 15:57:38 ==> Weekly FPO Reports ==> DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'ForeignPurchaseOrderId'. ==> RR RRG ==> LineNo : 122
+12-12-2014 18:53:18 ==> Weekly Reports ==> Value cannot be null.
+Parameter name: expression ==> RR RRG ==> LineNo : 119
+15-12-2014 10:28:18 ==> Weekly FPO Reports ==> Cannot find table 1. ==> RR RRG ==> LineNo : 610
+15-12-2014 10:28:34 ==> Weekly FPO Reports ==> Cannot find table 1. ==> RR RRG ==> LineNo : 610
+15-12-2014 10:29:52 ==> Weekly FPO Reports ==> Cannot find table 1. ==> RR RRG ==> LineNo : 610
+15-12-2014 10:34:32 ==> Weekly FPO Reports ==> Cannot find table 0. ==> RR RRG ==> LineNo : 610
+15-12-2014 10:35:20 ==> Weekly FPO Reports ==> Cannot find table 0. ==> RR RRG ==> LineNo : 610
+15-12-2014 10:35:57 ==> Weekly FPO Reports ==> Cannot find table 0. ==> RR RRG ==> LineNo : 610
+15-12-2014 10:37:11 ==> Weekly FPO Reports ==> Thread was being aborted. ==> RR RRG ==> LineNo : 630
+16-12-2014 11:45:54 ==> Report Service ==> Index was outside the bounds of the array. ==> RR RRG ==> LineNo : 60
+16-12-2014 11:45:54 ==> Report Service ==> Index was outside the bounds of the array. ==> RR RRG ==> LineNo : 60
+16-12-2014 11:45:54 ==> Report Service ==> Index was outside the bounds of the array. ==> RR RRG ==> LineNo : 60
+16-12-2014 11:45:55 ==> Report Service ==> Index was outside the bounds of the array. ==> RR RRG ==> LineNo : 60
+16-12-2014 11:45:55 ==> Report Service ==> Index was outside the bounds of the array. ==> RR RRG ==> LineNo : 60
+16-12-2014 11:45:56 ==> Report Service ==> Index was outside the bounds of the array. ==> RR RRG ==> LineNo : 60
+16-12-2014 11:45:56 ==> Report Service ==> Index was outside the bounds of the array. ==> RR RRG ==> LineNo : 60
+16-12-2014 11:45:56 ==> Report Service ==> Index was outside the bounds of the array. ==> RR RRG ==> LineNo : 60
+16-12-2014 11:45:56 ==> Report Service ==> Index was outside the bounds of the array. ==> RR RRG ==> LineNo : 60
+16-12-2014 11:48:38 ==> Report Service ==> Index was outside the bounds of the array. ==> RR RRG ==> LineNo : 60
+16-12-2014 11:50:57 ==> Report Service ==> Index was outside the bounds of the array. ==> RR RRG ==> LineNo : 60
+16-12-2014 11:50:59 ==> Report Service ==> Index was outside the bounds of the array. ==> RR RRG ==> LineNo : 60
+16-12-2014 11:51:01 ==> Report Service ==> Index was outside the bounds of the array. ==> RR RRG ==> LineNo : 60
+16-12-2014 11:51:37 ==> Report Service ==> Index was outside the bounds of the array. ==> RR RRG ==> LineNo : 60
+16-12-2014 11:51:37 ==> Report Service ==> Index was outside the bounds of the array. ==> RR RRG ==> LineNo : 60
+18-12-2014 12:48:11 ==> Weekly Reports ==> Thread was being aborted. ==> RR RRG ==> LineNo : 397
+18-12-2014 18:12:57 ==> Weekly Reports ==> Thread was being aborted. ==> Apollo Admin ==> LineNo : 397
+22-12-2014 11:25:21 ==> Report Service ==> Incorrect syntax near '100'.
+Incorrect syntax near the keyword 'order'. ==> RR RRG ==> LineNo : 2822
+22-12-2014 11:26:16 ==> Report Service ==> Incorrect syntax near '100'.
+Incorrect syntax near the keyword 'order'. ==> RR RRG ==> LineNo : 2822
+22-12-2014 11:26:50 ==> Report Service ==> Incorrect syntax near '100'.
+Incorrect syntax near the keyword 'order'. ==> RR RRG ==> LineNo : 2822
+22-12-2014 11:27:14 ==> Report Service ==> Incorrect syntax near '100'.
+Incorrect syntax near the keyword 'order'. ==> RR RRG ==> LineNo : 2822
+22-12-2014 11:28:50 ==> Report Service ==> Incorrect syntax near '100'.
+Incorrect syntax near the keyword 'order'. ==> RR RRG ==> LineNo : 2822
+22-12-2014 16:43:20 ==> Weekly Reports ==> Thread was being aborted. ==> Apollo Admin ==> LineNo : 399
+22-12-2014 16:43:29 ==> Weekly Reports ==> Thread was being aborted. ==> Apollo Admin ==> LineNo : 399
+23-12-2014 11:01:42 ==> Report Service ==> Invalid column name 'Ct-1Num'. ==> RR RRG ==> LineNo : 2822
+23-12-2014 11:01:42 ==> Report Service ==> Invalid column name 'Ct-1Num'. ==> RR RRG ==> LineNo : 2822
+23-12-2014 11:04:23 ==> Report Service ==> Invalid column name 'Ct-1Num'. ==> RR RRG ==> LineNo : 2822
+23-12-2014 11:06:29 ==> Report Service ==> Invalid column name 'Ct1FrmAtHydMum'. ==> RR RRG ==> LineNo : 2822
+23-12-2014 11:08:20 ==> Report Service ==> Invalid column name 'ShppngBllNum'. ==> RR RRG ==> LineNo : 2822
+23-12-2014 11:08:21 ==> Report Service ==> Invalid column name 'ShppngBllNum'. ==> RR RRG ==> LineNo : 2822
+23-12-2014 11:08:35 ==> Report Service ==> Invalid column name 'ShppngBllNum'.
+Invalid column name 'SupplNm'. ==> RR RRG ==> LineNo : 2822
+23-12-2014 11:08:59 ==> Report Service ==> Invalid column name 'ShppngBllNum'.
+Invalid column name 'SupplNm'. ==> RR RRG ==> LineNo : 2822
+23-12-2014 11:10:07 ==> Report Service ==> Invalid column name 'ShppngBllNum'.
+Invalid column name 'SupplNm'.
+Invalid column name 'Ct-1Val'. ==> RR RRG ==> LineNo : 2822
+23-12-2014 11:10:08 ==> Report Service ==> Invalid column name 'ShppngBllNum'.
+Invalid column name 'SupplNm'.
+Invalid column name 'Ct-1Val'. ==> RR RRG ==> LineNo : 2822
+26-12-2014 12:04:19 ==> Weekly Reports ==> Thread was being aborted. ==> RR RRG ==> LineNo : 398
+22-01-2015 17:59:35 ==> Report Service ==> Invalid column name 'CreatedDate'. ==> RR RRG ==> LineNo : 2139
+22-01-2015 18:01:09 ==> Report Service ==> Invalid column name 'CreatedDate'. ==> RR RRG ==> LineNo : 2139
+22-01-2015 18:01:42 ==> Report Service ==> The multi-part identifier "@MAA.CreatedDate" could not be bound. ==> RR RRG ==> LineNo : 2139
+27-01-2015 16:58:02 ==> Report Service ==> Conversion failed when converting from a character string to uniqueidentifier. ==> RR RRG ==> LineNo : 220
+27-01-2015 16:58:19 ==> Report Service ==> Conversion failed when converting from a character string to uniqueidentifier. ==> RR RRG ==> LineNo : 220
+27-01-2015 16:58:29 ==> Report Service ==> Conversion failed when converting from a character string to uniqueidentifier. ==> RR RRG ==> LineNo : 220
+27-01-2015 17:24:43 ==> Report Service ==> Conversion failed when converting from a character string to uniqueidentifier. ==> RR RRG ==> LineNo : 220
+05-02-2015 17:57:17 ==> Weekly FPO Reports ==> Thread was being aborted. ==> Apollo Admin ==> LineNo : 630
+10/16/2018 6:07:02 PM ==> Report Service ==> Invalid column name 'ComapnyId'. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 2809
+12-12-2019 15:00:29 ==> Report Service ==> Invalid column name 'ComapnyId'. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 2809

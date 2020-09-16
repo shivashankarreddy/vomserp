@@ -1,0 +1,196 @@
+08-25-2014 PM 03:28:08 ==> Enum Master ==> Data Inserted successfully in Enum Master. ==> DELL INDIA PVT LTD DELL
+08-25-2014 PM 03:28:33 ==> Contact Master ==> Data Updated successfully in Contact Master. ==> DELL INDIA PVT LTD DELL
+08-25-2014 PM 06:21:50 ==> Contact Master ==> Data inserted successfully in Contact Master. ==> User Novo
+08-26-2014 PM 06:17:52 ==> Enum Master ==> Data Updated successfully in Enum Master. ==> NOVO NII
+09-02-2014 PM 02:25:13 ==> Email Send ==> Mail Sent And Details Inserted Successfully ==> Deepika Glocem User
+09-02-2014 PM 03:30:06 ==> Company Details ==> Data Updated successfully. ==> Super Admin
+09-03-2014 PM 03:00:55 ==> Team Master ==> Data inserted successfully in Team Master. ==> Super Admin
+09-03-2014 PM 03:05:15 ==> Role Action Master ==> Data Inserted successfully in Role Action Master. ==> Super Admin
+09-06-2014 PM 04:42:35 ==> Financial Year Master ==> Inserted successfully in Financial Year Master. ==> NAYASA INDIA PVT LTD NIPL
+09-06-2014 PM 04:43:04 ==> Excise Bond Master ==> Data Inserted successfully in Excise Bond Master. ==> NAYASA INDIA PVT LTD NIPL
+09-06-2014 PM 04:44:13 ==> Excise Bond Master ==> Data Inserted successfully in Excise Bond Master. ==> NAYASA INDIA PVT LTD NIPL
+09-06-2014 PM 04:45:11 ==> Excise Bond Master ==> Data Inserted successfully in Excise Bond Master. ==> NAYASA INDIA PVT LTD NIPL
+09-06-2014 PM 04:47:09 ==> Excise Bond Master ==> Data Inserted successfully in Excise Bond Master. ==> NAYASA INDIA PVT LTD NIPL
+09-06-2014 PM 04:47:19 ==> Excise Bond Master ==> Deleted successfully. ==> NAYASA INDIA PVT LTD NIPL
+09-06-2014 PM 04:47:22 ==> Excise Bond Master ==> Deleted successfully. ==> NAYASA INDIA PVT LTD NIPL
+09-06-2014 PM 04:47:25 ==> Excise Bond Master ==> Deleted successfully. ==> NAYASA INDIA PVT LTD NIPL
+09-06-2014 PM 04:47:44 ==> Excise Bond Master ==> Data Inserted successfully in Excise Bond Master. ==> NAYASA INDIA PVT LTD NIPL
+09-06-2014 PM 04:47:50 ==> Excise Bond Master ==> Deleted successfully. ==> NAYASA INDIA PVT LTD NIPL
+09-06-2014 PM 07:08:37 ==> Contact Master ==> Data inserted successfully in Contact Master. ==> GLOCEM PVT LTD GCM
+09-09-2014 PM 01:10:46 ==> Team Master ==> Data Updated successfully in Team Master. ==> Super Admin
+09-09-2014 PM 01:11:23 ==> Team Master ==> Data Updated successfully in Team Master. ==> Super Admin
+09-09-2014 PM 04:26:12 ==> Enum Master ==> Data Inserted successfully in Enum Master. ==> Super Admin
+09-09-2014 PM 04:29:26 ==> Enum Master ==> Data Inserted successfully in Enum Master. ==> Super Admin
+09-11-2014 PM 12:57:23 ==> Supplier Master ==> Data Updated successfully in Supplier Master. ==> HERO MOTO CROP HERO
+09-11-2014 PM 12:57:32 ==> Supplier Master ==> Data Updated successfully in Supplier Master. ==> HERO MOTO CROP HERO
+09-11-2014 PM 01:08:22 ==> Supplier Master ==> Data Updated successfully in Supplier Master. ==> HERO MOTO CROP HERO
+07-10-2014 11:32:05 ==> Item Master ==> Data Updated successfully in Item Master. ==> First Client SECOND User
+10-10-2014 15:06:40 ==> Item Master ==> Data Updated successfully in Item Master. ==> First Client SECOND User
+10-10-2014 15:06:47 ==> Item Master ==> Data Updated successfully in Item Master. ==> First Client SECOND User
+13-10-2014 14:48:36 ==> Enum Type Master ==> Data Inserted successfully in Enum Type Master. ==> Super Admin
+13-10-2014 15:05:32 ==> Enum Type Master ==> Data Deleted successfully in Enum Type Master. ==> Super Admin
+16-10-2014 14:30:41 ==> Customer Master ==> Data Inserted successfully in Customer Master. ==> Super Admin
+16-10-2014 14:31:02 ==> Team Master ==> Data inserted successfully in Team Master. ==> Super Admin
+16-10-2014 14:31:40 ==> Role Action Master ==> Data Inserted successfully in Role Action Master. ==> Super Admin
+16-10-2014 14:32:32 ==> Request for Chage Password ==> Password Changed Successfully. ==> Testing Company Test
+16-10-2014 14:34:08 ==> Supplier Master ==> Data Inserted successfully in Supplier Master. ==> Testing Company Test
+16-10-2014 14:35:26 ==> Customer Master ==> Data Inserted successfully in Customer Master. ==> Testing Company Test
+16-10-2014 14:37:05 ==> Contact Master ==> Data inserted successfully in Contact Master. ==> Testing Company Test
+16-10-2014 14:37:31 ==> Contact Master ==> Data inserted successfully in Contact Master. ==> Testing Company Test
+16-10-2014 14:46:58 ==> Email Send ==> Mail Sent And Details Inserted Successfully ==> Testing Company Test
+16-10-2014 14:48:58 ==> Email Send ==> Mail Sent And Details Inserted Successfully ==> Testing Company Test
+16-10-2014 14:51:10 ==> Request for Chage Password ==> Password Changed Successfully. ==> Test Customer
+16-10-2014 14:52:15 ==> Team Master ==> Data inserted successfully in Team Master. ==> Testing Company Test ==> LineNo : 456
+16-10-2014 14:55:13 ==> Role Action Master ==> Data Inserted successfully in Role Action Master. ==> Testing Company Test
+16-10-2014 14:55:33 ==> Role Action Master ==> Data Inserted successfully in Role Action Master. ==> Testing Company Test
+16-10-2014 14:55:58 ==> Role Action Master ==> Data Inserted successfully in Role Action Master. ==> Testing Company Test
+16-10-2014 15:19:32 ==> Role Action Master ==> Data Inserted successfully in Role Action Master. ==> Testing Company Test
+16-10-2014 15:22:23 ==> Role Action Master ==> Data Inserted successfully in Role Action Master. ==> Testing Company Test
+16-10-2014 15:41:36 ==> Email Send ==> Mail Sent And Details Inserted Successfully ==> Testing Company Test
+16-10-2014 17:35:21 ==> Role Action Master ==> Data Inserted successfully in Role Action Master. ==> Testing Company Test
+16-10-2014 17:37:54 ==> Role Action Master ==> Data Inserted successfully in Role Action Master. ==> Testing Company Test
+16-10-2014 17:47:41 ==> Role Action Master ==> Data Inserted successfully in Role Action Master. ==> Testing Company Test
+16-10-2014 17:50:28 ==> Email Send ==> Mail Sent And Details Inserted Successfully ==> Testing Company Test
+20-10-2014 11:49:31 ==> Contact Master ==> Data Updated successfully in Contact Master. ==> First Client SECOND User
+20-10-2014 11:50:39 ==> Request for Chage Password ==> Password Changed Successfully. ==> Cust mer
+20-10-2014 11:52:09 ==> Role Action Master ==> Data Inserted successfully in Role Action Master. ==> First Client SECOND User
+20-10-2014 11:54:27 ==> Contact Master ==> Data inserted successfully in Contact Master. ==> First Client ONE User
+20-10-2014 11:54:40 ==> Contact Master ==> Data inserted successfully in Contact Master. ==> First Client ONE User
+20-10-2014 11:55:09 ==> Team Master ==> Data inserted successfully in Team Master. ==> First Client ONE User ==> LineNo : 456
+20-10-2014 11:55:39 ==> Role Action Master ==> Data Inserted successfully in Role Action Master. ==> First Client ONE User
+20-10-2014 11:56:22 ==> Request for Chage Password ==> Password Changed Successfully. ==> TCS TCS
+20-10-2014 15:54:33 ==> Customer Master ==> Data Deleted successfully in Customer Master. ==> First Client SECOND User
+20-10-2014 15:54:36 ==> Customer Master ==> Data Deleted successfully in Customer Master. ==> First Client SECOND User
+20-10-2014 15:54:38 ==> Customer Master ==> Data Deleted successfully in Customer Master. ==> First Client SECOND User
+20-10-2014 15:54:41 ==> Customer Master ==> Data Deleted successfully in Customer Master. ==> First Client SECOND User
+20-10-2014 15:55:19 ==> Customer Master ==> Data Inserted successfully in Customer Master. ==> First Client SECOND User
+20-10-2014 15:56:07 ==> Contact Master ==> Data inserted successfully in Contact Master. ==> First Client SECOND User
+20-10-2014 15:56:24 ==> Contact Master ==> Data inserted successfully in Contact Master. ==> First Client SECOND User
+20-10-2014 15:56:40 ==> Team Master ==> Data inserted successfully in Team Master. ==> First Client SECOND User ==> LineNo : 456
+20-10-2014 15:57:49 ==> Role Action Master ==> Data Inserted successfully in Role Action Master. ==> First Client SECOND User
+20-10-2014 15:58:24 ==> Request for Chage Password ==> Password Changed Successfully. ==> Test Customer
+13-11-2014 12:52:37 ==> Role Action Master ==> Data Inserted successfully in Role Action Master. ==> Apollo Admin
+13-11-2014 12:54:18 ==> Role Action Master ==> Data Inserted successfully in Role Action Master. ==> Apollo Admin
+13-11-2014 13:00:37 ==> Role Action Master ==> Data Inserted successfully in Role Action Master. ==> Apollo Admin
+05-12-2014 11:25:08 ==> Financial Year Master ==> Inserted successfully in Financial Year Master. ==> Apollo Admin
+05-12-2014 11:25:11 ==> Financial Year Master ==> Data Deleted successfully. ==> Apollo Admin
+05-12-2014 11:26:40 ==> Financial Year Master ==> Data Deleted successfully. ==> Apollo Admin
+05-12-2014 11:29:37 ==> Financial Year Master ==> Inserted successfully in Financial Year Master. ==> Apollo Admin
+05-12-2014 11:30:22 ==> Financial Year Master ==> Data Deleted successfully. ==> Apollo Admin
+05-12-2014 11:33:25 ==> Financial Year Master ==> Inserted successfully in Financial Year Master. ==> Apollo Admin
+05-12-2014 11:33:37 ==> Financial Year Master ==> Data Deleted successfully. ==> Apollo Admin
+18-12-2014 11:30:13 ==> Role Action Master ==> Data Inserted successfully in Role Action Master. ==> Super Admin
+06-01-2015 13:07:28 ==> Role Action Master ==> Data Inserted successfully in Role Action Master. ==> Super Admin
+08-01-2015 12:53:20 ==> Role Action Master ==> Data Inserted successfully in Role Action Master. ==> RR RRG
+03-02-2015 13:01:39 ==> Role Action Master ==> Data Inserted successfully in Role Action Master. ==> Apollo Admin
+03-02-2015 13:07:13 ==> Role Action Master ==> Data Inserted successfully in Role Action Master. ==> Super Admin
+03-02-2015 13:25:30 ==> Role Action Master ==> Data Inserted successfully in Role Action Master. ==> Super Admin
+03-02-2015 14:14:54 ==> Role Action Master ==> Data Inserted successfully in Role Action Master. ==> Super Admin
+03-02-2015 15:14:05 ==> Role Action Master ==> Data Inserted successfully in Role Action Master. ==> Apollo Admin
+04-02-2015 14:18:03 ==> Role Action Master ==> Data Inserted successfully in Role Action Master. ==> Super Admin
+04-02-2015 14:18:21 ==> Role Action Master ==> Data Inserted successfully in Role Action Master. ==> Super Admin
+04-02-2015 14:20:34 ==> Role Action Master ==> Data Inserted successfully in Role Action Master. ==> Super Admin
+27-02-2015 16:00:22 ==> Company Details ==> Data Inserted successfully. ==> Super Admin
+02-03-2015 12:00:10 ==> Customer Master ==> Data Updated successfully in Customer Master. ==> RR RRG
+13-03-2015 15:27:11 ==> Email Send ==> Mail Sent And Details Inserted Successfully ==> Apollo Admin
+02-04-2015 14:32:44 ==> Financial Year Master ==> Updated successfully in Financial Year Master. ==> Apollo Admin
+04-05-2015 18:12:52 ==> Email Send ==> Mail Sent And Details Inserted Successfully ==> GLOCEM PVT LTD GCM
+11-05-2015 17:23:56 ==> Email Send ==> Mail Sent And Details Inserted Successfully ==> Apollo Admin
+18-05-2015 15:50:14 ==> Email Send ==> Mail Sent And Details Inserted Successfully ==> GLOCEM PVT LTD GCM
+19-05-2015 16:18:59 ==> Contact Master ==> Data inserted successfully in Contact Master. ==> GLOCEM PVT LTD GCM
+09-06-2015 17:48:56 ==> Financial Year Master ==> Updated successfully in Financial Year Master. ==> GLOCEM PVT LTD GCM
+10-06-2015 16:14:26 ==> Company Details ==> Data Inserted successfully. ==> Super Admin
+10-06-2015 17:06:40 ==> Financial Year Master ==> Inserted successfully in Financial Year Master. ==> Company One CMP
+19-06-2015 12:04:05 ==> Company Master ==> Data Updated successfully in Company Master. ==> Super Admin
+22-06-2015 12:44:15 ==> Email Send ==> Mail Sent And Details Inserted Successfully ==> GLOCEM PVT LTD GCM
+09-07-2015 12:40:47 ==> Role Action Master ==> Data Inserted successfully in Role Action Master. ==> System Admin
+09-07-2015 12:45:22 ==> Role Action Master ==> Data Inserted successfully in Role Action Master. ==> System Admin
+09-07-2015 14:40:36 ==> Role Action Master ==> Data Inserted successfully in Role Action Master. ==> System Admin
+09-07-2015 14:41:10 ==> Role Action Master ==> Data Inserted successfully in Role Action Master. ==> System Admin
+09-07-2015 14:41:24 ==> Role Action Master ==> Data Inserted successfully in Role Action Master. ==> System Admin
+09-07-2015 14:42:40 ==> Role Action Master ==> Data Inserted successfully in Role Action Master. ==> System Admin
+09-07-2015 14:43:37 ==> Role Action Master ==> Data Inserted successfully in Role Action Master. ==> System Admin
+09-07-2015 14:44:18 ==> Role Action Master ==> Data Inserted successfully in Role Action Master. ==> System Admin
+09-07-2015 14:44:47 ==> Role Action Master ==> Data Inserted successfully in Role Action Master. ==> System Admin
+09-07-2015 14:45:36 ==> Role Action Master ==> Data Inserted successfully in Role Action Master. ==> System Admin
+09-07-2015 17:44:34 ==> Role Action Master ==> Data Inserted successfully in Role Action Master. ==> GLOCEM PVT LTD GCM
+16-07-2015 11:05:37 ==> Company Master ==> Data Inserted successfully in Company Master. ==> Super Admin
+16-07-2015 11:06:52 ==> Request for Chage Password ==> Password Changed Successfully. ==> Glocem Glocem
+16-07-2015 11:08:00 ==> Team Master ==> Data inserted successfully in Team Master. ==> Super Admin ==> LineNo : 478
+16-07-2015 11:09:11 ==> Role Action Master ==> Data Inserted successfully in Role Action Master. ==> Super Admin
+16-07-2015 11:12:05 ==> Role Action Master ==> Data Inserted successfully in Role Action Master. ==> Super Admin
+16-07-2015 12:14:39 ==> Customer Master ==> Data Inserted successfully in Customer Master. ==> Glocem Glocem
+16-07-2015 12:16:50 ==> Contact Master ==> Data inserted successfully in Contact Master. ==> Glocem Glocem
+16-07-2015 12:17:05 ==> Contact Master ==> Data inserted successfully in Contact Master. ==> Glocem Glocem
+16-07-2015 12:17:24 ==> Team Master ==> Data inserted successfully in Team Master. ==> Glocem Glocem ==> LineNo : 478
+16-07-2015 12:39:31 ==> Role Action Master ==> Data Inserted successfully in Role Action Master. ==> Glocem Glocem
+16-07-2015 12:40:12 ==> Request for Chage Password ==> Password Changed Successfully. ==> Larsen and Tubro
+16-07-2015 12:41:52 ==> Role Action Master ==> Data Inserted successfully in Role Action Master. ==> Glocem Glocem
+16-07-2015 13:03:11 ==> Team Master ==> Data inserted successfully in Team Master. ==> Super Admin
+16-07-2015 13:04:29 ==> Role Action Master ==> Data Inserted successfully in Role Action Master. ==> Super Admin
+16-07-2015 13:05:16 ==> Role Action Master ==> Data Inserted successfully in Role Action Master. ==> Super Admin
+16-07-2015 17:27:20 ==> Company Master ==> Data Updated successfully in Company Master. ==> Super Admin
+16-07-2015 17:30:21 ==> Company Master ==> Data Updated successfully in Company Master. ==> Super Admin
+16-07-2015 17:52:01 ==> Role Action Master ==> Data Inserted successfully in Role Action Master. ==> Super Admin
+16-07-2015 17:52:26 ==> Role Action Master ==> Data Inserted successfully in Role Action Master. ==> Super Admin
+17-07-2015 11:05:51 ==> Role Action Master ==> Data Inserted successfully in Role Action Master. ==> Super Admin
+17-07-2015 11:06:07 ==> Role Action Master ==> Data Inserted successfully in Role Action Master. ==> Super Admin
+17-07-2015 11:26:51 ==> Company Details ==> Data Inserted successfully. ==> Super Admin
+17-07-2015 11:27:47 ==> Company Master ==> Data Updated successfully in Company Master. ==> Super Admin
+22-07-2015 16:21:55 ==> Role Action Master ==> Data Inserted successfully in Role Action Master. ==> Super Admin
+22-07-2015 16:22:08 ==> Role Action Master ==> Data Inserted successfully in Role Action Master. ==> Super Admin
+06-08-2015 12:50:57 ==> Role Action Master ==> Data Inserted successfully in Role Action Master. ==> Super Admin
+06-08-2015 15:51:31 ==> Role Action Master ==> Data Inserted successfully in Role Action Master. ==> Super Admin
+11-08-2015 15:16:34 ==> Financial Year Master ==> Updated successfully in Financial Year Master. ==> Volta Impex Pvt.Ltd. VIPL
+11-08-2015 16:27:51 ==> Financial Year Master ==> Updated successfully in Financial Year Master. ==> Glocem Glocem
+11-08-2015 16:28:34 ==> Financial Year Master ==> Updated successfully in Financial Year Master. ==> Volta Impex Pvt.Ltd. VIPL
+11-08-2015 16:29:26 ==> Financial Year Master ==> Updated successfully in Financial Year Master. ==> Glocem Glocem
+14-08-2015 18:54:55 ==> Customer Master ==> Data Deleted successfully in Customer Master. ==> Super Admin
+17-08-2015 11:09:46 ==> Team Master ==> Data inserted successfully in Team Master. ==> Super Admin
+17-08-2015 11:11:51 ==> Role Action Master ==> Data Inserted successfully in Role Action Master. ==> Super Admin
+18-08-2015 15:38:12 ==> Contact Master ==> Data inserted successfully in Contact Master. ==> Super Admin
+18-08-2015 15:43:41 ==> Contact Master ==> Data Updated successfully in Contact Master. ==> Super Admin
+18-08-2015 15:53:33 ==> Contact Master ==> Data Updated successfully in Contact Master. ==> Super Admin
+18-08-2015 15:58:05 ==> Company Master ==> Data Updated successfully in Company Master. ==> Super Admin
+12/12/2018 6:17:02 PM ==> Item Master ==> Data Updated successfully in Item Master. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+12/12/2018 6:17:22 PM ==> Item Master ==> Data Updated successfully in Item Master. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+12/12/2018 6:17:38 PM ==> Item Master ==> Data Updated successfully in Item Master. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+12/12/2018 6:17:51 PM ==> Item Master ==> Data Updated successfully in Item Master. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+2/19/2019 3:18:43 PM ==> Email Send ==> Mail Sent And Details Inserted Successfully ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+2/19/2019 7:10:28 PM ==> Email Send ==> Mail Sent And Details Inserted Successfully ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+2/19/2019 7:15:32 PM ==> Email Send ==> Mail Sent And Details Inserted Successfully ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+2/19/2019 7:16:40 PM ==> Email Send ==> Mail Sent And Details Inserted Successfully ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+4/8/2019 1:27:08 PM ==> Financial Year Master ==> Inserted successfully in Financial Year Master. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+4/8/2019 1:30:52 PM ==> Financial Year Master ==> Data Deleted successfully. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+4/8/2019 1:31:06 PM ==> Financial Year Master ==> Inserted successfully in Financial Year Master. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+4/8/2019 2:46:42 PM ==> Financial Year Master ==> Inserted successfully in Financial Year Master. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+5/16/2019 5:17:05 PM ==> Email Send ==> Mail Sent And Details Inserted Successfully ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+05-11-2019 11:38:03 ==> Team Master ==> Data Updated successfully in Team Master. ==> BITKEMY IMPEX PRIVATE LIMITED BIPL
+05-11-2019 11:39:46 ==> Team Member Master ==> Data inserted successfully in Team Member Master. ==> BITKEMY IMPEX PRIVATE LIMITED BIPL
+05-11-2019 11:45:49 ==> Contact Master ==> Data Updated successfully in Contact Master. ==> BITKEMY IMPEX PRIVATE LIMITED BIPL
+05-11-2019 12:04:40 ==> Contact Master ==> Data Updated successfully in Contact Master. ==> BITKEMY IMPEX PRIVATE LIMITED BIPL
+05-11-2019 12:05:58 ==> Contact Master ==> Data Updated successfully in Contact Master. ==> BITKEMY IMPEX PRIVATE LIMITED BIPL
+05-11-2019 12:32:59 ==> Role Action Master ==> Data Inserted successfully in Role Action Master. ==> BITKEMY IMPEX PRIVATE LIMITED BIPL
+14-11-2019 15:32:41 ==> Team Member Master ==> Data inserted successfully in Team Member Master. ==> BITKEMY IMPEX PRIVATE LIMITED BIPL
+14-11-2019 15:36:38 ==> Role Action Master ==> Data Inserted successfully in Role Action Master. ==> BITKEMY IMPEX PRIVATE LIMITED BIPL
+14-11-2019 15:41:24 ==> Role Action Master ==> Data Inserted successfully in Role Action Master. ==> BITKEMY IMPEX PRIVATE LIMITED BIPL
+14-11-2019 18:55:21 ==> Contact Master ==> Data Updated successfully in Contact Master. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+14-11-2019 19:20:51 ==> Team Member Master ==> Data inserted successfully in Team Member Master. ==> BITKEMY IMPEX PRIVATE LIMITED BIPL
+14-11-2019 19:26:07 ==> Contact Master ==> Data inserted successfully in Contact Master. ==> BITKEMY IMPEX PRIVATE LIMITED BIPL
+14-11-2019 19:26:48 ==> Contact Master ==> Data inserted successfully in Contact Master. ==> BITKEMY IMPEX PRIVATE LIMITED BIPL
+14-11-2019 19:27:03 ==> Team Member Master ==> Data inserted successfully in Team Member Master. ==> BITKEMY IMPEX PRIVATE LIMITED BIPL
+14-11-2019 19:27:43 ==> Request for Chage Password ==> Password Changed Successfully. ==> Satya ss
+15-11-2019 14:32:20 ==> Role Action Master ==> Data Inserted successfully in Role Action Master. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+15-11-2019 14:33:24 ==> Role Action Master ==> Data Inserted successfully in Role Action Master. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+15-11-2019 14:39:57 ==> Role Action Master ==> Data Inserted successfully in Role Action Master. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+15-11-2019 14:41:55 ==> Role Action Master ==> Data Inserted successfully in Role Action Master. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+15-11-2019 14:42:44 ==> Role Action Master ==> Data Inserted successfully in Role Action Master. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+15-11-2019 14:51:25 ==> Role Action Master ==> Data Inserted successfully in Role Action Master. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+15-11-2019 15:07:36 ==> Role Action Master ==> Data Inserted successfully in Role Action Master. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+15-11-2019 15:08:08 ==> Role Action Master ==> Data Inserted successfully in Role Action Master. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+19-11-2019 14:47:10 ==> Contact Master ==> Data Updated successfully in Contact Master. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+19-11-2019 18:10:46 ==> Contact Master ==> Data Updated successfully in Contact Master. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+19-11-2019 18:10:55 ==> Contact Master ==> Data Updated successfully in Contact Master. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+12-05-2020 17:17:34 ==> Financial Year Master ==> Inserted successfully in Financial Year Master. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+12-05-2020 17:29:32 ==> Financial Year Master ==> Data Deleted successfully. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+12-05-2020 17:29:54 ==> Financial Year Master ==> Inserted successfully in Financial Year Master. ==> VOLTA IMPEX PRIVATE LIMITED VIPL

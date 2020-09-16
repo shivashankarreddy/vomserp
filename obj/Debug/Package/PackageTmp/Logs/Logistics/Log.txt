@@ -1,0 +1,320 @@
+08-25-2014 PM 04:31:02 ==> Request for Central Excise Details ==> Data inserted successfully. ==> DELL INDIA PVT LTD DELL
+09-03-2014 PM 02:38:33 ==> Request for Central Excise Details ==> Data inserted successfully. ==> Deepika Glocem User
+09-03-2014 PM 02:39:51 ==> IOM Form Details ==> Data inserted successfully. ==> Deepika Glocem User
+09-03-2014 PM 02:40:04 ==> IOM Form Details ==> Data inserted successfully. ==> Deepika Glocem User
+09-03-2014 PM 02:40:58 ==> CT-1 Generation ==> Inserted Successfully. ==> Deepika Glocem User
+09-03-2014 PM 02:42:46 ==> Despatch Instructions ==> Data inserted successfully. ==> Deepika Glocem User
+09-06-2014 PM 07:31:10 ==> IOM Form Details ==> Data inserted successfully. ==> NAYASA INDIA PVT LTD NIPL
+09-06-2014 PM 07:31:28 ==> IOM Form Details ==> Data inserted successfully. ==> NAYASA INDIA PVT LTD NIPL
+09-10-2014 PM 03:00:54 ==> Request for Central Excise Details ==> Data inserted successfully. ==> NEW COMPANY COMPANY ONE
+09-10-2014 PM 03:56:59 ==> Request for Central Excise Details ==> Data inserted successfully. ==> KK TECH KKT
+09-10-2014 PM 06:10:42 ==> Request for Central Excise Details ==> Data inserted successfully. ==> NEW COMPANY COMPANY ONE
+09-11-2014 PM 06:55:14 ==> Goods Receipt Note(GRN) Details ==> Inserted successfully. ==> HERO MOTO CROP HERO
+09-17-2014 PM 04:55:55 ==> Request for Central Excise Details ==> Data inserted successfully. ==> User Test Company
+09-19-2014 PM 04:58:02 ==> Proforma Invoice ==> Data inserted successfully. ==> NEW COMPANY COMPANY ONE
+21-10-2014 17:33:46 ==> Proforma Invoice ==> Data inserted successfully. ==> First Client SECOND User
+21-10-2014 17:40:10 ==> Proforma Invoice ==> Data inserted successfully. ==> First Client SECOND User
+22-10-2014 11:13:52 ==> Request for Central Excise Details ==> Data inserted successfully. ==> First Client SECOND User
+22-10-2014 11:14:47 ==> IOM Form Details ==> Data inserted successfully. ==> First Client SECOND User
+22-10-2014 11:14:57 ==> IOM Form Details ==> Data inserted successfully. ==> First Client SECOND User
+22-10-2014 11:15:47 ==> CT-1 Generation ==> Inserted Successfully. ==> First Client SECOND User
+22-10-2014 11:18:54 ==> Goods Receipt Note(GRN) Details ==> Inserted successfully. ==> First Client SECOND User
+22-10-2014 11:37:35 ==> Proforma Invoice ==> Data inserted successfully. ==> First Client SECOND User
+22-10-2014 15:24:43 ==> Proforma Invoice ==> Data inserted successfully. ==> First Client SECOND User
+22-10-2014 15:33:11 ==> Request for Central Excise Details ==> Data inserted successfully. ==> First Client SECOND User
+22-10-2014 15:34:01 ==> IOM Form Details ==> Data inserted successfully. ==> First Client SECOND User
+22-10-2014 15:34:07 ==> IOM Form Details ==> Data inserted successfully. ==> First Client SECOND User
+22-10-2014 15:34:36 ==> CT-1 Generation ==> Inserted Successfully. ==> First Client SECOND User
+22-10-2014 15:36:02 ==> Despatch Instructions ==> Data inserted successfully. ==> First Client SECOND User
+22-10-2014 15:37:09 ==> Goods Receipt Note(GRN) Details ==> Inserted successfully. ==> First Client SECOND User
+22-10-2014 15:38:17 ==> Proforma Invoice ==> Data inserted successfully. ==> First Client SECOND User
+27-10-2014 11:50:23 ==> Proforma Invoice ==> Data inserted successfully. ==> First Client SECOND User
+27-10-2014 14:52:28 ==> Request for Central Excise Details ==> Data inserted successfully. ==> First Client SECOND User
+27-10-2014 14:53:25 ==> IOM Form Details ==> Data inserted successfully. ==> First Client SECOND User
+27-10-2014 14:53:57 ==> IOM Form Details ==> Data inserted successfully. ==> First Client SECOND User
+27-10-2014 14:54:32 ==> CT-1 Generation ==> Inserted Successfully. ==> First Client SECOND User
+27-10-2014 14:56:56 ==> Despatch Instructions ==> Data inserted successfully. ==> First Client SECOND User
+27-10-2014 14:59:15 ==> Goods Receipt Note(GRN) Details ==> Inserted successfully. ==> First Client SECOND User
+27-10-2014 15:00:10 ==> Proforma Invoice ==> Data inserted successfully. ==> First Client SECOND User
+27-10-2014 16:51:59 ==> Proforma Invoice ==> Data inserted successfully. ==> First Client SECOND User
+28-10-2014 16:07:59 ==> Packing List ==> Data inserted successfully. ==> First Client SECOND User
+29-10-2014 11:05:43 ==> Proforma Invoice ==> Data inserted successfully. ==> First Client SECOND User
+29-10-2014 11:06:41 ==> Proforma Invoice ==> Data inserted successfully. ==> First Client SECOND User
+29-10-2014 11:40:49 ==> Proforma Invoice ==> Data inserted successfully. ==> First Client SECOND User
+29-10-2014 11:48:34 ==> Proforma Invoice ==> Data inserted successfully. ==> First Client SECOND User
+29-10-2014 11:51:48 ==> Packing List ==> Data inserted successfully. ==> First Client SECOND User
+29-10-2014 12:30:13 ==> Packing List ==> Data inserted successfully. ==> First Client SECOND User
+29-10-2014 18:34:38 ==> Proforma Invoice ==> Data inserted successfully. ==> First Client SECOND User
+29-10-2014 18:34:56 ==> Packing List ==> Data inserted successfully. ==> First Client SECOND User
+30-10-2014 12:10:29 ==> Proforma Invoice ==> Data inserted successfully. ==> NAYASA INDIA PVT LTD NIPL
+30-10-2014 12:16:09 ==> Packing List ==> Data inserted successfully. ==> NAYASA INDIA PVT LTD NIPL
+30-10-2014 14:11:29 ==> Proforma Invoice ==> Data inserted successfully. ==> NAYASA INDIA PVT LTD NIPL
+30-10-2014 14:22:47 ==> Packing List ==> Data inserted successfully. ==> NAYASA INDIA PVT LTD NIPL
+31-10-2014 14:13:31 ==> IOM Form Details ==> Data inserted successfully. ==> First Client SECOND User
+31-10-2014 14:13:51 ==> IOM Form Details ==> Data inserted successfully. ==> First Client SECOND User
+03-11-2014 15:40:21 ==> IOM Form Details ==> Data inserted successfully. ==> First Client SECOND User
+03-11-2014 15:40:41 ==> IOM Form Details ==> Data inserted successfully. ==> First Client SECOND User
+03-11-2014 16:05:29 ==> Proforma Invoice ==> Data inserted successfully. ==> First Client SECOND User
+03-11-2014 16:05:43 ==> Packing List ==> Data inserted successfully. ==> First Client SECOND User
+03-11-2014 16:06:29 ==> IOM Form Details ==> Data inserted successfully. ==> First Client SECOND User
+03-11-2014 16:06:50 ==> IOM Form Details ==> Data inserted successfully. ==> First Client SECOND User
+03-11-2014 16:07:01 ==> IOM Form Details ==> Data inserted successfully. ==> First Client SECOND User
+03-11-2014 16:14:29 ==> IOM Form Details ==> Data inserted successfully. ==> First Client SECOND User
+03-11-2014 16:14:55 ==> IOM Form Details ==> Data inserted successfully. ==> First Client SECOND User
+03-11-2014 17:34:44 ==> Request for Central Excise Details ==> Data inserted successfully. ==> First Client SECOND User
+03-11-2014 17:35:30 ==> IOM Form Details ==> Data inserted successfully. ==> First Client SECOND User
+03-11-2014 17:35:38 ==> IOM Form Details ==> Data inserted successfully. ==> First Client SECOND User
+03-11-2014 17:36:12 ==> CT-1 Generation ==> Inserted Successfully. ==> First Client SECOND User
+03-11-2014 17:37:01 ==> Despatch Instructions ==> Data inserted successfully. ==> First Client SECOND User
+03-11-2014 17:38:09 ==> Goods Receipt Note(GRN) Details ==> Inserted successfully. ==> First Client SECOND User
+03-11-2014 17:38:50 ==> Proforma Invoice ==> Data inserted successfully. ==> First Client SECOND User
+03-11-2014 17:39:00 ==> Packing List ==> Data inserted successfully. ==> First Client SECOND User
+03-11-2014 17:39:48 ==> IOM Form Details ==> Data inserted successfully. ==> First Client SECOND User
+03-11-2014 17:40:01 ==> IOM Form Details ==> Data inserted successfully. ==> First Client SECOND User
+04-11-2014 17:59:27 ==> Request for Central Excise Details ==> Data inserted successfully. ==> First Client SECOND User
+04-11-2014 18:00:11 ==> IOM Form Details ==> Data inserted successfully. ==> First Client SECOND User
+04-11-2014 18:00:18 ==> IOM Form Details ==> Data inserted successfully. ==> First Client SECOND User
+04-11-2014 18:01:05 ==> CT-1 Generation ==> Inserted Successfully. ==> First Client SECOND User
+04-11-2014 18:01:56 ==> Despatch Instructions ==> Data inserted successfully. ==> First Client SECOND User
+04-11-2014 18:02:51 ==> Goods Receipt Note(GRN) Details ==> Inserted successfully. ==> First Client SECOND User
+04-11-2014 18:03:34 ==> Proforma Invoice ==> Data inserted successfully. ==> First Client SECOND User
+04-11-2014 18:03:55 ==> Packing List ==> Data inserted successfully. ==> First Client SECOND User
+04-11-2014 18:04:29 ==> IOM Form Details ==> Data inserted successfully. ==> First Client SECOND User
+04-11-2014 18:04:48 ==> IOM Form Details ==> Data inserted successfully. ==> First Client SECOND User
+04-11-2014 18:09:50 ==> Proforma Invoice ==> Data inserted successfully. ==> First Client SECOND User
+04-11-2014 18:10:02 ==> Packing List ==> Data inserted successfully. ==> First Client SECOND User
+04-11-2014 18:10:36 ==> IOM Form Details ==> Data inserted successfully. ==> First Client SECOND User
+04-11-2014 18:10:49 ==> IOM Form Details ==> Data inserted successfully. ==> First Client SECOND User
+11-11-2014 12:03:06 ==> Request for Central Excise Details ==> Data inserted successfully. ==> First Client SECOND User
+11-11-2014 12:04:32 ==> IOM Form Details ==> Data inserted successfully. ==> First Client SECOND User
+11-11-2014 12:04:42 ==> IOM Form Details ==> Data inserted successfully. ==> First Client SECOND User
+11-11-2014 12:05:33 ==> CT-1 Generation ==> Inserted Successfully. ==> First Client SECOND User
+11-11-2014 12:07:06 ==> Goods Receipt Note(GRN) Details ==> Inserted successfully. ==> First Client SECOND User
+11-11-2014 12:56:47 ==> Request for Central Excise Details ==> Data inserted successfully. ==> First Client SECOND User
+11-11-2014 12:57:36 ==> IOM Form Details ==> Data inserted successfully. ==> First Client SECOND User
+11-11-2014 12:57:44 ==> IOM Form Details ==> Data inserted successfully. ==> First Client SECOND User
+11-11-2014 12:58:39 ==> CT-1 Generation ==> Inserted Successfully. ==> First Client SECOND User
+11-11-2014 12:59:51 ==> Goods Receipt Note(GRN) Details ==> Inserted successfully. ==> First Client SECOND User
+18-11-2014 11:55:10 ==> Request for Central Excise Details ==> Data inserted successfully. ==> Balaji Group BLG
+18-11-2014 11:56:11 ==> IOM Form Details ==> Data inserted successfully. ==> Balaji Group BLG
+18-11-2014 11:56:19 ==> IOM Form Details ==> Data inserted successfully. ==> Balaji Group BLG
+18-11-2014 11:57:54 ==> CT-1 Generation ==> Inserted Successfully. ==> Balaji Group BLG
+18-11-2014 12:01:35 ==> Goods Receipt Note(GRN) Details ==> Inserted successfully. ==> Balaji Group BLG
+18-11-2014 12:02:43 ==> Proforma Invoice ==> Data inserted successfully. ==> Balaji Group BLG
+18-11-2014 12:02:59 ==> Packing List ==> Data inserted successfully. ==> Balaji Group BLG
+18-11-2014 12:03:33 ==> IOM Form Details ==> Data inserted successfully. ==> Balaji Group BLG
+18-11-2014 12:03:55 ==> IOM Form Details ==> Data inserted successfully. ==> Balaji Group BLG
+26-12-2014 11:09:57 ==> Proforma Invoice ==> Data inserted successfully. ==> RR RRG
+06-01-2015 17:19:13 ==> Packing List ==> Data inserted successfully. ==> Apollo Admin
+07-01-2015 12:27:46 ==> Proforma Invoice ==> Data inserted successfully. ==> RR RRG
+07-01-2015 12:53:14 ==> Request for Central Excise Details ==> Data inserted successfully. ==> Apollo Admin
+12-01-2015 17:06:59 ==> Mate Receipt ==> Data inserted successfully. ==> RR RRG
+16-01-2015 14:27:27 ==> Proforma Invoice ==> Data inserted successfully. ==> RR RRG
+20-01-2015 18:34:48 ==> CT-1 Generation ==> Updated Successfully. ==> RR RRG
+20-01-2015 18:36:25 ==> CT-1 Generation ==> Updated Successfully. ==> RR RRG
+20-01-2015 18:36:44 ==> CT-1 Generation ==> Updated Successfully. ==> RR RRG
+22-01-2015 15:07:08 ==> Packing List ==> Data inserted successfully. ==> Apollo Admin
+22-01-2015 17:29:53 ==> Proforma Invoice ==> Data inserted successfully. ==> Apollo Admin
+27-01-2015 14:42:25 ==> Packing List ==> Data inserted successfully. ==> Apollo Admin
+13-03-2015 15:38:21 ==> IOM Form Details ==> Data inserted successfully. ==> Apollo Admin
+13-03-2015 15:40:59 ==> IOM Form Details ==> Data inserted successfully. ==> Apollo Admin
+13-03-2015 15:41:21 ==> IOM Form Details ==> Data inserted successfully. ==> Apollo Admin
+31-03-2015 12:42:44 ==> Goods Receipt Note(GRN) Details ==> Updated successfully. ==> Apollo Admin
+31-03-2015 13:04:15 ==> Goods Receipt Note(GRN) Details ==> Updated successfully. ==> Apollo Admin
+31-03-2015 13:57:56 ==> Goods Receipt Note(GRN) Details ==> Updated successfully. ==> Apollo Admin
+31-03-2015 14:25:38 ==> Goods Receipt Note(GRN) Details ==> Updated successfully. ==> Apollo Admin
+31-03-2015 15:22:42 ==> Goods Receipt Note(GRN) Details ==> Updated successfully. ==> Apollo Admin
+11-05-2015 17:23:06 ==> Request for Central Excise Details ==> Data inserted successfully. ==> Apollo Admin
+11-05-2015 17:24:32 ==> IOM Form Details ==> Data inserted successfully. ==> Apollo Admin
+11-05-2015 17:24:42 ==> IOM Form Details ==> Data inserted successfully. ==> Apollo Admin
+11-05-2015 17:25:17 ==> CT-1 Generation ==> Inserted Successfully. ==> Apollo Admin
+11-05-2015 17:53:44 ==> Goods Receipt Note(GRN) Details ==> Inserted successfully. ==> Apollo Admin
+11-05-2015 17:54:19 ==> Proforma Invoice ==> Data inserted successfully. ==> Apollo Admin
+11-05-2015 17:54:51 ==> Packing List ==> Data inserted successfully. ==> Apollo Admin
+18-05-2015 15:48:44 ==> Request for Central Excise Details ==> Data inserted successfully. ==> GLOCEM PVT LTD GCM
+18-05-2015 15:51:23 ==> IOM Form Details ==> Data inserted successfully. ==> GLOCEM PVT LTD GCM
+18-05-2015 15:51:35 ==> IOM Form Details ==> Data inserted successfully. ==> GLOCEM PVT LTD GCM
+18-05-2015 15:52:38 ==> CT-1 Generation ==> Inserted Successfully. ==> GLOCEM PVT LTD GCM
+18-05-2015 15:54:12 ==> Despatch Instructions ==> Data inserted successfully. ==> GLOCEM PVT LTD GCM
+26-05-2015 18:59:43 ==> IOM Form Details ==> Data inserted successfully. ==> GLOCEM PVT LTD GCM
+26-05-2015 19:00:11 ==> IOM Form Details ==> Data inserted successfully. ==> GLOCEM PVT LTD GCM
+26-05-2015 19:00:34 ==> IOM Form Details ==> Data inserted successfully. ==> GLOCEM PVT LTD GCM
+26-05-2015 19:00:49 ==> IOM Form Details ==> Data inserted successfully. ==> GLOCEM PVT LTD GCM
+01-06-2015 14:52:39 ==> Proforma Invoice ==> Data inserted successfully. ==> ZenQ ZenQ
+01-06-2015 14:55:04 ==> Proforma Invoice ==> Data inserted successfully. ==> ZenQ ZenQ
+01-06-2015 14:59:35 ==> Proforma Invoice ==> Data inserted successfully. ==> ZenQ ZenQ
+22-06-2015 12:43:38 ==> Request for Central Excise Details ==> Data inserted successfully. ==> GLOCEM PVT LTD GCM
+22-06-2015 12:44:59 ==> IOM Form Details ==> Data inserted successfully. ==> GLOCEM PVT LTD GCM
+22-06-2015 12:46:04 ==> IOM Form Details ==> Data inserted successfully. ==> GLOCEM PVT LTD GCM
+22-06-2015 12:46:39 ==> CT-1 Generation ==> Inserted Successfully. ==> GLOCEM PVT LTD GCM
+22-06-2015 13:00:03 ==> Despatch Instructions ==> Data inserted successfully. ==> GLOCEM PVT LTD GCM
+22-06-2015 13:01:39 ==> GDN Details ==> Inserted successfully. ==> GLOCEM PVT LTD GCM
+22-06-2015 13:02:48 ==> Goods Receipt Note(GRN) Details ==> Inserted successfully. ==> GLOCEM PVT LTD GCM
+22-06-2015 14:39:23 ==> Proforma Invoice ==> Data inserted successfully. ==> GLOCEM PVT LTD GCM
+22-06-2015 14:43:02 ==> Packing List ==> Data inserted successfully. ==> GLOCEM PVT LTD GCM
+22-06-2015 14:43:52 ==> IOM Form Details ==> Data inserted successfully. ==> GLOCEM PVT LTD GCM
+22-06-2015 14:45:45 ==> IOM Form Details ==> Data inserted successfully. ==> GLOCEM PVT LTD GCM
+22-06-2015 16:28:31 ==> Mate Receipt ==> Data inserted successfully. ==> GLOCEM PVT LTD GCM
+22-06-2015 16:29:05 ==> E-BRC Details ==> Data inserted successfully. ==> GLOCEM PVT LTD GCM
+02-07-2015 14:47:14 ==> Request for Central Excise Details ==> Data inserted successfully. ==> System Admin
+02-07-2015 14:59:14 ==> Request for Central Excise Details ==> Data inserted successfully. ==> System Admin
+02-07-2015 14:59:35 ==> Request for Central Excise Status ==> Row Deleted successfully. ==> System Admin
+02-07-2015 14:59:37 ==> Request for Central Excise Status ==> Row Deleted successfully. ==> System Admin
+02-07-2015 14:59:40 ==> Request for Central Excise Status ==> Row Deleted successfully. ==> System Admin
+02-07-2015 15:00:15 ==> Request for Central Excise Details ==> Data inserted successfully. ==> System Admin
+06-07-2015 18:27:15 ==> Despatch Instructions ==> Data inserted successfully. ==> GLOCEM PVT LTD GCM
+06-07-2015 18:27:50 ==> GDN Details ==> Inserted successfully. ==> GLOCEM PVT LTD GCM
+10/16/2018 4:42:23 PM ==> Despatch Instructions ==> Data inserted successfully. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+10/16/2018 4:43:42 PM ==> Goods Receipt Note(GRN) Details ==> Inserted successfully. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+10/16/2018 5:07:48 PM ==> Despatch Instructions ==> Data inserted successfully. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+10/16/2018 5:11:04 PM ==> Goods Receipt Note(GRN) Details ==> Inserted successfully. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+10/16/2018 5:19:13 PM ==> Goods Receipt Note(GRN) Details ==> Updated successfully. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+10/18/2018 12:33:03 PM ==> Despatch Instructions ==> Data inserted successfully. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+10/18/2018 12:34:07 PM ==> Goods Receipt Note(GRN) Details ==> Inserted successfully. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+10/18/2018 4:41:04 PM ==> Despatch Instructions ==> Data inserted successfully. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+10/18/2018 4:42:22 PM ==> Goods Receipt Note(GRN) Details ==> Inserted successfully. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+10/18/2018 4:59:19 PM ==> Goods Receipt Note(GRN) Details ==> Inserted successfully. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+10/24/2018 12:33:49 PM ==> Proforma Invoice ==> Data inserted successfully. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+10/24/2018 6:02:54 PM ==> Packing List ==> Data inserted successfully. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+10/25/2018 2:34:16 PM ==> GDN Status ==> Approved Successfully. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+10/29/2018 12:56:06 PM ==> Despatch Instructions ==> Data inserted successfully. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+10/29/2018 12:56:45 PM ==> GDN Details ==> Inserted successfully. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+10/29/2018 12:57:34 PM ==> Goods Receipt Note(GRN) Details ==> Inserted successfully. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+10/29/2018 4:41:47 PM ==> Despatch Instructions ==> Data inserted successfully. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+10/29/2018 4:42:51 PM ==> GDN Details ==> Inserted successfully. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+10/30/2018 1:18:55 PM ==> Despatch Instructions ==> Data inserted successfully. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+10/30/2018 3:36:36 PM ==> GDN Details ==> Inserted successfully. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+10/30/2018 3:50:19 PM ==> GDN Details ==> Inserted successfully. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+10/30/2018 4:04:05 PM ==> GDN Details ==> Inserted successfully. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+10/31/2018 1:07:57 PM ==> Despatch Instructions ==> Data inserted successfully. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+10/31/2018 1:10:09 PM ==> GDN Details ==> Inserted successfully. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+10/31/2018 1:14:56 PM ==> Goods Receipt Note(GRN) Details ==> Inserted successfully. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+10/31/2018 1:20:12 PM ==> Goods Receipt Note(GRN) Details ==> Inserted successfully. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+10/31/2018 5:04:08 PM ==> Despatch Instructions ==> Data inserted successfully. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+10/31/2018 5:04:58 PM ==> GDN Details ==> Inserted successfully. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+10/31/2018 5:05:39 PM ==> Goods Receipt Note(GRN) Details ==> Inserted successfully. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+10/31/2018 5:06:17 PM ==> Despatch Instructions ==> Data inserted successfully. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+10/31/2018 5:06:53 PM ==> GDN Details ==> Inserted successfully. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+10/31/2018 5:07:24 PM ==> Goods Receipt Note(GRN) Details ==> Inserted successfully. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+11/1/2018 10:39:13 AM ==> Despatch Instructions ==> Data inserted successfully. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+11/1/2018 10:39:54 AM ==> GDN Details ==> Inserted successfully. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+11/1/2018 10:40:38 AM ==> Goods Receipt Note(GRN) Details ==> Inserted successfully. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+11/1/2018 10:41:22 AM ==> Despatch Instructions ==> Data inserted successfully. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+11/1/2018 10:42:09 AM ==> GDN Details ==> Inserted successfully. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+11/1/2018 10:43:07 AM ==> Goods Receipt Note(GRN) Details ==> Inserted successfully. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+11/1/2018 10:45:54 AM ==> Goods Receipt Note(GRN) Details ==> Updated successfully. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+11/1/2018 11:02:21 AM ==> Goods Receipt Note(GRN) Details ==> Updated successfully. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+11/1/2018 3:59:20 PM ==> Despatch Instructions ==> Data inserted successfully. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+11/1/2018 3:59:58 PM ==> GDN Details ==> Inserted successfully. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+11/1/2018 4:00:59 PM ==> Goods Receipt Note(GRN) Details ==> Inserted successfully. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+11/1/2018 4:02:15 PM ==> Despatch Instructions ==> Data inserted successfully. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+11/1/2018 4:02:45 PM ==> GDN Details ==> Inserted successfully. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+11/1/2018 4:04:57 PM ==> Goods Receipt Note(GRN) Details ==> Inserted successfully. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+11/2/2018 9:57:31 AM ==> Despatch Instructions ==> Data inserted successfully. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+11/2/2018 9:58:33 AM ==> GDN Details ==> Inserted successfully. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+11/14/2018 1:03:07 PM ==> Despatch Instructions ==> Data inserted successfully. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+11/14/2018 1:04:22 PM ==> GDN Details ==> Inserted successfully. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+11/14/2018 1:12:15 PM ==> Despatch Instructions ==> Data inserted successfully. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+11/14/2018 1:12:55 PM ==> GDN Details ==> Inserted successfully. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+11/14/2018 1:13:45 PM ==> Proforma Invoice ==> Data inserted successfully. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+11/14/2018 3:09:17 PM ==> Despatch Instructions ==> Data inserted successfully. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+11/14/2018 3:09:56 PM ==> GDN Details ==> Inserted successfully. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+12/21/2018 1:11:12 PM ==> GDN Details ==> Updated successfully. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+5/8/2019 4:52:33 PM ==> Despatch Instructions ==> Data inserted successfully. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+5/8/2019 4:54:12 PM ==> Despatch Instructions ==> Data inserted successfully. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+5/8/2019 5:25:44 PM ==> Despatch Instructions ==> Data inserted successfully. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+5/8/2019 5:26:18 PM ==> Despatch Instructions ==> Data inserted successfully. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+5/8/2019 5:27:09 PM ==> Despatch Instructions ==> Data inserted successfully. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+5/8/2019 5:27:38 PM ==> Despatch Instructions ==> Data inserted successfully. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+5/8/2019 5:28:45 PM ==> Despatch Instructions ==> Data inserted successfully. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+5/8/2019 5:33:55 PM ==> GDN Details ==> Inserted successfully. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+5/8/2019 5:35:44 PM ==> GDN Details ==> Inserted successfully. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+5/8/2019 5:39:04 PM ==> Despatch Instructions ==> Data inserted successfully. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+5/8/2019 5:42:58 PM ==> Despatch Instructions ==> Data inserted successfully. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+5/8/2019 5:44:59 PM ==> Despatch Instructions ==> Data inserted successfully. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+5/8/2019 5:46:19 PM ==> Despatch Instructions ==> Data inserted successfully. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+5/8/2019 5:47:33 PM ==> Despatch Instructions ==> Data inserted successfully. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+5/8/2019 5:48:23 PM ==> Despatch Instructions ==> Data inserted successfully. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+5/8/2019 5:49:01 PM ==> Despatch Instructions ==> Data inserted successfully. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+5/8/2019 5:49:44 PM ==> Despatch Instructions ==> Data inserted successfully. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+5/8/2019 5:50:24 PM ==> Despatch Instructions ==> Data inserted successfully. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+5/8/2019 5:51:20 PM ==> Despatch Instructions ==> Data inserted successfully. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+5/8/2019 5:51:57 PM ==> Despatch Instructions ==> Data inserted successfully. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+5/8/2019 5:54:17 PM ==> GDN Details ==> Inserted successfully. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+5/8/2019 5:54:57 PM ==> GDN Details ==> Inserted successfully. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+5/8/2019 6:00:58 PM ==> GDN Details ==> Inserted successfully. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+5/8/2019 6:02:15 PM ==> GDN Details ==> Inserted successfully. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+5/8/2019 6:03:19 PM ==> GDN Details ==> Inserted successfully. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+5/8/2019 6:11:02 PM ==> GDN Details ==> Inserted successfully. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+5/8/2019 6:12:04 PM ==> GDN Details ==> Inserted successfully. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+5/8/2019 6:14:14 PM ==> GDN Details ==> Inserted successfully. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+5/8/2019 6:16:45 PM ==> GDN Details ==> Inserted successfully. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+5/8/2019 6:17:46 PM ==> GDN Details ==> Inserted successfully. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+5/8/2019 6:39:18 PM ==> Proforma Invoice ==> Data inserted successfully. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+5/8/2019 6:41:05 PM ==> Packing List ==> Data inserted successfully. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+5/14/2019 11:58:16 AM ==> Packing List ==> Data inserted successfully. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+5/14/2019 12:21:20 PM ==> Despatch Instructions ==> Data inserted successfully. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+5/14/2019 12:34:59 PM ==> Packing List ==> Data inserted successfully. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+5/14/2019 7:44:07 PM ==> Proforma Invoice ==> Data inserted successfully. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+5/14/2019 7:44:35 PM ==> Packing List ==> Data inserted successfully. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+5/15/2019 2:37:51 PM ==> Despatch Instructions ==> Data inserted successfully. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+5/15/2019 2:39:09 PM ==> GDN Details ==> Inserted successfully. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+5/15/2019 2:40:06 PM ==> GDN Details ==> Updated successfully. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+5/15/2019 3:14:09 PM ==> Despatch Instructions ==> Data inserted successfully. ==> Manjuna Devi
+5/15/2019 3:22:15 PM ==> GDN Details ==> Inserted successfully. ==> Manjuna Devi
+5/15/2019 3:38:55 PM ==> GDN Details ==> Inserted successfully. ==> Manjuna Devi
+5/15/2019 3:41:10 PM ==> GDN Details ==> Updated successfully. ==> Manjuna Devi
+5/15/2019 5:00:35 PM ==> GDN Details ==> Updated successfully. ==> Manjuna Devi
+5/15/2019 5:06:32 PM ==> GDN Details ==> Updated successfully. ==> Manjuna Devi
+5/15/2019 6:33:26 PM ==> GDN Details ==> Updated successfully. ==> Manjuna Devi
+5/15/2019 6:37:02 PM ==> GDN Details ==> Updated successfully. ==> Manjuna Devi
+5/15/2019 7:32:59 PM ==> Proforma Invoice ==> Data inserted successfully. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+5/15/2019 7:57:57 PM ==> Packing List ==> Data inserted successfully. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+5/16/2019 10:55:52 AM ==> Despatch Instructions ==> Data inserted successfully. ==> Manjuna Devi
+5/16/2019 10:56:08 AM ==> Despatch Instructions ==> Data inserted successfully. ==> Manjuna Devi
+5/16/2019 10:56:50 AM ==> GDN Details ==> Inserted successfully. ==> Manjuna Devi
+5/16/2019 10:57:23 AM ==> GDN Details ==> Inserted successfully. ==> Manjuna Devi
+5/16/2019 11:52:50 AM ==> Proforma Invoice ==> Data inserted successfully. ==> Manjuna Devi
+5/16/2019 11:53:49 AM ==> Packing List ==> Data inserted successfully. ==> Manjuna Devi
+5/16/2019 12:59:25 PM ==> Proforma Invoice ==> Data inserted successfully. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+5/16/2019 2:01:46 PM ==> Packing List ==> Data inserted successfully. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+5/16/2019 5:26:23 PM ==> Proforma Invoice ==> Data inserted successfully. ==> Manjuna Devi
+5/17/2019 4:57:42 PM ==> Proforma Invoice ==> Data inserted successfully. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+5/17/2019 4:58:03 PM ==> Packing List ==> Data inserted successfully. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+5/17/2019 7:47:25 PM ==> Proforma Invoice ==> Data inserted successfully. ==> Manjuna Devi
+5/20/2019 12:33:31 PM ==> IOM Form Details ==> Data inserted successfully. ==> Manjuna Devi
+5/20/2019 12:34:10 PM ==> IOM Form Details ==> Data inserted successfully. ==> Manjuna Devi
+5/20/2019 6:15:00 PM ==> Proforma Invoice ==> Data inserted successfully. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+5/20/2019 6:18:38 PM ==> Proforma Invoice ==> Data inserted successfully. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+5/20/2019 6:39:33 PM ==> Proforma Invoice ==> Data inserted successfully. ==> Manjuna Devi
+5/20/2019 6:42:16 PM ==> Packing List ==> Data inserted successfully. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+5/21/2019 5:56:29 PM ==> Proforma Invoice ==> Data inserted successfully. ==> Manjuna Devi
+5/21/2019 6:05:57 PM ==> Proforma Invoice ==> Data inserted successfully. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+5/22/2019 11:21:43 AM ==> Proforma Invoice ==> Data inserted successfully. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+5/22/2019 6:31:02 PM ==> Proforma Invoice ==> Data inserted successfully. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+5/22/2019 6:32:52 PM ==> Despatch Instructions ==> Data inserted successfully. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+5/22/2019 6:33:23 PM ==> GDN Details ==> Inserted successfully. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+5/24/2019 11:18:22 AM ==> Proforma Invoice ==> Data inserted successfully. ==> Manjuna Devi
+5/24/2019 11:28:06 AM ==> Packing List ==> Data inserted successfully. ==> Manjuna Devi
+5/29/2019 12:21:35 PM ==> GDN Details ==> Updated successfully. ==> Manjuna Devi
+5/29/2019 12:22:51 PM ==> GDN Details ==> Updated successfully. ==> Manjuna Devi
+5/29/2019 12:54:58 PM ==> Packing List ==> Data inserted successfully. ==> Manjuna Devi
+5/29/2019 3:30:02 PM ==> Proforma Invoice ==> Data inserted successfully. ==> Manjuna Devi
+5/29/2019 6:37:47 PM ==> Packing List ==> Data inserted successfully. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+5/30/2019 2:33:57 PM ==> Packing List ==> Data inserted successfully. ==> Manjuna Devi
+5/30/2019 2:34:43 PM ==> Packing List ==> Data inserted successfully. ==> Manjuna Devi
+5/30/2019 2:35:13 PM ==> Packing List ==> Data inserted successfully. ==> Manjuna Devi
+5/30/2019 3:04:20 PM ==> Proforma Invoice ==> Data inserted successfully. ==> Manjuna Devi
+5/30/2019 3:15:10 PM ==> Proforma Invoice ==> Data inserted successfully. ==> Manjuna Devi
+5/30/2019 3:15:41 PM ==> Proforma Invoice ==> Data inserted successfully. ==> Manjuna Devi
+5/30/2019 3:16:23 PM ==> Proforma Invoice ==> Data inserted successfully. ==> Manjuna Devi
+6/11/2019 10:35:23 AM ==> Proforma Invoice ==> Data inserted successfully. ==> K Lakshmi Priya
+6/11/2019 11:56:11 AM ==> Packing List ==> Data inserted successfully. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+6/11/2019 12:22:30 PM ==> Proforma Invoice ==> Data inserted successfully. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+6/11/2019 12:33:00 PM ==> Packing List ==> Data inserted successfully. ==> K Lakshmi Priya
+8/12/2019 4:19:46 PM ==> E-BRC Details ==> Data inserted successfully. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+8/12/2019 5:29:54 PM ==> Proforma Invoice ==> Data inserted successfully. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+8/12/2019 5:52:33 PM ==> Packing List ==> Data inserted successfully. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+8/12/2019 5:55:22 PM ==> IOM Form Details ==> Data inserted successfully. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+8/12/2019 5:55:46 PM ==> IOM Form Details ==> Data inserted successfully. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+08-11-2019 14:42:49 ==> Proforma Invoice ==> Data inserted successfully. ==> VOLTA IMPEX PRIVATE LIMITED VIPL

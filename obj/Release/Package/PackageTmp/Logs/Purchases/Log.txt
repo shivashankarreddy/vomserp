@@ -1,0 +1,284 @@
+09-12-2014 AM 11:35:09 ==> New FPO ==> Data inserted successfully. ==> Company One CMP
+09-17-2014 PM 04:14:24 ==> Drawing Approval ==> Data inserted successfully. ==> M K GROUP  MKG
+13-10-2014 12:58:35 ==> New Local Purchase Order ==> Data Updated Successfully. ==> First Client SECOND User
+13-10-2014 12:59:52 ==> New Local Purchase Order ==> Data Updated Successfully. ==> First Client SECOND User
+13-10-2014 13:01:11 ==> New Local Purchase Order ==> Data Updated Successfully. ==> First Client SECOND User
+14-10-2014 11:27:49 ==> New Local Purchase Order ==> Data Updated Successfully. ==> First Client SECOND User
+14-10-2014 11:37:59 ==> New Local Purchase Order ==> Data Updated Successfully. ==> First Client SECOND User
+14-10-2014 12:12:57 ==> New Local Purchase Order ==> Data Updated Successfully. ==> First Client SECOND User
+14-10-2014 12:14:13 ==> New Local Purchase Order ==> Data Updated Successfully. ==> First Client SECOND User
+14-10-2014 12:53:40 ==> New Local Purchase Order ==> Data Updated Successfully. ==> First Client SECOND User
+15-10-2014 13:04:17 ==> New Local Purchase Order ==> Data Updated Successfully. ==> First Client SECOND User
+16-10-2014 15:17:32 ==> New FPO ==> Data inserted successfully. ==> Test Customer
+16-10-2014 15:27:36 ==> New FPO ==> Data inserted successfully. ==> Test Customer
+16-10-2014 15:43:36 ==> New FPO ==> Data inserted successfully. ==> Test Customer
+16-10-2014 15:44:24 ==> New FPO ==> Data inserted successfully. ==> Test Customer
+16-10-2014 17:52:00 ==> New FPO ==> Data inserted successfully. ==> Test Customer
+16-10-2014 17:53:09 ==> New FPO ==> Data inserted successfully. ==> Test Customer
+21-10-2014 11:23:20 ==> New FPO ==> Data inserted successfully. ==> First Client SECOND User
+21-10-2014 11:33:20 ==> New Local Purchase Order Verbal ==> Data Inserted Successfully. ==> First Client SECOND User
+21-10-2014 17:37:12 ==> New FPO ==> Data inserted successfully. ==> First Client SECOND User
+21-10-2014 17:37:42 ==> New Local Purchase Order Verbal ==> Data Inserted Successfully. ==> First Client SECOND User
+21-10-2014 17:38:04 ==> New Local Purchase Order Verbal ==> Data Updated Successfully. ==> First Client SECOND User
+22-10-2014 10:38:08 ==> New FPO ==> Data inserted successfully. ==> First Client SECOND User
+22-10-2014 11:13:11 ==> New FPO ==> Data inserted successfully. ==> First Client SECOND User
+22-10-2014 11:13:35 ==> New Local Purchase Order ==> Data Inserted Successfully. ==> First Client SECOND User
+22-10-2014 15:13:16 ==> New Local Purchase Order Verbal ==> Data Inserted Successfully. ==> First Client SECOND User
+22-10-2014 15:32:40 ==> New FPO ==> Data inserted successfully. ==> First Client SECOND User
+22-10-2014 15:32:58 ==> New Local Purchase Order ==> Data Inserted Successfully. ==> First Client SECOND User
+27-10-2014 11:48:20 ==> New FPO ==> Data inserted successfully. ==> First Client SECOND User
+27-10-2014 11:49:31 ==> New Local Purchase Order Verbal ==> Data Inserted Successfully. ==> First Client SECOND User
+27-10-2014 14:51:53 ==> New FPO ==> Data inserted successfully. ==> First Client SECOND User
+27-10-2014 14:52:13 ==> New Local Purchase Order ==> Data Inserted Successfully. ==> First Client SECOND User
+27-10-2014 16:50:13 ==> New FPO ==> Data inserted successfully. ==> First Client SECOND User
+27-10-2014 16:50:42 ==> New Local Purchase Order Verbal ==> Data Inserted Successfully. ==> First Client SECOND User
+29-10-2014 10:56:54 ==> New FPO ==> Data inserted successfully. ==> First Client SECOND User
+29-10-2014 10:57:26 ==> New Local Purchase Order Verbal ==> Data Inserted Successfully. ==> First Client SECOND User
+29-10-2014 11:47:05 ==> New FPO ==> Data inserted successfully. ==> First Client SECOND User
+29-10-2014 11:47:31 ==> New Local Purchase Order Verbal ==> Data Inserted Successfully. ==> First Client SECOND User
+29-10-2014 18:31:21 ==> New FPO ==> Data inserted successfully. ==> First Client SECOND User
+29-10-2014 18:31:46 ==> New Local Purchase Order Verbal ==> Data Inserted Successfully. ==> First Client SECOND User
+30-10-2014 10:58:26 ==> New FPO ==> Data inserted successfully. ==> First Client SECOND User
+30-10-2014 10:58:48 ==> New Local Purchase Order Verbal ==> Data Inserted Successfully. ==> First Client SECOND User
+30-10-2014 12:49:53 ==> New FPO ==> Data inserted successfully. ==> NAYASA INDIA PVT LTD NIPL
+30-10-2014 12:50:33 ==> New Local Purchase Order Verbal ==> Data Inserted Successfully. ==> NAYASA INDIA PVT LTD NIPL
+31-10-2014 11:20:15 ==> New FPO ==> Data inserted successfully. ==> First Client SECOND User
+31-10-2014 11:21:15 ==> New Local Purchase Order ==> Data Inserted Successfully. ==> First Client SECOND User
+03-11-2014 15:56:37 ==> New FPO ==> Data inserted successfully. ==> First Client SECOND User
+03-11-2014 15:57:00 ==> New Local Purchase Order Verbal ==> Data Inserted Successfully. ==> First Client SECOND User
+03-11-2014 17:34:05 ==> New FPO ==> Data inserted successfully. ==> First Client SECOND User
+03-11-2014 17:34:30 ==> New Local Purchase Order ==> Data Inserted Successfully. ==> First Client SECOND User
+04-11-2014 17:58:31 ==> New FPO ==> Data inserted successfully. ==> First Client SECOND User
+04-11-2014 17:59:00 ==> New Local Purchase Order ==> Data Inserted Successfully. ==> First Client SECOND User
+04-11-2014 18:08:10 ==> New FPO ==> Data inserted successfully. ==> First Client SECOND User
+04-11-2014 18:08:45 ==> New Local Purchase Order Verbal ==> Data Inserted Successfully. ==> First Client SECOND User
+05-11-2014 16:47:42 ==> New FPO ==> Data inserted successfully. ==> First Client SECOND User
+05-11-2014 16:48:02 ==> New Local Purchase Order ==> Data Inserted Successfully. ==> First Client SECOND User
+05-11-2014 17:28:30 ==> New Local Purchase Order ==> Data Updated Successfully. ==> First Client SECOND User
+07-11-2014 11:25:14 ==> New Local Purchase Order Verbal ==> Data Updated Successfully. ==> First Client SECOND User
+11-11-2014 11:46:29 ==> New FPO ==> Data inserted successfully. ==> Apollo Admin
+11-11-2014 11:55:23 ==> New FPO ==> Data inserted successfully. ==> First Client SECOND User
+11-11-2014 12:01:29 ==> New Local Purchase Order ==> Data Inserted Successfully. ==> First Client SECOND User
+11-11-2014 12:01:53 ==> New Local Purchase Order ==> Data Inserted Successfully. ==> First Client SECOND User
+11-11-2014 12:55:28 ==> New FPO ==> Data inserted successfully. ==> First Client SECOND User
+11-11-2014 12:55:53 ==> New Local Purchase Order ==> Data Inserted Successfully. ==> First Client SECOND User
+11-11-2014 12:56:19 ==> New Local Purchase Order ==> Data Inserted Successfully. ==> First Client SECOND User
+11-11-2014 15:45:16 ==> New FPO ==> Data inserted successfully. ==> First Client SECOND User
+11-11-2014 15:50:49 ==> New Local Purchase Order ==> Data Inserted Successfully. ==> First Client SECOND User
+11-11-2014 15:51:23 ==> New Local Purchase Order ==> Data Updated Successfully. ==> First Client SECOND User
+12-11-2014 13:05:11 ==> New Local Purchase Order ==> Data Updated Successfully. ==> First Client SECOND User
+12-11-2014 15:55:24 ==> New FPO ==> Data inserted successfully. ==> First Client SECOND User
+12-11-2014 15:55:41 ==> New Local Purchase Order ==> Data Inserted Successfully. ==> First Client SECOND User
+12-11-2014 15:57:25 ==> New Local Purchase Order Verbal ==> Data Updated Successfully. ==> First Client SECOND User
+12-11-2014 16:20:14 ==> New FPO ==> Data inserted successfully. ==> First Client SECOND User
+12-11-2014 16:20:43 ==> New Local Purchase Order ==> Data Inserted Successfully. ==> First Client SECOND User
+12-11-2014 16:20:54 ==> New Local Purchase Order ==> Data Updated Successfully. ==> First Client SECOND User
+12-11-2014 16:29:35 ==> New Local Purchase Order ==> Data Updated Successfully. ==> First Client SECOND User
+12-11-2014 16:45:53 ==> New FPO ==> Data inserted successfully. ==> First Client SECOND User
+12-11-2014 16:46:09 ==> New Local Purchase Order ==> Data Inserted Successfully. ==> First Client SECOND User
+12-11-2014 16:46:47 ==> New Local Purchase Order ==> Data Updated Successfully. ==> First Client SECOND User
+13-11-2014 10:56:50 ==> New FPO ==> Data Updated successfully. ==> Apollo Admin
+13-11-2014 13:06:29 ==> New Local Purchase Order Verbal ==> Data Inserted Successfully. ==> Apollo Admin
+13-11-2014 14:15:41 ==> New FPO ==> Data inserted successfully. ==> Apollo Admin
+13-11-2014 14:17:15 ==> New Local Purchase Order Verbal ==> Data Inserted Successfully. ==> Apollo Admin
+13-11-2014 17:03:12 ==> New Local Purchase Order Verbal ==> Data Inserted Successfully. ==> Balaji Group BLG
+13-11-2014 17:12:59 ==> New Local Purchase Order Verbal ==> Data Inserted Successfully. ==> Balaji Group BLG
+13-11-2014 18:12:35 ==> New Local Purchase Order ==> Data Inserted Successfully. ==> Balaji Group BLG
+13-11-2014 18:20:04 ==> New Local Purchase Order ==> Data Inserted Successfully. ==> Balaji Group BLG
+14-11-2014 11:30:11 ==> New FPO ==> Data inserted successfully. ==> First Client SECOND User
+14-11-2014 11:30:28 ==> New Local Purchase Order ==> Data Inserted Successfully. ==> First Client SECOND User
+14-11-2014 11:30:46 ==> New Local Purchase Order ==> Data Updated Successfully. ==> First Client SECOND User
+14-11-2014 11:49:31 ==> New Local Purchase Order ==> Data Updated Successfully. ==> First Client SECOND User
+14-11-2014 11:49:58 ==> New Local Purchase Order ==> Data Inserted Successfully. ==> First Client SECOND User
+14-11-2014 11:57:01 ==> New Local Purchase Order ==> Data Updated Successfully. ==> First Client SECOND User
+14-11-2014 12:15:38 ==> New Local Purchase Order ==> Data Inserted Successfully. ==> First Client SECOND User
+14-11-2014 12:16:14 ==> New Local Purchase Order ==> Data Updated Successfully. ==> First Client SECOND User
+14-11-2014 12:27:51 ==> New FPO ==> Data inserted successfully. ==> First Client SECOND User
+14-11-2014 12:28:11 ==> New Local Purchase Order ==> Data Inserted Successfully. ==> First Client SECOND User
+14-11-2014 12:28:25 ==> New Local Purchase Order ==> Data Updated Successfully. ==> First Client SECOND User
+14-11-2014 12:30:22 ==> New Local Purchase Order ==> Data Inserted Successfully. ==> First Client SECOND User
+14-11-2014 12:30:32 ==> New Local Purchase Order ==> Data Updated Successfully. ==> First Client SECOND User
+14-11-2014 15:02:29 ==> New Local Purchase Order Verbal ==> Data Inserted Successfully. ==> Balaji Group BLG
+14-11-2014 15:03:45 ==> New Local Purchase Order Verbal ==> Data Inserted Successfully. ==> Balaji Group BLG
+14-11-2014 15:07:23 ==> New Local Purchase Order Verbal ==> Data Inserted Successfully. ==> Balaji Group BLG
+14-11-2014 15:09:05 ==> New Local Purchase Order Verbal ==> Data Inserted Successfully. ==> Balaji Group BLG
+14-11-2014 15:16:28 ==> New Local Purchase Order Verbal ==> Data Inserted Successfully. ==> Balaji Group BLG
+14-11-2014 15:28:49 ==> New Local Purchase Order Verbal ==> Data Inserted Successfully. ==> Balaji Group BLG
+14-11-2014 15:32:09 ==> New Local Purchase Order Verbal ==> Data Inserted Successfully. ==> Balaji Group BLG
+18-11-2014 11:54:41 ==> New FPO ==> Data inserted successfully. ==> Balaji Group BLG
+18-11-2014 11:54:58 ==> New Local Purchase Order ==> Data Inserted Successfully. ==> Balaji Group BLG
+26-11-2014 18:03:23 ==> New FPO ==> Data inserted successfully. ==> Balaji Group BLG
+27-11-2014 17:15:21 ==> New FPO ==> Data inserted successfully. ==> First Client SECOND User
+27-11-2014 17:17:30 ==> New Local Purchase Order ==> Data Inserted Successfully. ==> First Client SECOND User
+27-11-2014 17:18:54 ==> New Local Purchase Order ==> Data Updated Successfully. ==> First Client SECOND User
+28-11-2014 10:48:13 ==> New FPO ==> Data inserted successfully. ==> First Client SECOND User
+28-11-2014 10:48:29 ==> New Local Purchase Order ==> Data Inserted Successfully. ==> First Client SECOND User
+28-11-2014 10:48:52 ==> New Local Purchase Order ==> Data Updated Successfully. ==> First Client SECOND User
+28-11-2014 12:04:19 ==> New FPO ==> Data inserted successfully. ==> RR RRG
+28-11-2014 18:24:08 ==> New FPO ==> Data inserted successfully. ==> First Client SECOND User
+28-11-2014 18:24:31 ==> New Local Purchase Order ==> Data Inserted Successfully. ==> First Client SECOND User
+28-11-2014 18:24:43 ==> New Local Purchase Order ==> Data Updated Successfully. ==> First Client SECOND User
+09-12-2014 12:46:27 ==> New FPO ==> Data inserted successfully. ==> First Client SECOND User
+09-12-2014 13:08:30 ==> New FPO ==> Data inserted successfully. ==> First Client SECOND User
+09-12-2014 14:25:41 ==> New FPO ==> Data inserted successfully. ==> Apollo Admin
+09-12-2014 14:26:04 ==> New Local Purchase Order ==> Data Inserted Successfully. ==> Apollo Admin
+09-12-2014 14:42:47 ==> New Local Purchase Order ==> Data Inserted Successfully. ==> First Client SECOND User
+09-12-2014 15:08:24 ==> New Local Purchase Order ==> Data Inserted Successfully. ==> First Client SECOND User
+09-12-2014 15:09:31 ==> New Local Purchase Order ==> Data Inserted Successfully. ==> Apollo Admin
+09-12-2014 15:10:08 ==> New FPO ==> Data inserted successfully. ==> Apollo Admin
+09-12-2014 15:10:24 ==> New Local Purchase Order ==> Data Inserted Successfully. ==> Apollo Admin
+09-12-2014 15:25:52 ==> New FPO ==> Data inserted successfully. ==> Apollo Admin
+09-12-2014 15:26:06 ==> New Local Purchase Order ==> Data Inserted Successfully. ==> Apollo Admin
+09-12-2014 17:39:51 ==> New FPO ==> Data inserted successfully. ==> Apollo Admin
+09-12-2014 17:40:08 ==> New Local Purchase Order ==> Data Inserted Successfully. ==> Apollo Admin
+10-12-2014 12:11:15 ==> New Local Purchase Order ==> Data Inserted Successfully. ==> Apollo Admin
+10-12-2014 12:26:06 ==> New FPO ==> Data inserted successfully. ==> Apollo Admin
+10-12-2014 12:27:24 ==> New Local Purchase Order ==> Data Inserted Successfully. ==> Apollo Admin
+10-12-2014 16:19:53 ==> New Local Purchase Order ==> Data Inserted Successfully. ==> First Client SECOND User
+10-12-2014 18:14:52 ==> New FPO ==> Data inserted successfully. ==> First Client SECOND User
+10-12-2014 18:15:12 ==> New Local Purchase Order ==> Data Inserted Successfully. ==> First Client SECOND User
+10-12-2014 18:15:26 ==> New Local Purchase Order ==> Data Updated Successfully. ==> First Client SECOND User
+10-12-2014 18:15:44 ==> New Local Purchase Order ==> Data Inserted Successfully. ==> First Client SECOND User
+10-12-2014 18:15:55 ==> New Local Purchase Order ==> Data Updated Successfully. ==> First Client SECOND User
+10-12-2014 18:16:11 ==> New Local Purchase Order ==> Data Inserted Successfully. ==> First Client SECOND User
+10-12-2014 18:16:27 ==> New Local Purchase Order ==> Data Updated Successfully. ==> First Client SECOND User
+10-12-2014 18:16:42 ==> New Local Purchase Order ==> Data Inserted Successfully. ==> First Client SECOND User
+10-12-2014 18:16:53 ==> New Local Purchase Order ==> Data Updated Successfully. ==> First Client SECOND User
+10-12-2014 18:17:12 ==> New Local Purchase Order ==> Data Inserted Successfully. ==> First Client SECOND User
+11-12-2014 14:37:50 ==> New FPO ==> Data inserted successfully. ==> Balaji Group BLG
+11-12-2014 14:40:18 ==> New Local Purchase Order Verbal ==> Data Inserted Successfully. ==> Balaji Group BLG
+11-12-2014 14:40:35 ==> New Local Purchase Order Verbal ==> Data Updated Successfully. ==> Balaji Group BLG
+12-12-2014 11:25:27 ==> New FPO ==> Data inserted successfully. ==> Apollo Admin
+12-12-2014 11:26:25 ==> New Local Purchase Order Verbal ==> Data Inserted Successfully. ==> Apollo Admin
+12-12-2014 11:27:29 ==> New Local Purchase Order Verbal ==> Data Updated Successfully. ==> Apollo Admin
+12-12-2014 15:11:04 ==> New Local Purchase Order Verbal ==> Data Inserted Successfully. ==> Apollo Admin
+12-12-2014 15:11:40 ==> New Local Purchase Order Verbal ==> Data Updated Successfully. ==> Apollo Admin
+12-12-2014 15:24:03 ==> New Local Purchase Order Verbal ==> Data Inserted Successfully. ==> Apollo Admin
+15-12-2014 11:26:47 ==> New FPO ==> Data inserted successfully. ==> RR RRG
+15-12-2014 11:27:22 ==> New Local Purchase Order Verbal ==> Data Inserted Successfully. ==> RR RRG
+15-12-2014 11:28:07 ==> New FPO ==> Data Updated successfully. ==> RR RRG
+15-12-2014 11:28:56 ==> New Local Purchase Order Verbal ==> Data Inserted Successfully. ==> RR RRG
+15-12-2014 11:48:41 ==> New Local Purchase Order ==> Data Inserted Successfully. ==> RR RRG
+15-12-2014 11:49:01 ==> New FPO ==> Data Updated successfully. ==> RR RRG
+15-12-2014 12:37:58 ==> New Local Purchase Order ==> Data Inserted Successfully. ==> RR RRG
+15-12-2014 13:53:07 ==> New FPO ==> Data inserted successfully. ==> RR RRG
+15-12-2014 13:53:35 ==> New Local Purchase Order Verbal ==> Data Inserted Successfully. ==> RR RRG
+15-12-2014 13:54:22 ==> New FPO ==> Data Updated successfully. ==> RR RRG
+15-12-2014 18:44:16 ==> New Local Purchase Order Verbal ==> Data Inserted Successfully. ==> RR RRG
+16-12-2014 11:44:19 ==> New FPO ==> Data inserted successfully. ==> RR RRG
+16-12-2014 11:44:50 ==> New Local Purchase Order Verbal ==> Data Inserted Successfully. ==> RR RRG
+16-12-2014 12:33:05 ==> New FPO ==> Data Updated successfully. ==> RR RRG
+16-12-2014 12:44:52 ==> New Local Purchase Order Verbal ==> Data Inserted Successfully. ==> RR RRG
+16-12-2014 12:48:13 ==> New FPO ==> Data inserted successfully. ==> Apollo Admin
+16-12-2014 12:49:25 ==> New Local Purchase Order Verbal ==> Data Inserted Successfully. ==> Apollo Admin
+16-12-2014 13:04:13 ==> New Local Purchase Order Verbal ==> Data Updated Successfully. ==> Apollo Admin
+17-12-2014 14:15:05 ==> New FPO ==> Data Updated successfully. ==> Apollo Admin
+17-12-2014 14:17:25 ==> New FPO ==> Data Updated successfully. ==> Apollo Admin
+17-12-2014 14:17:59 ==> New Local Purchase Order ==> Data Inserted Successfully. ==> Apollo Admin
+17-12-2014 14:22:26 ==> New FPO ==> Data Updated successfully. ==> Apollo Admin
+17-12-2014 16:59:47 ==> New Local Purchase Order Verbal ==> Data Inserted Successfully. ==> Apollo Admin
+17-12-2014 17:17:03 ==> New FPO ==> Data inserted successfully. ==> RR RRG
+26-12-2014 15:06:19 ==> New Local Purchase Order ==> Data Updated Successfully. ==> RR RRG
+26-12-2014 15:08:20 ==> New Local Purchase Order ==> Data Updated Successfully. ==> RR RRG
+03-01-2015 10:36:44 ==> New FPO ==> Data inserted successfully. ==> Apollo Admin
+03-01-2015 12:32:55 ==> New FPO ==> Data inserted successfully. ==> Apollo Admin
+05-01-2015 11:42:51 ==> New FPO ==> Data inserted successfully. ==> Apollo Admin
+05-01-2015 11:52:15 ==> New Local Purchase Order Verbal ==> Data Inserted Successfully. ==> Apollo Admin
+08-01-2015 14:55:58 ==> New FPO ==> Data inserted successfully. ==> Apollo Admin
+08-01-2015 14:56:33 ==> New Local Purchase Order Verbal ==> Data Inserted Successfully. ==> Apollo Admin
+08-01-2015 15:06:21 ==> New FPO ==> Data inserted successfully. ==> Apollo Admin
+08-01-2015 15:07:09 ==> New Local Purchase Order Verbal ==> Data Inserted Successfully. ==> Apollo Admin
+08-01-2015 15:10:36 ==> New Local Purchase Order Verbal ==> Data Inserted Successfully. ==> Apollo Admin
+08-01-2015 15:17:24 ==> New FPO ==> Data inserted successfully. ==> Apollo Admin
+08-01-2015 15:17:53 ==> New Local Purchase Order Verbal ==> Data Inserted Successfully. ==> Apollo Admin
+12-01-2015 10:34:15 ==> New FPO ==> Data inserted successfully. ==> Apollo Admin
+12-01-2015 10:34:58 ==> New Local Purchase Order Verbal ==> Data Inserted Successfully. ==> Apollo Admin
+12-01-2015 10:35:47 ==> New FPO ==> Data Updated successfully. ==> Apollo Admin
+12-01-2015 12:55:31 ==> New FPO ==> Data inserted successfully. ==> Apollo Admin
+12-01-2015 12:56:02 ==> New Local Purchase Order Verbal ==> Data Inserted Successfully. ==> Apollo Admin
+12-01-2015 12:56:36 ==> New FPO ==> Data Updated successfully. ==> Apollo Admin
+14-01-2015 14:57:31 ==> New Local Purchase Order Verbal ==> Data Inserted Successfully. ==> Apollo Admin
+14-01-2015 15:06:39 ==> New FPO ==> Data inserted successfully. ==> Apollo Admin
+14-01-2015 15:07:15 ==> New Local Purchase Order Verbal ==> Data Inserted Successfully. ==> Apollo Admin
+14-01-2015 15:07:46 ==> New FPO ==> Data Updated successfully. ==> Apollo Admin
+14-01-2015 15:11:37 ==> New Local Purchase Order Verbal ==> Data Inserted Successfully. ==> Apollo Admin
+14-01-2015 15:15:29 ==> New FPO ==> Data Updated successfully. ==> Apollo Admin
+30-01-2015 16:49:47 ==> New Local Purchase Order ==> Data Inserted Successfully. ==> Apollo Admin
+02-02-2015 13:58:28 ==> New FPO ==> Data inserted successfully. ==> Apollo Admin
+02-02-2015 13:58:54 ==> New Local Purchase Order ==> Data Inserted Successfully. ==> Apollo Admin
+04-02-2015 14:21:12 ==> New FPO ==> Data inserted successfully. ==> Apollo Admin
+04-02-2015 14:29:26 ==> New FPO ==> Data inserted successfully. ==> Apollo Admin
+04-02-2015 14:49:21 ==> New FPO ==> Data inserted successfully. ==> Apollo Admin
+04-02-2015 15:28:01 ==> New FPO ==> Data inserted successfully. ==> Apollo Admin
+04-02-2015 15:28:42 ==> New FPO ==> Data inserted successfully. ==> Apollo Admin
+04-02-2015 15:53:14 ==> New FPO ==> Data inserted successfully. ==> Apollo Admin
+04-02-2015 15:54:01 ==> New FPO ==> Data inserted successfully. ==> Apollo Admin
+04-02-2015 16:01:05 ==> New FPO ==> Data inserted successfully. ==> Apollo Admin
+04-02-2015 16:43:06 ==> New FPO ==> Data inserted successfully. ==> Apollo Admin
+04-02-2015 16:51:44 ==> New FPO ==> Data inserted successfully. ==> Apollo Admin
+05-02-2015 10:42:20 ==> New FPO ==> Data inserted successfully. ==> RR RRG
+05-02-2015 12:09:09 ==> New FPO ==> Data inserted successfully. ==> Apollo Admin
+09-02-2015 16:22:17 ==> New Local Purchase Order ==> Data Inserted Successfully. ==> Apollo Admin
+09-02-2015 16:24:07 ==> New FPO ==> Data inserted successfully. ==> Apollo Admin
+09-02-2015 16:52:37 ==> New FPO ==> Data inserted successfully. ==> Apollo Admin
+11-02-2015 16:33:23 ==> New Local Purchase Order ==> Data Inserted Successfully. ==> Apollo Admin
+11-02-2015 16:34:21 ==> New Local Purchase Order ==> Data Inserted Successfully. ==> Apollo Admin
+12-02-2015 12:34:05 ==> New FPO ==> Data inserted successfully. ==> Apollo Admin
+12-02-2015 13:30:22 ==> New FPO ==> Data Updated successfully. ==> Apollo Admin
+12-02-2015 13:31:07 ==> New Local Purchase Order Verbal ==> Data Inserted Successfully. ==> Apollo Admin
+12-02-2015 15:29:23 ==> New Local Purchase Order Verbal ==> Data Inserted Successfully. ==> Apollo Admin
+12-02-2015 15:47:19 ==> New FPO ==> Data inserted successfully. ==> Apollo Admin
+12-02-2015 15:48:30 ==> New Local Purchase Order Verbal ==> Data Inserted Successfully. ==> Apollo Admin
+04-03-2015 14:45:38 ==> New Local Purchase Order Verbal ==> Data Inserted Successfully. ==> RR RRG
+04-03-2015 17:52:57 ==> New Local Purchase Order Verbal ==> Data Inserted Successfully. ==> Apollo Admin
+01-04-2015 11:52:45 ==> New Local Purchase Order Verbal ==> Data Inserted Successfully. ==> Apollo Admin
+01-04-2015 12:06:50 ==> New FPO ==> Data inserted successfully. ==> Apollo Admin
+01-04-2015 12:10:34 ==> New FPO ==> Data inserted successfully. ==> Apollo Admin
+01-04-2015 12:34:12 ==> New FPO ==> Data inserted successfully. ==> Apollo Admin
+11-05-2015 17:22:11 ==> New FPO ==> Data inserted successfully. ==> Apollo Admin
+11-05-2015 17:22:51 ==> New Local Purchase Order ==> Data Inserted Successfully. ==> Apollo Admin
+18-05-2015 13:40:00 ==> New FPO ==> Data inserted successfully. ==> GLOCEM PVT LTD GCM
+18-05-2015 14:12:49 ==> New FPO ==> Data inserted successfully. ==> GLOCEM PVT LTD GCM
+21-05-2015 19:02:37 ==> New FPO ==> Data inserted successfully. ==> GLOCEM PVT LTD GCM
+02-06-2015 17:37:56 ==> New Local Purchase Order ==> Data Inserted Successfully. ==> ZenQ ZenQ
+11-06-2015 11:48:28 ==> New FPO ==> Data inserted successfully. ==> GLOCEM PVT LTD GCM
+11-06-2015 14:24:24 ==> New FPO ==> Data inserted successfully. ==> GLOCEM PVT LTD GCM
+11-06-2015 14:25:06 ==> New Local Purchase Order Verbal ==> Data Inserted Successfully. ==> GLOCEM PVT LTD GCM
+16-06-2015 12:02:20 ==> New FPO ==> Data inserted successfully. ==> GLOCEM PVT LTD GCM
+16-06-2015 12:02:49 ==> New Local Purchase Order ==> Data Inserted Successfully. ==> GLOCEM PVT LTD GCM
+17-06-2015 16:39:58 ==> New FPO ==> Data inserted successfully. ==> GLOCEM PVT LTD GCM
+17-06-2015 16:55:10 ==> New Local Purchase Order Verbal ==> Data Inserted Successfully. ==> GLOCEM PVT LTD GCM
+18-06-2015 11:30:07 ==> New FPO ==> Data inserted successfully. ==> GLOCEM PVT LTD GCM
+18-06-2015 11:30:44 ==> New Local Purchase Order ==> Data Inserted Successfully. ==> GLOCEM PVT LTD GCM
+18-06-2015 14:30:16 ==> New Local Purchase Order ==> Data Updated Successfully. ==> GLOCEM PVT LTD GCM
+22-06-2015 12:43:09 ==> New FPO ==> Data inserted successfully. ==> GLOCEM PVT LTD GCM
+22-06-2015 12:43:25 ==> New Local Purchase Order ==> Data Inserted Successfully. ==> GLOCEM PVT LTD GCM
+02-07-2015 15:25:34 ==> New FPO ==> Data inserted successfully. ==> System Admin
+02-07-2015 15:26:11 ==> New Local Purchase Order ==> Data Inserted Successfully. ==> System Admin
+02-07-2015 18:18:38 ==> New Local Purchase Order ==> Data Updated Successfully. ==> System Admin
+02-07-2015 18:19:38 ==> Drawing Approval ==> Data inserted successfully. ==> System Admin
+02-07-2015 18:20:35 ==> New Local Purchase Order ==> Data Updated Successfully. ==> System Admin
+06-07-2015 18:26:35 ==> New FPO ==> Data inserted successfully. ==> GLOCEM PVT LTD GCM
+06-07-2015 18:26:52 ==> New Local Purchase Order ==> Data Inserted Successfully. ==> GLOCEM PVT LTD GCM
+10/16/2018 4:41:12 PM ==> New FPO ==> Data inserted successfully. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+10/16/2018 4:41:52 PM ==> New Local Purchase Order ==> Data Inserted Successfully. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+10/16/2018 5:07:22 PM ==> New Local Purchase Order ==> Data Inserted Successfully. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+10/18/2018 12:20:30 PM ==> New FPO ==> Data inserted successfully. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+10/18/2018 12:21:28 PM ==> New Local Purchase Order ==> Data Inserted Successfully. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+10/18/2018 12:22:44 PM ==> New Local Purchase Order ==> Data Inserted Successfully. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+10/29/2018 12:54:21 PM ==> New FPO ==> Data inserted successfully. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+10/29/2018 12:54:51 PM ==> New Local Purchase Order ==> Data Inserted Successfully. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+10/29/2018 12:55:15 PM ==> New Local Purchase Order ==> Data Inserted Successfully. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+10/31/2018 1:06:13 PM ==> New FPO ==> Data inserted successfully. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+10/31/2018 1:06:45 PM ==> New Local Purchase Order ==> Data Inserted Successfully. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+11/2/2018 9:56:19 AM ==> New FPO ==> Data inserted successfully. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+11/2/2018 9:56:46 AM ==> New Local Purchase Order ==> Data Inserted Successfully. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+11/14/2018 1:02:44 PM ==> New Local Purchase Order ==> Data Inserted Successfully. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+11/14/2018 1:11:42 PM ==> New Local Purchase Order ==> Data Inserted Successfully. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+11/20/2018 2:32:38 PM ==> New Local Purchase Order ==> Data Updated Successfully. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+11/20/2018 2:33:49 PM ==> New Local Purchase Order ==> Data Updated Successfully. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+2/19/2019 12:32:59 PM ==> New Local Purchase Order ==> Data Inserted Successfully. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+2/19/2019 2:13:49 PM ==> New Local Purchase Order ==> Data Inserted Successfully. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+4/8/2019 2:48:58 PM ==> New Local Purchase Order ==> Data Inserted Successfully. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+5/15/2019 2:31:44 PM ==> New FPO ==> Data inserted successfully. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+5/15/2019 2:32:14 PM ==> New Local Purchase Order ==> Data Inserted Successfully. ==> VOLTA IMPEX PRIVATE LIMITED VIPL

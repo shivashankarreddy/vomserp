@@ -1,0 +1,1220 @@
+08-25-2014 PM 02:54:01 ==> Added Items WebService ==> Incorrect syntax near the keyword 'Order'. ==> DELL INDIA PVT LTD DELL ==> LineNo : 365
+08-25-2014 PM 03:28:37 ==> Added Items WebService ==> Incorrect syntax near the keyword 'Order'. ==> DELL INDIA PVT LTD DELL ==> LineNo : 365
+08-25-2014 PM 03:31:24 ==> Added Items WebService ==> Incorrect syntax near the keyword 'Order'. ==> DELL INDIA PVT LTD DELL ==> LineNo : 365
+08-25-2014 PM 04:31:20 ==> Foreing Enquiry Details ==> Invalid report file path. ==> DELL INDIA PVT LTD DELL
+08-25-2014 PM 04:31:32 ==> Foreing Enquiry Details ==> Invalid report file path. ==> DELL INDIA PVT LTD DELL
+08-25-2014 PM 04:35:29 ==> New Local Enquiry ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx). ==> DELL INDIA PVT LTD DELL ==> LineNo : 469
+08-25-2014 PM 05:14:52 ==> Added Items WebService ==> Invalid column name 'CreatedDate'. ==> DELL INDIA PVT LTD DELL ==> LineNo : 365
+08-25-2014 PM 05:18:39 ==> Added Items WebService ==> Invalid column name 'CreatedDate'. ==> DELL INDIA PVT LTD DELL ==> LineNo : 365
+08-25-2014 PM 05:37:05 ==> New Local Enquiry ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx). ==> User Novo ==> LineNo : 469
+08-26-2014 PM 04:00:28 ==> New Local Enquiry ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx). ==> Customer User ==> LineNo : 469
+08-27-2014 PM 12:00:26 ==> New Local Enquiry ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx). ==> GLOCEM PVT LTD GCM ==> LineNo : 469
+08-27-2014 PM 12:00:38 ==> New Foreign Enquiry ==> There is no row at position 0. ==> GLOCEM PVT LTD GCM ==> LineNo : 1154
+09-01-2014 PM 12:11:11 ==> Foreing Enquiry Details ==> Invalid report file path. ==> Deepika Glocem User
+09-02-2014 PM 12:57:47 ==> Added Items WebService ==> Incorrect syntax near 'l'. ==> GLOCEM PVT LTD GCM ==> LineNo : 696
+09-02-2014 PM 12:57:48 ==> Added Items WebService ==> Incorrect syntax near 'l'. ==> GLOCEM PVT LTD GCM ==> LineNo : 696
+09-02-2014 PM 12:57:49 ==> Added Items WebService ==> Incorrect syntax near 'l'. ==> GLOCEM PVT LTD GCM ==> LineNo : 696
+09-02-2014 PM 12:57:51 ==> Added Items WebService ==> Incorrect syntax near 'l'. ==> GLOCEM PVT LTD GCM ==> LineNo : 696
+09-02-2014 PM 12:58:23 ==> Added Items WebService ==> Incorrect syntax near 'l'. ==> GLOCEM PVT LTD GCM ==> LineNo : 696
+09-02-2014 PM 12:58:59 ==> Added Items WebService ==> Incorrect syntax near 'l'. ==> GLOCEM PVT LTD GCM ==> LineNo : 696
+09-02-2014 PM 01:01:39 ==> Added Items WebService ==> Incorrect syntax near 'l'. ==> GLOCEM PVT LTD GCM ==> LineNo : 696
+09-02-2014 PM 01:06:26 ==> Foreing Enquiry Details ==> Invalid report file path. ==> Deepika Glocem User
+09-02-2014 PM 01:07:06 ==> Foreing Enquiry Details ==> Invalid report file path. ==> Deepika Glocem User
+09-02-2014 PM 01:09:53 ==> Foreing Enquiry Details ==> Invalid report file path. ==> Deepika Glocem User
+09-02-2014 PM 01:12:17 ==> Foreing Enquiry Details ==> Invalid report file path. ==> Deepika Glocem User
+09-02-2014 PM 02:24:48 ==> Foreing Enquiry Details ==> Invalid report file path. ==> Deepika Glocem User
+09-02-2014 PM 02:25:13 ==> Foreing Enquiry Details ==> Invalid report file path. ==> Deepika Glocem User
+09-02-2014 PM 02:38:55 ==> New Foreign Enquiry ==> 'ddlRefFPO' has a SelectedValue which is invalid because it does not exist in the list of items.
+Parameter name: value ==> Deepika Glocem User ==> LineNo : 1464
+09-02-2014 PM 05:35:22 ==> Foreing Enquiry Details ==> Invalid report file path. ==> GLOCEM PVT LTD GCM
+09-02-2014 PM 05:39:28 ==> Foreing Enquiry Details ==> Invalid report file path. ==> GLOCEM PVT LTD GCM
+09-02-2014 PM 06:06:27 ==> Foreing Enquiry Details ==> Invalid report file path. ==> Deepika Glocem User
+09-02-2014 PM 06:08:22 ==> Foreing Enquiry Details ==> Invalid report file path. ==> Deepika Glocem User
+09-03-2014 PM 02:38:41 ==> Foreing Enquiry Details ==> Invalid report file path. ==> Deepika Glocem User
+09-05-2014 PM 05:20:10 ==> New Local Enquiry ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx). ==> NEW COMPANY COMPANY ONE ==> LineNo : 469
+09-05-2014 PM 06:16:40 ==> New Local Enquiry ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx). ==> Ramco Steel Industries RSI ==> LineNo : 469
+09-05-2014 PM 06:17:37 ==> New Local Enquiry ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx). ==> Ramco Steel Industries RSI ==> LineNo : 469
+09-06-2014 PM 12:57:04 ==> Foreing Enquiry Details ==> Invalid report file path. ==> DEEPIKA K
+09-06-2014 PM 06:43:10 ==> Foreing Enquiry Details ==> Invalid report file path. ==> GLOCEM PVT LTD GCM
+09-10-2014 PM 12:59:07 ==> Foreing Enquiry Details ==> Invalid report file path. ==> KK TECH KKT
+09-10-2014 PM 12:59:07 ==> Foreing Enquiry Details ==> Invalid report file path. ==> KK TECH KKT
+09-10-2014 PM 12:59:10 ==> Foreing Enquiry Details ==> Invalid report file path. ==> KK TECH KKT
+09-10-2014 PM 02:57:52 ==> Foreing Enquiry Details ==> Invalid report file path. ==> Company One CMP
+09-10-2014 PM 06:10:44 ==> Foreing Enquiry Details ==> Invalid report file path. ==> NEW COMPANY COMPANY ONE
+09-10-2014 PM 06:21:47 ==> Foreign Enquiy Details ==> Load report failed. ==> customer user
+09-10-2014 PM 06:21:47 ==> Foreing Enquiry Details ==> Invalid report file path. ==> customer user
+09-10-2014 PM 06:21:47 ==> Foreign Enquiy Details ==> Load report failed. ==> customer user
+09-10-2014 PM 06:21:47 ==> Foreing Enquiry Details ==> Invalid report file path. ==> customer user
+09-10-2014 PM 06:23:26 ==> Foreign Enquiy Details ==> Load report failed. ==> customer user
+09-10-2014 PM 06:23:26 ==> Foreing Enquiry Details ==> Invalid report file path. ==> customer user
+09-10-2014 PM 06:26:22 ==> Foreign Enquiy Details ==> Load report failed. ==> customer user
+09-10-2014 PM 06:26:22 ==> Foreing Enquiry Details ==> Invalid report file path. ==> customer user
+09-10-2014 PM 06:29:47 ==> Foreign Enquiy Details ==> Load report failed. ==> customer user
+09-10-2014 PM 06:29:47 ==> Foreing Enquiry Details ==> Invalid report file path. ==> customer user
+09-10-2014 PM 06:30:02 ==> Foreign Enquiy Details ==> Load report failed. ==> customer user
+09-10-2014 PM 06:30:02 ==> Foreing Enquiry Details ==> Invalid report file path. ==> customer user
+09-10-2014 PM 06:31:25 ==> Foreign Enquiy Details ==> Load report failed. ==> Company One CMP
+09-10-2014 PM 06:31:25 ==> Foreing Enquiry Details ==> Invalid report file path. ==> Company One CMP
+09-10-2014 PM 06:31:28 ==> Foreign Enquiy Details ==> Load report failed. ==> Company One CMP
+09-10-2014 PM 06:31:28 ==> Foreing Enquiry Details ==> Invalid report file path. ==> Company One CMP
+09-10-2014 PM 06:33:06 ==> Foreign Enquiy Details ==> Load report failed. ==> Company One CMP
+09-10-2014 PM 06:33:06 ==> Foreing Enquiry Details ==> Invalid report file path. ==> Company One CMP
+09-10-2014 PM 06:34:02 ==> Local Enquiry Details ==> Load report failed. ==> Company One CMP ==> LineNo : 147
+09-10-2014 PM 06:34:02 ==> Foreing Enquiry Details ==> Invalid report file path. ==> Company One CMP
+09-10-2014 PM 06:34:10 ==> Foreign Enquiy Details ==> Load report failed. ==> Company One CMP
+09-10-2014 PM 06:34:10 ==> Foreing Enquiry Details ==> Invalid report file path. ==> Company One CMP
+09-10-2014 PM 06:34:13 ==> Foreing Enquiry Details ==> Invalid report file path. ==> Company One CMP
+09-10-2014 PM 06:34:14 ==> Foreing Enquiry Details ==> Invalid report file path. ==> Company One CMP
+09-10-2014 PM 06:34:16 ==> Foreing Enquiry Details ==> Invalid report file path. ==> Company One CMP
+09-10-2014 PM 06:34:18 ==> Foreing Enquiry Details ==> Invalid report file path. ==> Company One CMP
+09-10-2014 PM 06:36:25 ==> Foreign Enquiy Details ==> Load report failed. ==> Company One CMP
+09-10-2014 PM 06:36:25 ==> Foreing Enquiry Details ==> Invalid report file path. ==> Company One CMP
+09-10-2014 PM 06:36:29 ==> Local Enquiry Details ==> Load report failed. ==> Company One CMP ==> LineNo : 147
+09-10-2014 PM 06:36:29 ==> Foreing Enquiry Details ==> Invalid report file path. ==> Company One CMP
+09-11-2014 PM 07:25:51 ==> Local Enquiry Details ==> A generic error occurred in GDI+. ==> GLOCEM PVT LTD GCM ==> LineNo : 140
+09-11-2014 PM 07:25:51 ==> Foreing Enquiry Details ==> Invalid report file path. ==> GLOCEM PVT LTD GCM
+09-11-2014 PM 07:25:57 ==> Local Enquiry Details ==> A generic error occurred in GDI+. ==> GLOCEM PVT LTD GCM ==> LineNo : 140
+09-11-2014 PM 07:25:57 ==> Foreing Enquiry Details ==> Invalid report file path. ==> GLOCEM PVT LTD GCM
+09-11-2014 PM 07:29:07 ==> Local Enquiry Details ==> A generic error occurred in GDI+. ==> GLOCEM PVT LTD GCM ==> LineNo : 140
+09-11-2014 PM 07:29:07 ==> Foreing Enquiry Details ==> Invalid report file path. ==> GLOCEM PVT LTD GCM
+09-11-2014 PM 07:29:08 ==> Local Enquiry Details ==> A generic error occurred in GDI+. ==> GLOCEM PVT LTD GCM ==> LineNo : 140
+09-11-2014 PM 07:29:08 ==> Foreing Enquiry Details ==> Invalid report file path. ==> GLOCEM PVT LTD GCM
+09-11-2014 PM 07:29:10 ==> Local Enquiry Details ==> A generic error occurred in GDI+. ==> GLOCEM PVT LTD GCM ==> LineNo : 140
+09-11-2014 PM 07:29:10 ==> Foreing Enquiry Details ==> Invalid report file path. ==> GLOCEM PVT LTD GCM
+09-15-2014 AM 11:10:16 ==> Local Enquiry Details ==> A generic error occurred in GDI+. ==> Company One CMP ==> LineNo : 140
+09-15-2014 AM 11:10:16 ==> Foreing Enquiry Details ==> Invalid report file path. ==> Company One CMP
+09-15-2014 AM 11:10:17 ==> Local Enquiry Details ==> A generic error occurred in GDI+. ==> Company One CMP ==> LineNo : 140
+09-15-2014 AM 11:10:17 ==> Foreing Enquiry Details ==> Invalid report file path. ==> Company One CMP
+09-15-2014 AM 11:11:18 ==> Local Enquiry Details ==> A generic error occurred in GDI+. ==> Company One CMP ==> LineNo : 140
+09-15-2014 AM 11:11:18 ==> Foreing Enquiry Details ==> Invalid report file path. ==> Company One CMP
+09-15-2014 AM 11:11:18 ==> Local Enquiry Details ==> A generic error occurred in GDI+. ==> Company One CMP ==> LineNo : 140
+09-15-2014 AM 11:11:18 ==> Foreing Enquiry Details ==> Invalid report file path. ==> Company One CMP
+09-15-2014 PM 05:45:43 ==> Local Enquiry Details ==> A generic error occurred in GDI+. ==> NEW COMPANY COMPANY ONE ==> LineNo : 140
+09-15-2014 PM 05:45:43 ==> Foreing Enquiry Details ==> Invalid report file path. ==> NEW COMPANY COMPANY ONE
+09-15-2014 PM 05:45:46 ==> Local Enquiry Details ==> A generic error occurred in GDI+. ==> NEW COMPANY COMPANY ONE ==> LineNo : 140
+09-15-2014 PM 05:45:46 ==> Foreing Enquiry Details ==> Invalid report file path. ==> NEW COMPANY COMPANY ONE
+09-15-2014 PM 06:17:30 ==> Foreing Enquiry Details ==> Invalid report file path. ==> NEW COMPANY COMPANY ONE
+09-17-2014 PM 04:56:17 ==> Foreing Enquiry Details ==> Invalid report file path. ==> User Test Company
+09-19-2014 PM 12:10:02 ==> New Local Enquiry ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx). ==> M K GROUP  MKG ==> LineNo : 469
+09-19-2014 PM 12:10:22 ==> Local Enquiry Details ==> A generic error occurred in GDI+. ==> M K GROUP  MKG ==> LineNo : 140
+09-19-2014 PM 12:10:23 ==> Foreing Enquiry Details ==> Invalid report file path. ==> M K GROUP  MKG
+09-19-2014 PM 12:10:39 ==> Local Enquiry Details ==> A generic error occurred in GDI+. ==> M K GROUP  MKG ==> LineNo : 140
+09-19-2014 PM 12:10:39 ==> Foreing Enquiry Details ==> Invalid report file path. ==> M K GROUP  MKG
+09-19-2014 PM 12:11:31 ==> New Local Enquiry ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx). ==> M K GROUP  MKG ==> LineNo : 469
+09-19-2014 PM 12:11:44 ==> New Foreign Enquiry ==> There is no row at position 0. ==> M K GROUP  MKG ==> LineNo : 1154
+09-19-2014 PM 12:19:10 ==> Local Enquiry Details ==> A generic error occurred in GDI+. ==> Company One CMP ==> LineNo : 140
+09-19-2014 PM 12:19:10 ==> Foreing Enquiry Details ==> Invalid report file path. ==> Company One CMP
+09-19-2014 PM 12:48:45 ==> New Local Enquiry ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx). ==> Company One CMP ==> LineNo : 469
+09-19-2014 PM 12:49:01 ==> New Local Enquiry ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx). ==> Company One CMP ==> LineNo : 469
+09-19-2014 PM 12:49:11 ==> New Foreign Enquiry ==> There is no row at position 0. ==> Company One CMP ==> LineNo : 1154
+09-19-2014 PM 12:49:14 ==> Local Enquiry Details ==> A generic error occurred in GDI+. ==> Company One CMP ==> LineNo : 140
+09-19-2014 PM 12:49:14 ==> Foreing Enquiry Details ==> Invalid report file path. ==> Company One CMP
+09-19-2014 PM 04:30:57 ==> Foreing Enquiry Details ==> Invalid report file path. ==> NEW COMPANY COMPANY ONE
+09-24-2014 PM 01:06:41 ==> New Local Enquiry ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx). ==> Company One CMP ==> LineNo : 469
+07-10-2014 11:30:49 ==> NewEnquiry ==> Object reference not set to an instance of an object. ==> First Client SECOND User ==> LineNo : 264
+07-10-2014 11:31:27 ==> New Local Enquiry ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx). ==> First Client SECOND User ==> LineNo : 469
+07-10-2014 11:31:33 ==> New Foreign Enquiry ==> There is no row at position 0. ==> First Client SECOND User ==> LineNo : 1159
+07-10-2014 11:32:38 ==> New Local Enquiry ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx). ==> First Client SECOND User ==> LineNo : 469
+07-10-2014 11:32:43 ==> New Foreign Enquiry ==> There is no row at position 0. ==> First Client SECOND User ==> LineNo : 1159
+07-10-2014 13:10:37 ==> New Foreign Enquiry ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx). ==> First Client SECOND User ==> LineNo : 1173
+07-10-2014 13:40:13 ==> New Foreign Enquiry ==> Column 'IsSubItem' does not belong to table . ==> First Client SECOND User ==> LineNo : 1056
+07-10-2014 13:43:59 ==> New Foreign Enquiry ==> Column 'IsSubItem' does not belong to table . ==> First Client SECOND User ==> LineNo : 1057
+07-10-2014 13:44:57 ==> New Foreign Enquiry ==> String was not recognized as a valid Boolean.Couldn't store <> in IsSubItem Column.  Expected type is Boolean. ==> First Client SECOND User ==> LineNo : 1058
+07-10-2014 13:46:29 ==> New Foreign Enquiry ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx). ==> First Client SECOND User ==> LineNo : 1175
+07-10-2014 14:15:40 ==> New Foreign Enquiry ==> Object reference not set to an instance of an object. ==> First Client SECOND User ==> LineNo : 707
+07-10-2014 14:16:00 ==> New Foreign Enquiry ==> Object reference not set to an instance of an object. ==> First Client SECOND User ==> LineNo : 707
+07-10-2014 14:17:07 ==> New Foreign Enquiry ==> Object reference not set to an instance of an object. ==> First Client SECOND User ==> LineNo : 707
+07-10-2014 14:17:54 ==> New Foreign Enquiry ==> Object reference not set to an instance of an object. ==> First Client SECOND User ==> LineNo : 707
+07-10-2014 14:18:18 ==> New Foreign Enquiry ==> Object reference not set to an instance of an object. ==> First Client SECOND User ==> LineNo : 707
+07-10-2014 14:22:34 ==> New Foreign Enquiry ==> Object reference not set to an instance of an object. ==> First Client SECOND User ==> LineNo : 707
+07-10-2014 17:17:17 ==> New LQ ==> Column 'Check' does not belong to table . ==> First Client SECOND User ==> LineNo : 957
+07-10-2014 18:22:12 ==> New LQ ==> Column 'Check' does not belong to table . ==> First Client SECOND User ==> LineNo : 1624
+08-10-2014 11:34:08 ==> New LQ ==> Column 'QPrice' does not belong to table . ==> First Client SECOND User ==> LineNo : 1619
+08-10-2014 11:42:26 ==> New LQ ==> Column 'QPrice' does not belong to table . ==> First Client SECOND User ==> LineNo : 1619
+08-10-2014 17:15:54 ==> NewEnquiry ==> Error while Saving. ==> First Client SECOND User
+08-10-2014 17:48:22 ==> NewEnquiry ==> Error while Saving. ==> First Client SECOND User
+08-10-2014 17:54:59 ==> New LQ ==> Column 'Rate' does not belong to table . ==> First Client SECOND User ==> LineNo : 950
+08-10-2014 17:57:38 ==> New LQ ==> Column 'ItemDesc' does not belong to table . ==> First Client SECOND User ==> LineNo : 971
+08-10-2014 17:57:43 ==> New LQ ==> Column 'ItemDesc' does not belong to table . ==> First Client SECOND User ==> LineNo : 971
+08-10-2014 17:59:45 ==> New LQ ==> Column 'ItemDesc' does not belong to table . ==> First Client SECOND User ==> LineNo : 971
+08-10-2014 18:07:37 ==> New LQ ==> Column 'Specifications' does not belong to table . ==> First Client SECOND User ==> LineNo : 981
+08-10-2014 18:26:04 ==> NewEnquiry ==> Error while Saving. ==> First Client SECOND User
+08-10-2014 18:37:09 ==> NewEnquiry ==> Error while Saving. ==> First Client SECOND User
+08-10-2014 18:40:37 ==> NewEnquiry ==> Error while Saving. ==> First Client SECOND User
+08-10-2014 18:42:59 ==> NewEnquiry ==> Error while Saving. ==> First Client SECOND User
+08-10-2014 18:45:47 ==> NewEnquiry ==> Error while Saving. ==> First Client SECOND User
+08-10-2014 18:47:48 ==> NewEnquiry ==> Error while Saving. ==> First Client SECOND User
+08-10-2014 18:53:19 ==> NewEnquiry ==> Error while Saving. ==> First Client SECOND User
+08-10-2014 18:53:26 ==> New Foreign Enquiry ==> Column 'IsSubItem' does not belong to table . ==> First Client SECOND User ==> LineNo : 1222
+08-10-2014 18:56:03 ==> NewEnquiry ==> Error while Saving. ==> First Client SECOND User
+08-10-2014 19:01:23 ==> NewEnquiry ==> Error while Saving. ==> First Client SECOND User
+08-10-2014 19:01:37 ==> New Foreign Enquiry ==> Column 'IsSubItem' does not belong to table . ==> First Client SECOND User ==> LineNo : 1222
+09-10-2014 10:22:42 ==> NewEnquiry ==> Object reference not set to an instance of an object. ==> First Client SECOND User ==> LineNo : 266
+09-10-2014 10:23:11 ==> NewEnquiry ==> Object reference not set to an instance of an object. ==> First Client SECOND User ==> LineNo : 266
+09-10-2014 10:25:30 ==> NewEnquiry ==> Object reference not set to an instance of an object. ==> First Client SECOND User ==> LineNo : 266
+09-10-2014 10:28:33 ==> NewEnquiry ==> Object reference not set to an instance of an object. ==> First Client SECOND User ==> LineNo : 266
+09-10-2014 10:29:11 ==> NewEnquiry ==> Object reference not set to an instance of an object. ==> First Client SECOND User ==> LineNo : 266
+09-10-2014 10:32:00 ==> NewEnquiry ==> Error while Saving. ==> First Client SECOND User
+09-10-2014 10:33:32 ==> NewEnquiry ==> Error while Saving. ==> First Client SECOND User
+09-10-2014 10:33:39 ==> New Foreign Enquiry ==> Column 'IsSubItem' does not belong to table . ==> First Client SECOND User ==> LineNo : 1226
+09-10-2014 10:37:16 ==> NewEnquiry ==> Object reference not set to an instance of an object. ==> First Client SECOND User ==> LineNo : 270
+09-10-2014 10:38:07 ==> NewEnquiry ==> Object reference not set to an instance of an object. ==> First Client SECOND User ==> LineNo : 270
+09-10-2014 10:39:31 ==> NewEnquiry ==> Error while Saving. ==> First Client SECOND User
+09-10-2014 10:39:41 ==> New Foreign Enquiry ==> Column 'IsSubItem' does not belong to table . ==> First Client SECOND User ==> LineNo : 1226
+09-10-2014 10:41:46 ==> NewEnquiry ==> Error while Saving. ==> First Client SECOND User
+09-10-2014 10:44:19 ==> New Local Enquiry ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx). ==> First Client SECOND User ==> LineNo : 469
+09-10-2014 10:44:24 ==> New Foreign Enquiry ==> There is no row at position 0. ==> First Client SECOND User ==> LineNo : 1159
+09-10-2014 10:50:36 ==> New Foreign Enquiry ==> String was not recognized as a valid Boolean. ==> First Client SECOND User ==> LineNo : 660
+09-10-2014 11:44:14 ==> New Foreign Enquiry ==> String was not recognized as a valid Boolean. ==> First Client SECOND User ==> LineNo : 660
+09-10-2014 11:45:26 ==> New Foreign Enquiry ==> String was not recognized as a valid Boolean. ==> First Client SECOND User ==> LineNo : 660
+09-10-2014 11:45:57 ==> New Foreign Enquiry ==> String was not recognized as a valid Boolean. ==> First Client SECOND User ==> LineNo : 660
+09-10-2014 11:46:21 ==> New Foreign Enquiry ==> String was not recognized as a valid Boolean. ==> First Client SECOND User ==> LineNo : 660
+09-10-2014 11:49:47 ==> New Foreign Enquiry ==> String was not recognized as a valid Boolean. ==> First Client SECOND User ==> LineNo : 660
+09-10-2014 11:50:30 ==> New Foreign Enquiry ==> String was not recognized as a valid Boolean. ==> First Client SECOND User ==> LineNo : 660
+09-10-2014 11:51:39 ==> New Foreign Enquiry ==> String was not recognized as a valid Boolean. ==> First Client SECOND User ==> LineNo : 660
+09-10-2014 11:55:15 ==> New Foreign Enquiry ==> String was not recognized as a valid Boolean. ==> First Client SECOND User ==> LineNo : 660
+09-10-2014 11:56:12 ==> New Foreign Enquiry ==> String was not recognized as a valid Boolean. ==> First Client SECOND User ==> LineNo : 660
+09-10-2014 12:01:08 ==> New Foreign Enquiry ==> String was not recognized as a valid Boolean. ==> First Client SECOND User ==> LineNo : 660
+09-10-2014 12:02:42 ==> New Foreign Enquiry ==> Column 'IsSubItem' does not belong to table Table1. ==> First Client SECOND User ==> LineNo : 660
+09-10-2014 12:52:49 ==> New LQ ==> Input string was not in a correct format. ==> First Client SECOND User ==> LineNo : 951
+09-10-2014 12:53:10 ==> New LQ ==> Input string was not in a correct format. ==> First Client SECOND User ==> LineNo : 951
+09-10-2014 12:55:44 ==> New LQ ==> Column 'SpecDes' does not belong to table . ==> First Client SECOND User ==> LineNo : 985
+09-10-2014 12:58:15 ==> New LQ ==> Column 'Specifications' does not belong to table . ==> First Client SECOND User ==> LineNo : 995
+09-10-2014 12:59:10 ==> New LQ ==> Column 'Specifications' does not belong to table . ==> First Client SECOND User ==> LineNo : 995
+09-10-2014 13:00:43 ==> New LQ ==> Column 'Specifications' does not belong to table . ==> First Client SECOND User ==> LineNo : 996
+09-10-2014 14:50:56 ==> New LQ ==> Column 'SNo' does not belong to table Table1. ==> First Client SECOND User ==> LineNo : 982
+09-10-2014 14:51:17 ==> New LQ ==> Column 'SNo' does not belong to table Table1. ==> First Client SECOND User ==> LineNo : 982
+09-10-2014 14:55:35 ==> New LQ ==> Column 'SpecDes' does not belong to table Table3. ==> First Client SECOND User ==> LineNo : 983
+09-10-2014 15:27:59 ==> LQ ==> Request is not available in this context ==> First Client SECOND User ==> LineNo : 1567
+09-10-2014 15:30:22 ==> LQ ==> Request is not available in this context ==> First Client SECOND User ==> LineNo : 1567
+09-10-2014 15:31:28 ==> LQ ==> Request is not available in this context ==> First Client SECOND User ==> LineNo : 1567
+09-10-2014 15:47:18 ==> New LQ ==> Index was outside the bounds of the array. ==> First Client SECOND User ==> LineNo : 980
+09-10-2014 15:47:26 ==> New LQ ==> Index was outside the bounds of the array. ==> First Client SECOND User ==> LineNo : 980
+09-10-2014 15:49:16 ==> New LQ ==> Index was outside the bounds of the array. ==> First Client SECOND User ==> LineNo : 980
+09-10-2014 15:50:22 ==> New LQ ==> Index was outside the bounds of the array. ==> First Client SECOND User ==> LineNo : 980
+09-10-2014 15:52:45 ==> New LQ ==> Column 'Specifications' does not belong to table . ==> First Client SECOND User ==> LineNo : 993
+10-10-2014 11:00:13 ==> Enquiry Status ==> Object reference not set to an instance of an object. ==> First Client SECOND User ==> LineNo : 264
+10-10-2014 11:01:31 ==> Enquiry Status ==> Object reference not set to an instance of an object. ==> First Client SECOND User ==> LineNo : 264
+10-10-2014 11:04:23 ==> Enquiry Status ==> Object reference not set to an instance of an object. ==> First Client SECOND User ==> LineNo : 264
+10-10-2014 13:07:01 ==> NewEnquiry ==> Sequence contains no elements ==> First Client SECOND User ==> LineNo : 419
+10-10-2014 13:08:01 ==> NewEnquiry ==> Sequence contains no elements ==> First Client SECOND User ==> LineNo : 419
+10-10-2014 13:14:16 ==> NewEnquiry ==> Sequence contains no elements ==> First Client SECOND User ==> LineNo : 419
+10-10-2014 16:47:06 ==> NewEnquiry ==> Error while Updating. ==> First Client SECOND User
+10-10-2014 16:48:28 ==> NewEnquiry ==> Error while Updating. ==> First Client SECOND User
+10-10-2014 16:51:25 ==> NewEnquiry ==> Error while Updating. ==> First Client SECOND User
+10-10-2014 16:55:33 ==> NewEnquiry ==> Object reference not set to an instance of an object. ==> First Client SECOND User ==> LineNo : 275
+15-10-2014 14:45:24 ==> Foreing Enquiry Details ==> Invalid report file path. ==> First Client SECOND User
+15-10-2014 14:45:38 ==> Foreing Enquiry Details ==> Invalid report file path. ==> First Client SECOND User
+15-10-2014 14:45:55 ==> Foreing Enquiry Details ==> Invalid report file path. ==> First Client SECOND User
+16-10-2014 14:39:59 ==> New Local Enquiry ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx). ==> Testing Company Test ==> LineNo : 469
+16-10-2014 14:40:05 ==> New Foreign Enquiry ==> There is no row at position 0. ==> Testing Company Test ==> LineNo : 1159
+16-10-2014 14:40:48 ==> Foreing Enquiry Details ==> Invalid report file path. ==> Testing Company Test
+16-10-2014 14:44:23 ==> Foreing Enquiry Details ==> Invalid report file path. ==> Testing Company Test
+16-10-2014 14:44:56 ==> Foreing Enquiry Details ==> Invalid report file path. ==> Testing Company Test
+16-10-2014 14:46:58 ==> Foreing Enquiry Details ==> Invalid report file path. ==> Testing Company Test
+16-10-2014 14:48:58 ==> Foreing Enquiry Details ==> Invalid report file path. ==> Testing Company Test
+16-10-2014 15:40:04 ==> New Local Enquiry ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx). ==> Testing Company Test ==> LineNo : 469
+16-10-2014 15:40:08 ==> New Foreign Enquiry ==> There is no row at position 0. ==> Testing Company Test ==> LineNo : 1159
+16-10-2014 15:41:36 ==> Foreing Enquiry Details ==> Invalid report file path. ==> Testing Company Test
+16-10-2014 17:49:01 ==> New Local Enquiry ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx). ==> Testing Company Test ==> LineNo : 469
+16-10-2014 17:49:07 ==> New Foreign Enquiry ==> There is no row at position 0. ==> Testing Company Test ==> LineNo : 1159
+16-10-2014 17:50:28 ==> Foreing Enquiry Details ==> Invalid report file path. ==> Testing Company Test
+20-10-2014 15:34:52 ==> New Local Enquiry ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx). ==> First Client SECOND User ==> LineNo : 469
+20-10-2014 15:35:02 ==> New Foreign Enquiry ==> There is no row at position 0. ==> First Client SECOND User ==> LineNo : 1159
+20-10-2014 16:00:04 ==> New Local Enquiry ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx). ==> First Client SECOND User ==> LineNo : 469
+20-10-2014 16:00:10 ==> New Foreign Enquiry ==> There is no row at position 0. ==> First Client SECOND User ==> LineNo : 1159
+20-10-2014 17:05:18 ==> New Local Enquiry ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx). ==> First Client SECOND User ==> LineNo : 469
+20-10-2014 17:05:22 ==> New Foreign Enquiry ==> There is no row at position 0. ==> First Client SECOND User ==> LineNo : 1159
+22-10-2014 11:11:19 ==> New Local Enquiry ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx). ==> First Client SECOND User ==> LineNo : 469
+22-10-2014 11:11:24 ==> New Foreign Enquiry ==> There is no row at position 0. ==> First Client SECOND User ==> LineNo : 1159
+22-10-2014 15:30:33 ==> New Local Enquiry ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx). ==> First Client SECOND User ==> LineNo : 469
+22-10-2014 15:30:39 ==> New Foreign Enquiry ==> There is no row at position 0. ==> First Client SECOND User ==> LineNo : 1159
+27-10-2014 14:48:24 ==> New Local Enquiry ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx). ==> First Client SECOND User ==> LineNo : 469
+27-10-2014 14:48:41 ==> New Foreign Enquiry ==> There is no row at position 0. ==> First Client SECOND User ==> LineNo : 1159
+29-10-2014 10:52:57 ==> Foreing Enquiry Details ==> Invalid report file path. ==> First Client SECOND User
+29-10-2014 10:53:16 ==> Foreing Enquiry Details ==> Invalid report file path. ==> First Client SECOND User
+29-10-2014 10:54:07 ==> Foreing Enquiry Details ==> Invalid report file path. ==> First Client SECOND User
+29-10-2014 10:55:00 ==> Foreing Enquiry Details ==> Invalid report file path. ==> First Client SECOND User
+31-10-2014 11:18:24 ==> New Local Enquiry ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx). ==> First Client SECOND User ==> LineNo : 469
+31-10-2014 11:18:29 ==> New Foreign Enquiry ==> There is no row at position 0. ==> First Client SECOND User ==> LineNo : 1159
+03-11-2014 17:06:04 ==> New Foreign Enquiry ==> No error message available, result code: E_FAIL(0x80004005). ==> First Client SECOND User ==> LineNo : 956
+03-11-2014 17:06:15 ==> New Foreign Enquiry ==> Object reference not set to an instance of an object. ==> First Client SECOND User ==> LineNo : 1401
+03-11-2014 17:08:08 ==> New Local Enquiry ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx). ==> First Client SECOND User ==> LineNo : 469
+03-11-2014 17:08:22 ==> New Foreign Enquiry ==> There is no row at position 0. ==> First Client SECOND User ==> LineNo : 1159
+03-11-2014 17:15:01 ==> New Local Enquiry ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx). ==> First Client SECOND User ==> LineNo : 469
+03-11-2014 17:15:13 ==> New Local Enquiry ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx). ==> First Client SECOND User ==> LineNo : 469
+03-11-2014 17:16:20 ==> New Local Enquiry ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx). ==> First Client SECOND User ==> LineNo : 469
+03-11-2014 17:29:07 ==> New Foreign Enquiry ==> No error message available, result code: E_FAIL(0x80004005). ==> First Client SECOND User ==> LineNo : 956
+03-11-2014 17:29:12 ==> New Foreign Enquiry ==> No error message available, result code: E_FAIL(0x80004005). ==> First Client SECOND User ==> LineNo : 956
+03-11-2014 17:29:21 ==> New Foreign Enquiry ==> Object reference not set to an instance of an object. ==> First Client SECOND User ==> LineNo : 1401
+03-11-2014 17:30:05 ==> New Local Enquiry ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx). ==> First Client SECOND User ==> LineNo : 469
+03-11-2014 17:30:10 ==> New Foreign Enquiry ==> There is no row at position 0. ==> First Client SECOND User ==> LineNo : 1159
+04-11-2014 17:33:44 ==> New Local Enquiry ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx). ==> First Client SECOND User ==> LineNo : 469
+04-11-2014 17:33:55 ==> New Foreign Enquiry ==> There is no row at position 0. ==> First Client SECOND User ==> LineNo : 1159
+05-11-2014 16:25:50 ==> New Local Enquiry ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx). ==> First Client SECOND User ==> LineNo : 469
+05-11-2014 16:26:14 ==> New Local Enquiry ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx). ==> First Client SECOND User ==> LineNo : 117
+05-11-2014 16:26:18 ==> New Local Enquiry ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx). ==> First Client SECOND User ==> LineNo : 469
+05-11-2014 16:26:26 ==> New Local Enquiry ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx). ==> First Client SECOND User ==> LineNo : 117
+05-11-2014 16:28:33 ==> New Local Enquiry ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx). ==> First Client SECOND User ==> LineNo : 469
+05-11-2014 16:29:10 ==> New Local Enquiry ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx). ==> First Client SECOND User ==> LineNo : 117
+05-11-2014 16:29:32 ==> New Local Enquiry ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx). ==> First Client SECOND User ==> LineNo : 469
+05-11-2014 16:29:46 ==> New Local Enquiry ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx). ==> First Client SECOND User ==> LineNo : 117
+05-11-2014 16:29:51 ==> New Local Enquiry ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx). ==> First Client SECOND User ==> LineNo : 469
+05-11-2014 16:30:23 ==> New Local Enquiry ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx). ==> First Client SECOND User ==> LineNo : 117
+05-11-2014 16:31:07 ==> New Local Enquiry ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx). ==> First Client SECOND User ==> LineNo : 117
+05-11-2014 16:31:11 ==> New Local Enquiry ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx). ==> First Client SECOND User ==> LineNo : 469
+05-11-2014 16:31:47 ==> New Local Enquiry ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx). ==> First Client SECOND User ==> LineNo : 117
+05-11-2014 16:37:04 ==> New Local Enquiry ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx). ==> First Client SECOND User ==> LineNo : 469
+05-11-2014 16:37:20 ==> New Local Enquiry ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx). ==> First Client SECOND User ==> LineNo : 469
+05-11-2014 16:37:39 ==> New Local Enquiry ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx). ==> First Client SECOND User ==> LineNo : 469
+05-11-2014 16:38:16 ==> New Local Enquiry ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx). ==> First Client SECOND User ==> LineNo : 469
+05-11-2014 16:46:06 ==> New Local Enquiry ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx). ==> First Client SECOND User ==> LineNo : 469
+05-11-2014 16:46:11 ==> New Foreign Enquiry ==> There is no row at position 0. ==> First Client SECOND User ==> LineNo : 1160
+06-11-2014 14:27:32 ==> New Foreign Enquiry ==> 'ddlcustmr' has a SelectedValue which is invalid because it does not exist in the list of items.
+Parameter name: value ==> First Client SECOND User ==> LineNo : 1165
+06-11-2014 14:27:39 ==> New Foreign Enquiry ==> 'ddlcustmr' has a SelectedValue which is invalid because it does not exist in the list of items.
+Parameter name: value ==> First Client SECOND User ==> LineNo : 1165
+06-11-2014 14:31:16 ==> New Foreign Enquiry ==> 'ddlcustmr' has a SelectedValue which is invalid because it does not exist in the list of items.
+Parameter name: value ==> First Client SECOND User ==> LineNo : 1165
+06-11-2014 17:25:42 ==> Enquiry Status ==> The file could not be accessed. Try one of the following:
+
+• Make sure the specified folder exists. 
+• Make sure the folder that contains the file is not read-only.
+• Make sure the file name does not contain any of the following characters:  <  >  ?  [  ]  :  | or  *
+• Make sure the file/path name doesn't contain more than 218 characters. ==> First Client SECOND User ==> LineNo : 660
+06-11-2014 17:25:44 ==> Enquiry Status ==> The file could not be accessed. Try one of the following:
+
+• Make sure the specified folder exists. 
+• Make sure the folder that contains the file is not read-only.
+• Make sure the file name does not contain any of the following characters:  <  >  ?  [  ]  :  | or  *
+• Make sure the file/path name doesn't contain more than 218 characters. ==> First Client SECOND User ==> LineNo : 660
+06-11-2014 17:26:55 ==> Enquiry Status ==> The file could not be accessed. Try one of the following:
+
+• Make sure the specified folder exists. 
+• Make sure the folder that contains the file is not read-only.
+• Make sure the file name does not contain any of the following characters:  <  >  ?  [  ]  :  | or  *
+• Make sure the file/path name doesn't contain more than 218 characters. ==> First Client SECOND User ==> LineNo : 660
+06-11-2014 17:27:07 ==> Enquiry Status ==> The file could not be accessed. Try one of the following:
+
+• Make sure the specified folder exists. 
+• Make sure the folder that contains the file is not read-only.
+• Make sure the file name does not contain any of the following characters:  <  >  ?  [  ]  :  | or  *
+• Make sure the file/path name doesn't contain more than 218 characters. ==> First Client SECOND User ==> LineNo : 660
+06-11-2014 17:40:48 ==> Enquiry Status ==> The file could not be accessed. Try one of the following:
+
+• Make sure the specified folder exists. 
+• Make sure the folder that contains the file is not read-only.
+• Make sure the file name does not contain any of the following characters:  <  >  ?  [  ]  :  | or  *
+• Make sure the file/path name doesn't contain more than 218 characters. ==> First Client SECOND User ==> LineNo : 660
+06-11-2014 17:40:59 ==> Enquiry Status ==> Thread was being aborted. ==> First Client SECOND User ==> LineNo : 227
+06-11-2014 17:41:05 ==> Enquiry Status ==> The file could not be accessed. Try one of the following:
+
+• Make sure the specified folder exists. 
+• Make sure the folder that contains the file is not read-only.
+• Make sure the file name does not contain any of the following characters:  <  >  ?  [  ]  :  | or  *
+• Make sure the file/path name doesn't contain more than 218 characters. ==> First Client SECOND User ==> LineNo : 660
+06-11-2014 17:41:09 ==> Enquiry Status ==> There is no row at position 0. ==> First Client SECOND User ==> LineNo : 404
+06-11-2014 17:41:10 ==> Enquiry Status ==> There is no row at position 0. ==> First Client SECOND User ==> LineNo : 404
+06-11-2014 17:41:12 ==> Enquiry Status ==> There is no row at position 0. ==> First Client SECOND User ==> LineNo : 404
+06-11-2014 17:41:13 ==> Enquiry Status ==> There is no row at position 0. ==> First Client SECOND User ==> LineNo : 404
+06-11-2014 17:42:28 ==> Enquiry Status ==> The file could not be accessed. Try one of the following:
+
+• Make sure the specified folder exists. 
+• Make sure the folder that contains the file is not read-only.
+• Make sure the file name does not contain any of the following characters:  <  >  ?  [  ]  :  | or  *
+• Make sure the file/path name doesn't contain more than 218 characters. ==> First Client SECOND User ==> LineNo : 660
+06-11-2014 17:44:56 ==> Enquiry Status ==> The file could not be accessed. Try one of the following:
+
+• Make sure the specified folder exists. 
+• Make sure the folder that contains the file is not read-only.
+• Make sure the file name does not contain any of the following characters:  <  >  ?  [  ]  :  | or  *
+• Make sure the file/path name doesn't contain more than 218 characters. ==> First Client SECOND User ==> LineNo : 660
+06-11-2014 17:45:15 ==> Enquiry Status ==> The file could not be accessed. Try one of the following:
+
+• Make sure the specified folder exists. 
+• Make sure the folder that contains the file is not read-only.
+• Make sure the file name does not contain any of the following characters:  <  >  ?  [  ]  :  | or  *
+• Make sure the file/path name doesn't contain more than 218 characters. ==> First Client SECOND User ==> LineNo : 660
+06-11-2014 17:46:09 ==> Enquiry Status ==> The file could not be accessed. Try one of the following:
+
+• Make sure the specified folder exists. 
+• Make sure the folder that contains the file is not read-only.
+• Make sure the file name does not contain any of the following characters:  <  >  ?  [  ]  :  | or  *
+• Make sure the file/path name doesn't contain more than 218 characters. ==> First Client SECOND User ==> LineNo : 660
+06-11-2014 17:46:21 ==> Enquiry Status ==> The file could not be accessed. Try one of the following:
+
+• Make sure the specified folder exists. 
+• Make sure the folder that contains the file is not read-only.
+• Make sure the file name does not contain any of the following characters:  <  >  ?  [  ]  :  | or  *
+• Make sure the file/path name doesn't contain more than 218 characters. ==> First Client SECOND User ==> LineNo : 660
+06-11-2014 17:46:47 ==> Enquiry Status ==> The file could not be accessed. Try one of the following:
+
+• Make sure the specified folder exists. 
+• Make sure the folder that contains the file is not read-only.
+• Make sure the file name does not contain any of the following characters:  <  >  ?  [  ]  :  | or  *
+• Make sure the file/path name doesn't contain more than 218 characters. ==> First Client SECOND User ==> LineNo : 660
+06-11-2014 17:49:07 ==> Enquiry Status ==> The file could not be accessed. Try one of the following:
+
+• Make sure the specified folder exists. 
+• Make sure the folder that contains the file is not read-only.
+• Make sure the file name does not contain any of the following characters:  <  >  ?  [  ]  :  | or  *
+• Make sure the file/path name doesn't contain more than 218 characters. ==> First Client SECOND User ==> LineNo : 660
+06-11-2014 17:49:09 ==> Enquiry Status ==> The file could not be accessed. Try one of the following:
+
+• Make sure the specified folder exists. 
+• Make sure the folder that contains the file is not read-only.
+• Make sure the file name does not contain any of the following characters:  <  >  ?  [  ]  :  | or  *
+• Make sure the file/path name doesn't contain more than 218 characters. ==> First Client SECOND User ==> LineNo : 660
+06-11-2014 17:51:54 ==> Enquiry Status ==> The file could not be accessed. Try one of the following:
+
+• Make sure the specified folder exists. 
+• Make sure the folder that contains the file is not read-only.
+• Make sure the file name does not contain any of the following characters:  <  >  ?  [  ]  :  | or  *
+• Make sure the file/path name doesn't contain more than 218 characters. ==> First Client SECOND User ==> LineNo : 660
+06-11-2014 18:02:08 ==> Enquiry Status ==> The file could not be accessed. Try one of the following:
+
+• Make sure the specified folder exists. 
+• Make sure the folder that contains the file is not read-only.
+• Make sure the file name does not contain any of the following characters:  <  >  ?  [  ]  :  | or  *
+• Make sure the file/path name doesn't contain more than 218 characters. ==> First Client SECOND User ==> LineNo : 660
+06-11-2014 18:14:28 ==> Enquiry Status ==> The file could not be accessed. Try one of the following:
+
+• Make sure the specified folder exists. 
+• Make sure the folder that contains the file is not read-only.
+• Make sure the file name does not contain any of the following characters:  <  >  ?  [  ]  :  | or  *
+• Make sure the file/path name doesn't contain more than 218 characters. ==> First Client SECOND User ==> LineNo : 660
+07-11-2014 12:16:41 ==> New Local Enquiry ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx). ==> Apollo Admin ==> LineNo : 469
+07-11-2014 12:16:46 ==> New Foreign Enquiry ==> There is no row at position 0. ==> Apollo Admin ==> LineNo : 1160
+07-11-2014 15:10:42 ==> New Foreign Enquiry ==> Invalid argument. ==> Apollo Admin ==> LineNo : 977
+07-11-2014 15:10:49 ==> New Foreign Enquiry ==> Object reference not set to an instance of an object. ==> Apollo Admin ==> LineNo : 1426
+10-11-2014 12:48:59 ==> New Local Enquiry ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx). ==> First Client SECOND User ==> LineNo : 469
+10-11-2014 14:46:47 ==> New Local Enquiry ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx). ==> Apollo Admin ==> LineNo : 469
+10-11-2014 14:58:14 ==> New Local Enquiry ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx). ==> Apollo Admin ==> LineNo : 469
+10-11-2014 15:40:07 ==> Enquiry Status ==> Thread was being aborted. ==> Apollo Admin ==> LineNo : 227
+10-11-2014 15:40:58 ==> Enquiry Status ==> Thread was being aborted. ==> Apollo Admin ==> LineNo : 227
+10-11-2014 16:46:57 ==> Enquiry Status ==> Thread was being aborted. ==> Apollo Admin ==> LineNo : 227
+11-11-2014 11:44:41 ==> New Local Enquiry ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx). ==> Apollo Admin ==> LineNo : 469
+11-11-2014 11:44:45 ==> New Foreign Enquiry ==> There is no row at position 0. ==> Apollo Admin ==> LineNo : 1160
+11-11-2014 11:52:24 ==> New Local Enquiry ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx). ==> First Client SECOND User ==> LineNo : 469
+11-11-2014 11:52:29 ==> New Foreign Enquiry ==> There is no row at position 0. ==> First Client SECOND User ==> LineNo : 1160
+11-11-2014 11:57:21 ==> New Local Enquiry ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx). ==> First Client SECOND User ==> LineNo : 469
+11-11-2014 12:03:08 ==> Foreing Enquiry Details ==> Invalid report file path. ==> First Client SECOND User
+11-11-2014 12:52:22 ==> New Local Enquiry ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx). ==> First Client SECOND User ==> LineNo : 469
+11-11-2014 12:52:28 ==> New Foreign Enquiry ==> There is no row at position 0. ==> First Client SECOND User ==> LineNo : 1160
+11-11-2014 12:52:28 ==> New Foreign Enquiry ==> There is no row at position 0. ==> First Client SECOND User ==> LineNo : 1160
+11-11-2014 15:36:34 ==> Foreign Enquiy Details ==> Load report failed. ==> Apollo Admin
+11-11-2014 15:36:34 ==> Foreing Enquiry Details ==> Invalid report file path. ==> Apollo Admin
+11-11-2014 15:42:32 ==> Foreign Enquiy Details ==> Load report failed. ==> First Client SECOND User
+11-11-2014 15:42:32 ==> Foreing Enquiry Details ==> Invalid report file path. ==> First Client SECOND User
+11-11-2014 15:42:35 ==> Foreign Enquiy Details ==> Load report failed. ==> First Client SECOND User
+11-11-2014 15:42:35 ==> Foreing Enquiry Details ==> Invalid report file path. ==> First Client SECOND User
+11-11-2014 15:42:40 ==> New Local Enquiry ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx). ==> First Client SECOND User ==> LineNo : 469
+11-11-2014 15:42:51 ==> New Foreign Enquiry ==> There is no row at position 0. ==> First Client SECOND User ==> LineNo : 1160
+12-11-2014 11:25:45 ==> Foreign Enquiy Details ==> Load report failed. ==> Balaji Customer User One
+12-11-2014 11:25:45 ==> Foreing Enquiry Details ==> Invalid report file path. ==> Balaji Customer User One
+12-11-2014 11:26:06 ==> Foreign Enquiy Details ==> Load report failed. ==> Balaji Customer User One
+12-11-2014 11:26:06 ==> Foreing Enquiry Details ==> Invalid report file path. ==> Balaji Customer User One
+12-11-2014 11:40:26 ==> NewEnquiry ==> Error while Saving. ==> Balaji Customer User One
+12-11-2014 11:42:03 ==> NewEnquiry ==> Error while Saving. ==> Balaji Customer User One
+12-11-2014 11:43:44 ==> NewEnquiry ==> Error while Saving. ==> Balaji Customer User One
+12-11-2014 11:46:45 ==> NewEnquiry ==> Error while Saving. ==> Balaji Customer User One
+12-11-2014 12:48:50 ==> New Local Enquiry ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx). ==> Balaji Group BLG ==> LineNo : 469
+12-11-2014 15:28:52 ==> New Local Enquiry ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx). ==> First Client SECOND User ==> LineNo : 469
+12-11-2014 15:53:40 ==> New Local Enquiry ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx). ==> First Client SECOND User ==> LineNo : 469
+12-11-2014 15:53:45 ==> New Foreign Enquiry ==> There is no row at position 0. ==> First Client SECOND User ==> LineNo : 1160
+12-11-2014 16:18:29 ==> New Local Enquiry ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx). ==> First Client SECOND User ==> LineNo : 469
+12-11-2014 16:18:35 ==> New Foreign Enquiry ==> There is no row at position 0. ==> First Client SECOND User ==> LineNo : 1160
+12-11-2014 16:44:05 ==> New Local Enquiry ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx). ==> First Client SECOND User ==> LineNo : 469
+12-11-2014 16:44:10 ==> New Foreign Enquiry ==> There is no row at position 0. ==> First Client SECOND User ==> LineNo : 1160
+12-11-2014 17:09:18 ==> Enquiry Status ==> Thread was being aborted. ==> First Client SECOND User ==> LineNo : 227
+12-11-2014 18:20:53 ==> New Local Enquiry ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx). ==> Balaji Group BLG ==> LineNo : 469
+12-11-2014 18:22:06 ==> New Local Enquiry ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx). ==> Balaji Group BLG ==> LineNo : 469
+12-11-2014 18:22:41 ==> New Local Enquiry ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx). ==> Balaji Group BLG ==> LineNo : 469
+12-11-2014 18:23:52 ==> Added Items WebService ==> Conversion failed when converting from a character string to uniqueidentifier. ==> Apollo Admin ==> LineNo : 704
+12-11-2014 18:23:52 ==> Added Items WebService ==> Conversion failed when converting from a character string to uniqueidentifier. ==> Apollo Admin ==> LineNo : 704
+12-11-2014 18:23:53 ==> Added Items WebService ==> Conversion failed when converting from a character string to uniqueidentifier. ==> Apollo Admin ==> LineNo : 704
+12-11-2014 18:23:53 ==> Added Items WebService ==> Conversion failed when converting from a character string to uniqueidentifier. ==> Apollo Admin ==> LineNo : 704
+12-11-2014 18:23:54 ==> Added Items WebService ==> Conversion failed when converting from a character string to uniqueidentifier. ==> Apollo Admin ==> LineNo : 704
+12-11-2014 18:23:55 ==> Added Items WebService ==> Conversion failed when converting from a character string to uniqueidentifier. ==> Apollo Admin ==> LineNo : 704
+12-11-2014 18:23:55 ==> Added Items WebService ==> Conversion failed when converting from a character string to uniqueidentifier. ==> Apollo Admin ==> LineNo : 704
+12-11-2014 18:24:19 ==> Added Items WebService ==> Conversion failed when converting from a character string to uniqueidentifier. ==> Apollo Admin ==> LineNo : 704
+12-11-2014 18:24:19 ==> Added Items WebService ==> Conversion failed when converting from a character string to uniqueidentifier. ==> Apollo Admin ==> LineNo : 704
+12-11-2014 18:24:19 ==> Added Items WebService ==> Conversion failed when converting from a character string to uniqueidentifier. ==> Apollo Admin ==> LineNo : 704
+12-11-2014 18:24:20 ==> Added Items WebService ==> Conversion failed when converting from a character string to uniqueidentifier. ==> Apollo Admin ==> LineNo : 704
+12-11-2014 18:46:07 ==> Added Items WebService ==> Conversion failed when converting from a character string to uniqueidentifier. ==> Apollo Admin ==> LineNo : 704
+12-11-2014 18:46:07 ==> Added Items WebService ==> Conversion failed when converting from a character string to uniqueidentifier. ==> Apollo Admin ==> LineNo : 704
+12-11-2014 18:46:07 ==> Added Items WebService ==> Conversion failed when converting from a character string to uniqueidentifier. ==> Apollo Admin ==> LineNo : 704
+12-11-2014 18:46:08 ==> Added Items WebService ==> Conversion failed when converting from a character string to uniqueidentifier. ==> Apollo Admin ==> LineNo : 704
+12-11-2014 18:51:07 ==> Added Items WebService ==> Incorrect syntax near the keyword 'and'. ==> Apollo Admin ==> LineNo : 704
+12-11-2014 18:51:59 ==> Added Items WebService ==> Incorrect syntax near the keyword 'and'. ==> Apollo Admin ==> LineNo : 704
+12-11-2014 18:52:45 ==> Added Items WebService ==> Incorrect syntax near the keyword 'and'. ==> Apollo Admin ==> LineNo : 704
+12-11-2014 18:53:32 ==> Added Items WebService ==> Incorrect syntax near the keyword 'and'. ==> Apollo Admin ==> LineNo : 704
+12-11-2014 18:55:42 ==> Added Items WebService ==> Incorrect syntax near the keyword 'and'. ==> Apollo Admin ==> LineNo : 704
+12-11-2014 18:55:47 ==> Added Items WebService ==> Incorrect syntax near the keyword 'and'. ==> Apollo Admin ==> LineNo : 704
+13-11-2014 14:30:59 ==> New Local Enquiry ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx). ==> Apollo Admin ==> LineNo : 469
+13-11-2014 14:31:03 ==> New Foreign Enquiry ==> There is no row at position 0. ==> Apollo Admin ==> LineNo : 1158
+13-11-2014 14:31:05 ==> Local Enquiry Details ==> A generic error occurred in GDI+. ==> Apollo Admin ==> LineNo : 140
+13-11-2014 14:31:05 ==> Foreing Enquiry Details ==> Invalid report file path. ==> Apollo Admin
+13-11-2014 14:31:28 ==> Local Enquiry Details ==> A generic error occurred in GDI+. ==> Apollo Admin ==> LineNo : 140
+13-11-2014 14:31:28 ==> Foreing Enquiry Details ==> Invalid report file path. ==> Apollo Admin
+13-11-2014 14:32:48 ==> Local Enquiry Details ==> A generic error occurred in GDI+. ==> Apollo Admin ==> LineNo : 140
+13-11-2014 14:32:48 ==> Foreing Enquiry Details ==> Invalid report file path. ==> Apollo Admin
+13-11-2014 14:34:56 ==> Local Enquiry Details ==> A generic error occurred in GDI+. ==> Apollo Admin ==> LineNo : 140
+13-11-2014 14:34:56 ==> Foreing Enquiry Details ==> Invalid report file path. ==> Apollo Admin
+13-11-2014 14:35:41 ==> Local Enquiry Details ==> A generic error occurred in GDI+. ==> Apollo Admin ==> LineNo : 140
+13-11-2014 14:35:42 ==> Foreing Enquiry Details ==> Invalid report file path. ==> Apollo Admin
+14-11-2014 11:28:17 ==> New Local Enquiry ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx). ==> First Client SECOND User ==> LineNo : 469
+14-11-2014 11:28:23 ==> New Foreign Enquiry ==> There is no row at position 0. ==> First Client SECOND User ==> LineNo : 1160
+14-11-2014 12:26:05 ==> New Local Enquiry ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx). ==> First Client SECOND User ==> LineNo : 469
+14-11-2014 12:26:09 ==> New Foreign Enquiry ==> There is no row at position 0. ==> First Client SECOND User ==> LineNo : 1160
+14-11-2014 16:00:46 ==> New Local Enquiry ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx). ==> Balaji Group BLG ==> LineNo : 469
+14-11-2014 16:01:04 ==> New Local Enquiry ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx). ==> CEAT Limited CEAT ==> LineNo : 469
+14-11-2014 16:04:44 ==> New Local Enquiry ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx). ==> CEAT Limited CEAT ==> LineNo : 469
+17-11-2014 18:25:33 ==> Enquiry Status ==> Response is not available in this context. ==> Apollo Admin ==> LineNo : 510
+17-11-2014 18:26:49 ==> Enquiry Status ==> Thread was being aborted. ==> Apollo Admin ==> LineNo : 524
+18-11-2014 11:52:31 ==> New Local Enquiry ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx). ==> Balaji Group BLG ==> LineNo : 469
+18-11-2014 11:52:40 ==> New Foreign Enquiry ==> There is no row at position 0. ==> Balaji Group BLG ==> LineNo : 1160
+18-11-2014 11:55:12 ==> Foreing Enquiry Details ==> Invalid report file path. ==> Balaji Group BLG
+18-11-2014 15:43:32 ==> NewEnquiry ==> Error while Updating. ==> Apollo Admin
+18-11-2014 15:44:37 ==> NewEnquiry ==> Error while Saving. ==> Apollo Admin
+18-11-2014 15:55:26 ==> New Foreign Enquiry ==> Column 'ItemDescription' does not belong to underlying table 'Items$'. ==> Apollo Admin ==> LineNo : 1388
+18-11-2014 16:01:07 ==> New Foreign Enquiry ==> Column 'ItemDescription' does not belong to underlying table 'Items$'. ==> Apollo Admin ==> LineNo : 1388
+18-11-2014 16:02:45 ==> New Foreign Enquiry ==> Column 'ItemDescription' does not belong to underlying table 'Items$'. ==> Apollo Admin ==> LineNo : 1388
+18-11-2014 16:04:00 ==> New Foreign Enquiry ==> Column 'ItemId' does not belong to underlying table 'Items$'. ==> Apollo Admin ==> LineNo : 1388
+20-11-2014 12:04:07 ==> New Local Enquiry ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx). ==> Apollo Admin ==> LineNo : 469
+20-11-2014 12:57:46 ==> Added Items WebService ==> Incorrect syntax near the keyword 'Where'.
+Incorrect syntax near the keyword 'and'. ==> purchase userone ==> LineNo : 704
+20-11-2014 12:57:57 ==> Added Items WebService ==> Incorrect syntax near the keyword 'Where'.
+Incorrect syntax near the keyword 'and'. ==> purchase userone ==> LineNo : 704
+20-11-2014 14:19:47 ==> Added Items WebService ==> Incorrect syntax near the keyword 'Where'.
+Incorrect syntax near the keyword 'and'. ==> purchase userone ==> LineNo : 704
+20-11-2014 14:19:59 ==> Added Items WebService ==> Incorrect syntax near the keyword 'Where'.
+Incorrect syntax near the keyword 'and'. ==> purchase userone ==> LineNo : 704
+20-11-2014 14:23:47 ==> Added Items WebService ==> Incorrect syntax near the keyword 'Where'.
+Incorrect syntax near the keyword 'and'. ==> purchase userone ==> LineNo : 704
+20-11-2014 14:23:53 ==> Added Items WebService ==> Incorrect syntax near the keyword 'Where'.
+Incorrect syntax near the keyword 'and'. ==> purchase userone ==> LineNo : 704
+20-11-2014 14:24:48 ==> Added Items WebService ==> Incorrect syntax near the keyword 'Where'.
+Incorrect syntax near the keyword 'and'. ==> purchase userone ==> LineNo : 704
+20-11-2014 14:24:53 ==> Added Items WebService ==> Incorrect syntax near the keyword 'Where'.
+Incorrect syntax near the keyword 'and'. ==> purchase userone ==> LineNo : 704
+20-11-2014 14:37:17 ==> Added Items WebService ==> Incorrect syntax near the keyword 'Where'.
+Incorrect syntax near the keyword 'and'. ==> purchase userone ==> LineNo : 704
+20-11-2014 14:37:22 ==> Added Items WebService ==> Incorrect syntax near the keyword 'Where'.
+Incorrect syntax near the keyword 'and'. ==> purchase userone ==> LineNo : 704
+20-11-2014 18:40:05 ==> Enquiry Status ==> Could not find a part of the path 'C:\Program Files (x86)\Common Files\Microsoft Shared\DevServer\images\Logos\'. ==> Apollo Admin ==> LineNo : 469
+20-11-2014 18:40:50 ==> Enquiry Status ==> Could not find a part of the path 'F:\Voms5.6\VOMS_ERP\images\Logos\'. ==> Apollo Admin ==> LineNo : 469
+20-11-2014 18:41:16 ==> Enquiry Status ==> Could not find a part of the path 'F:\Voms5.6\VOMS_ERP\images\Logos\'. ==> Apollo Admin ==> LineNo : 469
+20-11-2014 18:41:55 ==> Enquiry Status ==> Could not find a part of the path 'F:\Voms5.6\VOMS_ERP\images\Logos\'. ==> Apollo Admin ==> LineNo : 469
+20-11-2014 18:42:45 ==> Enquiry Status ==> Could not find a part of the path 'F:\Voms5.6\VOMS_ERP\images\Logos\'. ==> Apollo Admin ==> LineNo : 469
+20-11-2014 18:42:58 ==> Enquiry Status ==> Thread was being aborted. ==> Apollo Admin ==> LineNo : 230
+20-11-2014 18:45:31 ==> Enquiry Status ==> Could not find a part of the path 'F:\Voms5.6\VOMS_ERP\images\Logos\'. ==> Apollo Admin ==> LineNo : 469
+21-11-2014 14:38:56 ==> Enquiry Status ==> Could not find a part of the path 'F:\Voms5.6\VOMS_ERP\images\Logos\'. ==> Apollo Admin ==> LineNo : 469
+21-11-2014 14:46:39 ==> Enquiry Status ==> Could not find a part of the path 'F:\Voms5.6\VOMS_ERP\images\Logos\'. ==> Apollo Admin ==> LineNo : 469
+21-11-2014 14:50:47 ==> Enquiry Status ==> The process cannot access the file 'F:\Voms5.6\VOMS_ERP\images\Logos\test.xls' because it is being used by another process. ==> Apollo Admin ==> LineNo : 469
+21-11-2014 14:52:59 ==> Enquiry Status ==> Could not find a part of the path 'F:\Voms5.6\VOMS_ERP\images\Logos\'. ==> Apollo Admin ==> LineNo : 469
+21-11-2014 15:58:06 ==> Enquiry Status ==> The process cannot access the file 'f:\Aditya.xlsx' because it is being used by another process. ==> Apollo Admin ==> LineNo : 549
+21-11-2014 15:58:20 ==> Enquiry Status ==> Access to the path 'C:\Program Files (x86)\Common Files\Microsoft Shared\DevServer\10.0\Aditya.xlsx' is denied. ==> Apollo Admin ==> LineNo : 549
+21-11-2014 15:59:00 ==> Enquiry Status ==> Archive file cannot be size 0. ==> Apollo Admin ==> LineNo : 549
+21-11-2014 16:00:17 ==> Enquiry Status ==> Archive file cannot be size 0. ==> Apollo Admin ==> LineNo : 549
+21-11-2014 16:01:04 ==> Enquiry Status ==> Archive file cannot be size 0. ==> Apollo Admin ==> LineNo : 549
+21-11-2014 16:02:26 ==> Enquiry Status ==> Archive file cannot be size 0. ==> Apollo Admin ==> LineNo : 549
+21-11-2014 16:09:03 ==> Enquiry Status ==> Data at the root level is invalid. Line 1, position 1. ==> Apollo Admin ==> LineNo : 536
+21-11-2014 16:29:16 ==> Enquiry Status ==> The process cannot access the file 'f:\test.xlsx' because it is being used by another process. ==> Apollo Admin ==> LineNo : 627
+21-11-2014 16:31:23 ==> Enquiry Status ==> The process cannot access the file 'f:\test.xlsx' because it is being used by another process. ==> Apollo Admin ==> LineNo : 629
+21-11-2014 16:39:13 ==> Enquiry Status ==> Object reference not set to an instance of an object. ==> Apollo Admin ==> LineNo : 642
+21-11-2014 16:41:00 ==> Enquiry Status ==> Object reference not set to an instance of an object. ==> Apollo Admin ==> LineNo : 642
+21-11-2014 16:41:19 ==> Enquiry Status ==> Object reference not set to an instance of an object. ==> Apollo Admin ==> LineNo : 642
+24-11-2014 15:39:42 ==> Enquiry Status ==> Object reference not set to an instance of an object. ==> Apollo Admin ==> LineNo : 638
+24-11-2014 19:21:10 ==> New Foreign Enquiry ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx). ==> Apollo Admin ==> LineNo : 2301
+25-11-2014 11:35:17 ==> Enquiry Status ==> Unrecognized Guid format. ==> Apollo Admin ==> LineNo : 640
+25-11-2014 11:47:42 ==> Enquiry Status ==> Illegal characters in path. ==> Apollo Admin ==> LineNo : 638
+25-11-2014 11:47:49 ==> Enquiry Status ==> Illegal characters in path. ==> Apollo Admin ==> LineNo : 638
+25-11-2014 11:48:18 ==> Enquiry Status ==> Illegal characters in path. ==> Apollo Admin ==> LineNo : 638
+25-11-2014 12:04:36 ==> Enquiry Status ==> The process cannot access the file 'f:\test1234.xlsx' because it is being used by another process. ==> Apollo Admin ==> LineNo : 638
+25-11-2014 12:50:47 ==> Enquiry Status ==> Unrecognized Guid format. ==> Apollo Admin ==> LineNo : 754
+25-11-2014 12:51:50 ==> Enquiry Status ==> Unrecognized Guid format. ==> Apollo Admin ==> LineNo : 754
+25-11-2014 16:23:10 ==> Enquiry Status ==> Unrecognized Guid format. ==> Apollo Admin ==> LineNo : 754
+25-11-2014 16:35:29 ==> Enquiry Status ==> The process cannot access the file 'f:\test12345.xlsx' because it is being used by another process. ==> Apollo Admin ==> LineNo : 660
+25-11-2014 16:40:04 ==> Enquiry Status ==> The process cannot access the file 'f:\test12345.xlsx' because it is being used by another process. ==> Apollo Admin ==> LineNo : 667
+25-11-2014 16:55:51 ==> Enquiry Status ==> The process cannot access the file 'f:\test12345.xlsx' because it is being used by another process. ==> Apollo Admin ==> LineNo : 748
+25-11-2014 16:55:55 ==> Enquiry Status ==> The process cannot access the file 'f:\test12345.xlsx' because it is being used by another process. ==> Apollo Admin ==> LineNo : 748
+25-11-2014 17:12:17 ==> Enquiry Status ==> The process cannot access the file 'f:\test12345.xlsx' because it is being used by another process. ==> Apollo Admin ==> LineNo : 795
+26-11-2014 12:20:38 ==> Enquiry Status ==> The process cannot access the file 'f:\test12345.xlsx' because it is being used by another process. ==> Apollo Admin ==> LineNo : 800
+26-11-2014 12:20:39 ==> Enquiry Status ==> The process cannot access the file 'f:\test12345.xlsx' because it is being used by another process. ==> Apollo Admin ==> LineNo : 448
+26-11-2014 12:56:11 ==> Foreing Enquiry Details ==> Invalid report file path. ==> Apollo Admin
+26-11-2014 12:56:21 ==> Foreing Enquiry Details ==> Invalid report file path. ==> Apollo Admin
+26-11-2014 14:40:13 ==> New Foreign Enquiry ==> Cannot find table 0. ==> RR RRG ==> LineNo : 697
+26-11-2014 14:40:14 ==> New Foreign Enquiry ==> Cannot find table 0. ==> RR RRG ==> LineNo : 697
+26-11-2014 14:44:22 ==> New Foreign Enquiry ==> Cannot find table 0. ==> RR RRG ==> LineNo : 697
+26-11-2014 16:23:55 ==> Enquiry Status ==> There is no row at position 0. ==> NAYASA INDIA PVT LTD NIPL ==> LineNo : 467
+27-11-2014 17:12:54 ==> New Local Enquiry ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx). ==> First Client SECOND User ==> LineNo : 469
+27-11-2014 17:13:44 ==> New Foreign Enquiry ==> There is no row at position 0. ==> First Client SECOND User ==> LineNo : 1160
+28-11-2014 10:46:08 ==> New Local Enquiry ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx). ==> First Client SECOND User ==> LineNo : 469
+28-11-2014 10:46:27 ==> New Foreign Enquiry ==> There is no row at position 0. ==> First Client SECOND User ==> LineNo : 1160
+28-11-2014 18:22:05 ==> New Local Enquiry ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx). ==> First Client SECOND User ==> LineNo : 469
+28-11-2014 18:22:15 ==> New Foreign Enquiry ==> There is no row at position 0. ==> First Client SECOND User ==> LineNo : 1160
+01-12-2014 15:02:45 ==> Enquiry Status ==> Object reference not set to an instance of an object. ==> Apollo Admin ==> LineNo : 466
+01-12-2014 15:03:13 ==> Enquiry Status ==> Object reference not set to an instance of an object. ==> Apollo Admin ==> LineNo : 466
+01-12-2014 15:03:15 ==> Enquiry Status ==> Object reference not set to an instance of an object. ==> Apollo Admin ==> LineNo : 466
+01-12-2014 15:03:27 ==> Enquiry Status ==> Object reference not set to an instance of an object. ==> Apollo Admin ==> LineNo : 466
+01-12-2014 15:10:23 ==> Enquiry Status ==> The process cannot access the file 'f:\test12345.xlsx' because it is being used by another process. ==> Apollo Admin ==> LineNo : 825
+01-12-2014 15:10:24 ==> Enquiry Status ==> The process cannot access the file 'f:\test12345.xlsx' because it is being used by another process. ==> Apollo Admin ==> LineNo : 449
+01-12-2014 15:10:34 ==> Enquiry Status ==> The process cannot access the file 'f:\test12345.xlsx' because it is being used by another process. ==> Apollo Admin ==> LineNo : 825
+01-12-2014 15:10:34 ==> Enquiry Status ==> The process cannot access the file 'f:\test12345.xlsx' because it is being used by another process. ==> Apollo Admin ==> LineNo : 449
+01-12-2014 15:53:54 ==> Enquiry Status ==> Object reference not set to an instance of an object. ==> Apollo Admin ==> LineNo : 517
+02-12-2014 12:33:19 ==> Enquiry Status ==> Only one instance of the type is allowed for this parent. ==> Apollo Admin ==> LineNo : 630
+02-12-2014 14:30:58 ==> Enquiry Status ==> Only one instance of the type is allowed for this parent. ==> Apollo Admin ==> LineNo : 624
+02-12-2014 14:33:01 ==> Enquiry Status ==> Object reference not set to an instance of an object. ==> Apollo Admin ==> LineNo : 1250
+02-12-2014 14:33:09 ==> Enquiry Status ==> Archive file cannot be size 0. ==> Apollo Admin ==> LineNo : 607
+02-12-2014 14:33:36 ==> Enquiry Status ==> Object reference not set to an instance of an object. ==> Apollo Admin ==> LineNo : 1250
+02-12-2014 14:33:37 ==> Enquiry Status ==> Archive file cannot be size 0. ==> Apollo Admin ==> LineNo : 607
+03-12-2014 11:47:26 ==> Enquiry Status ==> Object reference not set to an instance of an object. ==> Apollo Admin ==> LineNo : 794
+03-12-2014 11:53:00 ==> Enquiry Status ==> Object reference not set to an instance of an object. ==> Apollo Admin ==> LineNo : 794
+03-12-2014 12:37:14 ==> Enquiry Status ==> Object reference not set to an instance of an object. ==> Apollo Admin ==> LineNo : 794
+03-12-2014 12:37:56 ==> Enquiry Status ==> Non-composite elements do not have child elements. ==> Apollo Admin ==> LineNo : 794
+03-12-2014 12:39:15 ==> Enquiry Status ==> Non-composite elements do not have child elements. ==> Apollo Admin ==> LineNo : 794
+03-12-2014 14:33:40 ==> Enquiry Status ==> Thread was being aborted. ==> Apollo Admin ==> LineNo : 235
+03-12-2014 14:59:25 ==> Enquiry Status ==> Cannot insert the OpenXmlElement "newChild" because it is part of a tree.  ==> Apollo Admin ==> LineNo : 629
+03-12-2014 14:59:41 ==> Enquiry Status ==> Cannot insert the OpenXmlElement "newChild" because it is part of a tree.  ==> Apollo Admin ==> LineNo : 629
+03-12-2014 15:00:10 ==> Enquiry Status ==> Cannot insert the OpenXmlElement "newChild" because it is part of a tree.  ==> Apollo Admin ==> LineNo : 629
+03-12-2014 15:54:27 ==> Enquiry Status ==> Cannot insert the OpenXmlElement "newChild" because it is part of a tree.  ==> Balaji Group BLG ==> LineNo : 629
+03-12-2014 15:54:54 ==> Enquiry Status ==> Cannot insert the OpenXmlElement "newChild" because it is part of a tree.  ==> Apollo Admin ==> LineNo : 629
+03-12-2014 15:56:05 ==> Enquiry Status ==> Cannot insert the OpenXmlElement "newChild" because it is part of a tree.  ==> Apollo Admin ==> LineNo : 629
+03-12-2014 16:34:40 ==> Enquiry Status ==> Non-composite elements do not have child elements. ==> Apollo Admin ==> LineNo : 629
+04-12-2014 11:27:45 ==> Enquiry Status ==> Object reference not set to an instance of an object. ==> Apollo Admin ==> LineNo : 648
+04-12-2014 11:28:25 ==> Enquiry Status ==> Object reference not set to an instance of an object. ==> Apollo Admin ==> LineNo : 648
+04-12-2014 11:31:20 ==> Enquiry Status ==> Object reference not set to an instance of an object. ==> Apollo Admin ==> LineNo : 648
+04-12-2014 11:33:05 ==> Enquiry Status ==> Object reference not set to an instance of an object. ==> Apollo Admin ==> LineNo : 648
+05-12-2014 17:08:31 ==> Foreing Enquiry Details ==> Invalid report file path. ==> RR RRG
+05-12-2014 17:12:06 ==> Foreing Enquiry Details ==> Invalid report file path. ==> RR RRG
+05-12-2014 17:13:41 ==> Foreing Enquiry Details ==> Invalid report file path. ==> RR RRG
+05-12-2014 17:28:51 ==> Foreing Enquiry Details ==> Invalid report file path. ==> RR RRG
+05-12-2014 17:28:55 ==> Foreing Enquiry Details ==> Invalid report file path. ==> RR RRG
+05-12-2014 17:29:18 ==> Foreing Enquiry Details ==> Invalid report file path. ==> RR RRG
+08-12-2014 11:16:55 ==> Foreing Enquiry Details ==> Invalid report file path. ==> RR RRG
+08-12-2014 14:41:26 ==> Enquiry Status ==> Thread was being aborted. ==> Apollo Admin ==> LineNo : 235
+08-12-2014 16:28:16 ==> Enquiry Status ==> Thread was being aborted. ==> Apollo Admin ==> LineNo : 235
+08-12-2014 16:28:59 ==> Enquiry Status ==> Thread was being aborted. ==> Apollo Admin ==> LineNo : 235
+09-12-2014 13:06:07 ==> New Local Enquiry ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx). ==> First Client SECOND User ==> LineNo : 469
+09-12-2014 13:06:16 ==> New Foreign Enquiry ==> There is no row at position 0. ==> First Client SECOND User ==> LineNo : 1160
+09-12-2014 14:23:31 ==> New Local Enquiry ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx). ==> Apollo Admin ==> LineNo : 469
+09-12-2014 14:23:41 ==> New Foreign Enquiry ==> There is no row at position 0. ==> Apollo Admin ==> LineNo : 1160
+09-12-2014 15:23:41 ==> New Local Enquiry ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx). ==> Apollo Admin ==> LineNo : 469
+09-12-2014 15:23:49 ==> New Foreign Enquiry ==> There is no row at position 0. ==> Apollo Admin ==> LineNo : 1160
+09-12-2014 17:37:44 ==> New Local Enquiry ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx). ==> Apollo Admin ==> LineNo : 469
+09-12-2014 17:37:54 ==> New Foreign Enquiry ==> There is no row at position 0. ==> Apollo Admin ==> LineNo : 1160
+10-12-2014 12:12:33 ==> New Local Enquiry ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx). ==> Apollo Admin ==> LineNo : 469
+10-12-2014 12:12:41 ==> New Foreign Enquiry ==> There is no row at position 0. ==> Apollo Admin ==> LineNo : 1160
+10-12-2014 18:12:21 ==> New Local Enquiry ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx). ==> First Client SECOND User ==> LineNo : 469
+10-12-2014 18:12:28 ==> New Foreign Enquiry ==> There is no row at position 0. ==> First Client SECOND User ==> LineNo : 1160
+10-12-2014 18:51:27 ==> Enquiry Status ==> Could not find a part of the path 'C:\Users\Admin\Downloads\FE_FE\comp4\10\12.xlsx'. ==> RR RRG ==> LineNo : 2237
+10-12-2014 18:51:28 ==> Enquiry Status ==> Could not find a part of the path 'C:\Users\Admin\Downloads\FE_FE\comp4\10\12.xlsx'. ==> RR RRG ==> LineNo : 1475
+10-12-2014 19:00:52 ==> Enquiry Status ==> Could not find a part of the path 'C:\Users\Admin\Downloads\FE_FE\comp3\10\12.xlsx'. ==> RR RRG ==> LineNo : 2237
+10-12-2014 19:00:52 ==> Enquiry Status ==> Could not find a part of the path 'C:\Users\Admin\Downloads\FE_FE\comp3\10\12.xlsx'. ==> RR RRG ==> LineNo : 1475
+12-12-2014 16:09:54 ==> Enquiry Status ==> Thread was being aborted. ==> Apollo Admin ==> LineNo : 235
+12-12-2014 16:10:19 ==> Enquiry Status ==> Thread was being aborted. ==> Apollo Admin ==> LineNo : 235
+12-12-2014 16:11:07 ==> New Local Enquiry ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx). ==> CEAT Limited CEAT ==> LineNo : 469
+12-12-2014 16:11:41 ==> Enquiry Status ==> Thread was being aborted. ==> CEAT Limited CEAT ==> LineNo : 235
+12-12-2014 16:21:53 ==> New Local Enquiry ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx). ==> CEAT Limited CEAT ==> LineNo : 469
+12-12-2014 16:50:17 ==> Floated Enquiry Status ==> Thread was being aborted. ==> CEAT Limited CEAT ==> LineNo : 162
+12-12-2014 17:06:30 ==> New Local Enquiry ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx). ==> Apollo Admin ==> LineNo : 469
+12-12-2014 17:18:54 ==> New Local Enquiry ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx). ==> CEAT Limited CEAT ==> LineNo : 469
+15-12-2014 11:30:47 ==> New Local Enquiry ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx). ==> RR RRG ==> LineNo : 469
+15-12-2014 11:31:00 ==> New Foreign Enquiry ==> There is no row at position 0. ==> RR RRG ==> LineNo : 1160
+15-12-2014 11:33:41 ==> New Local Enquiry ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx). ==> RR RRG ==> LineNo : 469
+15-12-2014 11:36:46 ==> New Foreign Enquiry ==> There is no row at position 0. ==> RR RRG ==> LineNo : 1160
+15-12-2014 11:41:51 ==> New Local Enquiry ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx). ==> RR RRG ==> LineNo : 469
+15-12-2014 11:43:12 ==> New Foreign Enquiry ==> There is no row at position 0. ==> RR RRG ==> LineNo : 1160
+18-12-2014 11:18:24 ==> Added Items WebService ==> The ORDER BY clause is invalid in views, inline functions, derived tables, subqueries, and common table expressions, unless TOP or FOR XML is also specified. ==> CEAT Limited CEAT ==> LineNo : 704
+18-12-2014 11:19:22 ==> Added Items WebService ==> The ORDER BY clause is invalid in views, inline functions, derived tables, subqueries, and common table expressions, unless TOP or FOR XML is also specified. ==> CEAT Limited CEAT ==> LineNo : 704
+18-12-2014 11:20:24 ==> Added Items WebService ==> The ORDER BY clause is invalid in views, inline functions, derived tables, subqueries, and common table expressions, unless TOP or FOR XML is also specified. ==> CEAT Limited CEAT ==> LineNo : 704
+19-12-2014 18:20:12 ==> Added Items WebService ==> The multi-part identifier "b.IsActive" could not be bound.
+The multi-part identifier "b.custId" could not be bound.
+The multi-part identifier "b.CompanyId" could not be bound. ==> Apollo Customer User ==> LineNo : 704
+19-12-2014 18:25:57 ==> Added Items WebService ==> The multi-part identifier "b.IsActive" could not be bound.
+The multi-part identifier "b.custId" could not be bound.
+The multi-part identifier "b.CompanyId" could not be bound. ==> Apollo Customer User ==> LineNo : 704
+19-12-2014 18:29:01 ==> Floated Enquiry Status ==> Thread was being aborted. ==> Apollo Customer User Two ==> LineNo : 162
+22-12-2014 11:05:06 ==> Enquiry Status ==> Thread was being aborted. ==> Apollo Customer User Two ==> LineNo : 235
+22-12-2014 11:12:46 ==> Enquiry Status ==> Thread was being aborted. ==> Apollo Customer User Two ==> LineNo : 235
+22-12-2014 12:09:51 ==> Enquiry Status ==> Thread was being aborted. ==> Apollo Customer User Two ==> LineNo : 235
+22-12-2014 12:10:30 ==> Enquiry Status ==> Thread was being aborted. ==> Apollo Customer User Two ==> LineNo : 235
+22-12-2014 12:14:55 ==> Local Enquiry Status ==> Cannot find table 1. ==> RR RRG ==> LineNo : 112
+22-12-2014 12:19:35 ==> Foreing Enquiry Details ==> Invalid report file path. ==> Apollo Admin
+22-12-2014 15:52:15 ==> Added Items WebService ==> Incorrect syntax near '9999'. ==> RR RRG ==> LineNo : 704
+22-12-2014 15:56:50 ==> Added Items WebService ==> Incorrect syntax near the keyword 'Where'. ==> RR RRG ==> LineNo : 704
+22-12-2014 15:56:58 ==> Added Items WebService ==> Incorrect syntax near the keyword 'Where'. ==> RR RRG ==> LineNo : 704
+22-12-2014 15:59:35 ==> Added Items WebService ==> Incorrect syntax near the keyword 'Where'. ==> RR RRG ==> LineNo : 704
+22-12-2014 16:07:39 ==> Foreing Enquiry Details ==> Invalid report file path. ==> RR RRG
+22-12-2014 18:43:54 ==> Foreing Enquiry Details ==> Invalid report file path. ==> Apollo Admin
+22-12-2014 18:44:18 ==> Foreing Enquiry Details ==> Invalid report file path. ==> Apollo Admin
+22-12-2014 18:44:49 ==> Foreing Enquiry Details ==> Invalid report file path. ==> Apollo Admin
+22-12-2014 18:45:15 ==> Foreing Enquiry Details ==> Invalid report file path. ==> Apollo Admin
+22-12-2014 18:45:31 ==> Foreing Enquiry Details ==> Invalid report file path. ==> Apollo Admin
+22-12-2014 18:47:17 ==> Foreing Enquiry Details ==> Invalid report file path. ==> Apollo Admin
+22-12-2014 18:47:22 ==> Foreing Enquiry Details ==> Invalid report file path. ==> Apollo Admin
+22-12-2014 18:51:40 ==> Foreing Enquiry Details ==> Invalid report file path. ==> Apollo Admin
+22-12-2014 18:52:47 ==> Foreing Enquiry Details ==> Invalid report file path. ==> Apollo Admin
+22-12-2014 18:53:32 ==> Foreing Enquiry Details ==> Invalid report file path. ==> Apollo Admin
+23-12-2014 10:24:34 ==> Foreing Enquiry Details ==> Invalid report file path. ==> Apollo Admin
+23-12-2014 10:27:18 ==> Foreing Enquiry Details ==> Invalid report file path. ==> Apollo Admin
+23-12-2014 10:27:48 ==> Foreing Enquiry Details ==> Invalid report file path. ==> Apollo Admin
+23-12-2014 10:27:50 ==> Foreing Enquiry Details ==> Invalid report file path. ==> Apollo Admin
+23-12-2014 10:37:13 ==> Foreing Enquiry Details ==> Invalid report file path. ==> Apollo Admin
+23-12-2014 10:37:15 ==> Foreing Enquiry Details ==> Invalid report file path. ==> Apollo Admin
+23-12-2014 10:37:40 ==> Foreing Enquiry Details ==> Invalid report file path. ==> Apollo Admin
+23-12-2014 10:37:41 ==> Foreing Enquiry Details ==> Invalid report file path. ==> Apollo Admin
+23-12-2014 10:37:57 ==> Foreing Enquiry Details ==> Invalid report file path. ==> Apollo Admin
+23-12-2014 10:37:59 ==> Foreing Enquiry Details ==> Invalid report file path. ==> Apollo Admin
+23-12-2014 13:00:21 ==> Enquiry Status ==> Thread was being aborted. ==> RR RRG ==> LineNo : 235
+23-12-2014 13:02:09 ==> Enquiry Status ==> The process cannot access the file 'C:\Users\Admin\Desktop.xlsx' because it is being used by another process. ==> RR RRG ==> LineNo : 534
+23-12-2014 13:02:16 ==> Enquiry Status ==> Thread was being aborted. ==> RR RRG ==> LineNo : 235
+23-12-2014 16:03:09 ==> Floated Enquiry Status ==> Thread was being aborted. ==> Balaji Customer User One ==> LineNo : 162
+23-12-2014 16:03:13 ==> Floated Enquiry Status ==> Thread was being aborted. ==> Balaji Customer User One ==> LineNo : 162
+23-12-2014 16:16:03 ==> Added Items WebService ==> Incorrect syntax near 'EnquiryDate'.
+Incorrect syntax near the keyword 'and'. ==> Customer User RRG ==> LineNo : 705
+23-12-2014 16:19:37 ==> Added Items WebService ==> Ambiguous column name 'DepartmentId'. ==> Customer User RRG ==> LineNo : 705
+23-12-2014 16:19:40 ==> Added Items WebService ==> Ambiguous column name 'DepartmentId'. ==> Customer User RRG ==> LineNo : 705
+23-12-2014 16:19:42 ==> Added Items WebService ==> Ambiguous column name 'DepartmentId'. ==> Customer User RRG ==> LineNo : 705
+23-12-2014 16:19:42 ==> Added Items WebService ==> Ambiguous column name 'DepartmentId'. ==> Customer User RRG ==> LineNo : 705
+23-12-2014 16:19:42 ==> Added Items WebService ==> Ambiguous column name 'DepartmentId'. ==> Customer User RRG ==> LineNo : 705
+23-12-2014 16:19:43 ==> Added Items WebService ==> Ambiguous column name 'DepartmentId'. ==> Customer User RRG ==> LineNo : 705
+23-12-2014 16:20:57 ==> Added Items WebService ==> Ambiguous column name 'DepartmentId'. ==> Customer User RRG ==> LineNo : 705
+24-12-2014 17:08:31 ==> Foreing Enquiry Details ==> Invalid report file path. ==> RR RRG
+24-12-2014 17:10:38 ==> Foreing Enquiry Details ==> Invalid report file path. ==> RR RRG
+24-12-2014 17:19:07 ==> Foreing Enquiry Details ==> Invalid report file path. ==> RR RRG
+24-12-2014 17:20:36 ==> Foreing Enquiry Details ==> Invalid report file path. ==> RR RRG
+24-12-2014 17:24:11 ==> Foreing Enquiry Details ==> Invalid report file path. ==> RR RRG
+24-12-2014 17:35:07 ==> Foreing Enquiry Details ==> Invalid report file path. ==> RR RRG
+24-12-2014 17:35:24 ==> Foreing Enquiry Details ==> Invalid report file path. ==> RR RRG
+24-12-2014 17:37:34 ==> Foreing Enquiry Details ==> Invalid report file path. ==> RR RRG
+24-12-2014 17:40:23 ==> Foreing Enquiry Details ==> Invalid report file path. ==> RR RRG
+24-12-2014 17:40:36 ==> Foreing Enquiry Details ==> Invalid report file path. ==> RR RRG
+24-12-2014 17:43:16 ==> Foreing Enquiry Details ==> Invalid report file path. ==> RR RRG
+24-12-2014 17:44:21 ==> Foreing Enquiry Details ==> Invalid report file path. ==> RR RRG
+24-12-2014 17:44:42 ==> Foreing Enquiry Details ==> Invalid report file path. ==> RR RRG
+24-12-2014 17:44:45 ==> Foreing Enquiry Details ==> Invalid report file path. ==> RR RRG
+30-12-2014 12:50:57 ==> Foreing Enquiry Details ==> Invalid report file path. ==> RR RRG
+30-12-2014 12:51:10 ==> Foreing Enquiry Details ==> Invalid report file path. ==> RR RRG
+06-01-2015 16:32:06 ==> Floated Enquiry Status ==> Thread was being aborted. ==> Apollo Admin ==> LineNo : 162
+06-01-2015 16:32:54 ==> Added Items WebService ==> Invalid column name 'ContactPerson'. ==> Apollo Admin ==> LineNo : 705
+06-01-2015 16:32:56 ==> Added Items WebService ==> Invalid column name 'ContactPerson'. ==> Apollo Admin ==> LineNo : 705
+06-01-2015 16:32:57 ==> Added Items WebService ==> Invalid column name 'ContactPerson'. ==> Apollo Admin ==> LineNo : 705
+06-01-2015 16:32:57 ==> Added Items WebService ==> Invalid column name 'ContactPerson'. ==> Apollo Admin ==> LineNo : 705
+06-01-2015 16:33:01 ==> Added Items WebService ==> Invalid column name 'ContactPerson'. ==> Apollo Admin ==> LineNo : 705
+06-01-2015 16:33:04 ==> Added Items WebService ==> Invalid column name 'ContactPerson'. ==> Apollo Admin ==> LineNo : 705
+06-01-2015 16:33:04 ==> Added Items WebService ==> Invalid column name 'ContactPerson'. ==> Apollo Admin ==> LineNo : 705
+06-01-2015 16:34:29 ==> Added Items WebService ==> Invalid column name 'ContactPerson'. ==> Apollo Admin ==> LineNo : 705
+07-01-2015 12:31:59 ==> Foreing Enquiry Details ==> Invalid report file path. ==> Apollo Admin
+07-01-2015 12:32:26 ==> Foreing Enquiry Details ==> Invalid report file path. ==> Apollo Admin
+07-01-2015 12:34:48 ==> Foreing Enquiry Details ==> Invalid report file path. ==> Apollo Admin
+07-01-2015 12:35:52 ==> Foreing Enquiry Details ==> Invalid report file path. ==> Apollo Admin
+07-01-2015 12:40:35 ==> Foreing Enquiry Details ==> Invalid report file path. ==> Apollo Admin
+07-01-2015 12:42:17 ==> Foreing Enquiry Details ==> Invalid report file path. ==> Apollo Admin
+07-01-2015 12:42:29 ==> Foreing Enquiry Details ==> Invalid report file path. ==> Apollo Admin
+07-01-2015 12:43:08 ==> Foreing Enquiry Details ==> Invalid report file path. ==> Apollo Admin
+07-01-2015 12:43:21 ==> Foreing Enquiry Details ==> Invalid report file path. ==> Apollo Admin
+07-01-2015 12:44:25 ==> Foreing Enquiry Details ==> Invalid report file path. ==> Apollo Admin
+07-01-2015 12:58:18 ==> Foreing Enquiry Details ==> Invalid report file path. ==> Apollo Admin
+07-01-2015 12:59:41 ==> Foreing Enquiry Details ==> Invalid report file path. ==> Apollo Admin
+07-01-2015 16:38:31 ==> Floated Foreign Enquiry Vendor ==> Error while Updating. ==> Customer User RRG
+07-01-2015 16:39:07 ==> Floated Foreign Enquiry Vendor ==> Error while Updating. ==> Customer User RRG
+07-01-2015 16:43:05 ==> Floated Foreign Enquiry Vendor ==> Error while Updating. ==> Customer User RRG
+07-01-2015 18:11:21 ==> Foreing Enquiry Details ==> Invalid report file path. ==> RR RRG
+07-01-2015 18:14:39 ==> Foreing Enquiry Details ==> Invalid report file path. ==> RR RRG
+08-01-2015 12:07:17 ==> Floated Foreign Enquiry Vendor ==> Error while Updating. ==> Customer User RRG
+08-01-2015 12:12:30 ==> Foreing Enquiry Details ==> Invalid report file path. ==> RR RRG
+08-01-2015 12:12:32 ==> Foreing Enquiry Details ==> Invalid report file path. ==> RR RRG
+08-01-2015 18:51:59 ==> New Local Enquiry ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx). ==> Apollo Admin ==> LineNo : 469
+08-01-2015 18:56:37 ==> New Local Enquiry ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx). ==> Apollo Admin ==> LineNo : 469
+08-01-2015 18:56:50 ==> New Local Enquiry ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx). ==> Apollo Admin ==> LineNo : 469
+09-01-2015 11:14:36 ==> Float Enquiry Vendor ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx). ==> Customer User RRG
+09-01-2015 11:18:57 ==> New Local Enquiry ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx). ==> Apollo Admin ==> LineNo : 469
+09-01-2015 11:23:20 ==> Added Items WebService ==> The ORDER BY clause is invalid in views, inline functions, derived tables, subqueries, and common table expressions, unless TOP or FOR XML is also specified. ==> Apollo Admin ==> LineNo : 400
+09-01-2015 15:06:36 ==> Added Items WebService ==> The ORDER BY clause is invalid in views, inline functions, derived tables, subqueries, and common table expressions, unless TOP or FOR XML is also specified. ==> Apollo Admin ==> LineNo : 400
+09-01-2015 15:20:59 ==> Added Items WebService ==> The ORDER BY clause is invalid in views, inline functions, derived tables, subqueries, and common table expressions, unless TOP or FOR XML is also specified. ==> Apollo Admin ==> LineNo : 400
+09-01-2015 15:46:24 ==> Added Items WebService ==> Invalid column name 'custId'. ==> Customer User Two CEAT ==> LineNo : 400
+09-01-2015 18:00:09 ==> Added Items WebService ==> Invalid column name 'ContactPerson'. ==> Balaji Group BLG ==> LineNo : 400
+09-01-2015 18:00:09 ==> Added Items WebService ==> Invalid column name 'ContactPerson'. ==> Balaji Group BLG ==> LineNo : 400
+09-01-2015 18:00:12 ==> Added Items WebService ==> Invalid column name 'ContactPerson'. ==> Balaji Group BLG ==> LineNo : 400
+12-01-2015 14:12:38 ==> New Local Enquiry ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx). ==> RR RRG ==> LineNo : 469
+12-01-2015 14:32:12 ==> New Foreign Enquiry ==> Index was outside the bounds of the array. ==> RR RRG ==> LineNo : 732
+12-01-2015 14:34:02 ==> New Foreign Enquiry ==> Index was outside the bounds of the array. ==> RR RRG ==> LineNo : 732
+12-01-2015 14:35:54 ==> New Foreign Enquiry ==> Index was outside the bounds of the array. ==> RR RRG ==> LineNo : 732
+12-01-2015 14:37:18 ==> New Foreign Enquiry ==> Index was outside the bounds of the array. ==> RR RRG ==> LineNo : 732
+12-01-2015 14:39:03 ==> New Foreign Enquiry ==> Index was outside the bounds of the array. ==> RR RRG ==> LineNo : 732
+13-01-2015 12:50:34 ==> New Foreign Enquiry ==> Cannot find table 0. ==> Apollo Admin ==> LineNo : 697
+19-01-2015 12:28:52 ==> Foreing Enquiry Details ==> Invalid report file path. ==> RR RRG
+19-01-2015 12:29:19 ==> Foreing Enquiry Details ==> Invalid report file path. ==> RR RRG
+20-01-2015 12:22:30 ==> Foreing Enquiry Details ==> Invalid report file path. ==> RR RRG
+20-01-2015 12:24:58 ==> Foreing Enquiry Details ==> Invalid report file path. ==> RR RRG
+20-01-2015 12:25:01 ==> Foreing Enquiry Details ==> Invalid report file path. ==> RR RRG
+20-01-2015 12:28:37 ==> Foreing Enquiry Details ==> Invalid report file path. ==> RR RRG
+20-01-2015 12:28:49 ==> Foreing Enquiry Details ==> Invalid report file path. ==> RR RRG
+20-01-2015 12:28:51 ==> Foreing Enquiry Details ==> Invalid report file path. ==> RR RRG
+20-01-2015 12:29:40 ==> Foreing Enquiry Details ==> Invalid report file path. ==> RR RRG
+20-01-2015 12:29:45 ==> Foreing Enquiry Details ==> Invalid report file path. ==> RR RRG
+20-01-2015 12:29:47 ==> Foreing Enquiry Details ==> Invalid report file path. ==> RR RRG
+20-01-2015 12:29:49 ==> Foreing Enquiry Details ==> Invalid report file path. ==> RR RRG
+20-01-2015 12:29:56 ==> Foreing Enquiry Details ==> Invalid report file path. ==> RR RRG
+21-01-2015 11:40:45 ==> Enquiry Status ==> Thread was being aborted. ==> RR RRG ==> LineNo : 237
+22-01-2015 11:51:45 ==> NewEnquiry ==> Error while Saving. ==> Apollo Customer User
+22-01-2015 12:09:00 ==> NewEnquiry ==> Error while Saving. ==> Apollo Admin
+22-01-2015 12:22:46 ==> NewEnquiry ==> Error while Saving. ==> Apollo Customer User
+22-01-2015 18:43:32 ==> Added Items WebService ==> Incorrect syntax near 'l'. ==> RR RRG ==> LineNo : 1037
+22-01-2015 18:43:32 ==> Added Items WebService ==> Incorrect syntax near 'l'. ==> RR RRG ==> LineNo : 1037
+22-01-2015 18:43:33 ==> Added Items WebService ==> Incorrect syntax near 'l'. ==> RR RRG ==> LineNo : 1037
+22-01-2015 18:43:33 ==> Added Items WebService ==> Incorrect syntax near 'l'. ==> RR RRG ==> LineNo : 1037
+22-01-2015 18:43:33 ==> Added Items WebService ==> Incorrect syntax near 'l'. ==> RR RRG ==> LineNo : 1037
+22-01-2015 18:43:34 ==> Added Items WebService ==> Incorrect syntax near 'l'. ==> RR RRG ==> LineNo : 1037
+22-01-2015 18:43:35 ==> Added Items WebService ==> Incorrect syntax near 'l'. ==> RR RRG ==> LineNo : 1037
+30-01-2015 18:58:19 ==> New Foreign Enquiry ==> External table is not in the expected format. ==> Apollo Admin ==> LineNo : 977
+02-02-2015 13:55:50 ==> Added Items WebService ==> Incorrect syntax near 's'.
+'points' is not a recognized SET option.
+Incorrect syntax near the keyword 'with'. If this statement is a common table expression, an xmlnamespaces clause or a change tracking context clause, the previous statement must be terminated with a semicolon.
+Unclosed quotation mark after the character string ' and ItemMaster.IsActive <> 0                   
+									SELECT * FROM (SELECT row_number() OVER (ORDER BY  ID  asc) AS RowNumber, * FROM (SELECT (SELECT count([@MA].ID) FROM @MA) AS TotalRows, 
+									(SELECT  count( [@MA].ID) FROM @MA ) AS TotalDisplayRows, [@MA].ID, [@MA].ItemDescription, [@MA].PartNumber, 
+									[@MA].Specification, [@MA].HSCode FROM @MA ) RawResults) Results WHERE RowNumber BETWEEN 1 AND 100'. ==> Apollo Admin ==> LineNo : 128
+02-02-2015 13:56:15 ==> New Local Enquiry ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx). ==> Apollo Admin ==> LineNo : 469
+02-02-2015 13:56:25 ==> New Foreign Enquiry ==> There is no row at position 0. ==> Apollo Admin ==> LineNo : 1160
+02-02-2015 17:23:58 ==> NewEnquiry ==> Error while Saving. ==> Apollo Admin
+02-02-2015 17:26:58 ==> NewEnquiry ==> Error while Saving. ==> Apollo Admin
+02-02-2015 17:29:27 ==> NewEnquiry ==> Error while Saving. ==> Apollo Admin
+02-02-2015 17:40:03 ==> NewEnquiry ==> Error while Saving. ==> Apollo Admin
+02-02-2015 17:42:22 ==> NewEnquiry ==> Error while Saving. ==> Apollo Admin
+02-02-2015 17:43:47 ==> NewEnquiry ==> Error while Saving. ==> Apollo Admin
+02-02-2015 18:01:36 ==> NewEnquiry ==> Error while Saving. ==> Apollo Admin
+02-02-2015 18:05:43 ==> NewEnquiry ==> Error while Saving. ==> Apollo Admin
+02-02-2015 18:06:36 ==> NewEnquiry ==> Error while Saving. ==> Apollo Admin
+02-02-2015 18:09:16 ==> NewEnquiry ==> Error while Saving. ==> Apollo Admin
+02-02-2015 19:11:38 ==> NewEnquiry ==> Error while Saving. ==> Apollo Admin
+02-02-2015 19:16:32 ==> NewEnquiry ==> Error while Saving. ==> Apollo Admin
+03-02-2015 12:28:28 ==> Added Items WebService ==> Ambiguous column name 'EnquiryDate'.
+Ambiguous column name 'EnquireNumber'.
+Ambiguous column name 'ReceivedDate'.
+Ambiguous column name 'ForeignEnquireId'.
+Ambiguous column name 'CusmorId'.
+Ambiguous column name 'CusmorId'.
+Ambiguous column name 'CusmorId'.
+Ambiguous column name 'ForeignEnquireId'. ==> Apollo Admin ==> LineNo : 403
+03-02-2015 12:29:05 ==> Added Items WebService ==> Ambiguous column name 'EnquiryDate'.
+Ambiguous column name 'EnquireNumber'.
+Ambiguous column name 'ReceivedDate'.
+Ambiguous column name 'ForeignEnquireId'.
+Ambiguous column name 'CusmorId'.
+Ambiguous column name 'CusmorId'.
+Ambiguous column name 'CusmorId'.
+Ambiguous column name 'ForeignEnquireId'. ==> Apollo Admin ==> LineNo : 403
+03-02-2015 12:30:47 ==> Added Items WebService ==> Histroy ==> Apollo Admin ==> LineNo : 473
+03-02-2015 12:32:05 ==> Added Items WebService ==> Histroy ==> Apollo Admin ==> LineNo : 473
+03-02-2015 12:56:41 ==> Foreing Enquiry Details ==> Invalid report file path. ==> Apollo Admin
+03-02-2015 13:05:15 ==> Foreing Enquiry Details ==> Invalid report file path. ==> Apollo Admin
+03-02-2015 13:23:26 ==> Foreing Enquiry Details ==> Invalid report file path. ==> RR RRG
+03-02-2015 13:25:46 ==> Foreing Enquiry Details ==> Invalid report file path. ==> RR RRG
+03-02-2015 13:34:27 ==> Foreing Enquiry Details ==> Invalid report file path. ==> RR RRG
+03-02-2015 15:12:27 ==> Foreing Enquiry Details ==> Invalid report file path. ==> Apollo Customer User
+05-02-2015 11:14:53 ==> NewEnquiry ==> Error while Saving. ==> Apollo Admin
+05-02-2015 11:16:01 ==> NewEnquiry ==> Error while Saving. ==> Apollo Admin
+12-02-2015 18:55:27 ==> Foreing Enquiry Details ==> Invalid report file path. ==> Apollo Admin
+12-02-2015 19:02:55 ==> Foreing Enquiry Details ==> Invalid report file path. ==> Apollo Admin
+25-02-2015 15:56:00 ==> Added Items WebService ==> The multi-part identifier "FEStatus.aspx" could not be bound. ==> Apollo Admin ==> LineNo : 405
+25-02-2015 16:01:06 ==> Added Items WebService ==> The multi-part identifier "FEStatus.aspx" could not be bound. ==> Apollo Admin ==> LineNo : 405
+25-02-2015 16:01:46 ==> Added Items WebService ==> Incorrect syntax near 'FEStatus'. ==> Apollo Admin ==> LineNo : 405
+25-02-2015 16:02:14 ==> Added Items WebService ==> Incorrect syntax near 'FEStatus'. ==> Apollo Admin ==> LineNo : 405
+27-02-2015 10:56:03 ==> Foreing Enquiry Details ==> Invalid report file path. ==> Glocem Group GLCM
+27-02-2015 10:56:26 ==> Foreing Enquiry Details ==> Invalid report file path. ==> Glocem Group GLCM
+27-02-2015 10:59:43 ==> Foreing Enquiry Details ==> Invalid report file path. ==> Glocem Group GLCM
+10-03-2015 12:15:39 ==> New Foreign Enquiry ==> Invalid URI: The format of the URI could not be determined. ==> Apollo Admin ==> LineNo : 126
+13-03-2015 15:18:47 ==> Foreing Enquiry Details ==> Invalid report file path. ==> Apollo Admin
+13-03-2015 15:19:30 ==> Foreing Enquiry Details ==> Invalid report file path. ==> Apollo Admin
+13-03-2015 15:21:04 ==> Foreing Enquiry Details ==> Invalid report file path. ==> Apollo Admin
+13-03-2015 15:24:35 ==> Foreing Enquiry Details ==> Invalid report file path. ==> Apollo Admin
+13-03-2015 15:27:11 ==> Foreing Enquiry Details ==> Invalid report file path. ==> Apollo Admin
+01-04-2015 11:41:36 ==> New Local Enquiry ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx). ==> Apollo Admin ==> LineNo : 472
+01-04-2015 11:41:48 ==> New Foreign Enquiry ==> There is no row at position 0. ==> Apollo Admin ==> LineNo : 1171
+01-04-2015 12:31:37 ==> New Local Enquiry ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx). ==> Apollo Admin ==> LineNo : 472
+01-04-2015 12:31:46 ==> New Foreign Enquiry ==> There is no row at position 0. ==> Apollo Admin ==> LineNo : 1171
+29-04-2015 17:25:20 ==> New Foreign Enquiry ==> This row already belongs to another table. ==> Apollo Admin ==> LineNo : 1400
+29-04-2015 17:43:45 ==> New Foreign Enquiry ==> This row already belongs to another table. ==> Apollo Admin ==> LineNo : 1400
+30-04-2015 18:39:01 ==> New Foreign Enquiry Bulk Upload ==> Column 'Category' already belongs to this DataTable. ==> Apollo Admin ==> LineNo : 1466
+04-05-2015 12:50:38 ==> New Foreign Enquiry ==> Unable to cast object of type 'System.Data.DataSet' to type 'System.Data.DataTable'. ==> Apollo Admin ==> LineNo : 706
+04-05-2015 12:51:16 ==> New Foreign Enquiry ==> Unable to cast object of type 'System.Data.DataSet' to type 'System.Data.DataTable'. ==> Apollo Admin ==> LineNo : 706
+04-05-2015 12:55:02 ==> New Foreign Enquiry ==> Column 'IsSubItems' does not belong to table Table. ==> Apollo Admin ==> LineNo : 735
+04-05-2015 14:24:17 ==> Foreing Enquiry Details ==> Invalid report file path. ==> GLOCEM PVT LTD GCM
+04-05-2015 15:02:49 ==> New Foreign Enquiry ==> Column 'IsSubItems' does not belong to table Table. ==> Apollo Admin ==> LineNo : 735
+04-05-2015 15:28:33 ==> New Foreign Enquiry ==> Column 'IsSubItems' does not belong to table Table. ==> Apollo Admin ==> LineNo : 735
+04-05-2015 18:07:52 ==> Foreing Enquiry Details ==> Invalid report file path. ==> GLOCEM PVT LTD GCM
+04-05-2015 18:08:06 ==> Foreing Enquiry Details ==> Invalid report file path. ==> GLOCEM PVT LTD GCM
+04-05-2015 18:11:40 ==> Foreing Enquiry Details ==> Invalid report file path. ==> GLOCEM PVT LTD GCM
+04-05-2015 18:12:20 ==> Foreing Enquiry Details ==> Invalid report file path. ==> GLOCEM PVT LTD GCM
+04-05-2015 18:12:52 ==> Foreing Enquiry Details ==> Invalid report file path. ==> GLOCEM PVT LTD GCM
+04-05-2015 19:21:01 ==> Foreing Enquiry Details ==> Invalid report file path. ==> GLOCEM PVT LTD GCM
+04-05-2015 19:22:00 ==> Foreing Enquiry Details ==> Invalid report file path. ==> GLOCEM PVT LTD GCM
+04-05-2015 19:32:08 ==> Foreing Enquiry Details ==> Invalid report file path. ==> GLOCEM PVT LTD GCM
+05-05-2015 13:33:05 ==> Foreing Enquiry Details ==> Invalid report file path. ==> GLOCEM PVT LTD GCM
+05-05-2015 14:16:27 ==> Foreing Enquiry Details ==> Invalid report file path. ==> GLOCEM PVT LTD GCM
+05-05-2015 14:19:16 ==> Foreing Enquiry Details ==> Invalid report file path. ==> GLOCEM PVT LTD GCM
+05-05-2015 14:19:33 ==> Foreing Enquiry Details ==> Invalid report file path. ==> GLOCEM PVT LTD GCM
+05-05-2015 14:20:38 ==> Foreing Enquiry Details ==> Invalid report file path. ==> GLOCEM PVT LTD GCM
+05-05-2015 14:21:28 ==> Foreing Enquiry Details ==> Invalid report file path. ==> GLOCEM PVT LTD GCM
+05-05-2015 14:21:28 ==> Foreing Enquiry Details ==> Invalid report file path. ==> GLOCEM PVT LTD GCM
+05-05-2015 14:21:51 ==> Foreing Enquiry Details ==> Invalid report file path. ==> GLOCEM PVT LTD GCM
+05-05-2015 14:51:00 ==> Foreing Enquiry Details ==> Invalid report file path. ==> GLOCEM PVT LTD GCM
+05-05-2015 16:29:52 ==> New Foreign Enquiry ==> Index was outside the bounds of the array. ==> Apollo Admin ==> LineNo : 765
+07-05-2015 14:16:55 ==> New Foreign Enquiry Bulk Upload ==> Unable to cast object of type 'System.Int64' to type 'System.String'. ==> Apollo Admin ==> LineNo : 1465
+07-05-2015 17:20:59 ==> New Foreign Enquiry Bulk Upload ==> Unable to cast object of type 'System.Data.DataTable' to type 'System.Data.DataSet'. ==> Apollo Admin ==> LineNo : 1456
+07-05-2015 17:21:36 ==> New Foreign Enquiry Bulk Upload ==> Unable to cast object of type 'System.Data.DataTable' to type 'System.Data.DataSet'. ==> Apollo Admin ==> LineNo : 1456
+07-05-2015 17:45:42 ==> New Foreign Enquiry Bulk Upload ==> <target>.SNo and <source>.SNo have conflicting properties: DataType property mismatch. ==> Apollo Admin ==> LineNo : 1466
+07-05-2015 17:47:59 ==> New Foreign Enquiry Bulk Upload ==> <target>.SNo and <source>.SNo have conflicting properties: DataType property mismatch. ==> Apollo Admin ==> LineNo : 1466
+07-05-2015 17:53:05 ==> New Foreign Enquiry Bulk Upload ==> <target>.SNo and <source>.SNo have conflicting properties: DataType property mismatch. ==> Apollo Admin ==> LineNo : 1466
+07-05-2015 17:57:07 ==> New Foreign Enquiry Bulk Upload ==> <target>.SNo and <source>.SNo have conflicting properties: DataType property mismatch. ==> Apollo Admin ==> LineNo : 1466
+07-05-2015 18:01:26 ==> New Foreign Enquiry Bulk Upload ==> <target>.SNo and <source>.SNo have conflicting properties: DataType property mismatch. ==> Apollo Admin ==> LineNo : 1467
+07-05-2015 18:03:43 ==> New Foreign Enquiry Bulk Upload ==> <target>.SNo and <source>.SNo have conflicting properties: DataType property mismatch. ==> Apollo Admin ==> LineNo : 1466
+08-05-2015 12:17:22 ==> New Foreign Enquiry ==> Column 'IsSubItems' does not belong to table Table. ==> Apollo Admin ==> LineNo : 735
+08-05-2015 12:20:48 ==> New Foreign Enquiry Bulk Upload ==> Specified cast is not valid. ==> Apollo Admin ==> LineNo : 1473
+08-05-2015 12:31:12 ==> New Foreign Enquiry Bulk Upload ==> Specified cast is not valid. ==> Apollo Admin ==> LineNo : 1473
+08-05-2015 18:34:15 ==> New Foreign Enquiry ==> The 'Microsoft.Jet.OLEDB.12.0' provider is not registered on the local machine. ==> Apollo Admin ==> LineNo : 1010
+08-05-2015 18:34:34 ==> New Foreign Enquiry ==> The 'Microsoft.Jet.OLEDB.12.0' provider is not registered on the local machine. ==> Apollo Admin ==> LineNo : 1010
+11-05-2015 12:20:20 ==> New Foreign Enquiry ==> Index was outside the bounds of the array. ==> Apollo Admin ==> LineNo : 765
+11-05-2015 13:06:36 ==> New Foreign Enquiry ==> Index was outside the bounds of the array. ==> Apollo Admin ==> LineNo : 765
+11-05-2015 13:18:31 ==> New Foreign Enquiry ==> Index was outside the bounds of the array. ==> Apollo Admin ==> LineNo : 765
+11-05-2015 14:44:15 ==> New Local Enquiry ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx). ==> Apollo Admin ==> LineNo : 472
+11-05-2015 14:44:27 ==> New Foreign Enquiry ==> There is no row at position 0. ==> Apollo Admin ==> LineNo : 1171
+11-05-2015 17:20:06 ==> New Local Enquiry ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx). ==> Apollo Admin ==> LineNo : 472
+11-05-2015 17:20:10 ==> New Foreign Enquiry ==> There is no row at position 0. ==> Apollo Admin ==> LineNo : 1171
+11-05-2015 17:23:56 ==> Foreing Enquiry Details ==> Invalid report file path. ==> Apollo Admin
+18-05-2015 10:33:45 ==> Added Items WebService ==> Invalid column name 'DepID'. ==> Apollo Admin ==> LineNo : 390
+18-05-2015 10:33:45 ==> Added Items WebService ==> Invalid column name 'DepID'. ==> Apollo Admin ==> LineNo : 390
+18-05-2015 10:33:46 ==> Added Items WebService ==> Invalid column name 'DepID'. ==> Apollo Admin ==> LineNo : 390
+18-05-2015 10:33:46 ==> Added Items WebService ==> Invalid column name 'DepID'. ==> Apollo Admin ==> LineNo : 390
+18-05-2015 10:33:46 ==> Added Items WebService ==> Invalid column name 'DepID'. ==> Apollo Admin ==> LineNo : 390
+18-05-2015 10:33:46 ==> Added Items WebService ==> Invalid column name 'DepID'. ==> Apollo Admin ==> LineNo : 390
+18-05-2015 10:33:47 ==> Added Items WebService ==> Invalid column name 'DepID'. ==> Apollo Admin ==> LineNo : 390
+18-05-2015 11:34:39 ==> NewEnquiry ==> There is no row at position 0. ==> GLOCEM PVT LTD GCM ==> LineNo : 249
+18-05-2015 11:37:06 ==> NewEnquiry ==> There is no row at position 0. ==> GLOCEM PVT LTD GCM ==> LineNo : 249
+18-05-2015 11:45:13 ==> NewEnquiry ==> There is no row at position 0. ==> GLOCEM PVT LTD GCM ==> LineNo : 249
+18-05-2015 15:01:33 ==> Added Items WebService ==> Invalid attempt to read when no data is present. ==> Apollo Admin ==> LineNo : 3153
+18-05-2015 15:36:18 ==> New Local Enquiry ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx). ==> GLOCEM PVT LTD GCM ==> LineNo : 472
+18-05-2015 15:36:26 ==> New Foreign Enquiry ==> There is no row at position 0. ==> GLOCEM PVT LTD GCM ==> LineNo : 1171
+18-05-2015 15:49:46 ==> Foreing Enquiry Details ==> Invalid report file path. ==> GLOCEM PVT LTD GCM
+18-05-2015 15:50:02 ==> Foreing Enquiry Details ==> Invalid report file path. ==> GLOCEM PVT LTD GCM
+18-05-2015 15:50:14 ==> Foreing Enquiry Details ==> Invalid report file path. ==> GLOCEM PVT LTD GCM
+18-05-2015 17:39:14 ==> NewEnquiry ==> Error while Saving. ==> GLOCEM PVT LTD GCM
+19-05-2015 11:22:36 ==> Added Items WebService ==> Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding. ==> Apollo Admin ==> LineNo : 390
+19-05-2015 14:08:27 ==> New Local Enquiry ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx). ==> GLOCEM PVT LTD GCM ==> LineNo : 472
+19-05-2015 14:08:27 ==> New Local Enquiry ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx). ==> GLOCEM PVT LTD GCM ==> LineNo : 755
+19-05-2015 14:09:42 ==> New Local Enquiry ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx). ==> GLOCEM PVT LTD GCM ==> LineNo : 472
+19-05-2015 14:13:42 ==> New Local Enquiry ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx). ==> GLOCEM PVT LTD GCM ==> LineNo : 755
+19-05-2015 14:13:48 ==> New Local Enquiry ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx). ==> GLOCEM PVT LTD GCM ==> LineNo : 472
+19-05-2015 14:21:01 ==> New Local Enquiry ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx). ==> GLOCEM PVT LTD GCM ==> LineNo : 755
+19-05-2015 14:25:28 ==> New Local Enquiry ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx). ==> GLOCEM PVT LTD GCM ==> LineNo : 472
+19-05-2015 14:25:31 ==> New Local Enquiry ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx). ==> GLOCEM PVT LTD GCM ==> LineNo : 755
+19-05-2015 14:25:35 ==> New Local Enquiry ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx). ==> GLOCEM PVT LTD GCM ==> LineNo : 472
+19-05-2015 14:26:47 ==> New Local Enquiry ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx). ==> GLOCEM PVT LTD GCM ==> LineNo : 755
+19-05-2015 14:28:53 ==> New Local Enquiry ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx). ==> GLOCEM PVT LTD GCM ==> LineNo : 472
+19-05-2015 16:17:07 ==> New Local Enquiry ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx). ==> GLOCEM PVT LTD GCM ==> LineNo : 472
+19-05-2015 16:19:06 ==> New Local Enquiry ==> Object reference not set to an instance of an object. ==> GLOCEM PVT LTD GCM ==> LineNo : 1367
+19-05-2015 16:19:06 ==> Local Enquiry ==> Object reference not set to an instance of an object. ==> GLOCEM PVT LTD GCM ==> LineNo : 1053
+19-05-2015 16:19:16 ==> New Local Enquiry ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx). ==> GLOCEM PVT LTD GCM ==> LineNo : 472
+19-05-2015 16:19:39 ==> New Foreign Enquiry ==> There is no row at position 0. ==> GLOCEM PVT LTD GCM ==> LineNo : 1171
+20-05-2015 12:11:52 ==> Foreign Enquiy Details ==> The communication channel has not been created. ==> GLOCEM PVT LTD GCM
+22-05-2015 18:59:51 ==> New Local Enquiry ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx). ==> Apollo Admin ==> LineNo : 472
+22-05-2015 19:00:16 ==> New Local Enquiry ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx). ==> Apollo Admin ==> LineNo : 472
+22-05-2015 19:00:43 ==> New Local Enquiry ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx). ==> Apollo Admin ==> LineNo : 472
+22-05-2015 19:01:17 ==> New Local Enquiry ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx). ==> Apollo Admin ==> LineNo : 472
+22-05-2015 19:01:35 ==> New Local Enquiry ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx). ==> Apollo Admin ==> LineNo : 472
+22-05-2015 19:02:58 ==> New Local Enquiry ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx). ==> Apollo Admin ==> LineNo : 472
+22-05-2015 19:06:45 ==> New Local Enquiry ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx). ==> Apollo Admin ==> LineNo : 472
+22-05-2015 19:06:57 ==> New Local Enquiry ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx). ==> Apollo Admin ==> LineNo : 472
+22-05-2015 19:07:12 ==> New Local Enquiry ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx). ==> Apollo Admin ==> LineNo : 472
+22-05-2015 19:07:21 ==> New Local Enquiry ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx). ==> Apollo Admin ==> LineNo : 472
+25-05-2015 18:57:53 ==> Foreing Enquiry Details ==> Invalid report file path. ==> GLOCEM PVT LTD GCM
+25-05-2015 18:59:05 ==> Foreing Enquiry Details ==> Invalid report file path. ==> GLOCEM PVT LTD GCM
+25-05-2015 19:00:58 ==> Foreing Enquiry Details ==> Invalid report file path. ==> GLOCEM PVT LTD GCM
+25-05-2015 19:01:14 ==> Foreing Enquiry Details ==> Invalid report file path. ==> GLOCEM PVT LTD GCM
+25-05-2015 19:04:24 ==> Foreing Enquiry Details ==> Invalid report file path. ==> GLOCEM PVT LTD GCM
+26-05-2015 10:50:14 ==> Foreing Enquiry Details ==> Invalid report file path. ==> GLOCEM PVT LTD GCM
+26-05-2015 11:09:31 ==> Foreing Enquiry Details ==> Invalid report file path. ==> GLOCEM PVT LTD GCM
+29-05-2015 14:22:07 ==> NewEnquiry ==> There is no row at position 0. ==> ZenQ ZenQ ==> LineNo : 249
+29-05-2015 14:22:37 ==> NewEnquiry ==> There is no row at position 0. ==> ZenQ ZenQ ==> LineNo : 249
+29-05-2015 17:16:25 ==> NewEnquiry ==> There is no row at position 0. ==> ZenQ ZenQ ==> LineNo : 249
+01-06-2015 11:31:38 ==> Foreing Enquiry Details ==> Invalid report file path. ==> ZenQ ZenQ
+04-06-2015 12:06:57 ==> Added Items WebService ==> Conversion failed when converting from a character string to uniqueidentifier. ==> Nskumar V ==> LineNo : 390
+04-06-2015 12:40:27 ==> Added Items WebService ==> Conversion failed when converting from a character string to uniqueidentifier. ==> Nskumar V ==> LineNo : 390
+04-06-2015 12:54:03 ==> Added Items WebService ==> Conversion failed when converting from a character string to uniqueidentifier. ==> Nskumar V ==> LineNo : 390
+04-06-2015 12:54:10 ==> Added Items WebService ==> Incorrect syntax near 'andl'. ==> Nskumar V ==> LineNo : 1028
+04-06-2015 15:24:38 ==> Added Items WebService ==> Conversion failed when converting from a character string to uniqueidentifier. ==> Nskumar V ==> LineNo : 390
+05-06-2015 14:02:35 ==> NewEnquiry ==> Error while Saving. ==> System Admin
+05-06-2015 14:02:41 ==> New Foreign Enquiry ==> Column 'IsSubItems' does not belong to table . ==> System Admin ==> LineNo : 1517
+08-06-2015 12:13:29 ==> NewEnquiry ==> Error while Saving. ==> System Admin
+08-06-2015 12:13:38 ==> New Foreign Enquiry ==> Column 'IsSubItems' does not belong to table . ==> System Admin ==> LineNo : 1517
+08-06-2015 18:56:40 ==> NewEnquiry ==> Cannot find table 0. ==> System Admin ==> LineNo : 383
+09-06-2015 17:42:35 ==> New Local Enquiry ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx). ==> GLOCEM PVT LTD GCM ==> LineNo : 472
+09-06-2015 17:42:40 ==> New Foreign Enquiry ==> There is no row at position 0. ==> GLOCEM PVT LTD GCM ==> LineNo : 1171
+09-06-2015 17:48:44 ==> NewEnquiry ==> There is no row at position 0. ==> GLOCEM PVT LTD GCM ==> LineNo : 249
+10-06-2015 16:10:22 ==> Foreing Enquiry Details ==> Invalid report file path. ==> GLOCEM PVT LTD GCM
+10-06-2015 16:13:14 ==> Foreing Enquiry Details ==> Invalid report file path. ==> GLOCEM PVT LTD GCM
+10-06-2015 17:05:30 ==> New Local Enquiry ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx). ==> Company One CMP ==> LineNo : 472
+10-06-2015 17:05:35 ==> New Foreign Enquiry ==> There is no row at position 0. ==> Company One CMP ==> LineNo : 1171
+10-06-2015 17:06:20 ==> NewEnquiry ==> There is no row at position 0. ==> Company One CMP ==> LineNo : 249
+10-06-2015 17:12:46 ==> Foreing Enquiry Details ==> Invalid report file path. ==> Apollo Customer User Two
+15-06-2015 16:58:00 ==> Foreing Enquiry Details ==> Invalid report file path. ==> GLOCEM PVT LTD GCM
+15-06-2015 17:08:58 ==> Foreing Enquiry Details ==> Invalid report file path. ==> GLOCEM PVT LTD GCM
+16-06-2015 11:58:15 ==> New Local Enquiry ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx). ==> GLOCEM PVT LTD GCM ==> LineNo : 472
+16-06-2015 11:58:19 ==> New Foreign Enquiry ==> There is no row at position 0. ==> GLOCEM PVT LTD GCM ==> LineNo : 1171
+17-06-2015 16:43:13 ==> New Local Enquiry ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx). ==> GLOCEM PVT LTD GCM ==> LineNo : 472
+17-06-2015 17:09:09 ==> New Local Enquiry ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx). ==> GLOCEM PVT LTD GCM ==> LineNo : 472
+17-06-2015 17:09:13 ==> New Foreign Enquiry ==> There is no row at position 0. ==> GLOCEM PVT LTD GCM ==> LineNo : 1171
+22-06-2015 12:39:25 ==> New Local Enquiry ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx). ==> GLOCEM PVT LTD GCM ==> LineNo : 472
+22-06-2015 12:39:29 ==> New Foreign Enquiry ==> There is no row at position 0. ==> GLOCEM PVT LTD GCM ==> LineNo : 1171
+22-06-2015 12:44:15 ==> Foreing Enquiry Details ==> Invalid report file path. ==> GLOCEM PVT LTD GCM
+26-06-2015 17:00:37 ==> Added Items WebService ==> Conversion failed when converting from a character string to uniqueidentifier. ==> Nskumar V ==> LineNo : 1230
+26-06-2015 17:47:28 ==> Added Items WebService ==> Conversion failed when converting from a character string to uniqueidentifier. ==> Nskumar V ==> LineNo : 1230
+26-06-2015 17:47:41 ==> Added Items WebService ==> Conversion failed when converting from a character string to uniqueidentifier. ==> Nskumar V ==> LineNo : 390
+26-06-2015 17:50:46 ==> Added Items WebService ==> Conversion failed when converting from a character string to uniqueidentifier. ==> Nskumar V ==> LineNo : 390
+26-06-2015 17:57:27 ==> Added Items WebService ==> Conversion failed when converting from a character string to uniqueidentifier. ==> Nskumar V ==> LineNo : 1230
+26-06-2015 17:57:49 ==> Added Items WebService ==> Conversion failed when converting from a character string to uniqueidentifier. ==> Nskumar V ==> LineNo : 1230
+26-06-2015 17:58:22 ==> Added Items WebService ==> Conversion failed when converting from a character string to uniqueidentifier. ==> Nskumar V ==> LineNo : 1230
+26-06-2015 18:04:09 ==> Added Items WebService ==> Conversion failed when converting from a character string to uniqueidentifier. ==> Nskumar V ==> LineNo : 390
+29-06-2015 13:55:19 ==> NewEnquiry ==> Error while Saving. ==> System Admin
+29-06-2015 13:55:32 ==> New Foreign Enquiry ==> Column 'IsSubItems' does not belong to table . ==> System Admin ==> LineNo : 1517
+29-06-2015 14:50:30 ==> NewEnquiry ==> Error while Saving. ==> System Admin
+29-06-2015 14:51:09 ==> New Local Enquiry ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx). ==> System Admin ==> LineNo : 472
+29-06-2015 14:51:18 ==> FloatEnquiry ==> Error while Inserting. ==> System Admin
+29-06-2015 15:03:41 ==> FloatEnquiry ==> Error while Inserting. ==> System Admin
+29-06-2015 15:04:55 ==> FloatEnquiry ==> Error while Inserting. ==> System Admin
+29-06-2015 15:29:45 ==> FloatEnquiry ==> Error while Inserting. ==> System Admin
+29-06-2015 15:30:46 ==> New Local Enquiry ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx). ==> System Admin ==> LineNo : 472
+29-06-2015 15:31:19 ==> New Foreign Enquiry ==> There is no row at position 0. ==> System Admin ==> LineNo : 1173
+29-06-2015 15:31:35 ==> Local Enquiry Details ==> There is no row at position 0. ==> System Admin ==> LineNo : 177
+29-06-2015 15:33:20 ==> Local Enquiry Details ==> There is no row at position 0. ==> System Admin ==> LineNo : 177
+29-06-2015 15:33:24 ==> Local Enquiry Details ==> There is no row at position 0. ==> System Admin ==> LineNo : 177
+02-07-2015 14:47:18 ==> Foreing Enquiry Details ==> Invalid report file path. ==> System Admin
+02-07-2015 14:47:18 ==> Foreing Enquiry Details ==> Invalid report file path. ==> System Admin
+02-07-2015 14:59:17 ==> Foreing Enquiry Details ==> Invalid report file path. ==> System Admin
+02-07-2015 15:19:46 ==> New Local Enquiry ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx). ==> System Admin ==> LineNo : 472
+02-07-2015 15:20:05 ==> New Foreign Enquiry ==> There is no row at position 0. ==> System Admin ==> LineNo : 1173
+02-07-2015 18:21:06 ==> Foreing Enquiry Details ==> Invalid report file path. ==> System Admin
+02-07-2015 18:22:59 ==> Foreing Enquiry Details ==> Invalid report file path. ==> System Admin
+02-07-2015 18:34:33 ==> Foreing Enquiry Details ==> Invalid report file path. ==> System Admin
+02-07-2015 18:35:06 ==> Foreing Enquiry Details ==> Invalid report file path. ==> System Admin
+03-07-2015 18:36:36 ==> Added Items WebService ==> Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+The statement has been terminated. ==> System Admin ==> LineNo : 390
+06-07-2015 14:34:14 ==> Foreing Enquiry Details ==> This field name is not known.
+Details: errorKindError in File GrnDtlsCrp {4710670A-7989-48BA-A37E-8ABD926247E5}.rpt:
+Error in formula  QtyUom: 
+'CStr ({SP_ItemDetails.DspchQty}) + " " + {SP_ItemDetails.UnitName}'
+This field name is not known.
+Details: errorKind ==> GLOCEM PVT LTD GCM
+06-07-2015 14:34:16 ==> Foreing Enquiry Details ==> This field name is not known.
+Details: errorKindError in File GrnDtlsCrp {CD7EBBF5-5A90-4D42-8687-FF7FBF4A91A5}.rpt:
+Error in formula  QtyUom: 
+'CStr ({SP_ItemDetails.DspchQty}) + " " + {SP_ItemDetails.UnitName}'
+This field name is not known.
+Details: errorKind ==> GLOCEM PVT LTD GCM
+06-07-2015 14:35:51 ==> Foreing Enquiry Details ==> This field name is not known.
+Details: errorKindError in File GrnDtlsCrp {580E4E01-EFA4-405A-927C-D0157C9C74EC}.rpt:
+Error in formula  QtyUom: 
+'CStr ({SP_ItemDetails.DspchQty}) + " " + {SP_ItemDetails.UnitName}'
+This field name is not known.
+Details: errorKind ==> GLOCEM PVT LTD GCM
+06-07-2015 14:36:02 ==> Foreing Enquiry Details ==> This field name is not known.
+Details: errorKindError in File GrnDtlsCrp {D5AD26B3-D4BB-4E88-A891-54AD579E56C6}.rpt:
+Error in formula  QtyUom: 
+'CStr ({SP_ItemDetails.DspchQty}) + " " + {SP_ItemDetails.UnitName}'
+This field name is not known.
+Details: errorKind ==> GLOCEM PVT LTD GCM
+06-07-2015 14:36:32 ==> Foreing Enquiry Details ==> This field name is not known.
+Details: errorKindError in File GrnDtlsCrp {98EDDF0B-647D-451C-A13B-00E58636E585}.rpt:
+Error in formula  QtyUom: 
+'CStr ({SP_ItemDetails.DspchQty}) + " " + {SP_ItemDetails.UnitName}'
+This field name is not known.
+Details: errorKind ==> GLOCEM PVT LTD GCM
+06-07-2015 14:43:57 ==> Foreing Enquiry Details ==> This field name is not known.
+Details: errorKindError in File GrnDtlsCrp {3D56BF69-BDAC-484F-9B5D-A71F737D7557}.rpt:
+Error in formula  QtyUom: 
+'CStr ({SP_ItemDetails.DspchQty}) + " " + {SP_ItemDetails.UnitName}'
+This field name is not known.
+Details: errorKind ==> GLOCEM PVT LTD GCM
+06-07-2015 15:05:50 ==> Foreing Enquiry Details ==> This field name is not known.
+Details: errorKindError in File GrnDtlsCrp {8E662C04-1575-4845-9CFA-DB1E9425FA0D}.rpt:
+Error in formula  QtyUom: 
+'CStr ({SP_ItemDetails.DspchQty}) + " " + {SP_ItemDetails.UnitName}'
+This field name is not known.
+Details: errorKind ==> GLOCEM PVT LTD GCM
+06-07-2015 18:25:04 ==> New Local Enquiry ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx). ==> GLOCEM PVT LTD GCM ==> LineNo : 472
+06-07-2015 18:25:07 ==> New Foreign Enquiry ==> There is no row at position 0. ==> GLOCEM PVT LTD GCM ==> LineNo : 1173
+16-07-2015 11:29:15 ==> Added Items WebService ==> Incorrect syntax near '{'.
+Incorrect syntax near '{'.
+Incorrect syntax near '{'. ==> Super Admin ==> LineNo : 390
+16-07-2015 12:43:43 ==> Floated Foreign Enquiry Vendor ==> Error while Inserting. ==> Larsen and Tubro
+16-07-2015 12:47:00 ==> Floated Foreign Enquiry Vendor ==> Error while Inserting. ==> Larsen and Tubro
+16-07-2015 13:05:26 ==> Added Items WebService ==> Incorrect syntax near the keyword 'Where'. ==> Volta Impex Pvt.Ltd. VIPL ==> LineNo : 706
+16-07-2015 13:05:41 ==> Added Items WebService ==> Incorrect syntax near the keyword 'Where'. ==> Volta Impex Pvt.Ltd. VIPL ==> LineNo : 706
+16-07-2015 14:07:30 ==> Added Items WebService ==> Incorrect syntax near the keyword 'Where'. ==> Volta Impex Pvt.Ltd. VIPL ==> LineNo : 706
+16-07-2015 14:41:17 ==> Added Items WebService ==> "f" is not a recognized table hints option. If it is intended as a parameter to a table-valued function or to the CHANGETABLE function, ensure that your database compatibility mode is set to 90. ==> Volta Impex Pvt.Ltd. VIPL ==> LineNo : 392
+16-07-2015 14:42:01 ==> Added Items WebService ==> "f" is not a recognized table hints option. If it is intended as a parameter to a table-valued function or to the CHANGETABLE function, ensure that your database compatibility mode is set to 90. ==> Volta Impex Pvt.Ltd. VIPL ==> LineNo : 392
+16-07-2015 15:36:21 ==> Added Items WebService ==> Invalid column name 'VendorId'.
+Invalid column name 'VendorId'. ==> Volta Impex Pvt.Ltd. VIPL ==> LineNo : 392
+16-07-2015 15:38:38 ==> Added Items WebService ==> Invalid column name 'VendorId'.
+Invalid column name 'VendorId'. ==> Volta Impex Pvt.Ltd. VIPL ==> LineNo : 392
+27-07-2015 10:52:27 ==> New Foreign Enquiry ==> Missing ), ], or Item in query expression '(SELECT row_number() OVER (ORDER BY Main Group ASC) AS RowNumber From [Sheet1$]'. ==> Glocem Glocem ==> LineNo : 216
+27-07-2015 10:53:41 ==> New Foreign Enquiry ==> Missing ), ], or Item in query expression '(SELECT row_number() OVER COUNT(Main Group) AS RowNumber From [Sheet1$]'. ==> Glocem Glocem ==> LineNo : 216
+27-07-2015 10:54:41 ==> New Foreign Enquiry ==> Syntax error in query expression '(SELECT row_number() OVER COUNT(Main Group))'. ==> Glocem Glocem ==> LineNo : 216
+27-07-2015 10:57:40 ==> New Foreign Enquiry ==> Syntax error in query expression '(SELECT row_number() OVER (ORDER BY Main Group ASC))'. ==> Glocem Glocem ==> LineNo : 216
+27-07-2015 10:58:35 ==> New Foreign Enquiry ==> Syntax error in query expression '(SELECT row_number() OVER (ORDER BY Main Group DESC))'. ==> Glocem Glocem ==> LineNo : 216
+27-07-2015 10:59:57 ==> New Foreign Enquiry ==> Syntax error (missing operator) in query expression 'ROW_NUMBER() OVER (ORDER BY DESC,Main Group ASC )'. ==> Glocem Glocem ==> LineNo : 216
+27-07-2015 11:03:22 ==> New Foreign Enquiry ==> Syntax error (missing operator) in query expression 'ROW_NUMBER() OVER (ORDER BY Sub Group DESC,Main Group ASC )'. ==> Glocem Glocem ==> LineNo : 216
+27-07-2015 11:09:28 ==> New Foreign Enquiry ==> Syntax error (missing operator) in query expression 'ROW_NUMBER() OVER (ORDER BY Code DESC)'. ==> Glocem Glocem ==> LineNo : 216
+27-07-2015 11:19:11 ==> New Foreign Enquiry ==> Syntax error in query expression 'SELECT row_number() OVER (ORDER BY Code DESC)'. ==> Glocem Glocem ==> LineNo : 216
+27-07-2015 11:51:30 ==> New Foreign Enquiry ==> The SELECT statement includes a reserved word or an argument name that is misspelled or missing, or the punctuation is incorrect. ==> Glocem Glocem ==> LineNo : 218
+27-07-2015 11:56:29 ==> New Foreign Enquiry ==> The SELECT statement includes a reserved word or an argument name that is misspelled or missing, or the punctuation is incorrect. ==> Glocem Glocem ==> LineNo : 218
+27-07-2015 11:57:36 ==> New Foreign Enquiry ==> Syntax error (missing operator) in query expression 'ROW_NUMBER() over (ORDER BY ItemDescription desc) Number'. ==> Glocem Glocem ==> LineNo : 218
+27-07-2015 12:02:22 ==> New Foreign Enquiry ==> Syntax error in query expression 'select ROW_NUMBER() over (ORDER BY ItemDescription desc) Number'. ==> Glocem Glocem ==> LineNo : 218
+27-07-2015 12:03:18 ==> New Foreign Enquiry ==> Syntax error in query expression 'select ROW_NUMBER() over (ORDER BY ItemDescription desc) Number'. ==> Glocem Glocem ==> LineNo : 219
+27-07-2015 12:04:39 ==> New Foreign Enquiry ==> Syntax error in FROM clause. ==> Glocem Glocem ==> LineNo : 219
+27-07-2015 12:05:34 ==> New Foreign Enquiry ==> Syntax error in FROM clause. ==> Glocem Glocem ==> LineNo : 219
+28-07-2015 16:56:31 ==> Added Items WebService ==> Incorrect syntax near '.'. ==> Volta Impex Pvt.Ltd. VIPL ==> LineNo : 1413
+28-07-2015 16:57:38 ==> Added Items WebService ==> Incorrect syntax near '.'. ==> Volta Impex Pvt.Ltd. VIPL ==> LineNo : 1413
+28-07-2015 17:13:20 ==> Added Items WebService ==> Incorrect syntax near the keyword 'asc'.
+Incorrect syntax near 'RawResults'. ==> Volta Impex Pvt.Ltd. VIPL ==> LineNo : 1413
+28-07-2015 18:13:34 ==> Added Items WebService ==> Incorrect syntax near the keyword 'asc'.
+Incorrect syntax near 'RawResults'. ==> Volta Impex Pvt.Ltd. VIPL ==> LineNo : 1413
+28-07-2015 18:24:38 ==> Added Items WebService ==> Incorrect syntax near the keyword 'asc'.
+Incorrect syntax near 'RawResults'. ==> Volta Impex Pvt.Ltd. VIPL ==> LineNo : 1413
+30-07-2015 11:26:25 ==> Added Items WebService ==> Invalid column name 'VendorId'. ==> Volta Impex Pvt.Ltd. VIPL ==> LineNo : 392
+30-07-2015 11:34:44 ==> Added Items WebService ==> Invalid column name 'VendorId'. ==> Volta Impex Pvt.Ltd. VIPL ==> LineNo : 392
+30-07-2015 11:38:27 ==> Enquiry Status New ==> Cannot find table 1. ==> Volta Impex Pvt.Ltd. VIPL ==> LineNo : 562
+30-07-2015 18:02:15 ==> Added Items WebService ==> Error converting data type nvarchar to bigint. ==> Volta Impex Pvt.Ltd. VIPL ==> LineNo : 1418
+30-07-2015 18:02:34 ==> Added Items WebService ==> Error converting data type nvarchar to bigint. ==> Volta Impex Pvt.Ltd. VIPL ==> LineNo : 1418
+30-07-2015 18:02:55 ==> Added Items WebService ==> Error converting data type nvarchar to bigint. ==> Volta Impex Pvt.Ltd. VIPL ==> LineNo : 1418
+30-07-2015 18:02:59 ==> Added Items WebService ==> Error converting data type nvarchar to bigint. ==> Volta Impex Pvt.Ltd. VIPL ==> LineNo : 1418
+30-07-2015 18:03:04 ==> Added Items WebService ==> Error converting data type nvarchar to bigint. ==> Volta Impex Pvt.Ltd. VIPL ==> LineNo : 1418
+30-07-2015 18:03:08 ==> Added Items WebService ==> Error converting data type nvarchar to bigint. ==> Volta Impex Pvt.Ltd. VIPL ==> LineNo : 1418
+30-07-2015 18:03:13 ==> Added Items WebService ==> Error converting data type nvarchar to bigint. ==> Volta Impex Pvt.Ltd. VIPL ==> LineNo : 1418
+30-07-2015 18:03:17 ==> Added Items WebService ==> Error converting data type nvarchar to bigint. ==> Volta Impex Pvt.Ltd. VIPL ==> LineNo : 1418
+30-07-2015 18:03:21 ==> Added Items WebService ==> Error converting data type nvarchar to bigint. ==> Volta Impex Pvt.Ltd. VIPL ==> LineNo : 1418
+30-07-2015 18:03:26 ==> Added Items WebService ==> Error converting data type nvarchar to bigint. ==> Volta Impex Pvt.Ltd. VIPL ==> LineNo : 1418
+30-07-2015 18:03:30 ==> Added Items WebService ==> Error converting data type nvarchar to bigint. ==> Volta Impex Pvt.Ltd. VIPL ==> LineNo : 1418
+30-07-2015 18:03:35 ==> Added Items WebService ==> Error converting data type nvarchar to bigint. ==> Volta Impex Pvt.Ltd. VIPL ==> LineNo : 1418
+30-07-2015 18:03:39 ==> Added Items WebService ==> Error converting data type nvarchar to bigint. ==> Volta Impex Pvt.Ltd. VIPL ==> LineNo : 1418
+30-07-2015 18:03:44 ==> Added Items WebService ==> Error converting data type nvarchar to bigint. ==> Volta Impex Pvt.Ltd. VIPL ==> LineNo : 1418
+30-07-2015 18:03:48 ==> Added Items WebService ==> Error converting data type nvarchar to bigint. ==> Volta Impex Pvt.Ltd. VIPL ==> LineNo : 1418
+30-07-2015 18:38:17 ==> Added Items WebService ==> Error converting data type nvarchar to bigint. ==> Volta Impex Pvt.Ltd. VIPL ==> LineNo : 1418
+30-07-2015 18:38:22 ==> Added Items WebService ==> Error converting data type nvarchar to bigint. ==> Volta Impex Pvt.Ltd. VIPL ==> LineNo : 1418
+30-07-2015 19:01:33 ==> Added Items WebService ==> Error converting data type nvarchar to bigint. ==> Volta Impex Pvt.Ltd. VIPL ==> LineNo : 1418
+31-07-2015 11:01:45 ==> Added Items WebService ==> Error converting data type nvarchar to bigint. ==> Volta Impex Pvt.Ltd. VIPL ==> LineNo : 1418
+04-08-2015 15:34:56 ==> New Foreign Enquiry ==> Column 'IsSubItems' does not belong to table Table. ==> Volta Impex Pvt.Ltd. VIPL ==> LineNo : 735
+04-08-2015 15:36:57 ==> New Foreign Enquiry ==> Column 'IsSubItems' does not belong to table Table. ==> Volta Impex Pvt.Ltd. VIPL ==> LineNo : 735
+04-08-2015 15:36:57 ==> New Foreign Enquiry Bulk Upload ==> Specified cast is not valid. ==> Volta Impex Pvt.Ltd. VIPL ==> LineNo : 1474
+04-08-2015 15:39:32 ==> New Foreign Enquiry ==> Column 'IsSubItems' does not belong to table Table. ==> Volta Impex Pvt.Ltd. VIPL ==> LineNo : 735
+04-08-2015 15:39:32 ==> New Foreign Enquiry Bulk Upload ==> Specified cast is not valid. ==> Volta Impex Pvt.Ltd. VIPL ==> LineNo : 1474
+11-08-2015 11:32:34 ==> New Foreign Enquiry ==> Cannot find table 0. ==> Volta Impex Pvt.Ltd. VIPL ==> LineNo : 827
+11-08-2015 11:32:34 ==> New Foreign Enquiry ==> Cannot find table 0. ==> Volta Impex Pvt.Ltd. VIPL ==> LineNo : 827
+11-08-2015 11:32:55 ==> New Foreign Enquiry ==> Cannot find table 0. ==> Volta Impex Pvt.Ltd. VIPL ==> LineNo : 827
+11-08-2015 11:33:00 ==> New Foreign Enquiry ==> Cannot find table 0. ==> Volta Impex Pvt.Ltd. VIPL ==> LineNo : 827
+11-08-2015 11:33:15 ==> New Foreign Enquiry ==> Cannot find table 0. ==> Volta Impex Pvt.Ltd. VIPL ==> LineNo : 827
+11-08-2015 11:35:14 ==> New Foreign Enquiry ==> Cannot find table 0. ==> Volta Impex Pvt.Ltd. VIPL ==> LineNo : 827
+11-08-2015 11:37:27 ==> New Foreign Enquiry ==> Cannot find table 0. ==> Volta Impex Pvt.Ltd. VIPL ==> LineNo : 827
+11-08-2015 11:37:27 ==> New Foreign Enquiry ==> Cannot find table 0. ==> Volta Impex Pvt.Ltd. VIPL ==> LineNo : 827
+11-08-2015 12:41:00 ==> New Local Enquiry ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx). ==> Glocem Glocem ==> LineNo : 472
+11-08-2015 12:41:05 ==> New Foreign Enquiry ==> There is no row at position 0. ==> Glocem Glocem ==> LineNo : 1173
+11-08-2015 14:20:39 ==> New Foreign Enquiry ==> Object cannot be cast from DBNull to other types. ==> Glocem Glocem ==> LineNo : 1641
+11-08-2015 14:28:06 ==> New Foreign Enquiry ==> Object cannot be cast from DBNull to other types. ==> Glocem Glocem ==> LineNo : 1641
+11-08-2015 14:28:21 ==> New Foreign Enquiry ==> Object cannot be cast from DBNull to other types. ==> Glocem Glocem ==> LineNo : 1641
+11-08-2015 14:33:46 ==> New Foreign Enquiry ==> Object cannot be cast from DBNull to other types. ==> Glocem Glocem ==> LineNo : 1641
+17-08-2015 11:12:15 ==> New Foreign Enquiry ==> Cannot find table 0. ==> Volta Impex Pvt. Ltd. ==> LineNo : 827
+17-08-2015 11:12:15 ==> New Foreign Enquiry ==> Cannot find table 0. ==> Volta Impex Pvt. Ltd. ==> LineNo : 827
+17-08-2015 11:16:45 ==> New Foreign Enquiry ==> Cannot find table 0. ==> Volta Impex Pvt. Ltd. ==> LineNo : 827
+17-08-2015 11:16:45 ==> New Foreign Enquiry ==> Cannot find table 0. ==> Volta Impex Pvt. Ltd. ==> LineNo : 827
+17-08-2015 11:35:58 ==> New Foreign Enquiry ==> Cannot find table 0. ==> Volta Impex Pvt. Ltd. ==> LineNo : 827
+17-08-2015 11:35:58 ==> New Foreign Enquiry ==> Cannot find table 0. ==> Volta Impex Pvt. Ltd. ==> LineNo : 827
+17-08-2015 11:40:00 ==> New Local Enquiry ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx). ==> Volta Impex Pvt. Ltd. ==> LineNo : 472
+26-08-2015 15:16:36 ==> Added Items WebService ==> Invalid column name 'VendorId'. ==> Customer User First ==> LineNo : 392
+10/15/2018 12:46:00 PM ==> PATH FE ==> rassdk://D:\Voms_5.7_New\VOMS_ERP\RDLC_VOMS_UAT_V2\FEnquiryCrp.rpt ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+10/15/2018 12:46:02 PM ==> Foreign Enquiy Details ==> Load report failed. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+10/15/2018 12:46:02 PM ==> Foreing Enquiry Details ==> Invalid report file path. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+10/15/2018 12:46:14 PM ==> Foreing Enquiry Details ==> Invalid report file path. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+10/15/2018 12:46:19 PM ==> Foreing Enquiry Details ==> Invalid report file path. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+10/15/2018 12:47:36 PM ==> Foreing Enquiry Details ==> Invalid report file path. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+10/15/2018 12:48:35 PM ==> Foreing Enquiry Details ==> Invalid report file path. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+10/15/2018 12:49:41 PM ==> PATH FE ==> rassdk://D:\Voms_5.7_New\VOMS_ERP\RDLC_VOMS_UAT_V2\FEnquiryCrp.rpt ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+10/16/2018 4:37:33 PM ==> PATH FE ==> rassdk://D:\Voms_5.7_New\VOMS_ERP\RDLC_VOMS_UAT_V2\FEnquiryCrp.rpt ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+10/16/2018 4:37:49 PM ==> New Foreign Enquiry ==> There is no row at position 0. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 1263
+10/16/2018 4:37:53 PM ==> PATH ==> rassdk://D:\Voms_5.7_New\VOMS_ERP\RDLC_VOMS_UAT_V2\LEnqCrp.rpt ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+10/18/2018 12:17:44 PM ==> PATH FE ==> rassdk://D:\Voms_5.7_New\VOMS_ERP\RDLC_VOMS_UAT_V2\FEnquiryCrp.rpt ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+10/18/2018 12:17:55 PM ==> New Foreign Enquiry ==> There is no row at position 0. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 1263
+10/18/2018 12:17:58 PM ==> PATH ==> rassdk://D:\Voms_5.7_New\VOMS_ERP\RDLC_VOMS_UAT_V2\LEnqCrp.rpt ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+10/23/2018 6:53:48 PM ==> New Foreign Enquiry ==> There is no row at position 0. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 1323
+10/24/2018 3:48:17 PM ==> Foreing Enquiry Details ==> Invalid report file path. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+10/24/2018 3:48:19 PM ==> Foreing Enquiry Details ==> Invalid report file path. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+10/29/2018 12:51:35 PM ==> PATH FE ==> rassdk://D:\Voms_5.7_New\VOMS_ERP\RDLC_VOMS_UAT_V2\FEnquiryCrp.rpt ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+10/29/2018 12:51:48 PM ==> New Foreign Enquiry ==> There is no row at position 0. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 1263
+10/29/2018 12:51:51 PM ==> PATH ==> rassdk://D:\Voms_5.7_New\VOMS_ERP\RDLC_VOMS_UAT_V2\LEnqCrp.rpt ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+10/31/2018 1:02:45 PM ==> PATH FE ==> rassdk://D:\Voms_5.7_New\VOMS_ERP\RDLC_VOMS_UAT_V2\FEnquiryCrp.rpt ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+10/31/2018 1:03:18 PM ==> New Foreign Enquiry ==> There is no row at position 0. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 1263
+10/31/2018 1:03:22 PM ==> PATH ==> rassdk://D:\Voms_5.7_New\VOMS_ERP\RDLC_VOMS_UAT_V2\LEnqCrp.rpt ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+11/1/2018 4:36:27 PM ==> Foreing Enquiry Details ==> Invalid report file path. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+11/2/2018 9:51:47 AM ==> PATH FE ==> rassdk://D:\Voms_5.7_New\VOMS_ERP\RDLC_VOMS_UAT_V2\FEnquiryCrp.rpt ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+11/2/2018 9:52:01 AM ==> New Foreign Enquiry ==> There is no row at position 0. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 1263
+11/2/2018 9:52:16 AM ==> PATH ==> rassdk://D:\Voms_5.7_New\VOMS_ERP\RDLC_VOMS_UAT_V2\LEnqCrp.rpt ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+11/29/2018 2:53:50 PM ==> PATH FE ==> rassdk://D:\Voms_5.7_New\VOMS_ERP\RDLC_VOMS_UAT_V2\FEnquiryCrp.rpt ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+11/29/2018 2:56:05 PM ==> PATH FE ==> rassdk://D:\Voms_5.7_New\VOMS_ERP\RDLC_VOMS_UAT_V2\FEnquiryCrp.rpt ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+11/30/2018 2:30:43 PM ==> New Foreign Enquiry ==> The 'Microsoft.ACE.OLEDB.12.0' provider is not registered on the local machine. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 1042
+11/30/2018 2:30:48 PM ==> New Foreign Enquiry Bulk Upload ==> Object reference not set to an instance of an object. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 1513
+11/30/2018 2:31:16 PM ==> New Foreign Enquiry ==> The 'Microsoft.ACE.OLEDB.12.0' provider is not registered on the local machine. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 1042
+11/30/2018 2:31:17 PM ==> New Foreign Enquiry Bulk Upload ==> Object reference not set to an instance of an object. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 1513
+11/30/2018 2:31:44 PM ==> New Foreign Enquiry ==> The ConnectionString property has not been initialized. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 1042
+11/30/2018 2:31:44 PM ==> New Foreign Enquiry Bulk Upload ==> Object reference not set to an instance of an object. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 1513
+11/30/2018 2:32:26 PM ==> New Foreign Enquiry ==> The 'Microsoft.ACE.OLEDB.12.0' provider is not registered on the local machine. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 1042
+11/30/2018 2:32:26 PM ==> New Foreign Enquiry Bulk Upload ==> Object reference not set to an instance of an object. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 1513
+11/30/2018 2:54:57 PM ==> New Foreign Enquiry Bulk Upload ==> Exception of type 'System.OutOfMemoryException' was thrown. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 1528
+11/30/2018 2:55:15 PM ==> New Foreign Enquiry ==> Exception of type 'System.OutOfMemoryException' was thrown. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 1055
+11/30/2018 2:55:15 PM ==> New Foreign Enquiry Bulk Upload ==> Object reference not set to an instance of an object. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 1513
+11/30/2018 2:55:39 PM ==> New Foreign Enquiry ==> Exception of type 'System.OutOfMemoryException' was thrown. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 1055
+11/30/2018 2:55:39 PM ==> New Foreign Enquiry Bulk Upload ==> Object reference not set to an instance of an object. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 1513
+11/30/2018 2:56:17 PM ==> New Foreign Enquiry ==> Exception of type 'System.OutOfMemoryException' was thrown. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 1055
+11/30/2018 2:56:17 PM ==> New Foreign Enquiry Bulk Upload ==> Object reference not set to an instance of an object. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 1513
+11/30/2018 3:12:02 PM ==> New Foreign Enquiry ==> Invalid argument. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 1042
+11/30/2018 3:12:02 PM ==> New Foreign Enquiry Bulk Upload ==> Object reference not set to an instance of an object. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 1513
+11/30/2018 3:15:33 PM ==> PATH FE ==> rassdk://D:\Voms_5.7_New\VOMS_ERP\RDLC_VOMS_UAT_V2\FEnquiryCrp.rpt ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+12/5/2018 2:12:27 PM ==> PATH FE ==> rassdk://D:\Voms_5.7_New\VOMS_ERP\RDLC_VOMS_UAT_V2\FEnquiryCrp.rpt ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+12/5/2018 2:12:36 PM ==> PATH FE ==> rassdk://D:\Voms_5.7_New\VOMS_ERP\RDLC_VOMS_UAT_V2\FEnquiryCrp.rpt ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+12/5/2018 2:13:22 PM ==> PATH FE ==> rassdk://D:\Voms_5.7_New\VOMS_ERP\RDLC_VOMS_UAT_V2\FEnquiryCrp.rpt ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+12/11/2018 10:16:03 AM ==> PATH FE ==> rassdk://D:\Voms_5.7_New\VOMS_ERP\RDLC_VOMS_UAT_V2\FEnquiryCrp.rpt ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+12/11/2018 10:17:20 AM ==> NewEnquiry ==> Unrecognized Guid format. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 487
+12/11/2018 10:18:43 AM ==> NewEnquiry ==> Unrecognized Guid format. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 487
+12/11/2018 10:19:34 AM ==> NewEnquiry ==> Unrecognized Guid format. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 487
+12/11/2018 10:21:27 AM ==> NewEnquiry ==> Unrecognized Guid format. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 487
+12/11/2018 5:22:19 PM ==> New Foreign Enquiry ==> Invalid argument. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 1042
+12/11/2018 5:22:20 PM ==> New Foreign Enquiry Bulk Upload ==> Object reference not set to an instance of an object. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 1513
+12/12/2018 10:20:11 AM ==> New Foreign Enquiry ==> Invalid argument. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 1042
+12/12/2018 10:20:11 AM ==> New Foreign Enquiry Bulk Upload ==> Object reference not set to an instance of an object. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 1513
+12/21/2018 12:28:05 PM ==> PATH FE ==> rassdk://D:\Voms_5.7_New\VOMS_ERP\RDLC_VOMS_UAT_V2\FEnquiryCrp.rpt ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+2/19/2019 3:17:15 PM ==> Foreing Enquiry Details ==> Invalid report file path. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+2/19/2019 3:18:43 PM ==> Foreing Enquiry Details ==> Invalid report file path. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+2/19/2019 4:08:15 PM ==> PATH FE ==> rassdk://D:\Voms_5.7_New\VOMS_ERP\RDLC_VOMS_UAT_V2\FEnquiryCrp.rpt ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+2/19/2019 4:12:36 PM ==> PATH FE ==> rassdk://D:\Voms_5.7_New\VOMS_ERP\RDLC_VOMS_UAT_V2\FEnquiryCrp.rpt ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+2/19/2019 4:49:00 PM ==> PATH FE ==> rassdk://D:\Voms_5.7_New\VOMS_ERP\RDLC_VOMS_UAT_V2\FEnquiryCrp.rpt ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+2/19/2019 7:10:28 PM ==> Foreing Enquiry Details ==> Invalid report file path. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+2/19/2019 7:15:32 PM ==> Foreing Enquiry Details ==> Invalid report file path. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+2/19/2019 7:16:40 PM ==> Foreing Enquiry Details ==> Invalid report file path. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+4/8/2019 2:47:44 PM ==> New Foreign Enquiry ==> There is no row at position 0. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 1263
+5/16/2019 12:37:23 PM ==> PATH FE ==> rassdk://D:\Voms_5.7_New_2019\VOMS_ERP\RDLC_VOMS_UAT_V2\FEnquiryCrp.rpt ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+5/16/2019 12:55:47 PM ==> PATH FE ==> rassdk://D:\Voms_5.7_New_2019\VOMS_ERP\RDLC_VOMS_UAT_V2\FEnquiryCrp.rpt ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+5/16/2019 12:56:21 PM ==> PATH ==> rassdk://D:\Voms_5.7_New_2019\VOMS_ERP\RDLC_VOMS_UAT_V2\LEnqCrp.rpt ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+5/16/2019 5:15:54 PM ==> Foreing Enquiry Details ==> Invalid report file path. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+5/16/2019 5:17:09 PM ==> Foreing Enquiry Details ==> Invalid report file path. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+5/29/2019 12:55:21 PM ==> Foreing Enquiry Details ==> Invalid report file path. ==> Manjuna Devi
+5/31/2019 11:26:07 AM ==> Foreing Enquiry Details ==> Invalid report file path. ==> Manjuna Devi
+5/31/2019 11:30:19 AM ==> Foreing Enquiry Details ==> Invalid report file path. ==> Manjuna Devi
+5/31/2019 11:30:28 AM ==> Foreing Enquiry Details ==> Invalid report file path. ==> Manjuna Devi
+5/31/2019 11:30:54 AM ==> Foreing Enquiry Details ==> Invalid report file path. ==> Manjuna Devi
+6/3/2019 11:14:02 AM ==> PATH FE ==> rassdk://D:\Voms_5.7_New_2019\VOMS_ERP\RDLC_VOMS_UAT_V2\FEnquiryCrp.rpt ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+6/3/2019 11:14:09 AM ==> PATH FE ==> rassdk://D:\Voms_5.7_New_2019\VOMS_ERP\RDLC_VOMS_UAT_V2\FEnquiryCrp.rpt ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+6/3/2019 11:14:54 AM ==> PATH FE ==> rassdk://D:\Voms_5.7_New_2019\VOMS_ERP\RDLC_VOMS_UAT_V2\FEnquiryCrp.rpt ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+6/3/2019 11:18:40 AM ==> New Foreign Enquiry ==> There is no row at position 0. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 1263
+6/3/2019 11:18:45 AM ==> PATH ==> rassdk://D:\Voms_5.7_New_2019\VOMS_ERP\RDLC_VOMS_UAT_V2\LEnqCrp.rpt ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+6/3/2019 11:19:00 AM ==> PATH ==> rassdk://D:\Voms_5.7_New_2019\VOMS_ERP\RDLC_VOMS_UAT_V2\LEnqCrp.rpt ==> VOLTA IMPEX PRIVATE LIMITED VIPL

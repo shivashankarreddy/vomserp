@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+  <siteMapNode>
+
+    <siteMapNode url="~/Masters/CHome.aspx" title="Home" description="Home" accesskey="H" />
+    <siteMapNode url="" title="Masters" description="Masters">
+      <siteMapNode url="~/Masters/Enumsmaster.aspx" title="Enums Master" description="Enums Master"/>
+      <siteMapNode url="" title="User Management" description="User Management">
+        <siteMapNode url="~/Masters/Contact.aspx" title="Users" description="Users" accesskey="O" />
+        <siteMapNode url="~/Masters/AssignUser.aspx" title="Assign User" description="Assign User" accesskey="W" />
+        <siteMapNode url="~/Masters/ManageUsers.aspx" title="Manage &lt;u>U&lt;/u>ser" description="Manage Users" accesskey="U" />
+      </siteMapNode>
+      <siteMapNode url="" title="Team" description="Team">
+        <siteMapNode url="~/Masters/TeamMaster.aspx" title="Team Master" description="Team Master"/>
+        <siteMapNode url="~/Masters/TeamMemberMaster.aspx" title="Team Member Master" description="Team Member Master"/>
+        <siteMapNode url="~/Masters/RoleAction.aspx" title="Role Action Master" description="Role Action Master"/>
+      </siteMapNode>
+      <siteMapNode url="~/Masters/CompanyDetails.aspx" title="Company Details" description="Company Details" accesskey=""/>
+      <siteMapNode url="~/Masters/Customer.aspx" title="Customer" description="Customer" accesskey="C" />
+      <siteMapNode url="" title="Supplier" description="Supplier">
+        <siteMapNode url="~/Masters/Supplier.aspx" title="Supplier" description="Supplier" accesskey="S" />
+        <siteMapNode url="~/Masters/SupplierUnits.aspx" title="Supplier Units" description="Supplier Units" accesskey="S" />
+      </siteMapNode>
+      <siteMapNode url="~/Masters/ThirdPartyMaster.aspx" title="Third Party Master" description="Third Party Master" accesskey=""/>
+      <!--<siteMapNode url="~/Masters/ItemMaster.aspx" title="Item Master" description="Item Master"/>-->
+      <siteMapNode url="~/Masters/ItemCategoryMaster.aspx" title="Item Category" description="Item Category"/>
+      <siteMapNode url="~/Masters/ItemSubCategory.aspx" title="Item SubCategory" description="Item SubCategory"/>
+      <siteMapNode url="~/Masters/ItemSubSubCategory.aspx" title="Item Sub Sub Category" description="Item Sub SubCategory"/>
+      <siteMapNode url="~/Masters/BulkUploads.aspx" title="BulkUploads" description="BulkUploads"/>
+      <siteMapNode url="~/Masters/SpareParts.aspx" title="SpareParts" description="SpareParts"/>
+      <siteMapNode url="~/Masters/ItemMaster_Revised.aspx" title="New Item Master" description="Item Master"/>
+      <siteMapNode url="~/Masters/TermsMaster.aspx" title="Terms Master" description="Terms Master"/>
+
+      <siteMapNode url="~/Masters/FinancialYear.aspx" title="Financial Year Master" description="Financial Year Master"/>
+      <siteMapNode url="~/Masters/TaxMater.aspx" title="Tax Master" description="Tax Master"/>
+      <siteMapNode url="~/Masters/ExciseBondMaster.aspx" title="Excise Bond Master" description="Excise Bond Master"/>
+      <siteMapNode url="~/Masters/ChaMasters.aspx" title="CHA Master" description="CHA Master"/>
+
+      <siteMapNode url="" title="Mail" description="Mail">
+        <siteMapNode url="~/Masters/Mails.aspx" title="Mail" description="Mail" accesskey=""/>
+        <siteMapNode url="~/Masters/SentMailDetails.aspx" title="Sent Mail Details" description="Sent Mail Details" accesskey="M" />
+      </siteMapNode>
+      <siteMapNode url="~/Masters/ChangePassword.aspx" title="Change Password" description="Change Password" accesskey="P"/>
+    </siteMapNode>
+
+    <siteMapNode url="" title="Customer Requirement" description="Customer Req" >
+      <!--<siteMapNode url="~/Customer Access/Purchase_Indent.aspx" title="Purchase Indent"  description="Purchase Indent" accesskey=""/>-->
+      <siteMapNode url="~/Customer Access/PurchaseEnquiry.aspx" title="Purchase Enquiry"  description="Purchase Enquiry" accesskey=""/>
+      <!--<siteMapNode url="~/Admin/ModuleScreenMapping.aspx" title="Module Screen Mapping"  description="Module Screen Mapping" accesskey=""/>-->
+      <siteMapNode url="~/Customer Access/Float_PI.aspx" title="Float Enquiry"  description="Float Enquiry" accesskey=""/>
+      <siteMapNode url="~/Customer Access/NewFQ_floatedPI.aspx" title="Foreign Quotation"  description="Foreign Quotation" accesskey=""/>
+      
+      <siteMapNode url="~/Customer Access/FQComparision_Customer.aspx" title="Foreign Quotation Comparison"  description="Foreign Quotation Comparison" accesskey=""/>
+      <!--<siteMapNode url="~/Customer Access/FQConfirmation_Customer.aspx" title="Foreign Quotation Confirmation"  description="Foreign Quotation Confirmation" accesskey=""/>-->
+      
+      <!--<siteMapNode url="~/Customer Access/NewFPO_Customer.aspx" title="Foreign Purchase Order"  description="Foreign Purchase Order" accesskey=""/>-->
+      <siteMapNode url="~/Purchases/NewFPOrderVendor.aspx" title="Foreign Purchase Order" description="Foreign Purchase Order" accesskey=""/>
+      <siteMapNode url="~/Customer Access/VerbalFPO_Customer.aspx" title="Foreign Purchase Order Verbal" description="Foreign Purchase Order Verbal" accesskey=""/>
+      
+      <siteMapNode url="~/Customer Access/Customer_LocalQuotation.aspx" title="Local Quotation"  description="Local Quotation" accesskey=""/>
+      <siteMapNode url="~/Customer Access/Customer_LocalQuotation_Comparision.aspx" title="Local Quotation Comparison"  description="Local Quotation Comparison" accesskey=""/>
+      <!--<siteMapNode url="~/Customer Access/Customer_LQConfirmationBasket.aspx" title="Local Quotation Confirmation"  description="Local Quotation Confirmation" accesskey=""/>-->
+      <siteMapNode url="~/Customer Access/Customer_LPO.aspx" title="Local Purchase Order"  description="Local Purchase Order" accesskey=""/>
+      <siteMapNode url="~/Customer Access/VerbalLPO_Customer.aspx" title="Local Purchase Order Verbal" description="Local Purchase Order Verbal" accesskey=""/>
+      <siteMapNode url="" title="Status" description="Status">
+        <siteMapNode url="~/Customer Access/PIStatus.aspx" title="Purchase Enquiry Status"  description="Purchase Enquiry Status" accesskey=""/>
+        <siteMapNode url="~/Customer Access/Float_PIStatus.aspx" title="Floated Enquiry Status"  description="Floated Enquiry Status" accesskey=""/>
+        <siteMapNode url="~/Customer Access/FQStatusCustomer.aspx" title="Foreign Quotation Status"  description="Foreign Quotation Status" accesskey=""/>
+        <!--<siteMapNode url="~/Customer Access/FPOStatus_Customer.aspx" title="Foreign Purchase Order Status"  description="Foreign Purchase Order Status" accesskey=""/>-->
+        <siteMapNode url="~/Purchases/FPOVendorStatus.aspx" title="FPO's Received Status" description="FPO's Received Status" accesskey="" />
+        <siteMapNode url="~/Customer Access/Customer_LocalQuotation_Status.aspx" title="Local Quotation Status"  description="Local Quotation Status" accesskey=""/>
+        <siteMapNode url="~/Customer Access/Customer_LPO_Status.aspx" title="Local Purchase Order Status"  description="Local Purchase Order Status" accesskey=""/>
+        <siteMapNode url="~/Customer Access/PurchaseEnquiryNoStatus.aspx" title="Purchase Enquiry No Status"  description="Purchase Enquiry No Status" accesskey=""/>
+      </siteMapNode>
+
+    </siteMapNode>
+
+  </siteMapNode>
+</siteMap>

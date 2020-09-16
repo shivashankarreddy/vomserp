@@ -1,0 +1,59 @@
+﻿.Error 
+{
+    	background-color:Red;    	
+	    color: White; 
+	    font-weight: bold; 
+	    font-family:Georgia, "Times New Roman", Times, serif;
+	    font-size:15px;
+	    font-style:italic; 
+	    padding-left: 6px;
+	    padding-right: 6px;
+	    padding-bottom: 6px;
+	    padding-top: 6px;
+	    -webkit-border-radius: 20px;
+        -moz-border-radius: 20px;
+        border-radius: 20px;
+            
+        -webkit-box-shadow: #B3B3B3 9px 9px 9px;
+        -moz-box-shadow: #B3B3B3 9px 9px 9px; 
+        box-shadow: #B3B3B3 6px 6px 6px;
+}
+
+.Success 
+    {
+    	background-color:Green;    	
+	    color: White; 
+	    font-weight: bold; 
+	    font-family:Georgia, "Times New Roman", Times, serif;
+	    font-size:15px;
+	    font-style:italic; 
+	    padding-left: 6px;
+	    padding-right: 6px;
+	    padding-bottom: 6px;
+	    padding-top: 6px;
+	    -webkit-border-radius: 20px;
+        -moz-border-radius: 20px;
+        border-radius: 20px;
+            
+        -webkit-box-shadow: #B3B3B3 9px 9px 9px;
+        -moz-box-shadow: #B3B3B3 9px 9px 9px; 
+        box-shadow: #B3B3B3 6px 6px 6px;
+}
+
+.printable {
+    border: 1px dotted #CCCCCC ;
+    padding: 10px 10px 10px 10px ;
+    }
+.print {
+	text-decoration: none;
+	padding: 5px 15px;
+	border: solid 1px #056fc4;	
+}
+
+.blinkytext {
+     font-family: Arial, Helvetica, sans-serif;
+     font-size: 1.2em;
+     text-decoration: blink;
+     font-style: normal;
+     color: #20DD37;
+ }

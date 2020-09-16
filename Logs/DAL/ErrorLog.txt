@@ -1,0 +1,85 @@
+08-10-2014 17:15:54 ==> DAL ==> Trying to pass a table-valued parameter with 10 column(s) where the corresponding user-defined table type requires 9 column(s). ==> First Client SECOND User
+08-10-2014 17:48:22 ==> DAL ==> Trying to pass a table-valued parameter with 10 column(s) where the corresponding user-defined table type requires 9 column(s). ==> First Client SECOND User
+08-10-2014 18:26:04 ==> DAL ==> Trying to pass a table-valued parameter with 10 column(s) where the corresponding user-defined table type requires 9 column(s). ==> First Client SECOND User
+08-10-2014 18:37:09 ==> DAL ==> Trying to pass a table-valued parameter with 10 column(s) where the corresponding user-defined table type requires 9 column(s). ==> First Client SECOND User
+08-10-2014 18:40:37 ==> DAL ==> Trying to pass a table-valued parameter with 10 column(s) where the corresponding user-defined table type requires 9 column(s). ==> First Client SECOND User
+08-10-2014 18:42:59 ==> DAL ==> Trying to pass a table-valued parameter with 10 column(s) where the corresponding user-defined table type requires 9 column(s). ==> First Client SECOND User
+08-10-2014 18:45:47 ==> DAL ==> Trying to pass a table-valued parameter with 10 column(s) where the corresponding user-defined table type requires 9 column(s). ==> First Client SECOND User
+08-10-2014 18:47:48 ==> DAL ==> Trying to pass a table-valued parameter with 10 column(s) where the corresponding user-defined table type requires 9 column(s). ==> First Client SECOND User
+08-10-2014 18:53:19 ==> DAL ==> Operand type clash: uniqueidentifier is incompatible with decimal
+The data for table-valued parameter "@SubItem" doesn't conform to the table type of the parameter. ==> First Client SECOND User
+08-10-2014 18:56:03 ==> DAL ==> Operand type clash: uniqueidentifier is incompatible with decimal
+The data for table-valued parameter "@SubItem" doesn't conform to the table type of the parameter. ==> First Client SECOND User
+08-10-2014 19:01:23 ==> DAL ==> Operand type clash: uniqueidentifier is incompatible with decimal
+The data for table-valued parameter "@SubItem" doesn't conform to the table type of the parameter. ==> First Client SECOND User
+08-10-2014 19:06:54 ==> DAL ==> Trying to pass a table-valued parameter with 8 column(s) where the corresponding user-defined table type requires 9 column(s). ==> First Client SECOND User
+09-10-2014 10:39:31 ==> DAL ==> Trying to pass a table-valued parameter with 8 column(s) where the corresponding user-defined table type requires 9 column(s). ==> First Client SECOND User
+09-10-2014 10:41:46 ==> DAL ==> Trying to pass a table-valued parameter with 8 column(s) where the corresponding user-defined table type requires 9 column(s). ==> First Client SECOND User
+09-10-2014 16:54:01 ==> DAL ==> Trying to pass a table-valued parameter with 8 column(s) where the corresponding user-defined table type requires 9 column(s). ==> First Client SECOND User
+09-10-2014 16:54:07 ==> DAL ==> Trying to pass a table-valued parameter with 8 column(s) where the corresponding user-defined table type requires 9 column(s). ==> First Client SECOND User
+09-10-2014 16:54:13 ==> DAL ==> Trying to pass a table-valued parameter with 8 column(s) where the corresponding user-defined table type requires 9 column(s). ==> First Client SECOND User
+09-10-2014 16:54:18 ==> DAL ==> Trying to pass a table-valued parameter with 8 column(s) where the corresponding user-defined table type requires 9 column(s). ==> First Client SECOND User
+09-10-2014 18:47:19 ==> DAL ==> Trying to pass a table-valued parameter with 8 column(s) where the corresponding user-defined table type requires 9 column(s). ==> First Client SECOND User
+10-10-2014 11:04:59 ==> DAL ==> Trying to pass a table-valued parameter with 8 column(s) where the corresponding user-defined table type requires 9 column(s). ==> First Client SECOND User
+10-10-2014 16:47:06 ==> DAL ==> Operand type clash: numeric is incompatible with uniqueidentifier
+The data for table-valued parameter "@SubItem" doesn't conform to the table type of the parameter. ==> First Client SECOND User
+10-10-2014 16:48:28 ==> DAL ==> Operand type clash: numeric is incompatible with uniqueidentifier
+The data for table-valued parameter "@SubItem" doesn't conform to the table type of the parameter. ==> First Client SECOND User
+10-10-2014 16:51:25 ==> DAL ==> Operand type clash: numeric is incompatible with uniqueidentifier
+The data for table-valued parameter "@SubItem" doesn't conform to the table type of the parameter. ==> First Client SECOND User
+21-10-2014 12:04:23 ==> DAL ==> The ConnectionString property has not been initialized. ==> First Client SECOND User
+13-11-2014 10:42:29 ==> DAL ==> Trying to pass a table-valued parameter with 14 column(s) where the corresponding user-defined table type requires 13 column(s). ==> Apollo Admin
+13-11-2014 10:47:12 ==> DAL ==> Trying to pass a table-valued parameter with 14 column(s) where the corresponding user-defined table type requires 13 column(s). ==> Apollo Admin
+13-11-2014 10:55:19 ==> DAL ==> Trying to pass a table-valued parameter with 14 column(s) where the corresponding user-defined table type requires 13 column(s). ==> Apollo Admin
+07-01-2015 16:38:31 ==> DAL ==> Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding. ==> Customer User RRG
+07-01-2015 16:39:07 ==> DAL ==> Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding. ==> Customer User RRG
+07-01-2015 16:43:05 ==> DAL ==> Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding. ==> Customer User RRG
+08-01-2015 12:07:17 ==> DAL ==> Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding. ==> Customer User RRG
+22-01-2015 11:51:45 ==> DAL ==> Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding. ==> Apollo Customer User
+22-01-2015 12:09:00 ==> DAL ==> Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding. ==> Apollo Admin
+22-01-2015 12:22:46 ==> DAL ==> Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding. ==> Apollo Customer User
+02-02-2015 17:23:58 ==> DAL ==> Invalid object name 'FEAmndmnt'.
+Transaction count after EXECUTE indicates a mismatching number of BEGIN and COMMIT statements. Previous count = 0, current count = 1. ==> Apollo Admin
+02-02-2015 17:26:58 ==> DAL ==> Invalid object name 'FeAmdntItemDtls_Sub'.
+Transaction count after EXECUTE indicates a mismatching number of BEGIN and COMMIT statements. Previous count = 0, current count = 1. ==> Apollo Admin
+02-02-2015 18:06:36 ==> DAL ==> Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding. ==> Apollo Admin
+02-02-2015 18:09:16 ==> DAL ==> Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding. ==> Apollo Admin
+04-02-2015 11:54:50 ==> DAL ==> Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding. ==> Apollo Admin
+04-02-2015 11:55:37 ==> DAL ==> Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding. ==> Apollo Admin
+04-02-2015 14:50:07 ==> DAL ==> Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding. ==> Apollo Admin
+04-02-2015 14:50:49 ==> DAL ==> Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding. ==> Apollo Admin
+04-02-2015 14:52:10 ==> DAL ==> Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding. ==> Apollo Admin
+04-02-2015 14:53:12 ==> DAL ==> Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding. ==> Apollo Admin
+04-02-2015 14:54:33 ==> DAL ==> Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding. ==> Apollo Admin
+04-02-2015 14:56:55 ==> DAL ==> Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding. ==> Apollo Admin
+04-02-2015 15:09:50 ==> DAL ==> Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding. ==> Apollo Admin
+04-02-2015 15:19:46 ==> DAL ==> Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding. ==> Apollo Admin
+04-02-2015 15:22:18 ==> DAL ==> Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding. ==> Apollo Admin
+04-02-2015 16:40:46 ==> DAL ==> Trying to pass a table-valued parameter with 12 column(s) where the corresponding user-defined table type requires 13 column(s). ==> Apollo Admin
+05-02-2015 10:26:13 ==> DAL ==> Trying to pass a table-valued parameter with 13 column(s) where the corresponding user-defined table type requires 14 column(s). ==> RR RRG
+05-02-2015 10:27:43 ==> DAL ==> Trying to pass a table-valued parameter with 13 column(s) where the corresponding user-defined table type requires 14 column(s). ==> RR RRG
+05-02-2015 10:30:04 ==> DAL ==> Trying to pass a table-valued parameter with 13 column(s) where the corresponding user-defined table type requires 14 column(s). ==> RR RRG
+05-02-2015 10:57:26 ==> DAL ==> Operand type clash: bigint is incompatible with uniqueidentifier
+The data for table-valued parameter "@FPOdt" doesn't conform to the table type of the parameter. ==> Apollo Admin
+05-02-2015 11:14:53 ==> DAL ==> Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding. ==> Apollo Admin
+05-02-2015 11:16:01 ==> DAL ==> Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding. ==> Apollo Admin
+10-03-2015 12:44:47 ==> DAL ==> Error converting data type nvarchar to bit. ==> Apollo Admin
+10-03-2015 15:24:31 ==> DAL ==> Error converting data type nvarchar to bit. ==> Apollo Admin
+10-03-2015 15:31:01 ==> DAL ==> Error converting data type nvarchar to bit. ==> Apollo Admin
+10-03-2015 15:39:23 ==> DAL ==> Error converting data type nvarchar to bit. ==> Apollo Admin
+10-03-2015 16:06:03 ==> DAL ==> Error converting data type nvarchar to bit. ==> Apollo Admin
+25-03-2015 16:27:34 ==> DAL ==> Trying to pass a table-valued parameter with 14 column(s) where the corresponding user-defined table type requires 13 column(s). ==> Apollo Admin
+25-03-2015 17:01:33 ==> DAL ==> Trying to pass a table-valued parameter with 14 column(s) where the corresponding user-defined table type requires 13 column(s). ==> Apollo Admin
+25-03-2015 17:06:40 ==> DAL ==> Trying to pass a table-valued parameter with 14 column(s) where the corresponding user-defined table type requires 13 column(s). ==> Apollo Admin
+25-03-2015 17:11:17 ==> DAL ==> Trying to pass a table-valued parameter with 14 column(s) where the corresponding user-defined table type requires 13 column(s). ==> Apollo Admin
+25-03-2015 17:56:30 ==> DAL ==> Trying to pass a table-valued parameter with 14 column(s) where the corresponding user-defined table type requires 13 column(s). ==> Apollo Admin
+25-03-2015 17:57:14 ==> DAL ==> Trying to pass a table-valued parameter with 14 column(s) where the corresponding user-defined table type requires 13 column(s). ==> Apollo Admin
+25-03-2015 17:57:40 ==> DAL ==> Trying to pass a table-valued parameter with 14 column(s) where the corresponding user-defined table type requires 13 column(s). ==> Apollo Admin
+18-05-2015 13:05:00 ==> DAL ==> Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding. ==> GLOCEM PVT LTD GCM
+18-05-2015 17:39:14 ==> DAL ==> Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding. ==> GLOCEM PVT LTD GCM
+11-06-2015 11:48:33 ==> DAL ==> Trying to pass a table-valued parameter with 14 column(s) where the corresponding user-defined table type requires 13 column(s). ==> GLOCEM PVT LTD GCM
+11-06-2015 11:50:42 ==> DAL ==> Trying to pass a table-valued parameter with 14 column(s) where the corresponding user-defined table type requires 13 column(s). ==> GLOCEM PVT LTD GCM
+11-06-2015 11:53:06 ==> DAL ==> Trying to pass a table-valued parameter with 14 column(s) where the corresponding user-defined table type requires 13 column(s). ==> GLOCEM PVT LTD GCM
+19-06-2015 11:58:03 ==> DAL ==> Procedure or function 'SP_Company' expects parameter '@CmpnyLogo', which was not supplied. ==> Super Admin
+19-06-2015 12:01:36 ==> DAL ==> Procedure or function 'SP_Company' expects parameter '@CmpnyLogo', which was not supplied. ==> Super Admin
+19-06-2015 12:03:18 ==> DAL ==> Procedure or function 'SP_Company' expects parameter '@CmpnyLogo', which was not supplied. ==> Super Admin

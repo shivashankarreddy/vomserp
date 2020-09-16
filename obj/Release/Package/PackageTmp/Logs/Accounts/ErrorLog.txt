@@ -1,0 +1,42 @@
+05-12-2014 15:22:16 ==> Bill Payment Status WebService ==> The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+The statement has been terminated. ==> Apollo Admin ==> LineNo : 198
+05-12-2014 15:25:36 ==> Bill Payment Status WebService ==> The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+The statement has been terminated. ==> Apollo Admin ==> LineNo : 198
+05-12-2014 15:25:41 ==> Bill Payment Status WebService ==> The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+The statement has been terminated. ==> Apollo Admin ==> LineNo : 198
+05-12-2014 15:26:39 ==> Bill Payment Status WebService ==> The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+The statement has been terminated. ==> Apollo Admin ==> LineNo : 198
+05-12-2014 15:27:44 ==> Bill Payment Status WebService ==> The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+The statement has been terminated. ==> Apollo Admin ==> LineNo : 198
+05-12-2014 15:29:17 ==> Bill Payment Status WebService ==> The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+The statement has been terminated. ==> Apollo Admin ==> LineNo : 198
+05-12-2014 15:31:39 ==> Bill Payment Status WebService ==> The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+The statement has been terminated. ==> Apollo Admin ==> LineNo : 198
+18-12-2014 14:40:09 ==> Bill Payment Approval ==> Object reference not set to an instance of an object. ==> RR RRG ==> LineNo : 1215
+18-12-2014 14:40:09 ==> Bill Payment Approval ==> Object reference not set to an instance of an object. ==> RR RRG ==> LineNo : 396
+18-12-2014 14:40:09 ==> Bill Payment Approval ==> Object reference not set to an instance of an object. ==> RR RRG ==> LineNo : 863
+18-12-2014 14:40:24 ==> Bill Payment Approval ==> Object reference not set to an instance of an object. ==> RR RRG ==> LineNo : 1215
+18-12-2014 14:40:24 ==> Bill Payment Approval ==> Object reference not set to an instance of an object. ==> RR RRG ==> LineNo : 396
+18-12-2014 14:40:24 ==> Bill Payment Approval ==> Object reference not set to an instance of an object. ==> RR RRG ==> LineNo : 863
+18-12-2014 14:40:32 ==> Bill Payment Approval ==> Object reference not set to an instance of an object. ==> RR RRG ==> LineNo : 1215
+18-12-2014 14:40:32 ==> Bill Payment Approval ==> Object reference not set to an instance of an object. ==> RR RRG ==> LineNo : 396
+18-12-2014 14:40:32 ==> Bill Payment Approval ==> Object reference not set to an instance of an object. ==> RR RRG ==> LineNo : 863
+18-12-2014 14:40:33 ==> Bill Payment Approval ==> Object reference not set to an instance of an object. ==> RR RRG ==> LineNo : 1215
+18-12-2014 14:40:33 ==> Bill Payment Approval ==> Object reference not set to an instance of an object. ==> RR RRG ==> LineNo : 396
+18-12-2014 14:40:33 ==> Bill Payment Approval ==> Object reference not set to an instance of an object. ==> RR RRG ==> LineNo : 863
+18-12-2014 14:40:46 ==> Bill Payment Approval ==> Object reference not set to an instance of an object. ==> RR RRG ==> LineNo : 1215
+18-12-2014 14:41:13 ==> Bill Payment Approval ==> Object reference not set to an instance of an object. ==> RR RRG ==> LineNo : 396
+18-12-2014 14:41:13 ==> Bill Payment Approval ==> Object reference not set to an instance of an object. ==> RR RRG ==> LineNo : 863
+18-12-2014 14:41:16 ==> Bill Payment Approval ==> Object reference not set to an instance of an object. ==> RR RRG ==> LineNo : 1215
+18-12-2014 14:41:28 ==> Bill Payment Approval ==> Object reference not set to an instance of an object. ==> RR RRG ==> LineNo : 396
+18-12-2014 14:41:28 ==> Bill Payment Approval ==> Object reference not set to an instance of an object. ==> RR RRG ==> LineNo : 863
+18-12-2014 14:45:42 ==> Bill Payment Approval ==> Column 'PrfInvNo' does not belong to table Table1. ==> RR RRG ==> LineNo : 432
+23-06-2015 11:35:50 ==> Billpayment Approval Details ==> Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX)) ==> GLOCEM PVT LTD GCM ==> LineNo : 145
+23-06-2015 11:37:20 ==> Billpayment Approval Details ==> Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX)) ==> GLOCEM PVT LTD GCM ==> LineNo : 145
+03-07-2015 18:20:37 ==> Bill Payment Status WebService ==> Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding. ==> System Admin ==> LineNo : 191
+10/18/2018 2:58:14 PM ==> Bill Payment Approval ==> Column 'TAMTGST' does not belong to table . ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 656
+10/18/2018 3:02:08 PM ==> Bill Payment Approval ==> Column 'TAMTGST' does not belong to table . ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 656
+10/24/2018 12:03:13 PM ==> Bill Payment Approval ==> Column 'LPOAmt_GST' does not belong to table Table2. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 656
+10/24/2018 12:04:18 PM ==> Bill Payment Approval ==> Column 'LPOAmt_GST' does not belong to table Table2. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 656
+6/26/2019 5:38:56 PM ==> Bill Payment Approval ==> String was not recognized as a valid DateTime. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 1508
+6/26/2019 5:44:14 PM ==> Bill Payment Approval ==> String was not recognized as a valid DateTime. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 1508

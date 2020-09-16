@@ -1,0 +1,49 @@
+<html xmlns:o='urn:schemas-microsoft-com:office:office'
+xmlns:x='urn:schemas-microsoft-com:office:excel'
+xmlns='http://www.w3.org/TR/REC-html40'>
+<head>
+<style>
+@page{margin:.5in .75in .5in .75in;
+mso-header-margin:.5in;
+mso-footer-margin:.5in;
+mso-page-orientation:landscape;}
+</style>
+<!--[if gte mso 9]><xml>
+<x:ExcelWorkbook>
+<x:ExcelWorksheets>
+<x:ExcelWorksheet>
+<x:Name>Projects 3 </x:Name>
+<x:WorksheetOptions>
+<x:Print>
+<x:ValidPrinterInfo/>
+<x:PaperSizeIndex>9</x:PaperSizeIndex>
+<x:HorizontalResolution>600</x:HorizontalResolution
+<x:VerticalResolution>600</x:VerticalResolution
+</x:Print>
+<x:Selected/>
+<x:DoNotDisplayGridlines/>
+<x:ProtectContents>False</x:ProtectContents>
+<x:ProtectObjects>False</x:ProtectObjects>
+<x:ProtectScenarios>False</x:ProtectScenarios>
+</x:WorksheetOptions>
+</x:ExcelWorksheet>
+</x:ExcelWorksheets>
+<x:WindowHeight>12780</x:WindowHeight>
+<x:WindowWidth>19035</x:WindowWidth>
+<x:WindowTopX>0</x:WindowTopX>
+<x:WindowTopY>15</x:WindowTopY>
+<x:ProtectStructure>False</x:ProtectStructure>
+<x:ProtectWindows>False</x:ProtectWindows>
+</x:ExcelWorkbook>
+</xml><![endif]-->
+</head>
+<body>
+<img src='http://erp.voltaimpex.com/Vomsuat/images/Logos/6cedfcec-d633-45d5-b12c-8290a285dc76.png' margin-top =16px width=125 height=35 /><center><b>STATUS OF GRN  TILL 25-10-2018</center></b><table cellspacing="0" rules="all" border="1" style="font-family:Arial;font-size:9pt;border-collapse:collapse;">
+	<tr style="font-family:Arial;font-size:10pt;font-weight:bold;">
+		<td>GRNNo</td><td>RefNmbr</td><td>ReceivedDate</td><td>FPONumbers</td><td>LPONumbers</td><td>SupplierName</td><td>InvoiceNumber</td><td>InvoiceDate</td>
+	</tr><tr>
+		<td>AVN/4516/GR-553/17-18</td><td>VIPL/AVN/522/17-18</td><td>30/12/2017</td><td>16166</td><td>VIPL/KLP/243/16166/17-18</td><td>BEML LIMITED</td><td>9181009426--9181009427</td><td>19/12/2017</td>
+	</tr><tr>
+		<td>AVN/3484/GR-528/17-18</td><td>VIPL/AVN/489/17-18</td><td>26/10/2017</td><td>16166</td><td>VIPL/KLP/243/16166/17-18</td><td>BEML LIMITED</td><td>9181009171</td><td>04/10/2017</td>
+	</tr>
+</table>

@@ -1,0 +1,111 @@
+  var DrillDownChart_SRs = Highcharts.chart('DrillDown_BarChart_SR',
+        {
+            lang:
+            {
+                drillUpText: '◁ Back'
+            },
+            chart:
+            {
+                type: 'line',
+                events:
+                {
+                    drilldown: function (e) {
+                    }
+                },
+                 height: 340
+            },
+             title: {
+                text: 'Security Redemptions'
+            },
+            subtitle:
+            {
+                text: ''
+            },
+            xAxis:
+            {
+            labels: {
+            rotation: -90,
+            align: 'left',
+            reserveSpace: false,
+            y: -9,
+            style: {
+                color: 'grey',
+                fontSize: '8pt',
+                fontWeight: 'bold',
+                textOutline: '1px contrast'
+            }
+        },
+                //crosshair: true,
+                type: 'category',
+                scrollbar: {
+                    enabled: true
+                },
+                min: 0, 
+                max:3,
+                tickColor: '#000000',
+                tickLength: 1
+            },
+            yAxis:
+            {
+            lineColor: '#000000',
+                min: 1000,
+               title: {
+                    text: 'No. of SRs',
+                    align: 'high'
+                }
+            },
+            tooltip:
+            {
+                headerFormat: '<span style="font-size:10px">{point.key}</span>',
+                pointFormat: '<p><span style="color:{series.color};padding:0">{series.name}: </span>' + '<span style="padding:0"><b>{point.y:.1f}</b></span></p>',
+                footerFormat: '',
+                shared: true,
+                useHTML: true,
+                crosshairs:{
+                //true,
+                 width: 1,
+            color: 'grey'
+                }
+                //color : '#5E2E8F'
+            },
+            plotOptions:
+            {
+                column:
+                {
+                    pointPadding: 0.2,
+                    borderWidth: 0
+                },
+                series:
+                {
+                 marker: {
+                enabled: true,
+                symbol: 'diamond',
+                radius: 6,
+                states: {
+                    hover: {
+                        enabled: true
+                    }
+                }
+              },
+                    colorByPoint: true,
+                    allowPointSelect: true,
+                    dataLabels:
+                    {
+                        enabled: true,
+                        borderRadius: 5,
+                backgroundColor: 'rgba(252, 255, 197, 0.7)',
+                borderWidth: 1,
+                borderColor: '#AAA',
+                y: -9,
+                        color : '#9A156A'
+
+                    }
+                }
+            },
+
+            series: S_Res.Final_Barchart,
+            drilldown: 
+            {
+                series: S_Res.DrillDown_Data_SRs
+            }
+        });

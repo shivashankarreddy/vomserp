@@ -1,0 +1,172 @@
+
+ShpngBilDtls.cs
+----------------
+ [Ajax.AjaxMethod(Ajax.HttpSessionStateRequirement.Read)]
+        public bool CheckShippingBillNo(string EnqNo)
+        {
+            CheckBLL cbll = new CheckBLL();
+            return cbll.CheckShippingBillNo('C', EnqNo);
+        }
+
+        #endregion 
+
+ShpngBilDtl.aspx
+-----------------
+onchange = "javascript:return CheckShippingBillNo();"
+
+function CheckShippingBillNo() {
+            var enqNo = $('[id$=txtShpngBlNo]').val();
+            var result = ShpngBilDtls.CheckShippingBillNo(enqNo);
+            if (result.value == false) {
+                $("#<%=txtShpngBlNo.ClientID%>")[0].value = '';
+                ErrorMessage('Shipping Bill Number Exists.');
+                $("#<%=txtShpngBlNo.ClientID%>")[0].focus();
+                return false;
+            }
+            else
+                return true;
+        }
+
+
+SP_Check1
+---------
+else if(@Flag = 'C')  
+  begin  
+   select ShpngBilNmbr from ShippingBillDetails where ShpngBilNmbr = @val 
+  End 
+
+
+CheckBLL.cs
+------------
+
+ public bool CheckShippingBillNo(char Flag, string Val)
+        {
+            bool Res = false;
+            try
+            {
+                List<string> parms = new List<string> { "@Flag", "@val" };
+                ArrayList al = new ArrayList();
+                al.Add(Flag);//Flag
+                al.Add(Val);//Val            
+                DataSet ds = CheckDAL.CheckShippingBillNo(parms, al);
+                if (ds.Tables.Count > 0 && ds.Tables[0].Rows.Count > 0)
+                {
+                    if (Val.ToLower() == ds.Tables[0].Rows[0][0].ToString().ToLower())
+                        Res = false;
+                    else
+                        Res = true;
+                }
+                else
+                    Res = true;
+            }
+            catch (Exception ex)
+            {
+                string ErrMsg = ex.Message;
+            }
+            return Res;
+        }
+
+CheckDAL.cs
+------------
+
+   #region Check Shipping Bill No Details
+        public static DataSet CheckShippingBillNo(List<string> parms, ArrayList al)
+        {
+            return DAL.GetDataSet("SP_Check1", parms, al);
+        }
+        #endregion
+
+
+ 
+SP_Check1
+----------
+
+  else if(@Flag = 'D')  
+  begin  
+   select ShpmntPrfmaInvc from IOMTemplate2 where ShpmntPrfmaInvc =@val 
+  End 
+  
+
+CheckDAL.cs
+------------
+
+
+#region Check Shipment Invoice No Details
+        public static DataSet CheckShipmentInvNo(List<string> parms, ArrayList al)
+        {
+            return DAL.GetDataSet("SP_Check1", parms, al);
+        }
+        #endregion 
+
+
+CheckBLL.cs
+------------
+
+ public bool CheckShipmentInvNo(char Flag, string Val)
+        {
+            bool Res = false;
+            try
+            {
+                List<string> parms = new List<string> { "@Flag", "@val" };
+                ArrayList al = new ArrayList();
+                al.Add(Flag);//Flag
+                al.Add(Val);//Val            
+                DataSet ds = CheckDAL.CheckShipmentInvNo(parms, al);
+                if (ds.Tables.Count > 0 && ds.Tables[0].Rows.Count > 0)
+                {
+                    if (Val.ToLower() == ds.Tables[0].Rows[0][0].ToString().ToLower())
+                        Res = false;
+                    else
+                        Res = true;
+                }
+                else
+                    Res = true;
+            }
+            catch (Exception ex)
+            {
+                string ErrMsg = ex.Message;
+            }
+            return Res;
+        }
+    }     
+
+Iom2Form.cs
+------------
+
+ [Ajax.AjaxMethod(Ajax.HttpSessionStateRequirement.Read)]
+        public bool CheckShipmentInvNo(string EnqNo)
+        {
+            CheckBLL cbll = new CheckBLL();
+            return cbll.CheckShipmentInvNo('D', EnqNo);
+        }
+
+        #endregion 
+
+
+Iom2Form.aspx
+-------------
+onchange = "javascript:return CheckShipmentInvNo();"
+
+
+function CheckShipmentInvNo() {
+            var enqNo = $('[id$=txtSpmntInvcNo]').val();
+            var result = Iom2Form.CheckShipmentInvNo(enqNo);
+            if (result.value == false) {
+                $("#<%=txtSpmntInvcNo.ClientID%>")[0].value = '';
+                ErrorMessage('Shipment Invoice Number Exists.');
+                $("#<%=txtSpmntInvcNo.ClientID%>")[0].focus();
+                return false;
+            }
+            else
+                return true;
+        }
+
+
+
+SP_PackingList
+--------------
+
+Flag 'D'
+
+update ProformaInvoice  set StatusID = 80 where ProformaInvoice.CheckLIstID = @chklstID
+		

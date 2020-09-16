@@ -1,0 +1,520 @@
+09-05-2014 AM 11:35:56 ==> Login Failed ==> Object reference not set to an instance of an object. ==> Super Admin ==> LineNo : 148
+09-05-2014 AM 11:36:25 ==> Login Failed ==> Object reference not set to an instance of an object. ==> Super Admin ==> LineNo : 148
+09-05-2014 AM 11:36:48 ==> Login Failed ==> Object reference not set to an instance of an object. ==> Super Admin ==> LineNo : 148
+09-05-2014 AM 11:38:29 ==> Login Failed ==> Object reference not set to an instance of an object. ==> Super Admin ==> LineNo : 148
+13-03-2015 11:55:11 ==> Login Failed ==> There is no row at position 0. ==> Apollo Admin ==> LineNo : 191
+13-03-2015 11:56:04 ==> Login Failed ==> There is no row at position 0. ==> Apollo Admin ==> LineNo : 191
+28-05-2015 18:09:00 ==> Login Failed ==> Cannot use a leading .. to exit above the top directory. ==> System Admin ==> LineNo : 191
+28-05-2015 18:09:05 ==> Login Failed ==> Cannot use a leading .. to exit above the top directory. ==> System Admin ==> LineNo : 191
+28-05-2015 18:17:44 ==> Login Failed ==> Cannot use a leading .. to exit above the top directory. ==> System Admin ==> LineNo : 191
+28-05-2015 18:17:57 ==> Login Failed ==> Cannot use a leading .. to exit above the top directory. ==> System Admin ==> LineNo : 191
+01-06-2015 17:03:50 ==> Login Failed ==> Cannot use a leading .. to exit above the top directory. ==> System Admin ==> LineNo : 191
+01-06-2015 17:03:52 ==> Login Failed ==> Cannot use a leading .. to exit above the top directory. ==> System Admin ==> LineNo : 191
+01-06-2015 17:03:53 ==> Login Failed ==> Cannot use a leading .. to exit above the top directory. ==> System Admin ==> LineNo : 191
+01-06-2015 17:04:02 ==> Login Failed ==> Cannot use a leading .. to exit above the top directory. ==> System Admin ==> LineNo : 191
+01-06-2015 17:04:03 ==> Login Failed ==> Cannot use a leading .. to exit above the top directory. ==> System Admin ==> LineNo : 191
+01-06-2015 17:04:44 ==> Login Failed ==> Cannot use a leading .. to exit above the top directory. ==> System Admin ==> LineNo : 191
+03-06-2015 11:21:45 ==> Login Failed ==> Cannot use a leading .. to exit above the top directory. ==> System Admin ==> LineNo : 191
+03-06-2015 12:49:56 ==> Login Failed ==> Cannot use a leading .. to exit above the top directory. ==> System Admin ==> LineNo : 191
+03-06-2015 16:45:59 ==> Login Failed ==> Cannot use a leading .. to exit above the top directory. ==> System Admin ==> LineNo : 191
+03-06-2015 18:49:40 ==> Login Failed ==> There is no row at position 0. ==> System Admin ==> LineNo : 179
+03-06-2015 18:52:29 ==> Login Failed ==> Cannot use a leading .. to exit above the top directory. ==> System Admin ==> LineNo : 191
+19-06-2015 12:30:11 ==> Login Failed ==> Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index ==> GLOCEM PVT LTD GCM ==> LineNo : 167
+19-06-2015 12:31:18 ==> Login Failed ==> Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index ==> GLOCEM PVT LTD GCM ==> LineNo : 167
+10/24/2018 2:55:03 PM ==> Shipment ProformaInvoice Details ==> There is no row at position 0. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 1785
+10/24/2018 2:55:03 PM ==> Shipment ProformaInvoice Details ==> Object reference not set to an instance of an object. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 1442
+10/24/2018 2:55:03 PM ==> Shipment ProformaInvoice Details ==> Object reference not set to an instance of an object. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 1664
+10/24/2018 2:55:03 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 286
+10/24/2018 2:59:34 PM ==> Shipment ProformaInvoice Details ==> There is no row at position 0. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 1785
+10/24/2018 2:59:34 PM ==> Shipment ProformaInvoice Details ==> Object reference not set to an instance of an object. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 1442
+10/24/2018 2:59:34 PM ==> Shipment ProformaInvoice Details ==> Object reference not set to an instance of an object. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 1664
+10/24/2018 2:59:34 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 286
+10/24/2018 3:01:29 PM ==> Shipment ProformaInvoice Details ==> There is no row at position 0. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 1785
+10/24/2018 3:01:29 PM ==> Shipment ProformaInvoice Details ==> Object reference not set to an instance of an object. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 1442
+10/24/2018 3:01:29 PM ==> Shipment ProformaInvoice Details ==> Object reference not set to an instance of an object. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 1664
+10/24/2018 3:01:29 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 286
+10/24/2018 6:03:06 PM ==> Shipment ProformaInvoice Details ==> There is no row at position 0. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 1785
+10/24/2018 6:03:08 PM ==> Shipment ProformaInvoice Details ==> Object reference not set to an instance of an object. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 1442
+10/24/2018 6:03:08 PM ==> Shipment ProformaInvoice Details ==> Object reference not set to an instance of an object. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 1664
+10/24/2018 6:03:08 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 286
+10/24/2018 6:12:20 PM ==> Shipment ProformaInvoice Details ==> There is no row at position 0. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 1785
+10/24/2018 6:12:21 PM ==> Shipment ProformaInvoice Details ==> Object reference not set to an instance of an object. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 1442
+10/24/2018 6:12:21 PM ==> Shipment ProformaInvoice Details ==> Object reference not set to an instance of an object. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 1664
+10/24/2018 6:12:21 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 286
+10/24/2018 6:14:49 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 286
+10/29/2018 6:46:46 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 286
+10/31/2018 3:17:37 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 919
+10/31/2018 3:28:24 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 919
+10/31/2018 3:30:31 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 919
+10/31/2018 4:52:47 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 919
+10/31/2018 7:26:16 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 919
+10/31/2018 7:32:52 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 919
+10/31/2018 7:41:33 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 919
+10/31/2018 7:42:21 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 919
+11/1/2018 10:37:42 AM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 919
+11/1/2018 11:52:47 AM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 919
+11/1/2018 11:54:07 AM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 919
+11/1/2018 11:55:56 AM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 919
+11/1/2018 12:02:38 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 286
+11/1/2018 12:40:42 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 919
+11/5/2018 10:44:06 AM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 919
+11/5/2018 10:46:17 AM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 919
+11/5/2018 10:48:54 AM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 919
+11/5/2018 10:51:17 AM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 919
+11/5/2018 11:06:32 AM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 919
+12/5/2018 11:34:36 AM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 919
+12/5/2018 11:37:29 AM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 286
+12/5/2018 11:44:20 AM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 286
+12/5/2018 11:48:16 AM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 286
+12/5/2018 11:48:50 AM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 286
+12/5/2018 11:49:35 AM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 286
+12/5/2018 11:50:40 AM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 286
+12/5/2018 11:56:54 AM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 286
+12/5/2018 11:58:00 AM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 286
+12/5/2018 3:19:14 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 286
+12/5/2018 3:26:37 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 286
+12/5/2018 3:27:38 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 286
+12/5/2018 3:30:00 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 286
+5/8/2019 6:41:45 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 286
+5/8/2019 6:41:58 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 919
+5/14/2019 10:58:19 AM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 919
+5/14/2019 11:58:43 AM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 286
+5/14/2019 2:28:07 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 286
+5/14/2019 2:31:55 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 286
+5/14/2019 2:47:36 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 286
+5/15/2019 5:50:37 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> Manjuna Devi ==> LineNo : 286
+5/15/2019 6:36:10 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> Manjuna Devi ==> LineNo : 919
+5/16/2019 11:54:30 AM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> Manjuna Devi ==> LineNo : 286
+5/16/2019 11:55:34 AM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> Manjuna Devi ==> LineNo : 286
+5/16/2019 11:57:19 AM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> Manjuna Devi ==> LineNo : 286
+5/16/2019 11:58:17 AM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> Manjuna Devi ==> LineNo : 286
+5/16/2019 12:03:38 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> Manjuna Devi ==> LineNo : 286
+5/16/2019 12:05:32 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> Manjuna Devi ==> LineNo : 286
+5/16/2019 12:07:19 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> Manjuna Devi ==> LineNo : 919
+5/16/2019 2:03:14 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 286
+5/16/2019 2:04:26 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 286
+5/16/2019 2:06:19 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 286
+5/16/2019 2:08:39 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 919
+5/16/2019 2:19:00 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 286
+5/16/2019 2:23:12 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 286
+5/16/2019 2:26:13 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 286
+5/16/2019 2:27:05 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 919
+5/16/2019 2:27:28 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 919
+5/16/2019 2:27:41 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 919
+5/16/2019 2:28:56 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 919
+5/16/2019 2:32:38 PM ==> Shipment ProformaInvoice Details ==> Index was outside the bounds of the array. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 1710
+5/16/2019 2:32:41 PM ==> Shipment ProformaInvoice Details ==> Object reference not set to an instance of an object. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 1443
+5/16/2019 2:32:41 PM ==> Shipment ProformaInvoice Details ==> Object reference not set to an instance of an object. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 1665
+5/16/2019 2:32:41 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 286
+5/16/2019 2:33:24 PM ==> Shipment ProformaInvoice Details ==> Index was outside the bounds of the array. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 1710
+5/16/2019 2:33:27 PM ==> Shipment ProformaInvoice Details ==> Object reference not set to an instance of an object. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 1443
+5/16/2019 2:33:27 PM ==> Shipment ProformaInvoice Details ==> Object reference not set to an instance of an object. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 1665
+5/16/2019 2:33:27 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 286
+5/16/2019 2:34:11 PM ==> Shipment ProformaInvoice Details ==> Index was outside the bounds of the array. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 1710
+5/16/2019 2:34:13 PM ==> Shipment ProformaInvoice Details ==> Object reference not set to an instance of an object. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 1443
+5/16/2019 2:34:13 PM ==> Shipment ProformaInvoice Details ==> Object reference not set to an instance of an object. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 1665
+5/16/2019 2:34:13 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 286
+5/16/2019 2:34:58 PM ==> Shipment ProformaInvoice Details ==> Index was outside the bounds of the array. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 1710
+5/16/2019 2:35:00 PM ==> Shipment ProformaInvoice Details ==> Object reference not set to an instance of an object. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 1443
+5/16/2019 2:35:00 PM ==> Shipment ProformaInvoice Details ==> Object reference not set to an instance of an object. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 1665
+5/16/2019 2:35:00 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 286
+5/16/2019 2:39:31 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 286
+5/16/2019 2:46:46 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> Manjuna Devi ==> LineNo : 286
+5/16/2019 2:49:17 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> Manjuna Devi ==> LineNo : 286
+5/16/2019 4:56:18 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> Manjuna Devi ==> LineNo : 286
+5/16/2019 4:57:38 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> Manjuna Devi ==> LineNo : 286
+5/16/2019 4:57:48 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> Manjuna Devi ==> LineNo : 286
+5/16/2019 4:58:07 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> Manjuna Devi ==> LineNo : 286
+5/16/2019 4:58:20 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> Manjuna Devi ==> LineNo : 286
+5/20/2019 12:20:11 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 919
+5/20/2019 5:55:00 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> Manjuna Devi ==> LineNo : 919
+5/20/2019 5:55:55 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> Manjuna Devi ==> LineNo : 919
+5/20/2019 5:56:25 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> Manjuna Devi ==> LineNo : 919
+5/20/2019 5:56:54 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> Manjuna Devi ==> LineNo : 919
+5/20/2019 6:01:01 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 919
+5/20/2019 6:03:59 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 919
+5/20/2019 6:06:35 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 919
+5/20/2019 6:07:55 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 919
+5/20/2019 6:15:16 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 919
+5/20/2019 6:19:08 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 919
+5/20/2019 6:39:47 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> Manjuna Devi ==> LineNo : 919
+5/20/2019 6:42:28 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 286
+5/20/2019 7:19:27 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 919
+5/20/2019 7:23:12 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 919
+5/20/2019 7:23:33 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 919
+5/20/2019 7:24:11 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 919
+5/20/2019 7:27:15 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> Manjuna Devi ==> LineNo : 919
+5/20/2019 7:29:15 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> Manjuna Devi ==> LineNo : 919
+5/20/2019 7:33:31 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> Manjuna Devi ==> LineNo : 919
+5/20/2019 7:33:46 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> Manjuna Devi ==> LineNo : 919
+5/20/2019 7:34:10 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> Manjuna Devi ==> LineNo : 919
+5/20/2019 7:39:35 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> Manjuna Devi ==> LineNo : 286
+5/20/2019 7:40:00 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> Manjuna Devi ==> LineNo : 286
+5/21/2019 10:40:41 AM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> Manjuna Devi ==> LineNo : 933
+5/21/2019 10:46:52 AM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> Manjuna Devi ==> LineNo : 933
+5/21/2019 11:32:40 AM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 930
+5/21/2019 11:34:58 AM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 930
+5/21/2019 11:35:21 AM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 930
+5/21/2019 11:37:11 AM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> Manjuna Devi ==> LineNo : 930
+5/21/2019 11:41:58 AM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> Manjuna Devi ==> LineNo : 930
+5/21/2019 11:49:08 AM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> Manjuna Devi ==> LineNo : 920
+5/21/2019 12:04:06 PM ==> Shipment ProformaInvoice Details ==> Cannot insert the OpenXmlElement "newChild" because it is part of a tree.  ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 912
+5/21/2019 12:05:37 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> Manjuna Devi ==> LineNo : 927
+5/21/2019 12:07:00 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> Manjuna Devi ==> LineNo : 927
+5/21/2019 2:09:34 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 919
+5/21/2019 2:31:28 PM ==> Shipment ProformaInvoice Details ==> Cannot insert the OpenXmlElement "newChild" because it is part of a tree.  ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 2128
+5/21/2019 2:31:28 PM ==> Shipment ProformaInvoice Details ==> Object reference not set to an instance of an object. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 1726
+5/21/2019 2:31:29 PM ==> Shipment ProformaInvoice Details ==> Object reference not set to an instance of an object. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 2059
+5/21/2019 2:31:29 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 919
+5/21/2019 2:31:59 PM ==> Shipment ProformaInvoice Details ==> Cannot insert the OpenXmlElement "newChild" because it is part of a tree.  ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 2128
+5/21/2019 2:31:59 PM ==> Shipment ProformaInvoice Details ==> Object reference not set to an instance of an object. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 1726
+5/21/2019 2:31:59 PM ==> Shipment ProformaInvoice Details ==> Object reference not set to an instance of an object. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 2059
+5/21/2019 2:31:59 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 919
+5/21/2019 2:36:55 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 919
+5/21/2019 3:10:02 PM ==> Shipment ProformaInvoice Details ==> Object reference not set to an instance of an object. ==> Manjuna Devi ==> LineNo : 2803
+5/21/2019 3:10:03 PM ==> Shipment ProformaInvoice Details ==> Object reference not set to an instance of an object. ==> Manjuna Devi ==> LineNo : 1726
+5/21/2019 3:10:03 PM ==> Shipment ProformaInvoice Details ==> Object reference not set to an instance of an object. ==> Manjuna Devi ==> LineNo : 2059
+5/21/2019 3:10:03 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> Manjuna Devi ==> LineNo : 919
+5/21/2019 3:11:18 PM ==> Shipment ProformaInvoice Details ==> Object reference not set to an instance of an object. ==> Manjuna Devi ==> LineNo : 2803
+5/21/2019 3:11:19 PM ==> Shipment ProformaInvoice Details ==> Object reference not set to an instance of an object. ==> Manjuna Devi ==> LineNo : 1726
+5/21/2019 3:11:19 PM ==> Shipment ProformaInvoice Details ==> Object reference not set to an instance of an object. ==> Manjuna Devi ==> LineNo : 2059
+5/21/2019 3:11:20 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> Manjuna Devi ==> LineNo : 919
+5/21/2019 3:11:59 PM ==> Shipment ProformaInvoice Details ==> Object reference not set to an instance of an object. ==> Manjuna Devi ==> LineNo : 2803
+5/21/2019 3:11:59 PM ==> Shipment ProformaInvoice Details ==> Object reference not set to an instance of an object. ==> Manjuna Devi ==> LineNo : 1726
+5/21/2019 3:11:59 PM ==> Shipment ProformaInvoice Details ==> Object reference not set to an instance of an object. ==> Manjuna Devi ==> LineNo : 2059
+5/21/2019 3:11:59 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> Manjuna Devi ==> LineNo : 919
+5/21/2019 3:13:07 PM ==> Shipment ProformaInvoice Details ==> Object reference not set to an instance of an object. ==> Manjuna Devi ==> LineNo : 2891
+5/21/2019 3:13:07 PM ==> Shipment ProformaInvoice Details ==> Object reference not set to an instance of an object. ==> Manjuna Devi ==> LineNo : 1726
+5/21/2019 3:13:07 PM ==> Shipment ProformaInvoice Details ==> Object reference not set to an instance of an object. ==> Manjuna Devi ==> LineNo : 2059
+5/21/2019 3:13:07 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> Manjuna Devi ==> LineNo : 919
+5/21/2019 3:14:43 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> Manjuna Devi ==> LineNo : 919
+5/21/2019 3:19:49 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> Manjuna Devi ==> LineNo : 919
+5/21/2019 3:23:05 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 919
+5/21/2019 3:43:41 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> Manjuna Devi ==> LineNo : 919
+5/21/2019 3:44:11 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> Manjuna Devi ==> LineNo : 919
+5/21/2019 3:45:49 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> Manjuna Devi ==> LineNo : 919
+5/21/2019 3:48:09 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 919
+5/21/2019 3:50:59 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 919
+5/21/2019 3:52:28 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> Manjuna Devi ==> LineNo : 919
+5/21/2019 3:56:13 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> Manjuna Devi ==> LineNo : 919
+5/21/2019 3:58:52 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> Manjuna Devi ==> LineNo : 919
+5/21/2019 5:13:45 PM ==> Shipment ProformaInvoice Details ==> Cannot insert the OpenXmlElement "newChild" because it is part of a tree.  ==> Manjuna Devi ==> LineNo : 2076
+5/21/2019 5:13:46 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> Manjuna Devi ==> LineNo : 919
+5/21/2019 5:17:33 PM ==> Shipment ProformaInvoice Details ==> Cannot insert the OpenXmlElement "newChild" because it is part of a tree.  ==> Manjuna Devi ==> LineNo : 2076
+5/21/2019 5:17:33 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> Manjuna Devi ==> LineNo : 919
+5/21/2019 5:20:11 PM ==> Shipment ProformaInvoice Details ==> Cannot insert the OpenXmlElement "newChild" because it is part of a tree.  ==> Manjuna Devi ==> LineNo : 2076
+5/21/2019 5:20:11 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> Manjuna Devi ==> LineNo : 919
+5/21/2019 5:21:04 PM ==> Shipment ProformaInvoice Details ==> Cannot insert the OpenXmlElement "newChild" because it is part of a tree.  ==> Manjuna Devi ==> LineNo : 2076
+5/21/2019 5:21:04 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> Manjuna Devi ==> LineNo : 919
+5/21/2019 5:22:12 PM ==> Shipment ProformaInvoice Details ==> Cannot insert the OpenXmlElement "newChild" because it is part of a tree.  ==> Manjuna Devi ==> LineNo : 2076
+5/21/2019 5:22:13 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> Manjuna Devi ==> LineNo : 919
+5/21/2019 5:30:31 PM ==> Shipment ProformaInvoice Details ==> Cannot insert the OpenXmlElement "newChild" because it is part of a tree.  ==> Manjuna Devi ==> LineNo : 2077
+5/21/2019 5:30:31 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> Manjuna Devi ==> LineNo : 919
+5/21/2019 5:31:05 PM ==> Shipment ProformaInvoice Details ==> Cannot insert the OpenXmlElement "newChild" because it is part of a tree.  ==> Manjuna Devi ==> LineNo : 2077
+5/21/2019 5:31:05 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> Manjuna Devi ==> LineNo : 919
+5/21/2019 5:32:18 PM ==> Shipment ProformaInvoice Details ==> Cannot insert the OpenXmlElement "newChild" because it is part of a tree.  ==> Manjuna Devi ==> LineNo : 2077
+5/21/2019 5:32:18 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> Manjuna Devi ==> LineNo : 919
+5/21/2019 5:33:49 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> Manjuna Devi ==> LineNo : 919
+5/21/2019 5:34:02 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> Manjuna Devi ==> LineNo : 919
+5/21/2019 5:34:13 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> Manjuna Devi ==> LineNo : 919
+5/21/2019 5:37:17 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> Manjuna Devi ==> LineNo : 919
+5/21/2019 5:37:33 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> Manjuna Devi ==> LineNo : 919
+5/21/2019 5:37:50 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> Manjuna Devi ==> LineNo : 919
+5/21/2019 5:53:54 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> Manjuna Devi ==> LineNo : 919
+5/21/2019 5:56:48 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> Manjuna Devi ==> LineNo : 919
+5/21/2019 6:00:17 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> Manjuna Devi ==> LineNo : 919
+5/21/2019 6:06:23 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 919
+5/21/2019 6:55:19 PM ==> Shipment ProformaInvoice Details ==> Object reference not set to an instance of an object. ==> Manjuna Devi ==> LineNo : 1001
+5/21/2019 6:55:20 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> Manjuna Devi ==> LineNo : 919
+5/21/2019 6:57:08 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> Manjuna Devi ==> LineNo : 919
+5/21/2019 7:07:30 PM ==> Shipment ProformaInvoice Details ==> Object reference not set to an instance of an object. ==> Manjuna Devi ==> LineNo : 1065
+5/21/2019 7:07:31 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> Manjuna Devi ==> LineNo : 919
+5/21/2019 7:08:13 PM ==> Shipment ProformaInvoice Details ==> Object reference not set to an instance of an object. ==> Manjuna Devi ==> LineNo : 1065
+5/21/2019 7:08:13 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> Manjuna Devi ==> LineNo : 919
+5/21/2019 7:09:22 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> Manjuna Devi ==> LineNo : 919
+5/21/2019 7:18:03 PM ==> Shipment ProformaInvoice Details ==> Object reference not set to an instance of an object. ==> Manjuna Devi ==> LineNo : 1068
+5/21/2019 7:18:04 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> Manjuna Devi ==> LineNo : 919
+5/21/2019 7:19:09 PM ==> Shipment ProformaInvoice Details ==> Object reference not set to an instance of an object. ==> Manjuna Devi ==> LineNo : 1068
+5/21/2019 7:19:09 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> Manjuna Devi ==> LineNo : 919
+5/21/2019 7:20:03 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> Manjuna Devi ==> LineNo : 919
+5/21/2019 7:22:51 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> Manjuna Devi ==> LineNo : 919
+5/21/2019 7:23:15 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> Manjuna Devi ==> LineNo : 919
+5/22/2019 11:10:44 AM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 919
+5/22/2019 11:52:53 AM ==> Shipment ProformaInvoice Details ==> Cannot insert the OpenXmlElement "newChild" because it is part of a tree.  ==> Manjuna Devi ==> LineNo : 1089
+5/22/2019 11:52:55 AM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> Manjuna Devi ==> LineNo : 919
+5/22/2019 11:53:31 AM ==> Shipment ProformaInvoice Details ==> Cannot insert the OpenXmlElement "newChild" because it is part of a tree.  ==> Manjuna Devi ==> LineNo : 1089
+5/22/2019 11:53:31 AM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> Manjuna Devi ==> LineNo : 919
+5/22/2019 11:54:50 AM ==> Shipment ProformaInvoice Details ==> Cannot insert the OpenXmlElement "newChild" because it is part of a tree.  ==> Manjuna Devi ==> LineNo : 1165
+5/22/2019 11:54:54 AM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> Manjuna Devi ==> LineNo : 919
+5/22/2019 11:55:12 AM ==> Shipment ProformaInvoice Details ==> Cannot insert the OpenXmlElement "newChild" because it is part of a tree.  ==> Manjuna Devi ==> LineNo : 1165
+5/22/2019 11:55:12 AM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> Manjuna Devi ==> LineNo : 919
+5/22/2019 11:56:00 AM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> Manjuna Devi ==> LineNo : 919
+5/22/2019 12:32:02 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 919
+5/22/2019 12:34:22 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> Manjuna Devi ==> LineNo : 919
+5/22/2019 12:35:33 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> Manjuna Devi ==> LineNo : 919
+5/22/2019 12:35:34 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> Manjuna Devi ==> LineNo : 919
+5/22/2019 12:38:10 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> Manjuna Devi ==> LineNo : 919
+5/22/2019 12:40:43 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> Manjuna Devi ==> LineNo : 919
+5/22/2019 12:44:07 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 919
+5/22/2019 12:48:34 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 919
+5/22/2019 12:50:43 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> Manjuna Devi ==> LineNo : 919
+5/22/2019 12:52:14 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> Manjuna Devi ==> LineNo : 919
+5/22/2019 1:06:25 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> Manjuna Devi ==> LineNo : 919
+5/22/2019 1:09:41 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> Manjuna Devi ==> LineNo : 919
+5/22/2019 1:11:44 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> Manjuna Devi ==> LineNo : 919
+5/22/2019 1:15:53 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> Manjuna Devi ==> LineNo : 919
+5/22/2019 1:17:39 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> Manjuna Devi ==> LineNo : 919
+5/22/2019 2:03:17 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> Manjuna Devi ==> LineNo : 919
+5/22/2019 2:03:24 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> Manjuna Devi ==> LineNo : 919
+5/22/2019 2:04:54 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> Manjuna Devi ==> LineNo : 919
+5/22/2019 2:08:16 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> Manjuna Devi ==> LineNo : 919
+5/22/2019 2:12:08 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 919
+5/22/2019 2:12:58 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> Manjuna Devi ==> LineNo : 919
+5/22/2019 2:15:09 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> Manjuna Devi ==> LineNo : 919
+5/22/2019 2:16:31 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> Manjuna Devi ==> LineNo : 919
+5/22/2019 2:18:26 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> Manjuna Devi ==> LineNo : 919
+5/22/2019 2:20:29 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> Manjuna Devi ==> LineNo : 919
+5/22/2019 2:22:52 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> Manjuna Devi ==> LineNo : 919
+5/22/2019 2:24:27 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> Manjuna Devi ==> LineNo : 919
+5/22/2019 2:27:11 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> Manjuna Devi ==> LineNo : 919
+5/22/2019 2:28:56 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> Manjuna Devi ==> LineNo : 919
+5/22/2019 2:30:32 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> Manjuna Devi ==> LineNo : 919
+5/22/2019 2:32:56 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> Manjuna Devi ==> LineNo : 919
+5/22/2019 2:36:15 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> Manjuna Devi ==> LineNo : 919
+5/22/2019 2:38:45 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> Manjuna Devi ==> LineNo : 919
+5/22/2019 2:40:50 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> Manjuna Devi ==> LineNo : 919
+5/22/2019 2:42:26 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> Manjuna Devi ==> LineNo : 919
+5/22/2019 2:44:31 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> Manjuna Devi ==> LineNo : 919
+5/22/2019 2:46:06 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> Manjuna Devi ==> LineNo : 919
+5/22/2019 2:48:24 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> Manjuna Devi ==> LineNo : 919
+5/22/2019 2:50:16 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> Manjuna Devi ==> LineNo : 919
+5/22/2019 2:52:59 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> Manjuna Devi ==> LineNo : 919
+5/22/2019 2:54:14 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> Manjuna Devi ==> LineNo : 919
+5/22/2019 2:59:33 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> Manjuna Devi ==> LineNo : 919
+5/22/2019 3:00:36 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 919
+5/22/2019 3:01:20 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> Manjuna Devi ==> LineNo : 919
+5/22/2019 3:03:06 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> Manjuna Devi ==> LineNo : 919
+5/22/2019 3:41:41 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 253
+5/22/2019 7:45:07 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> Manjuna Devi ==> LineNo : 919
+5/23/2019 8:56:12 AM ==> Shipment ProformaInvoice Details ==> Cannot insert the OpenXmlElement "newChild" because it is part of a tree.  ==> Manjuna Devi ==> LineNo : 1829
+5/23/2019 8:56:18 AM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> Manjuna Devi ==> LineNo : 919
+5/23/2019 8:56:47 AM ==> Shipment ProformaInvoice Details ==> Cannot insert the OpenXmlElement "newChild" because it is part of a tree.  ==> Manjuna Devi ==> LineNo : 1829
+5/23/2019 8:56:47 AM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> Manjuna Devi ==> LineNo : 919
+5/23/2019 8:58:32 AM ==> Shipment ProformaInvoice Details ==> Column 'TotalPkgs' does not belong to table Table. ==> Manjuna Devi ==> LineNo : 1832
+5/23/2019 8:58:35 AM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> Manjuna Devi ==> LineNo : 919
+5/23/2019 8:59:16 AM ==> Shipment ProformaInvoice Details ==> Column 'TotalPkgs' does not belong to table Table. ==> Manjuna Devi ==> LineNo : 1832
+5/23/2019 8:59:18 AM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> Manjuna Devi ==> LineNo : 919
+5/23/2019 9:00:03 AM ==> Shipment ProformaInvoice Details ==> Column 'TotalPkgs' does not belong to table Table. ==> Manjuna Devi ==> LineNo : 1832
+5/23/2019 9:00:03 AM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> Manjuna Devi ==> LineNo : 919
+5/23/2019 9:01:14 AM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> Manjuna Devi ==> LineNo : 919
+5/23/2019 9:10:07 AM ==> Shipment ProformaInvoice Details ==> Cannot insert the OpenXmlElement "newChild" because it is part of a tree.  ==> Manjuna Devi ==> LineNo : 1852
+5/23/2019 9:10:07 AM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> Manjuna Devi ==> LineNo : 919
+5/23/2019 9:11:27 AM ==> Shipment ProformaInvoice Details ==> Cannot insert the OpenXmlElement "newChild" because it is part of a tree.  ==> Manjuna Devi ==> LineNo : 1916
+5/23/2019 9:11:27 AM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> Manjuna Devi ==> LineNo : 919
+5/23/2019 9:13:13 AM ==> Shipment ProformaInvoice Details ==> Cannot insert the OpenXmlElement "newChild" because it is part of a tree.  ==> Manjuna Devi ==> LineNo : 1926
+5/23/2019 9:13:13 AM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> Manjuna Devi ==> LineNo : 919
+5/23/2019 9:14:24 AM ==> Shipment ProformaInvoice Details ==> Cannot insert the OpenXmlElement "newChild" because it is part of a tree.  ==> Manjuna Devi ==> LineNo : 1932
+5/23/2019 9:14:25 AM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> Manjuna Devi ==> LineNo : 919
+5/23/2019 9:16:17 AM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> Manjuna Devi ==> LineNo : 919
+5/23/2019 9:17:06 AM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> Manjuna Devi ==> LineNo : 919
+5/23/2019 9:40:10 AM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> Manjuna Devi ==> LineNo : 919
+5/23/2019 3:24:55 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 919
+5/23/2019 4:33:47 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 254
+5/23/2019 6:12:50 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 919
+5/23/2019 6:16:22 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 919
+5/23/2019 6:18:09 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 919
+5/23/2019 6:18:24 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 919
+5/23/2019 6:20:32 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 919
+5/24/2019 11:29:48 AM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 254
+5/24/2019 1:30:42 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 254
+5/24/2019 2:24:46 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 919
+5/24/2019 2:25:55 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 919
+5/24/2019 2:26:29 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 919
+5/24/2019 2:27:02 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 919
+5/24/2019 3:15:53 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 255
+5/24/2019 3:16:44 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 255
+5/24/2019 3:17:52 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 255
+5/24/2019 3:20:03 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 255
+5/24/2019 3:20:24 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 255
+5/24/2019 3:45:32 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 255
+5/24/2019 3:48:54 PM ==> Shipment ProformaInvoice Details ==> Cannot insert the OpenXmlElement "newChild" because it is part of a tree.  ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 1560
+5/24/2019 3:48:56 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 255
+5/24/2019 3:49:06 PM ==> Shipment ProformaInvoice Details ==> Cannot insert the OpenXmlElement "newChild" because it is part of a tree.  ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 1560
+5/24/2019 3:49:06 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 255
+5/24/2019 3:50:54 PM ==> Shipment ProformaInvoice Details ==> Operation is not valid due to the current state of the object. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 1556
+5/24/2019 3:50:55 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 255
+5/24/2019 3:51:10 PM ==> Shipment ProformaInvoice Details ==> Operation is not valid due to the current state of the object. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 1556
+5/24/2019 3:51:10 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 255
+5/24/2019 3:52:24 PM ==> Shipment ProformaInvoice Details ==> Cannot insert the OpenXmlElement "newChild" because it is part of a tree.  ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 1560
+5/24/2019 3:52:24 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 255
+5/24/2019 3:54:03 PM ==> Shipment ProformaInvoice Details ==> Cannot insert the OpenXmlElement "newChild" because it is part of a tree.  ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 1563
+5/24/2019 3:54:04 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 255
+5/24/2019 3:54:54 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 255
+5/24/2019 3:58:08 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 255
+5/24/2019 4:01:33 PM ==> Shipment ProformaInvoice Details ==> Operation is not valid due to the current state of the object. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 1569
+5/24/2019 4:01:33 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 255
+5/24/2019 4:02:30 PM ==> Shipment ProformaInvoice Details ==> Cannot insert the OpenXmlElement "newChild" because it is part of a tree.  ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 1573
+5/24/2019 4:02:30 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 255
+5/24/2019 4:03:37 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 255
+5/24/2019 4:09:30 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 255
+5/24/2019 4:12:34 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 255
+5/24/2019 4:35:10 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 286
+5/24/2019 4:38:07 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 286
+5/24/2019 4:39:21 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 286
+5/24/2019 4:40:56 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 286
+5/24/2019 4:44:40 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 286
+5/24/2019 4:55:54 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 919
+5/24/2019 4:56:27 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 919
+5/24/2019 4:57:21 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 286
+5/24/2019 4:57:44 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 286
+5/24/2019 4:58:04 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 254
+5/24/2019 4:58:37 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 919
+5/24/2019 5:04:15 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 919
+5/24/2019 5:04:44 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 919
+5/24/2019 5:16:42 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 919
+5/27/2019 12:49:39 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> Manjuna Devi ==> LineNo : 919
+5/27/2019 12:55:10 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> Manjuna Devi ==> LineNo : 919
+5/27/2019 2:15:59 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> Manjuna Devi ==> LineNo : 919
+5/27/2019 2:17:17 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> Manjuna Devi ==> LineNo : 919
+5/27/2019 2:18:15 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> Manjuna Devi ==> LineNo : 919
+5/27/2019 2:21:32 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> Manjuna Devi ==> LineNo : 919
+5/27/2019 2:22:50 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> Manjuna Devi ==> LineNo : 919
+5/27/2019 4:16:27 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> Manjuna Devi ==> LineNo : 919
+5/27/2019 4:17:55 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> Manjuna Devi ==> LineNo : 919
+5/28/2019 6:30:50 PM ==> Shipment ProformaInvoice Details ==> Column 'NPhone' does not belong to table Table. ==> Manjuna Devi ==> LineNo : 1414
+5/28/2019 6:30:51 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> Manjuna Devi ==> LineNo : 919
+5/29/2019 1:08:19 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> Manjuna Devi ==> LineNo : 286
+5/29/2019 1:10:01 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> Manjuna Devi ==> LineNo : 286
+5/29/2019 1:12:32 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> Manjuna Devi ==> LineNo : 286
+5/29/2019 2:15:55 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> Manjuna Devi ==> LineNo : 286
+5/29/2019 3:30:17 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> Manjuna Devi ==> LineNo : 919
+5/29/2019 6:39:02 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 286
+5/29/2019 6:45:35 PM ==> Shipment ProformaInvoice Details ==> Column 'NPhone' does not belong to table Table. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 1414
+5/29/2019 6:45:37 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 919
+5/29/2019 6:47:21 PM ==> Shipment ProformaInvoice Details ==> Column 'NPhone' does not belong to table Table. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 1414
+5/29/2019 6:47:23 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 919
+6/11/2019 11:56:38 AM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 286
+6/11/2019 12:33:14 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> K Lakshmi Priya ==> LineNo : 286
+6/12/2019 3:37:05 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 919
+6/12/2019 3:51:52 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 919
+6/12/2019 3:52:26 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 919
+6/12/2019 3:57:50 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 919
+6/12/2019 3:59:19 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 919
+6/12/2019 4:00:21 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 286
+6/12/2019 4:00:54 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 286
+6/12/2019 4:04:12 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 286
+6/12/2019 4:04:44 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 919
+6/12/2019 4:05:29 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 919
+6/12/2019 4:10:02 PM ==> Shipment ProformaInvoice Details ==> The source contains no DataRows. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 2537
+6/12/2019 4:10:03 PM ==> Shipment ProformaInvoice Details ==> Object reference not set to an instance of an object. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 1865
+6/12/2019 4:10:04 PM ==> Shipment ProformaInvoice Details ==> Object reference not set to an instance of an object. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 2203
+6/12/2019 4:10:04 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 919
+6/12/2019 4:10:41 PM ==> Shipment ProformaInvoice Details ==> The source contains no DataRows. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 2537
+6/12/2019 4:10:42 PM ==> Shipment ProformaInvoice Details ==> Object reference not set to an instance of an object. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 1865
+6/12/2019 4:10:44 PM ==> Shipment ProformaInvoice Details ==> Object reference not set to an instance of an object. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 2203
+6/12/2019 4:10:45 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 919
+6/12/2019 4:55:26 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 919
+6/12/2019 6:37:01 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 919
+6/12/2019 6:50:45 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 286
+6/12/2019 6:52:13 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 286
+6/12/2019 7:17:33 PM ==> Shipment ProformaInvoice Details ==> There is no row at position 0. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 1930
+6/12/2019 7:17:34 PM ==> Shipment ProformaInvoice Details ==> Object reference not set to an instance of an object. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 1564
+6/12/2019 7:17:34 PM ==> Shipment ProformaInvoice Details ==> Object reference not set to an instance of an object. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 1797
+6/12/2019 7:17:34 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 286
+6/12/2019 7:36:01 PM ==> Shipment ProformaInvoice Details ==> There is no row at position 0. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 1930
+6/12/2019 7:36:03 PM ==> Shipment ProformaInvoice Details ==> Object reference not set to an instance of an object. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 1564
+6/12/2019 7:36:03 PM ==> Shipment ProformaInvoice Details ==> Object reference not set to an instance of an object. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 1797
+6/12/2019 7:36:03 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 286
+6/13/2019 9:30:44 AM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 919
+6/13/2019 9:32:34 AM ==> Shipment ProformaInvoice Details ==> There is no row at position 0. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 1930
+6/13/2019 9:32:35 AM ==> Shipment ProformaInvoice Details ==> Object reference not set to an instance of an object. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 1564
+6/13/2019 9:32:35 AM ==> Shipment ProformaInvoice Details ==> Object reference not set to an instance of an object. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 1797
+6/13/2019 9:32:35 AM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 286
+6/13/2019 9:37:07 AM ==> Shipment ProformaInvoice Details ==> The expression contains an invalid string constant: '1 - 1. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 1908
+6/13/2019 9:37:09 AM ==> Shipment ProformaInvoice Details ==> Object reference not set to an instance of an object. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 1564
+6/13/2019 9:37:09 AM ==> Shipment ProformaInvoice Details ==> Object reference not set to an instance of an object. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 1797
+6/13/2019 9:37:09 AM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 286
+6/13/2019 9:37:47 AM ==> Shipment ProformaInvoice Details ==> The expression contains an invalid string constant: '1 - 1. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 1908
+6/13/2019 9:37:48 AM ==> Shipment ProformaInvoice Details ==> Object reference not set to an instance of an object. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 1564
+6/13/2019 9:37:48 AM ==> Shipment ProformaInvoice Details ==> Object reference not set to an instance of an object. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 1797
+6/13/2019 9:37:48 AM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 286
+6/13/2019 9:40:03 AM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 286
+6/13/2019 9:43:49 AM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 286
+6/13/2019 9:45:09 AM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 286
+6/13/2019 9:45:50 AM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 919
+6/13/2019 9:46:51 AM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 286
+6/13/2019 9:47:16 AM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 286
+6/13/2019 9:52:14 AM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 919
+6/13/2019 9:52:37 AM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 286
+6/13/2019 10:09:56 AM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 286
+6/13/2019 2:21:26 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 286
+6/13/2019 2:25:00 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 286
+6/13/2019 5:04:37 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 286
+6/13/2019 5:06:22 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 286
+6/13/2019 5:53:05 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 286
+8/12/2019 5:30:18 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 919
+8/12/2019 5:33:37 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 919
+8/12/2019 5:42:34 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 919
+8/12/2019 5:44:22 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 919
+8/12/2019 5:47:00 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 919
+8/12/2019 5:48:15 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 919
+8/12/2019 6:02:40 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 264
+8/12/2019 6:05:15 PM ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 264
+08-11-2019 14:43:06 ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 919
+08-11-2019 15:00:36 ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 919
+29-11-2019 14:49:20 ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 267
+29-11-2019 14:52:22 ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 267
+29-11-2019 14:52:32 ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 267
+29-11-2019 14:55:38 ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 267
+29-11-2019 15:06:42 ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 267
+29-11-2019 15:10:06 ==> Shipment ProformaInvoice Details ==> Cannot insert the OpenXmlElement "newChild" because it is part of a tree.  ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 3201
+29-11-2019 15:10:06 ==> Shipment ProformaInvoice Details ==> Object reference not set to an instance of an object. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 1261
+29-11-2019 15:10:06 ==> Shipment ProformaInvoice Details ==> Object reference not set to an instance of an object. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 1657
+29-11-2019 15:10:06 ==> Shipment ProformaInvoice Details ==> Object reference not set to an instance of an object. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 258
+29-11-2019 15:15:37 ==> Shipment ProformaInvoice Details ==> Cannot insert the OpenXmlElement "newChild" because it is part of a tree.  ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 3206
+29-11-2019 15:15:37 ==> Shipment ProformaInvoice Details ==> Object reference not set to an instance of an object. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 1261
+29-11-2019 15:15:37 ==> Shipment ProformaInvoice Details ==> Object reference not set to an instance of an object. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 1657
+29-11-2019 15:15:37 ==> Shipment ProformaInvoice Details ==> Object reference not set to an instance of an object. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 258
+29-11-2019 15:58:18 ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 267
+29-11-2019 16:06:10 ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 267
+29-11-2019 16:08:11 ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 267
+29-11-2019 16:09:28 ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 267
+29-11-2019 17:13:33 ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 267
+29-11-2019 17:14:21 ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 921
+29-11-2019 17:16:50 ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 267
+29-11-2019 17:22:58 ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 267
+29-11-2019 17:23:03 ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 267
+29-11-2019 17:24:45 ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 267
+29-11-2019 17:42:25 ==> Shipment ProformaInvoice Details ==> Cannot insert the OpenXmlElement "newChild" because it is part of a tree.  ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 3405
+29-11-2019 17:42:25 ==> Shipment ProformaInvoice Details ==> Object reference not set to an instance of an object. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 1261
+29-11-2019 17:42:25 ==> Shipment ProformaInvoice Details ==> Object reference not set to an instance of an object. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 1657
+29-11-2019 17:42:25 ==> Shipment ProformaInvoice Details ==> Object reference not set to an instance of an object. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 258
+29-11-2019 17:43:10 ==> Shipment ProformaInvoice Details ==> Cannot insert the OpenXmlElement "newChild" because it is part of a tree.  ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 3405
+29-11-2019 17:43:10 ==> Shipment ProformaInvoice Details ==> Object reference not set to an instance of an object. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 1261
+29-11-2019 17:43:10 ==> Shipment ProformaInvoice Details ==> Object reference not set to an instance of an object. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 1657
+29-11-2019 17:43:10 ==> Shipment ProformaInvoice Details ==> Object reference not set to an instance of an object. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 258
+29-11-2019 17:46:30 ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 267
+29-11-2019 17:48:56 ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 267
+29-11-2019 17:58:12 ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 267
+19-12-2019 17:31:55 ==> Shipment ProformaInvoice Details ==> Column 'Spec_Make' does not belong to table Table. ==> Glocem FZC GFZC ==> LineNo : 2602
+19-12-2019 17:31:55 ==> Shipment ProformaInvoice Details ==> Index was outside the bounds of the array. ==> Glocem FZC GFZC ==> LineNo : 1030
+19-12-2019 17:31:55 ==> Shipment ProformaInvoice Details ==> Index was outside the bounds of the array. ==> Glocem FZC GFZC ==> LineNo : 2120
+19-12-2019 17:31:55 ==> Shipment ProformaInvoice Details ==> Index was outside the bounds of the array. ==> Glocem FZC GFZC ==> LineNo : 915
+19-12-2019 17:32:46 ==> Shipment ProformaInvoice Details ==> Index was outside the bounds of the array. ==> Glocem FZC GFZC ==> LineNo : 401
+19-12-2019 17:32:46 ==> Shipment ProformaInvoice Details ==> Index was outside the bounds of the array. ==> Glocem FZC GFZC ==> LineNo : 1750
+19-12-2019 17:32:46 ==> Shipment ProformaInvoice Details ==> Index was outside the bounds of the array. ==> Glocem FZC GFZC ==> LineNo : 281
+30-12-2019 18:06:10 ==> Shipment ProformaInvoice Details ==> Cannot perform '=' operation on System.Int32 and System.String. ==> MAP Rao ==> LineNo : 2941
+30-12-2019 18:06:10 ==> Shipment ProformaInvoice Details ==> Object reference not set to an instance of an object. ==> MAP Rao ==> LineNo : 1261
+30-12-2019 18:06:10 ==> Shipment ProformaInvoice Details ==> Object reference not set to an instance of an object. ==> MAP Rao ==> LineNo : 1657
+30-12-2019 18:06:10 ==> Shipment ProformaInvoice Details ==> Object reference not set to an instance of an object. ==> MAP Rao ==> LineNo : 258
+31-12-2019 12:37:09 ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 271
+27-01-2020 19:07:02 ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 295
+27-01-2020 19:33:30 ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 925
+27-01-2020 19:51:00 ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 925
+27-01-2020 19:52:03 ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 295
+27-01-2020 19:57:00 ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 925
+28-01-2020 15:19:51 ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 925
+28-01-2020 15:28:48 ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 925
+28-01-2020 15:32:34 ==> Shipment ProformaInvoice Details ==> Thread was being aborted. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 925

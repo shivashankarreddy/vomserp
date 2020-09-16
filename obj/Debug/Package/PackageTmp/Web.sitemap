@@ -1,0 +1,226 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+  <siteMapNode>
+
+    <siteMapNode url="~/Masters/Home.aspx" title="Home" description="Home" accesskey="H" />
+    <siteMapNode url="" title="Masters" description="Masters" roles="Admin">
+      <siteMapNode url="~/Masters/Enumsmaster.aspx" title="Enums Master" description="Enums Master" roles="Admin"/>
+      <siteMapNode url="" title="User Management" description="User Management" roles="Admin">
+        <siteMapNode url="~/Masters/Contact.aspx" title="Users" description="Users" accesskey="O" roles="Admin" />
+        <siteMapNode url="~/Masters/AssignUser.aspx" title="Assign User" description="Assign User" accesskey="W"  roles="Admin"/>
+        <siteMapNode url="~/Masters/ManageUsers.aspx" title="Manage User" description="Manage Users" accesskey="U" roles="Admin" />
+      </siteMapNode>
+      <siteMapNode url="" title="Team" description="Team" roles="Admin">
+        <siteMapNode url="~/Masters/TeamMaster.aspx" title="Team Master" description="Team Master" roles="Admin"/>
+        <siteMapNode url="~/Masters/TeamMemberMaster.aspx" title="Team Member Master" description="Team Member Master" roles="Admin"/>
+        <siteMapNode url="~/Masters/RoleAction.aspx" title="Role Action Master" description="Role Action Master" roles="Admin"/>
+      </siteMapNode>
+      <siteMapNode url="~/Masters/CompanyDetails.aspx" title="Company Details" description="Company Details" accesskey="" roles="Admin"/>
+      <siteMapNode url="~/Masters/Customer.aspx" title="Customer" description="Customer" accesskey="C"  roles="Admin"/>
+      <siteMapNode url="" title="Supplier" description="Supplier" roles="Admin">
+        <siteMapNode url="~/Masters/Supplier.aspx" title="Supplier" description="Supplier" accesskey="S" roles="Admin" />
+        <siteMapNode url="~/Masters/SupplierUnits.aspx" title="Supplier Units" description="Supplier Units" accesskey="S" roles="Admin" />
+      </siteMapNode>
+      <siteMapNode url="~/Masters/ThirdPartyMaster.aspx" title="Third Party Master" description="Third Party Master" accesskey="" roles="Admin"/>
+      <!--<siteMapNode url="~/Masters/ItemMaster.aspx" title="Item Master" description="Item Master"/>-->
+      <siteMapNode url="~/Masters/ItemCategoryMaster.aspx" title="Item Category" description="Item Category" roles="Admin" />
+      <siteMapNode url="~/Masters/ItemSubCategory.aspx" title="Item SubCategory" description="Item SubCategory" roles="Admin" />
+      <siteMapNode url="~/Masters/ItemSubSubCategory.aspx" title="Item Sub Sub Category" description="Item Sub SubCategory" roles="Admin"/>
+      <!--<siteMapNode url="~/Masters/BulkUploads.aspx" title="BulkUploads" description="BulkUploads"/>-->
+      <!--<siteMapNode url="~/Masters/ItemsMapping.aspx" title="Item Mapping" description="Item Mapping"/>-->
+      <!--<siteMapNode url="~/Masters/SpareParts.aspx" title="SpareParts" description="SpareParts"/>-->
+      <siteMapNode url="~/Masters/ItemMaster_Revised.aspx" title="New Item Master" description="Item Master" roles="Admin" />
+      <siteMapNode url="~/Masters/TermsMaster.aspx" title="Terms Master" description="Terms Master" roles="Admin"/>
+
+      <siteMapNode url="~/Masters/FinancialYear.aspx" title="Financial Year Master" description="Financial Year Master" roles="Admin"/>
+      <siteMapNode url="~/Masters/TaxMater.aspx" title="Tax Master" description="Tax Master" roles="Admin"/>
+      <siteMapNode url="~/Masters/ExciseBondMaster.aspx" title="Excise Bond Master" description="Excise Bond Master" roles="Admin"/>
+      <siteMapNode url="~/Masters/ChaMasters.aspx" title="CHA Master" description="CHA Master" roles="Admin"/>
+
+      <siteMapNode url="" title="Mail" description="Mail" roles="Admin">
+        <siteMapNode url="~/Masters/Mails.aspx" title="Mail" description="Mail" accesskey="" roles="Admin"/>
+        <siteMapNode url="~/Masters/SentMailDetails.aspx" title="Sent Mail Details" description="Sent Mail Details" accesskey="M"  roles="Admin"/>
+      </siteMapNode>
+      <siteMapNode url="~/Masters/ChangePassword.aspx" title="Change Password" description="Change Password" accesskey="P"/>
+    </siteMapNode>
+
+
+    <siteMapNode url="" title="Enquiries" description="Enquiries">
+      <siteMapNode url="~/Enquiries/NewEnquiry.aspx" title="Foreign Enquiry" description="Foreign Enquiry" ><!--accesskey="E"-->
+      </siteMapNode>
+      <siteMapNode url="~/Enquiries/FloatEnquiry.aspx" title="New Local Enquiry" description="New Local Enquiry" accesskey="L" roles="Admin"/>
+      <!--<siteMapNode url="~/Enquiries/FloatEnquiryVendor.aspx" title="New Foreign Enquiry Floated" description="New Foreign Enquiry Floated" accesskey="L"/>-->
+      <siteMapNode url="" title="Status of Enquiries" description="Status of Enquiries">
+        <siteMapNode url="~/Enquiries/FEStatus.aspx" title="Status of FE's Received" description="Status of FE's Received" accesskey="V"/>
+        <!--<siteMapNode url="~/Enquiries/FloatedEnquiryStatus.aspx" title="Status of FE's Floated" description="Status of FE's Floated" accesskey="V"/>-->
+        <siteMapNode url="~/Enquiries/LEStatus.aspx" title="Status of LE's Sent" description="Status of LE's Sent" accesskey="N" roles="Admin"/>
+      </siteMapNode>
+    </siteMapNode>
+
+    <siteMapNode url="" title="Quotations" description="Quotations" roles="Admin">
+      <siteMapNode url="~/Quotations/NewLQuotation.aspx" title="New LocalQuotation" description="New Local Quotation" accesskey="Q" roles="Admin"/>
+      <siteMapNode url="~/Quotations/LQComparisionByItems.aspx" title="LQ Comparison Statement" description="LQ Comparison Statement" accesskey="P" roles="Admin"/>
+      <siteMapNode url="~/Quotations/LConfromationBasket.aspx" title="LQ Confirmation Basket" description="LQ Confirmation Basket" roles="Admin"/>
+      <siteMapNode url="~/Quotations/NewFQuotation.aspx" title="New Foreign Quotation" description="New Foreign Quotation" accesskey="F" roles="Admin"/>
+      <siteMapNode url="" title="Status of Quotations" description="Status of Quotations" roles="Admin">
+        <siteMapNode url="~/Quotations/LQStatus.aspx" title="Status of LQ's Received" description="Status of LQ's Received" accesskey="" roles="Admin"/>
+        <siteMapNode url="~/Quotations/FQStatus.aspx" title="Status of FQ's Sent" description="Status of FQ's Sent" accesskey="" />
+      </siteMapNode>
+    </siteMapNode>
+
+    <siteMapNode url="" title="Purchases" description="Purchases" target="_blank" roles="Admin">
+      <siteMapNode url="~/Purchases/FQComparisionByItems.aspx" title="FQ Comparison Statement" description="FQ Comparison Statement" accesskey="" roles="Admin"/>
+      <siteMapNode url="~/Purchases/ConfromationBasket.aspx" title="FQ Confirmation Basket" description="FQ Confirmation Basket" accesskey="" roles="Admin"/>
+      <siteMapNode url="~/Purchases/NewFPOrder.aspx" title="New/Repeat FPO" description="New/Repeat FPO" accesskey="" roles="Admin"/>
+      <siteMapNode url="~/Purchases/NewFPOrderVerbal.aspx" title="New/Repeat FPO Verbal" description="New/Repeat FPO Verbal" accesskey="" roles="Admin"/>
+      <!--<siteMapNode url="~/Purchases/NewFPOrderVendor.aspx" title="New FPO Vendor" description="New FPO Vendor" accesskey=""/>-->
+      <siteMapNode url="~/Purchases/NewLPOrder.aspx" title="New LPO" description="New LPO" accesskey=""  roles="Admin"/>
+      <siteMapNode url="~/Purchases/NewLPOrderVerbal.aspx" title="New LPO Verbal" description="New LPO Verbal" accesskey="" roles="Admin" />
+      <siteMapNode url="" title="Status of Purchases" description="Status of Purchases">
+        <siteMapNode url="~/Purchases/FPOStatus.aspx" title="Status of FPO's Received" description="Status of FPO's Received" accesskey="" roles="Admin"/>
+        <!--<siteMapNode url="~/Purchases/FPOVendorStatus.aspx" title="Status of Vendor FPO's Received" description="Status of Vendor FPO's Received" accesskey="" />-->
+        <siteMapNode url="~/Purchases/LPOStatus.aspx" title="Status of LPO's Sent" description="Status of LPO's Sent" accesskey=""  roles="Admin"/>
+      </siteMapNode>
+      <siteMapNode url="" title="Proforma Invoice" description="Proforma Invoice" accesskey=""  roles="Admin">
+        <siteMapNode url="~/Logistics/RqstCEDtls.aspx" title="P.Invoice Request" description="P.Invoice Request" accesskey="X" roles="Admin"/>
+        <siteMapNode url="~/Logistics/RqstCEDtlsStatus.aspx" title="Status of P.Invoice Request" description="Status of P.Invoice Request" accesskey="X" roles="Admin"/>
+      </siteMapNode>
+      <siteMapNode url="~/Purchases/DrawingApproval.aspx" title="Drawing Approval" description="Drawing Approval"  roles="Admin"/>
+      <siteMapNode url="~/Purchases/DrawingApprovalStatus.aspx" title="Drawing Approval Status" description="Drawing Approval Status" roles="Admin" />
+      <siteMapNode url="" title="Inspection" description="Inspection" accesskey="X" roles="Admin">
+        <siteMapNode url="~/Purchases/InspectionPlanRequest.aspx" title="Inspection Plan Request" description="Inspection Plan Request" accesskey="X" roles="Admin"/>
+        <siteMapNode url="~/Purchases/InspectionPlan.aspx" title="Inspection Plan" description="Inspection Plan" accesskey="X" roles="Admin"/>
+        <siteMapNode url="~/Purchases/InspectionReport.aspx" title="Inspection Report" description="Inspection Report" accesskey="X" roles="Admin"/>
+        <siteMapNode url="~/Purchases/RqstInsptnPlnStatus.aspx" title="Status of Inspection Plan Request" description="Status of Inspection Plan Request" accesskey="X" roles="Admin"/>
+        <siteMapNode url="~/Purchases/InsptnPlnStatus.aspx" title="Status of Inspection Plan" description="Status of Inspection Plan" accesskey="X" roles="Admin"/>
+        <siteMapNode url="~/Purchases/InsptnReportStatus.aspx" title="Status of Inspection Report" description="Status of Inspection Report" accesskey="X" roles="Admin"/>
+      </siteMapNode>
+      <siteMapNode url="~/Purchases/ProductSearch.aspx" title="Product Search" description="Product Search" accesskey=""  roles="Admin"/>
+    </siteMapNode>
+
+    <siteMapNode url="" title="Logistics" description="Logistics" roles="Admin">
+      <siteMapNode url="" title="Central Excise" description="Central Excise" accesskey="X" roles="Admin">
+        <siteMapNode url="~/Logistics/IomForm.aspx" title="IOM" description="IOM" accesskey="X" roles="Admin"/>
+        <siteMapNode url="~/Logistics/CTOneGeneration.aspx" title="CT-1 Generation" description="CT-1 Generation" accesskey="X" roles="Admin"/>
+        <siteMapNode url="~/Logistics/CTOnetracking.aspx" title="CT-1 Task" description="CT-1 Task" accesskey="X" roles="Admin"/>
+        <siteMapNode url="~/Logistics/Sevottam.aspx" title="Sevottam" description="Sevottam" accesskey="X" roles="Admin"/>
+        <siteMapNode url="~/Logistics/ExciseLedger.aspx" title="Excise Ledger" description="Excise Ledger" accesskey="X" roles="Admin"/>
+        <siteMapNode url="~/Logistics/IomTemplateStatus.aspx" title="Status of IOM" description="Status of IOM" accesskey="X" roles="Admin"/>
+        <siteMapNode url="~/Logistics/CTOneStatus.aspx" title="Status of CT-1" description="Status of CT-1" accesskey="X" roles="Admin"/>
+        <siteMapNode url="~/Logistics/CTOnetrackingStatus.aspx" title="Status Of CT-1 Task " description="Status Of CT-1 Task" accesskey="X" roles="Admin"/>
+        <siteMapNode url="~/Logistics/SevottamStatus.aspx" title="Status of Sevottam" description="Status of Sevottam" accesskey="X" roles="Admin"/>
+      </siteMapNode>
+      <siteMapNode url="~/Logistics/DespatchInstructions.aspx" title="Dispatch Instructions" description="Dispatch Instructions" accesskey="X" roles="Admin"/>
+      <siteMapNode url="" title="Dispatch Logistics" description="Dispatch Logistics" accesskey="G"  roles="Admin">
+        <siteMapNode url="~/Logistics/Gdn.aspx" title="Goods Dispatch Note" description="Goods Dispatch Note" accesskey=""  roles="Admin"/>
+        <siteMapNode url="~/Logistics/Grn.aspx" title="Goods Receipt Note" description="Goods Receipt Note" accesskey=""  roles="Admin"/>
+      </siteMapNode>
+
+      <siteMapNode url="~/Logistics/Iom2Form.aspx" title="IOM for Logistics" description="IOM for Logistics" accesskey="" roles="Admin"/>
+
+
+
+      <siteMapNode url="" title="Status of Dispatch Logistics" description="Status of Dispatch Logistics" accesskey="" roles="Admin">
+        <siteMapNode url="~/Logistics/GdnStatus.aspx" title="Status of Goods Dispatch Note(GDN)" description="Status of Goods Dispatch Note(GDN)" accesskey="" roles="Admin" />
+        <siteMapNode url="~/Logistics/GrnStatus.aspx" title="Status of Goods Receipt Note(GRN)" description="Status of Goods Receipt Note(GRN)" accesskey=""  roles="Admin"/>
+      </siteMapNode>
+      <siteMapNode url="~/Logistics/DspchInstnsStatus.aspx" title="Dispatch Instructions Status" description="Dispatch Instructions Status" accesskey="X" roles="Admin" />
+      <siteMapNode url="~/Logistics/Iom2FormStatus.aspx" title="IOM Status for Logistics" description="IOM Status for Logistics" accesskey="" roles="Admin"/>
+    </siteMapNode>
+
+    <!--<siteMapNode url="" title="Inventory" description="Inventory">
+      <siteMapNode url="~/Inventory/RcvdStockDetails.aspx" title="Status of Received Stock" description="Status of Received Stock" accesskey="" />
+      <siteMapNode url="~/Inventory/SldStockDetails.aspx" title="Status of Sold Stock" description="Status of Sold Stock" accesskey="" />
+    </siteMapNode>-->
+
+    <siteMapNode url="" title="Invoice" description="Invoice" roles="Admin">
+      <siteMapNode url="~/Logistics/CheckList.aspx" title="SHIPMENT PLANNING" description="SHIPMENT PLANNING" accesskey=""  roles="Admin"/>
+      <siteMapNode url="~/Invoices/ShipmentPlanningDirect.aspx" title="SHIPMENT PLANNING BIVAC/COTACNA" description="SHIPMENT PLANNING BIVAC/COTACNA" accesskey=""  roles="Admin"/>
+      <siteMapNode url="~/Invoices/PrfmaInvoice.aspx" title="Shipment Proforma Invoice"  description="Shipment Proforma Invoice" accesskey="I" roles="Admin"/>
+      <siteMapNode url="~/Invoices/PackingList.aspx" title="Packing List"  description="Packing List" accesskey="P" roles="Admin"/>
+      <siteMapNode url="~/Invoices/ShpngBilDtls.aspx" title="Shipping Bill Details" description="Shipping Bill Details" accesskey="9" roles="Admin" />
+      <siteMapNode url="~/Invoices/AirWayBill.aspx" title="AirWay Bill"  description="AirWay Bill" accesskey="P" roles="Admin"/>
+      <siteMapNode url="~/Invoices/BillLadingEntry.aspx" title="Bill of Lading" description="Bill of Lading" accesskey="9"  roles="Admin"/>
+
+      <siteMapNode url="~/Invoices/DispatchShippingDocuments.aspx" title="Dispatch of Shipping Documents" description="Dispatch of Shipping Documents" accesskey=""/>
+      <siteMapNode url="~/Invoices/ShippingDocumentsCustomer.aspx" title="Shipping Documents Sent to Customer" description="Shipping Documents Sent to Customer" accesskey=""/>
+
+      
+      <siteMapNode url="~/Invoices/CommercialInvoice.aspx" title="Commercial Invoice"  description="Commercial Invoice" accesskey="" roles="Admin"/>
+
+      <!--ADDED NEW LINKS :: Begin :: 24-09-2019-->
+      <siteMapNode url="~/Invoices/ExpShipmentdtls.aspx" title="Export Shipment Details"  description="Export Shipment Details" accesskey=""/>
+      <siteMapNode url="~/Invoices/ShpngBilDtlsExcelReport.aspx" title="Export Excel Shipment Details"  description="Export Excel Shipment Details" accesskey=""/>
+      <!--ADDED NEW LINKS :: END :: 24-09-2019-->
+      
+      <siteMapNode url="~/Invoices/MateReceipt.aspx" title="Mate Receipt Details" description="Mate Receipt Details" roles="Admin" />
+      <siteMapNode url="~/Invoices/E-BRC Details.aspx" title="E-BRC Details" description="E-BRC Details"  roles="Admin"/>
+      <siteMapNode url="" title="Status" description="Status" roles="Admin">
+        <siteMapNode url="~/Logistics/CheckListStatus.aspx" title="Status of SHIPMENT PLANNING" description="Status of SHIPMENT PLANNING" accesskey="" roles="Admin" />
+        <siteMapNode url="~/Invoices/ShipmentPlanningDirectStatus.aspx" title="SHIPMENT PLANNING BIVAC/COTACNA STATUS" description="SHIPMENT PLANNING BIVAC/COTACNA STATUS" accesskey=""  roles="Admin"/>
+        <siteMapNode url="~/Invoices/PrfmaInvoiceStatus.aspx" title="Status of Shipment Invoice" description="Status of Shipment P.Invoice" accesskey="9" roles="Admin" />
+        <siteMapNode url="~/Invoices/PackingListStatus.aspx" title="Status of Packing List"  description="Status of Packing List" accesskey="P" roles="Admin"/>
+
+        <siteMapNode url="~/Invoices/ShpngBilStatus.aspx" title="Status of Shipping Bill" description="Status of Shipping Bill"  roles="Admin"/>
+        <siteMapNode url="~/Invoices/AirWayBillStatus.aspx" title="Status of AirWay Bill" description="Status of AirWay Bill"   roles="Admin"/>
+        <siteMapNode url="~/Invoices/BillOfLadingStatus.aspx" title="Status of Bill of Lading" description="Status of Bill of Lading"  roles="Admin"/>
+        
+        <siteMapNode url="~/Invoices/DispatchShippingDocumentStatus.aspx" title="Status of Dispatch Shipping Documents" description="Status of Shipping Documents Sent to Customer" />
+        <siteMapNode url="~/Invoices/ShippingDocCustStatus.aspx" title="Status of Shipping Documents Sent to Customer" description="Status of Shipping Documents Sent to Customer" />
+
+
+        <siteMapNode url="~/Invoices/CommercialInvoiceStatus.aspx" title="Commercial Invoice Status"  description="Commercial Invoice Status" accesskey="" roles="Admin"/>
+        <!--ADDED NEW LINKS :: Begin :: 24-09-2019-->
+        <siteMapNode url="~/Invoices/ExpShipDtlsStatus.aspx" title="Export Shipment Details Status"  description="Export Shipment Details Status" accesskey=""/>
+        <!--ADDED NEW LINKS :: END :: 24-09-2019-->
+        <siteMapNode url="~/Invoices/MateReceiptStatus.aspx" title="Mate Receipt Status" description="Mate Receipt Status"  roles="Admin"/>
+        <siteMapNode url="~/Invoices/eBRCStatus.aspx" title="E-BRC Details Status" description="E-BRC Details Status" roles="Admin" />
+      </siteMapNode>
+    </siteMapNode>
+
+    <siteMapNode url="" title="Accounts" description="Accounts" target="_blank" roles="Admin">
+      <siteMapNode url="~/Accounts/BillPaymentApproval.aspx" title="Bill Payment Approval" description="Bill Payment Approval" accesskey="B"  roles="Admin"/>
+      <siteMapNode url="~/Accounts/ReverseBillPaymentApproval.aspx" title="Reverse Bill Payment Approval" description="Bill Payment Approval" accesskey="R" roles="Admin" />
+      <siteMapNode url="~/Accounts/PaymentVoucher.aspx" title="Payments Voucher" description="Payments Voucher" accesskey="A" roles="Admin" />
+      <siteMapNode url="" title="Export to Tally"  description="Export to Tally" accesskey="Z" roles="Admin"/>
+      <siteMapNode url="" title="Issue H-Form" description="Issue H-Form" accesskey="5" roles="Admin" >
+        <siteMapNode url="" title="Status of H-Form" description="Status of H-Form" accesskey="6"  roles="Admin"/>
+      </siteMapNode>
+      <siteMapNode url="~/Accounts/BillPaymentApprovalStatus.aspx" title="Bill Payment Approval Status" description="Bill Payment Approval Status" accesskey="S"  roles="Admin"/>
+      <siteMapNode url="" title="New BL - AirWays No." description="New BL/AirWays No." accesskey="7"  roles="Admin"/>
+      <siteMapNode url="~/Accounts/PmtVcrsStatus.aspx" title="P&lt;u>a&lt;/u>yments Voucher Status" description="Payments Voucher Status" accesskey="A"  roles="Admin"/>
+    </siteMapNode>
+
+    <siteMapNode url="" title="Reports" description="Reports" roles="Admin">
+      <siteMapNode url="~/Reports/StatusFeRecevd.aspx" title="FE Received" description="FE Receeived" accesskey="" roles="Admin" />
+      <siteMapNode url="~/Reports/StatusofFpo.aspx" title="Status of FPO's" description="Status of FPO's" accesskey=""  roles="Admin"/>
+      <siteMapNode url="~/Reports/FPOAwaitedaspx.aspx" title="FPO's Awaited" description="FPO's Awaited" accesskey=""  roles="Admin"/>
+      <siteMapNode url="~/Reports/WeeklyEnquiryReport.aspx" title="Weekly Enquiry Reports" description="Weekly Enquiry Reports" accesskey=""  roles="Admin"/>
+      <siteMapNode url="~/Reports/WeeklyFPOReport.aspx" title="Weekly FPO Reports" description="Weekly FPO Reports" accesskey=""  roles="Admin"/>
+      <siteMapNode url="~/Purchases/FpoOverDue.aspx" title="Status of FPO's Over Due" description="Status of FPO's Over Due" accesskey=""  roles="Admin"/>
+      <siteMapNode url="~/Purchases/LpoOverDue.aspx" title="Status of LPO's Over Due" description="Status of LPO's Over Due" accesskey=""  roles="Admin"/>
+      <siteMapNode url="~/Reports/OpeningEPCopiesReport.aspx" title="Opening EP Copies"  description="Opening EP Copies" accesskey="" roles="Admin"/>
+      <siteMapNode url="~/Reports/DutyDrawBackAmountReport.aspx" title="Duty DrawBack Amount"  description="Duty DrawBack Amount" accesskey="" roles="Admin"/>
+      <siteMapNode url="~/Reports/INVsforBRCsPending.aspx" title="INVs for BRC's are Pending"  description="INVs for BRC's are Pending" accesskey="" roles="Admin"/>
+      <siteMapNode url="~/Reports/PendingPinkCopies.aspx" title="Pending Pink Copies"  description="Pending Pink Copies" accesskey="" roles="Admin"/>
+      <siteMapNode url="~/Reports/ItemPreviousHistory.aspx" title="Item Previous History"  description="Item Previous History" accesskey="" roles="Admin"/>
+      <siteMapNode url="" title="STATEMENT OF CARGO" description="STATEMENT OF CARGO" roles="Admin">
+        <siteMapNode url="~/Reports/StmtOfCargoSales_CommercialINVPrepared.aspx" title="SALES / COMMERCIAL INVOICE PREPARED"  description="SALES / COMMERCIAL INVOICE PREPARED" accesskey="" roles="Admin"/>
+        <siteMapNode url="~/Reports/AlrdyShpdon_Board_PendingBL_Rlse.aspx" title="ALREADY SHIPPED ON BOARD / PENDING BILL OF LADING RELEASES"  description="ALREADY SHIPPED ON BOARD / PENDING BILL OF LADING RELEASES" accesskey="" roles="Admin"/>
+        <siteMapNode url="~/Reports/Gated_into_Sea_Port_Awating_SOB_Confirmation_Vessel_Sailing.aspx" title="GATED INTO SEA PORT / AWAITING SOB CONFIRMATION / VESSEL SAILING"  description="GATED INTO SEA PORT / AWAITING SOB CONFIRMATION / VESSEL SAILING" accesskey="" roles="Admin"/>
+        <siteMapNode url="~/Reports/Ready_Pending_CustomsClerance_Cntrs_Stuffing_YetToBe_Dispatched.aspx" title="READY / PENDING / CUSTOMS CLEARANCE / CONTAINERS STUFFING / YET TO BE DISPATCHED"  description="READY / PENDING / CUSTOMS CLEARANCE / CONTAINERS STUFFING / YET TO BE DISPATCHED" accesskey="" roles="Admin"/>
+      </siteMapNode>
+      <siteMapNode url="~/Enquiries/TrackerExportReport.aspx" title="Other Status Reports" description="Other Status Reports" accesskey=""  roles="Admin"/>
+    </siteMapNode>
+    <siteMapNode url="" title="Configurations" description="Configurations" roles="Admin">
+      <siteMapNode url="~/Admin/Company.aspx" title="Company Masters"  description="Company Masters" accesskey="" roles="Admin"/>
+      <!--<siteMapNode url="~/Admin/ModuleScreenMapping.aspx" title="Module Screen Mapping"  description="Module Screen Mapping" accesskey=""/>-->
+      <siteMapNode url="~/Admin/ModuleAccessMaster.aspx" title="Module Access"  description="Module Access" accesskey="" roles="Admin"/>
+      <siteMapNode url="~/Admin/FieldAccessMaster.aspx" title="Field Access"  description="Field Access" accesskey="" roles="Admin"/>
+      <siteMapNode url="~/Admin/MailConfig.aspx" title="Email Configuration"  description="Email Configuration" accesskey="" roles="Admin"/>
+      <siteMapNode url="~/Admin/CVMapping.aspx" title="Mapping"  description="Customer Vendor Mapping" accesskey="" roles="Admin"/>
+      <siteMapNode url="~/Admin/CVMappingStatus.aspx" title="MappingStatus"  description="Customer Vendor Mapping Status" accesskey="" roles="Admin"/>
+      <siteMapNode url="~/Admin/EmailBodyContent.aspx" title="Email Body Content"  description="Email Body Content" accesskey="" roles="Admin"/>
+    </siteMapNode>
+  </siteMapNode>
+</siteMap>

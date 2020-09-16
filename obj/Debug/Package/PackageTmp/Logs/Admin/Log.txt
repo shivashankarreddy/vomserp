@@ -1,0 +1,66 @@
+09-11-2014 PM 03:30:36 ==> Field Access Master ==> Inserted Successfully in Application Field Access Master. ==> Company One CMP
+09-11-2014 PM 07:27:15 ==> Field Access Master ==> Updated Successfully in Application Access Master. ==> GLOCEM PVT LTD GCM
+09-19-2014 PM 12:56:52 ==> Field Access Master ==> Inserted Successfully in Application Field Access Master. ==> GLOCEM PVT LTD GCM
+06-10-2014 14:11:25 ==> Field Access Master ==> Updated Successfully in Application Access Master. ==> Super Admin
+06-10-2014 14:12:08 ==> Field Access Master ==> Updated Successfully in Application Access Master. ==> Super Admin
+06-10-2014 14:16:09 ==> Field Access Master ==> Updated Successfully in Application Access Master. ==> Super Admin
+06-10-2014 14:16:53 ==> Field Access Master ==> Updated Successfully in Application Access Master. ==> Super Admin
+06-10-2014 14:32:28 ==> Field Access Master ==> Updated Successfully in Application Access Master. ==> First Client SECOND User
+06-10-2014 14:35:31 ==> Field Access Master ==> Updated Successfully in Application Access Master. ==> Super Admin
+06-10-2014 14:45:58 ==> Field Access Master ==> Updated Successfully in Application Access Master. ==> Super Admin
+06-10-2014 14:47:54 ==> Field Access Master ==> Updated Successfully in Application Access Master. ==> Super Admin
+06-10-2014 14:49:39 ==> Field Access Master ==> Updated Successfully in Application Access Master. ==> Super Admin
+06-10-2014 14:51:37 ==> Field Access Master ==> Updated Successfully in Application Access Master. ==> Super Admin
+06-10-2014 14:53:17 ==> Field Access Master ==> Updated Successfully in Application Access Master. ==> Super Admin
+06-10-2014 14:55:12 ==> Field Access Master ==> Updated Successfully in Application Access Master. ==> Super Admin
+06-10-2014 16:28:37 ==> Field Access Master ==> Inserted Successfully in Application Field Access Master. ==> Super Admin
+06-10-2014 16:29:57 ==> Field Access Master ==> Updated Successfully in Application Access Master. ==> Super Admin
+06-10-2014 16:31:42 ==> Field Access Master ==> Updated Successfully in Application Access Master. ==> Super Admin
+20-10-2014 14:35:16 ==> Mapping ==> Data Inserted Successfully. ==> Super Admin
+20-10-2014 14:43:58 ==> Mapping ==> Data Inserted Successfully. ==> Super Admin
+20-10-2014 14:44:45 ==> Mapping ==> Data Inserted Successfully. ==> Super Admin
+20-10-2014 15:31:23 ==> Mapping ==> Data Inserted Successfully. ==> Super Admin
+20-10-2014 16:01:49 ==> Mapping ==> Data Inserted Successfully. ==> Super Admin
+20-10-2014 16:10:22 ==> Mapping ==> Data Inserted Successfully. ==> Super Admin
+07-11-2014 16:00:40 ==> Mapping ==> Data Inserted Successfully. ==> Super Admin
+07-11-2014 16:04:31 ==> Mapping ==> Data Inserted Successfully. ==> Super Admin
+07-11-2014 18:13:27 ==> Mapping ==> Data Inserted Successfully. ==> Super Admin
+07-11-2014 18:14:27 ==> Mapping ==> Data Inserted Successfully. ==> Super Admin
+07-11-2014 18:16:20 ==> Mapping ==> Data Inserted Successfully. ==> Super Admin
+07-11-2014 18:16:30 ==> Mapping ==> Data Inserted Successfully. ==> Super Admin
+07-11-2014 18:16:41 ==> Mapping ==> Data Inserted Successfully. ==> Super Admin
+24-11-2014 10:08:08 ==> Mapping ==> Data Inserted Successfully. ==> Super Admin
+24-11-2014 10:09:20 ==> Mapping ==> Data Inserted Successfully. ==> Super Admin
+24-11-2014 10:19:52 ==> Mapping ==> Data Inserted Successfully. ==> Super Admin
+24-11-2014 10:36:06 ==> Mapping ==> Data Inserted Successfully. ==> Super Admin
+24-11-2014 10:38:41 ==> Mapping ==> Data Inserted Successfully. ==> Super Admin
+24-11-2014 10:41:18 ==> Mapping ==> Data Inserted Successfully. ==> Super Admin
+24-11-2014 10:41:58 ==> Mapping ==> Data Inserted Successfully. ==> Super Admin
+24-11-2014 10:42:11 ==> Mapping ==> Data Inserted Successfully. ==> Super Admin
+24-11-2014 10:43:03 ==> Mapping ==> Data Inserted Successfully. ==> Super Admin
+24-11-2014 12:18:43 ==> Mapping ==> Data Inserted Successfully. ==> Super Admin
+24-11-2014 15:06:27 ==> Mapping ==> Data Inserted Successfully. ==> Super Admin
+24-11-2014 15:06:45 ==> Mapping ==> Data Inserted Successfully. ==> Super Admin
+15-05-2015 17:49:57 ==> Mapping ==> Data Inserted Successfully. ==> Super Admin
+19-05-2015 19:24:40 ==> Field Access Master ==> Updated Successfully in Application Access Master. ==> Super Admin
+19-05-2015 19:25:54 ==> Field Access Master ==> Updated Successfully in Application Access Master. ==> Super Admin
+16-06-2015 11:57:19 ==> Field Access Master ==> Inserted Successfully in Application Field Access Master. ==> Super Admin
+16-06-2015 12:00:46 ==> Field Access Master ==> Inserted Successfully in Application Field Access Master. ==> Super Admin
+16-06-2015 12:42:36 ==> Field Access Master ==> Updated Successfully in Application Access Master. ==> Super Admin
+16-06-2015 12:45:40 ==> Field Access Master ==> Updated Successfully in Application Access Master. ==> Super Admin
+16-06-2015 12:46:25 ==> Field Access Master ==> Updated Successfully in Application Access Master. ==> Super Admin
+16-06-2015 13:03:27 ==> Field Access Master ==> Inserted Successfully in Application Field Access Master. ==> Super Admin
+17-06-2015 14:52:30 ==> Field Access Master ==> Updated Successfully in Application Access Master. ==> Super Admin
+17-06-2015 15:13:50 ==> Field Access Master ==> Updated Successfully in Application Access Master. ==> Super Admin
+17-06-2015 16:33:29 ==> Field Access Master ==> Updated Successfully in Application Access Master. ==> Super Admin
+17-06-2015 17:07:57 ==> Field Access Master ==> Updated Successfully in Application Access Master. ==> Super Admin
+17-06-2015 17:09:52 ==> Field Access Master ==> Updated Successfully in Application Access Master. ==> Super Admin
+16-07-2015 12:43:16 ==> Mapping ==> Data Inserted Successfully. ==> Super Admin
+17-07-2015 15:58:22 ==> Module Access Master ==> Inserted Successfully in Application Access Master. ==> Super Admin
+17-07-2015 16:13:15 ==> Field Access Master ==> Inserted Successfully in Application Field Access Master. ==> Super Admin
+22-07-2015 16:24:48 ==> Module Access Master ==> Updated Successfully in Application Access Master. ==> Super Admin
+19-12-2019 18:37:09 ==> Field Access Master ==> Updated Successfully in Application Access Master. ==> Glocem FZC GFZC
+19-12-2019 18:38:10 ==> Field Access Master ==> Updated Successfully in Application Access Master. ==> Glocem FZC GFZC
+19-12-2019 18:38:38 ==> Field Access Master ==> Updated Successfully in Application Access Master. ==> Glocem FZC GFZC
+19-12-2019 18:39:13 ==> Field Access Master ==> Updated Successfully in Application Access Master. ==> Glocem FZC GFZC
+19-12-2019 18:39:51 ==> Field Access Master ==> Updated Successfully in Application Access Master. ==> Glocem FZC GFZC

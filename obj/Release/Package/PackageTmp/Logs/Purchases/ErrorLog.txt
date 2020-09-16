@@ -1,0 +1,654 @@
+08-25-2014 PM 04:39:37 ==> New Local Purchase Order ==> Object reference not set to an instance of an object. ==> User Novo ==> LineNo : 298
+08-25-2014 PM 04:39:43 ==> New Local Purchase Order ==> Object reference not set to an instance of an object. ==> User Novo ==> LineNo : 298
+08-25-2014 PM 04:39:48 ==> New Local Purchase Order ==> Object reference not set to an instance of an object. ==> User Novo ==> LineNo : 298
+09-01-2014 PM 12:19:48 ==> Foregn Quotation Conformation Basket ==> Thread was being aborted. ==> Deepika Glocem User ==> LineNo : 304
+09-01-2014 PM 12:20:35 ==> Foregn Quotation Conformation Basket ==> Thread was being aborted. ==> Deepika Glocem User ==> LineNo : 304
+09-01-2014 PM 12:21:09 ==> Foregn Quotation Conformation Basket ==> Thread was being aborted. ==> Deepika Glocem User ==> LineNo : 304
+09-01-2014 PM 12:21:24 ==> Foregn Quotation Conformation Basket ==> Thread was being aborted. ==> Deepika Glocem User ==> LineNo : 304
+09-01-2014 PM 05:05:28 ==> Foregn Quotation Conformation Basket ==> Thread was being aborted. ==> Deepika Glocem User ==> LineNo : 304
+09-01-2014 PM 05:06:25 ==> Foregn Quotation Conformation Basket ==> Thread was being aborted. ==> Deepika Glocem User ==> LineNo : 304
+09-01-2014 PM 05:06:36 ==> Foregn Quotation Conformation Basket ==> Thread was being aborted. ==> Deepika Glocem User ==> LineNo : 304
+09-01-2014 PM 05:07:18 ==> Foregn Quotation Conformation Basket ==> Thread was being aborted. ==> Deepika Glocem User ==> LineNo : 304
+09-01-2014 PM 05:08:41 ==> Foregn Quotation Conformation Basket ==> Thread was being aborted. ==> NEW COMPANY COMPANY ONE ==> LineNo : 304
+09-01-2014 PM 05:09:02 ==> Foregn Quotation Conformation Basket ==> Thread was being aborted. ==> NEW COMPANY COMPANY ONE ==> LineNo : 304
+09-02-2014 AM 11:51:56 ==> New Local Purchase Order ==> Object reference not set to an instance of an object. ==> Deepika Glocem User ==> LineNo : 298
+09-02-2014 PM 12:03:30 ==> New Local Purchase Order ==> Input string was not in a correct format. ==> Deepika Glocem User ==> LineNo : 1976
+09-02-2014 PM 12:04:03 ==> New Local Purchase Order ==> Input string was not in a correct format. ==> Deepika Glocem User ==> LineNo : 1976
+09-02-2014 PM 12:04:47 ==> New Local Purchase Order ==> Object reference not set to an instance of an object. ==> Deepika Glocem User ==> LineNo : 298
+09-02-2014 PM 12:05:21 ==> New Local Purchase Order ==> Input string was not in a correct format. ==> Deepika Glocem User ==> LineNo : 1978
+09-02-2014 PM 12:06:40 ==> New Local Purchase Order ==> Object reference not set to an instance of an object. ==> Deepika Glocem User ==> LineNo : 298
+09-02-2014 PM 12:06:56 ==> New Local Purchase Order ==> Input string was not in a correct format. ==> Deepika Glocem User ==> LineNo : 1978
+09-02-2014 PM 12:07:15 ==> New Local Purchase Order ==> Input string was not in a correct format. ==> Deepika Glocem User ==> LineNo : 1978
+09-02-2014 PM 12:08:01 ==> New Local Purchase Order ==> Object reference not set to an instance of an object. ==> Deepika Glocem User ==> LineNo : 298
+09-02-2014 PM 12:16:48 ==> New Local Purchase Order ==> Object reference not set to an instance of an object. ==> Deepika Glocem User ==> LineNo : 298
+09-02-2014 PM 12:17:58 ==> New Local Purchase Order ==> Object reference not set to an instance of an object. ==> Deepika Glocem User ==> LineNo : 298
+09-02-2014 PM 12:19:35 ==> New Local Purchase Order ==> Object reference not set to an instance of an object. ==> Deepika Glocem User ==> LineNo : 298
+09-02-2014 PM 12:26:13 ==> New Local Purchase Order ==> Object reference not set to an instance of an object. ==> Deepika Glocem User ==> LineNo : 298
+09-02-2014 PM 12:26:48 ==> New Local Purchase Order ==> Object reference not set to an instance of an object. ==> Deepika Glocem User ==> LineNo : 298
+09-02-2014 PM 12:31:18 ==> New Local Purchase Order ==> Object reference not set to an instance of an object. ==> Deepika Glocem User ==> LineNo : 298
+09-02-2014 PM 12:31:37 ==> New Local Purchase Order ==> Object reference not set to an instance of an object. ==> Deepika Glocem User ==> LineNo : 298
+09-02-2014 PM 02:41:26 ==> New Local Purchase Order ==> Object reference not set to an instance of an object. ==> NOVO NII ==> LineNo : 298
+09-02-2014 PM 02:41:28 ==> New Local Purchase Order ==> Object reference not set to an instance of an object. ==> NOVO NII ==> LineNo : 298
+09-02-2014 PM 02:41:55 ==> New Local Purchase Order ==> Object reference not set to an instance of an object. ==> NOVO NII ==> LineNo : 298
+09-02-2014 PM 02:42:06 ==> New Local Purchase Order ==> Object reference not set to an instance of an object. ==> NOVO NII ==> LineNo : 298
+09-02-2014 PM 02:42:18 ==> New Local Purchase Order ==> Object reference not set to an instance of an object. ==> NOVO NII ==> LineNo : 298
+09-02-2014 PM 02:42:19 ==> New Local Purchase Order ==> Object reference not set to an instance of an object. ==> NOVO NII ==> LineNo : 298
+09-09-2014 PM 01:27:36 ==> Inspection Plan ==> There is no row at position 0. ==> NEW COMPANY COMPANY ONE ==> LineNo : 114
+09-09-2014 PM 01:27:40 ==> Inspection Plan ==> There is no row at position 0. ==> NEW COMPANY COMPANY ONE ==> LineNo : 114
+09-09-2014 PM 01:27:47 ==> Inspection Plan ==> There is no row at position 0. ==> NEW COMPANY COMPANY ONE ==> LineNo : 114
+09-09-2014 PM 01:27:48 ==> Inspection Plan ==> There is no row at position 0. ==> NEW COMPANY COMPANY ONE ==> LineNo : 114
+09-09-2014 PM 01:27:50 ==> Inspection Plan ==> There is no row at position 0. ==> NEW COMPANY COMPANY ONE ==> LineNo : 114
+09-09-2014 PM 04:31:30 ==> Local Purchase Order Status ==> Cannot find table 0. ==> NEW COMPANY COMPANY ONE
+09-09-2014 PM 06:15:56 ==> Inspection Report Status ==> Input string was not in a correct format. ==> KK TECH KKT ==> LineNo : 78
+09-09-2014 PM 06:16:13 ==> Inspection Report Status ==> Input string was not in a correct format. ==> KK TECH KKT ==> LineNo : 78
+09-09-2014 PM 06:54:20 ==> Inspection Plan ==> There is no row at position 0. ==> KK TECH KKT ==> LineNo : 162
+09-10-2014 AM 11:55:43 ==> Foreign Quotation Comparison ==> Thread was being aborted. ==> KMM INDUSTRIES PVT LTD ==> LineNo : 66
+09-10-2014 PM 12:50:54 ==> Foregn Quotation Conformation Basket ==> Thread was being aborted. ==> Company One CMP ==> LineNo : 304
+09-10-2014 PM 12:51:00 ==> Foregn Quotation Conformation Basket ==> Thread was being aborted. ==> Company One CMP ==> LineNo : 304
+09-10-2014 PM 12:59:07 ==> Inspection Plan Request ==> Thread was being aborted. ==> KK TECH KKT
+09-10-2014 PM 02:53:41 ==> Local Purchase Order Status ==> Thread was being aborted. ==> ACCOUNTS USER ==> LineNo : 64
+09-10-2014 PM 02:54:06 ==> New Local Purchase Order ==> Object reference not set to an instance of an object. ==> Company One CMP ==> LineNo : 298
+09-10-2014 PM 02:57:51 ==> Inspection Plan Request ==> Thread was being aborted. ==> Company One CMP
+09-10-2014 PM 05:55:06 ==> Inspection Plan Status ==> Cannot find table 0. ==> NEW COMPANY COMPANY ONE ==> LineNo : 311
+09-11-2014 PM 06:38:47 ==> New Local Purchase Order ==> Object reference not set to an instance of an object. ==> Company One CMP ==> LineNo : 298
+09-11-2014 PM 06:42:55 ==> New Local Purchase Order ==> Object reference not set to an instance of an object. ==> Company One CMP ==> LineNo : 298
+09-12-2014 AM 11:25:59 ==> Foregn Quotation Conformation Basket ==> Thread was being aborted. ==> Company One CMP ==> LineNo : 304
+09-12-2014 AM 11:26:26 ==> Foregn Quotation Conformation Basket ==> Thread was being aborted. ==> Company One CMP ==> LineNo : 304
+09-15-2014 AM 11:12:14 ==> Local Purchase Order Details ==> A generic error occurred in GDI+. ==> Company One CMP ==> LineNo : 168
+09-15-2014 AM 11:12:15 ==> Local Purchase Order Details ==> A generic error occurred in GDI+. ==> Company One CMP ==> LineNo : 168
+09-15-2014 PM 02:59:22 ==> Local Purchase Order Details ==> A generic error occurred in GDI+. ==> GLOCEM PVT LTD GCM ==> LineNo : 168
+09-15-2014 PM 02:59:25 ==> Local Purchase Order Details ==> A generic error occurred in GDI+. ==> GLOCEM PVT LTD GCM ==> LineNo : 168
+09-15-2014 PM 03:07:48 ==> Local Purchase Order Details ==> A generic error occurred in GDI+. ==> GLOCEM PVT LTD GCM ==> LineNo : 168
+09-15-2014 PM 03:07:52 ==> Local Purchase Order Details ==> A generic error occurred in GDI+. ==> GLOCEM PVT LTD GCM ==> LineNo : 168
+09-16-2014 PM 12:12:40 ==> New Local Purchase Order ==> Object reference not set to an instance of an object. ==> NEW COMPANY COMPANY ONE ==> LineNo : 298
+09-16-2014 PM 12:12:41 ==> New Local Purchase Order ==> Object reference not set to an instance of an object. ==> NEW COMPANY COMPANY ONE ==> LineNo : 298
+09-19-2014 PM 12:49:57 ==> New Local Purchase Order ==> Object reference not set to an instance of an object. ==> GLOCEM PVT LTD GCM ==> LineNo : 298
+09-19-2014 PM 12:57:00 ==> New Local Purchase Order ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx). ==> GLOCEM PVT LTD GCM ==> LineNo : 1098
+09-19-2014 PM 12:57:12 ==> New Local Purchase Order ==> Object reference not set to an instance of an object. ==> GLOCEM PVT LTD GCM ==> LineNo : 298
+09-19-2014 PM 01:00:07 ==> New Local Purchase Order ==> Object reference not set to an instance of an object. ==> GLOCEM PVT LTD GCM ==> LineNo : 298
+09-19-2014 PM 04:25:29 ==> Local Purchase Order Details ==> A generic error occurred in GDI+. ==> NEW COMPANY COMPANY ONE ==> LineNo : 168
+09-24-2014 PM 02:54:39 ==> Foregn Quotation Conformation Basket ==> Thread was being aborted. ==> Test Company TST ==> LineNo : 309
+09-24-2014 PM 03:01:59 ==> New Local Purchase Order ==> Object reference not set to an instance of an object. ==> NEW COMPANY COMPANY ONE ==> LineNo : 298
+09-24-2014 PM 03:02:21 ==> New Local Purchase Order ==> Object reference not set to an instance of an object. ==> NEW COMPANY COMPANY ONE ==> LineNo : 298
+09-24-2014 PM 03:03:24 ==> New Local Purchase Order ==> Object reference not set to an instance of an object. ==> NEW COMPANY COMPANY ONE ==> LineNo : 298
+06-10-2014 14:16:24 ==> New Local Purchase Order ==> Object reference not set to an instance of an object. ==> Super Admin ==> LineNo : 298
+06-10-2014 14:17:06 ==> New Local Purchase Order ==> Object reference not set to an instance of an object. ==> Super Admin ==> LineNo : 298
+06-10-2014 14:18:24 ==> New Local Purchase Order ==> Object reference not set to an instance of an object. ==> First Client SECOND User ==> LineNo : 298
+06-10-2014 14:51:00 ==> New Local Purchase Order ==> Object reference not set to an instance of an object. ==> First Client SECOND User ==> LineNo : 298
+06-10-2014 14:52:19 ==> New Local Purchase Order ==> Object reference not set to an instance of an object. ==> First Client SECOND User ==> LineNo : 298
+06-10-2014 14:53:30 ==> New Local Purchase Order ==> Object reference not set to an instance of an object. ==> First Client SECOND User ==> LineNo : 298
+06-10-2014 18:51:57 ==> New Local Purchase Order ==> Object reference not set to an instance of an object. ==> First Client SECOND User ==> LineNo : 298
+13-10-2014 12:57:23 ==> New Local Purchase Order ==> Object reference not set to an instance of an object. ==> First Client SECOND User ==> LineNo : 298
+13-10-2014 12:57:50 ==> New Local Purchase Order ==> Object reference not set to an instance of an object. ==> First Client SECOND User ==> LineNo : 298
+13-10-2014 12:59:00 ==> New Local Purchase Order ==> Object reference not set to an instance of an object. ==> First Client SECOND User ==> LineNo : 298
+13-10-2014 13:00:39 ==> New Local Purchase Order ==> Object reference not set to an instance of an object. ==> First Client SECOND User ==> LineNo : 298
+13-10-2014 13:17:12 ==> New Local Purchase Order ==> Object reference not set to an instance of an object. ==> First Client SECOND User ==> LineNo : 298
+13-10-2014 15:06:04 ==> New Local Purchase Order ==> Object reference not set to an instance of an object. ==> First Client SECOND User ==> LineNo : 298
+14-10-2014 11:23:10 ==> New Local Purchase Order ==> Object reference not set to an instance of an object. ==> First Client SECOND User ==> LineNo : 298
+14-10-2014 11:30:48 ==> New Local Purchase Order ==> Object reference not set to an instance of an object. ==> First Client SECOND User ==> LineNo : 298
+14-10-2014 11:31:04 ==> New Local Purchase Order ==> Object reference not set to an instance of an object. ==> First Client SECOND User ==> LineNo : 298
+14-10-2014 11:38:02 ==> New Local Purchase Order ==> Object reference not set to an instance of an object. ==> First Client SECOND User ==> LineNo : 298
+14-10-2014 12:13:00 ==> New Local Purchase Order ==> Object reference not set to an instance of an object. ==> First Client SECOND User ==> LineNo : 298
+14-10-2014 12:42:43 ==> New Local Purchase Order ==> Object reference not set to an instance of an object. ==> First Client SECOND User ==> LineNo : 298
+14-10-2014 12:53:14 ==> New Local Purchase Order ==> Object reference not set to an instance of an object. ==> First Client SECOND User ==> LineNo : 298
+14-10-2014 13:19:07 ==> Local Purchase Order Details ==> Cannot find table 0. ==> First Client SECOND User ==> LineNo : 140
+14-10-2014 13:19:09 ==> Local Purchase Order Details ==> Cannot find table 0. ==> First Client SECOND User ==> LineNo : 140
+14-10-2014 13:19:12 ==> Local Purchase Order Details ==> Cannot find table 0. ==> First Client SECOND User ==> LineNo : 140
+14-10-2014 14:36:55 ==> Local Purchase Order Details ==> Cannot find table 0. ==> First Client SECOND User ==> LineNo : 140
+14-10-2014 15:16:09 ==> Local Purchase Order Details ==> Cannot find table 0. ==> First Client SECOND User ==> LineNo : 140
+14-10-2014 15:20:03 ==> Local Purchase Order Details ==> Cannot find table 0. ==> First Client SECOND User ==> LineNo : 140
+14-10-2014 15:22:06 ==> Local Purchase Order Details ==> Cannot find table 0. ==> First Client SECOND User ==> LineNo : 140
+14-10-2014 15:22:25 ==> Local Purchase Order Details ==> Cannot find table 0. ==> First Client SECOND User ==> LineNo : 140
+14-10-2014 15:22:47 ==> Local Purchase Order Details ==> Cannot find table 0. ==> First Client SECOND User ==> LineNo : 140
+14-10-2014 15:22:53 ==> Local Purchase Order Details ==> Cannot find table 0. ==> First Client SECOND User ==> LineNo : 140
+14-10-2014 15:24:45 ==> Local Purchase Order Details ==> Cannot find table 0. ==> First Client SECOND User ==> LineNo : 140
+14-10-2014 15:25:38 ==> Local Purchase Order Details ==> Cannot find table 0. ==> First Client SECOND User ==> LineNo : 140
+14-10-2014 15:29:01 ==> Local Purchase Order Details ==> Cannot find table 0. ==> First Client SECOND User ==> LineNo : 140
+14-10-2014 15:32:55 ==> Local Purchase Order Details ==> Cannot find table 0. ==> First Client SECOND User ==> LineNo : 140
+14-10-2014 15:52:08 ==> Local Purchase Order Details ==> Cannot find table 0. ==> First Client SECOND User ==> LineNo : 140
+14-10-2014 16:34:53 ==> Local Purchase Order Details ==> Cannot find table 0. ==> First Client SECOND User ==> LineNo : 140
+15-10-2014 13:04:00 ==> New Local Purchase Order ==> Object reference not set to an instance of an object. ==> First Client SECOND User ==> LineNo : 298
+15-10-2014 13:07:14 ==> New Local Purchase Order ==> Object reference not set to an instance of an object. ==> First Client SECOND User ==> LineNo : 298
+15-10-2014 13:24:50 ==> Local Purchase Order Details ==> Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX)) ==> First Client SECOND User ==> LineNo : 183
+15-10-2014 13:26:37 ==> Local Purchase Order Details ==> Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX)) ==> First Client SECOND User ==> LineNo : 183
+15-10-2014 13:27:06 ==> Local Purchase Order Details ==> Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX)) ==> First Client SECOND User ==> LineNo : 183
+15-10-2014 13:28:17 ==> Local Purchase Order Details ==> Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX)) ==> First Client SECOND User ==> LineNo : 183
+15-10-2014 14:45:24 ==> Local Purchase Order Details ==> Load report failed. ==> First Client SECOND User ==> LineNo : 129
+15-10-2014 14:45:37 ==> Local Purchase Order Details ==> Load report failed. ==> First Client SECOND User ==> LineNo : 129
+15-10-2014 14:45:55 ==> Local Purchase Order Details ==> Load report failed. ==> First Client SECOND User ==> LineNo : 129
+20-10-2014 11:50:49 ==> Foreign Quotation Comparison ==> Thread was being aborted. ==> Cust mer ==> LineNo : 66
+20-10-2014 11:52:45 ==> Foreign Quotation Comparison ==> Thread was being aborted. ==> Cust mer ==> LineNo : 66
+20-10-2014 11:56:46 ==> Foreign Quotation Comparison ==> Value cannot be null.
+Parameter name: g ==> TCS TCS ==> LineNo : 93
+20-10-2014 11:57:03 ==> Foreign Quotation Comparison ==> Value cannot be null.
+Parameter name: g ==> TCS TCS ==> LineNo : 93
+20-10-2014 11:58:27 ==> Foreign Quotation Comparison ==> Value cannot be null.
+Parameter name: g ==> TCS TCS ==> LineNo : 94
+20-10-2014 12:23:33 ==> Foreign Quotation Comparison ==> Thread was being aborted. ==> Cust mer ==> LineNo : 66
+20-10-2014 12:26:33 ==> Foreign Quotation Comparison ==> Value cannot be null.
+Parameter name: g ==> Cust mer ==> LineNo : 93
+20-10-2014 12:29:37 ==> Foreign Quotation Comparison ==> Value cannot be null.
+Parameter name: g ==> Cust mer ==> LineNo : 93
+20-10-2014 12:30:08 ==> Foreign Quotation Comparison ==> Value cannot be null.
+Parameter name: g ==> Cust mer ==> LineNo : 93
+20-10-2014 12:30:31 ==> Foreign Quotation Comparison ==> Value cannot be null.
+Parameter name: g ==> Cust mer ==> LineNo : 93
+20-10-2014 14:25:36 ==> Foreign Quotation Comparison ==> Value cannot be null.
+Parameter name: g ==> Cust mer ==> LineNo : 93
+20-10-2014 14:29:17 ==> Foreign Quotation Comparison ==> Value cannot be null.
+Parameter name: g ==> Cust mer ==> LineNo : 93
+20-10-2014 14:29:50 ==> Foreign Quotation Comparison ==> Object reference not set to an instance of an object. ==> Cust mer ==> LineNo : 96
+20-10-2014 14:47:54 ==> Foreign Quotation Comparison ==> Thread was being aborted. ==> Cust mer ==> LineNo : 66
+20-10-2014 16:53:59 ==> Foreign Quotation Comparison ==> Value cannot be null.
+Parameter name: g ==> Test Customer ==> LineNo : 93
+20-10-2014 16:57:12 ==> Foreign Quotation Comparison ==> Object reference not set to an instance of an object. ==> Test Customer ==> LineNo : 101
+20-10-2014 17:59:25 ==> Foregn Quotation Conformation Basket ==> Thread was being aborted. ==> Test Customer ==> LineNo : 309
+20-10-2014 17:59:44 ==> Foregn Quotation Conformation Basket ==> Thread was being aborted. ==> Test Customer ==> LineNo : 309
+20-10-2014 18:00:09 ==> New Foreign Purchase Order ==> Thread was being aborted. ==> Test Customer ==> LineNo : 101
+21-10-2014 11:23:29 ==> New Local Purchase Order ==> Object reference not set to an instance of an object. ==> First Client SECOND User ==> LineNo : 298
+21-10-2014 11:23:29 ==> New Local Purchase Order ==> Object reference not set to an instance of an object. ==> First Client SECOND User ==> LineNo : 298
+21-10-2014 11:28:44 ==> New Local Purchase Order Verbal ==> Object reference not set to an instance of an object. ==> First Client SECOND User ==> LineNo : 686
+21-10-2014 11:32:38 ==> New Local Purchase Order Verbal ==> Object reference not set to an instance of an object. ==> First Client SECOND User ==> LineNo : 686
+22-10-2014 11:13:17 ==> New Local Purchase Order ==> Object reference not set to an instance of an object. ==> First Client SECOND User ==> LineNo : 298
+22-10-2014 11:13:17 ==> New Local Purchase Order ==> Object reference not set to an instance of an object. ==> First Client SECOND User ==> LineNo : 298
+22-10-2014 15:32:46 ==> New Local Purchase Order ==> Object reference not set to an instance of an object. ==> First Client SECOND User ==> LineNo : 298
+22-10-2014 15:32:46 ==> New Local Purchase Order ==> Object reference not set to an instance of an object. ==> First Client SECOND User ==> LineNo : 298
+27-10-2014 11:49:03 ==> New Local Purchase Order Verbal ==> Object reference not set to an instance of an object. ==> First Client SECOND User ==> LineNo : 686
+27-10-2014 14:52:00 ==> New Local Purchase Order ==> Object reference not set to an instance of an object. ==> First Client SECOND User ==> LineNo : 298
+27-10-2014 14:52:00 ==> New Local Purchase Order ==> Object reference not set to an instance of an object. ==> First Client SECOND User ==> LineNo : 298
+27-10-2014 16:50:19 ==> New Local Purchase Order Verbal ==> Object reference not set to an instance of an object. ==> First Client SECOND User ==> LineNo : 686
+29-10-2014 10:57:07 ==> New Local Purchase Order Verbal ==> Object reference not set to an instance of an object. ==> First Client SECOND User ==> LineNo : 686
+29-10-2014 11:47:10 ==> New Local Purchase Order Verbal ==> Object reference not set to an instance of an object. ==> First Client SECOND User ==> LineNo : 686
+31-10-2014 10:29:46 ==> New Local Purchase Order ==> Object reference not set to an instance of an object. ==> NAYASA INDIA PVT LTD NIPL ==> LineNo : 298
+31-10-2014 10:33:42 ==> New Local Purchase Order ==> Object reference not set to an instance of an object. ==> First Client SECOND User ==> LineNo : 298
+31-10-2014 10:33:42 ==> New Local Purchase Order ==> Object reference not set to an instance of an object. ==> First Client SECOND User ==> LineNo : 298
+31-10-2014 10:35:05 ==> New Local Purchase Order ==> Object reference not set to an instance of an object. ==> First Client SECOND User ==> LineNo : 298
+31-10-2014 10:36:28 ==> New Local Purchase Order ==> Object reference not set to an instance of an object. ==> First Client SECOND User ==> LineNo : 298
+31-10-2014 10:38:58 ==> New Local Purchase Order ==> Object reference not set to an instance of an object. ==> First Client SECOND User ==> LineNo : 298
+31-10-2014 10:38:58 ==> New Local Purchase Order ==> Object reference not set to an instance of an object. ==> First Client SECOND User ==> LineNo : 298
+31-10-2014 10:39:31 ==> New Local Purchase Order ==> Object reference not set to an instance of an object. ==> First Client SECOND User ==> LineNo : 298
+31-10-2014 10:41:39 ==> New Local Purchase Order ==> Object reference not set to an instance of an object. ==> First Client SECOND User ==> LineNo : 298
+31-10-2014 10:41:39 ==> New Local Purchase Order ==> Object reference not set to an instance of an object. ==> First Client SECOND User ==> LineNo : 298
+31-10-2014 10:44:06 ==> New Local Purchase Order ==> Object reference not set to an instance of an object. ==> First Client SECOND User ==> LineNo : 298
+31-10-2014 10:44:06 ==> New Local Purchase Order ==> Object reference not set to an instance of an object. ==> First Client SECOND User ==> LineNo : 298
+31-10-2014 11:20:22 ==> New Local Purchase Order ==> Object reference not set to an instance of an object. ==> First Client SECOND User ==> LineNo : 298
+31-10-2014 11:20:22 ==> New Local Purchase Order ==> Object reference not set to an instance of an object. ==> First Client SECOND User ==> LineNo : 298
+03-11-2014 15:56:30 ==> New FPO ==> Error while Inserting. ==> First Client SECOND User
+03-11-2014 17:34:17 ==> New Local Purchase Order ==> Object reference not set to an instance of an object. ==> First Client SECOND User ==> LineNo : 298
+03-11-2014 17:34:17 ==> New Local Purchase Order ==> Object reference not set to an instance of an object. ==> First Client SECOND User ==> LineNo : 298
+04-11-2014 17:39:51 ==> Foreign Quotation Comparison ==> Input string was not in a correct format. ==> First Client SECOND User ==> LineNo : 550
+04-11-2014 17:39:54 ==> Foreign Quotation Comparison ==> Input string was not in a correct format. ==> First Client SECOND User ==> LineNo : 550
+04-11-2014 17:41:08 ==> Foreign Quotation Comparison ==> Input string was not in a correct format. ==> First Client SECOND User ==> LineNo : 550
+04-11-2014 17:41:31 ==> Foreign Quotation Comparison ==> Input string was not in a correct format. ==> First Client SECOND User ==> LineNo : 550
+04-11-2014 17:58:50 ==> New Local Purchase Order ==> Object reference not set to an instance of an object. ==> First Client SECOND User ==> LineNo : 298
+04-11-2014 17:58:50 ==> New Local Purchase Order ==> Object reference not set to an instance of an object. ==> First Client SECOND User ==> LineNo : 298
+05-11-2014 16:39:05 ==> New Foreign Purchase Order ==> 'ddlcustomer' has a SelectedValue which is invalid because it does not exist in the list of items.
+Parameter name: value ==> First Client SECOND User ==> LineNo : 614
+05-11-2014 16:39:23 ==> New Foreign Purchase Order ==> 'ddlcustomer' has a SelectedValue which is invalid because it does not exist in the list of items.
+Parameter name: value ==> First Client SECOND User ==> LineNo : 614
+05-11-2014 16:44:24 ==> New Local Purchase Order ==> Object reference not set to an instance of an object. ==> First Client SECOND User ==> LineNo : 298
+05-11-2014 16:44:24 ==> New Local Purchase Order ==> Object reference not set to an instance of an object. ==> First Client SECOND User ==> LineNo : 298
+05-11-2014 16:44:38 ==> New Local Purchase Order ==> Object reference not set to an instance of an object. ==> First Client SECOND User ==> LineNo : 298
+05-11-2014 16:44:38 ==> New Local Purchase Order ==> Object reference not set to an instance of an object. ==> First Client SECOND User ==> LineNo : 298
+05-11-2014 16:44:47 ==> New Local Purchase Order ==> Object reference not set to an instance of an object. ==> First Client SECOND User ==> LineNo : 298
+05-11-2014 16:44:47 ==> New Local Purchase Order ==> Object reference not set to an instance of an object. ==> First Client SECOND User ==> LineNo : 298
+05-11-2014 16:44:59 ==> New Local Purchase Order ==> Object reference not set to an instance of an object. ==> First Client SECOND User ==> LineNo : 298
+05-11-2014 16:44:59 ==> New Local Purchase Order ==> Object reference not set to an instance of an object. ==> First Client SECOND User ==> LineNo : 298
+05-11-2014 16:45:11 ==> New Local Purchase Order ==> Object reference not set to an instance of an object. ==> First Client SECOND User ==> LineNo : 298
+05-11-2014 16:45:11 ==> New Local Purchase Order ==> Object reference not set to an instance of an object. ==> First Client SECOND User ==> LineNo : 298
+05-11-2014 16:47:47 ==> New Local Purchase Order ==> Object reference not set to an instance of an object. ==> First Client SECOND User ==> LineNo : 298
+05-11-2014 16:47:47 ==> New Local Purchase Order ==> Object reference not set to an instance of an object. ==> First Client SECOND User ==> LineNo : 298
+05-11-2014 17:22:57 ==> New Local Purchase Order ==> Object reference not set to an instance of an object. ==> First Client SECOND User ==> LineNo : 298
+05-11-2014 17:28:01 ==> New Local Purchase Order ==> Object reference not set to an instance of an object. ==> First Client SECOND User ==> LineNo : 298
+05-11-2014 17:28:18 ==> New Local Purchase Order ==> Object reference not set to an instance of an object. ==> First Client SECOND User ==> LineNo : 298
+05-11-2014 17:28:44 ==> New Local Purchase Order ==> Object reference not set to an instance of an object. ==> First Client SECOND User ==> LineNo : 298
+05-11-2014 17:29:21 ==> New Local Purchase Order ==> Object reference not set to an instance of an object. ==> First Client SECOND User ==> LineNo : 298
+05-11-2014 17:29:43 ==> New Local Purchase Order ==> Object reference not set to an instance of an object. ==> First Client SECOND User ==> LineNo : 298
+05-11-2014 17:30:12 ==> New Local Purchase Order ==> Object reference not set to an instance of an object. ==> First Client SECOND User ==> LineNo : 298
+06-11-2014 12:56:37 ==> New Foreign Purchase Order ==> 'ddlcustomer' has a SelectedValue which is invalid because it does not exist in the list of items.
+Parameter name: value ==> First Client SECOND User ==> LineNo : 614
+06-11-2014 12:56:45 ==> New Foreign Purchase Order ==> 'ddlcustomer' has a SelectedValue which is invalid because it does not exist in the list of items.
+Parameter name: value ==> First Client SECOND User ==> LineNo : 614
+07-11-2014 11:26:41 ==> New Local Purchase Order ==> Object reference not set to an instance of an object. ==> First Client SECOND User ==> LineNo : 298
+07-11-2014 11:26:49 ==> New Local Purchase Order ==> Object reference not set to an instance of an object. ==> First Client SECOND User ==> LineNo : 298
+10-11-2014 18:43:54 ==> New Local Purchase Order ==> Object reference not set to an instance of an object. ==> Apollo Admin ==> LineNo : 298
+10-11-2014 18:44:09 ==> New Local Purchase Order ==> Object reference not set to an instance of an object. ==> Apollo Admin ==> LineNo : 298
+10-11-2014 18:45:29 ==> New Local Purchase Order ==> Object reference not set to an instance of an object. ==> Apollo Admin ==> LineNo : 298
+10-11-2014 18:45:36 ==> New Local Purchase Order ==> Object reference not set to an instance of an object. ==> Apollo Admin ==> LineNo : 298
+10-11-2014 18:45:44 ==> New Local Purchase Order ==> Object reference not set to an instance of an object. ==> Apollo Admin ==> LineNo : 298
+10-11-2014 18:51:38 ==> New Local Purchase Order ==> Object reference not set to an instance of an object. ==> Apollo Admin ==> LineNo : 298
+11-11-2014 10:52:09 ==> New Local Purchase Order ==> Object reference not set to an instance of an object. ==> Apollo Admin ==> LineNo : 298
+11-11-2014 10:54:11 ==> New Local Purchase Order ==> Object reference not set to an instance of an object. ==> Apollo Admin ==> LineNo : 298
+11-11-2014 10:54:39 ==> New Local Purchase Order ==> Object reference not set to an instance of an object. ==> Apollo Admin ==> LineNo : 298
+11-11-2014 11:30:59 ==> New Local Purchase Order ==> Cannot find table 3. ==> Apollo Admin ==> LineNo : 1106
+13-11-2014 10:42:29 ==> New FPO ==> Error while Updating. ==> Apollo Admin
+13-11-2014 10:47:12 ==> New FPO ==> Error while Updating. ==> Apollo Admin
+13-11-2014 10:55:19 ==> New FPO ==> Error while Updating. ==> Apollo Admin
+13-11-2014 16:13:10 ==> New Local Purchase Order Verbal ==> Object reference not set to an instance of an object. ==> Balaji Group BLG ==> LineNo : 685
+13-11-2014 16:42:01 ==> New Local Purchase Order Verbal ==> Object reference not set to an instance of an object. ==> Balaji Group BLG ==> LineNo : 685
+13-11-2014 16:47:41 ==> New Local Purchase Order Verbal ==> Object reference not set to an instance of an object. ==> Balaji Group BLG ==> LineNo : 685
+13-11-2014 17:11:46 ==> New Local Purchase Order Verbal ==> Error while Saving. ==> Balaji Group BLG
+13-11-2014 17:20:59 ==> New Local Purchase Order Verbal ==> Error while Saving. ==> Balaji Group BLG
+13-11-2014 17:24:40 ==> New Local Purchase Order Verbal ==> Error while Saving. ==> Balaji Group BLG
+13-11-2014 17:26:06 ==> New Local Purchase Order Verbal ==> Error while Saving. ==> Balaji Group BLG
+13-11-2014 17:28:17 ==> New Local Purchase Order Verbal ==> Error while Saving. ==> Balaji Group BLG
+13-11-2014 17:43:01 ==> New Local Purchase Order Verbal ==> Error while Saving. ==> Balaji Group BLG
+13-11-2014 17:44:34 ==> New Local Purchase Order Verbal ==> Error while Saving. ==> Balaji Group BLG
+13-11-2014 18:11:45 ==> New Local Purchase Order ==> Cannot find table 3. ==> Balaji Group BLG ==> LineNo : 1106
+14-11-2014 13:18:56 ==> New FPO ==> Error while Inserting. ==> Balaji Group BLG
+14-11-2014 14:06:31 ==> New FPO ==> Error while Inserting. ==> Balaji Group BLG
+17-11-2014 14:04:31 ==> Foreign Quotation Comparison ==> Object reference not set to an instance of an object. ==> Apollo Admin ==> LineNo : 359
+17-11-2014 14:06:00 ==> Foreign Quotation Comparison ==> Object reference not set to an instance of an object. ==> Apollo Admin ==> LineNo : 359
+17-11-2014 14:10:42 ==> Foreign Quotation Comparison ==> Object reference not set to an instance of an object. ==> Apollo Admin ==> LineNo : 359
+17-11-2014 14:23:46 ==> Foreign Quotation Comparison ==> Object reference not set to an instance of an object. ==> Apollo Admin ==> LineNo : 359
+17-11-2014 14:33:27 ==> Foreign Quotation Comparison ==> Column '' does not belong to table Table. ==> Apollo Admin ==> LineNo : 359
+17-11-2014 14:33:55 ==> Foreign Quotation Comparison ==> Column '' does not belong to table Table. ==> Apollo Admin ==> LineNo : 359
+17-11-2014 16:09:42 ==> Foreign Quotation Comparison ==> Column 'OrgName' does not belong to table Table. ==> Apollo Admin ==> LineNo : 374
+17-11-2014 16:34:53 ==> Foreign Quotation Comparison ==> Column 'CustContactPerson' does not belong to table Table. ==> Apollo Admin ==> LineNo : 387
+17-11-2014 16:48:56 ==> Foreign Quotation Comparison ==> Column 'Instructions' does not belong to table Table2. ==> Apollo Admin ==> LineNo : 384
+17-11-2014 16:50:03 ==> Foreign Quotation Comparison ==> Column 'Instruction' does not belong to table Table2. ==> Apollo Admin ==> LineNo : 384
+17-11-2014 16:54:08 ==> Foreign Quotation Comparison ==> Response is not available in this context. ==> Apollo Admin ==> LineNo : 392
+17-11-2014 16:56:29 ==> Foreign Quotation Comparison ==> Response is not available in this context. ==> Apollo Admin ==> LineNo : 393
+17-11-2014 16:58:20 ==> Foreign Quotation Comparison ==> Thread was being aborted. ==> Apollo Admin ==> LineNo : 405
+17-11-2014 16:59:59 ==> Foreign Quotation Comparison ==> Thread was being aborted. ==> Apollo Admin ==> LineNo : 405
+17-11-2014 17:10:20 ==> Foreign Quotation Comparison ==> HtmlForm cannot render without a reference to the Page instance.  Make sure your form has been added to the control tree. ==> Apollo Admin ==> LineNo : 399
+17-11-2014 18:01:15 ==> Foreign Quotation Comparison ==> Thread was being aborted. ==> Apollo Admin ==> LineNo : 403
+17-11-2014 18:01:18 ==> Foreign Quotation Comparison ==> Thread was being aborted. ==> Apollo Admin ==> LineNo : 403
+17-11-2014 18:04:23 ==> Foreign Quotation Comparison ==> Thread was being aborted. ==> Apollo Admin ==> LineNo : 403
+17-11-2014 18:04:36 ==> Foreign Quotation Comparison ==> Thread was being aborted. ==> Apollo Admin ==> LineNo : 403
+17-11-2014 18:25:33 ==> Foreign Quotation Comparison ==> Thread was being aborted. ==> Apollo Admin ==> LineNo : 403
+20-11-2014 12:09:22 ==> Foreign Quotation Comparison ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx).Couldn't store <11279A19-CCBB-4BBA-9738-6923C8F1D99F,BF6BDF99-35FA-4491-8F1F-B1B5ED57A6E0,83D7AE6D-6E9A-417E-8EC1-DDA6FCE6C094> in FEnqID Column.  Expected type is Guid. ==> Balaji Group BLG ==> LineNo : 564
+20-11-2014 12:09:28 ==> Foreign Quotation Comparison ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx).Couldn't store <11279A19-CCBB-4BBA-9738-6923C8F1D99F,BF6BDF99-35FA-4491-8F1F-B1B5ED57A6E0,83D7AE6D-6E9A-417E-8EC1-DDA6FCE6C094> in FEnqID Column.  Expected type is Guid. ==> Balaji Group BLG ==> LineNo : 564
+20-11-2014 12:09:29 ==> Foreign Quotation Comparison ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx).Couldn't store <11279A19-CCBB-4BBA-9738-6923C8F1D99F,BF6BDF99-35FA-4491-8F1F-B1B5ED57A6E0,83D7AE6D-6E9A-417E-8EC1-DDA6FCE6C094> in FEnqID Column.  Expected type is Guid. ==> Balaji Group BLG ==> LineNo : 564
+20-11-2014 18:40:05 ==> Foreign Quotation Comparison ==> Thread was being aborted. ==> Apollo Admin ==> LineNo : 406
+20-11-2014 18:40:50 ==> Foreign Quotation Comparison ==> Thread was being aborted. ==> Apollo Admin ==> LineNo : 406
+20-11-2014 18:41:16 ==> Foreign Quotation Comparison ==> Thread was being aborted. ==> Apollo Admin ==> LineNo : 406
+20-11-2014 18:41:55 ==> Foreign Quotation Comparison ==> Thread was being aborted. ==> Apollo Admin ==> LineNo : 406
+20-11-2014 18:42:45 ==> Foreign Quotation Comparison ==> Thread was being aborted. ==> Apollo Admin ==> LineNo : 406
+20-11-2014 18:45:31 ==> Foreign Quotation Comparison ==> Thread was being aborted. ==> Apollo Admin ==> LineNo : 406
+21-11-2014 14:38:56 ==> Foreign Quotation Comparison ==> Thread was being aborted. ==> Apollo Admin ==> LineNo : 406
+21-11-2014 14:46:39 ==> Foreign Quotation Comparison ==> Thread was being aborted. ==> Apollo Admin ==> LineNo : 406
+21-11-2014 14:50:26 ==> Foreign Quotation Comparison ==> Thread was being aborted. ==> Apollo Admin ==> LineNo : 406
+21-11-2014 14:50:47 ==> Foreign Quotation Comparison ==> Thread was being aborted. ==> Apollo Admin ==> LineNo : 406
+21-11-2014 14:52:59 ==> Foreign Quotation Comparison ==> Thread was being aborted. ==> Apollo Admin ==> LineNo : 406
+21-11-2014 14:55:43 ==> Foreign Quotation Comparison ==> Thread was being aborted. ==> Apollo Admin ==> LineNo : 406
+21-11-2014 14:57:15 ==> Foreign Quotation Comparison ==> Thread was being aborted. ==> Apollo Admin ==> LineNo : 406
+21-11-2014 15:05:27 ==> Foreign Quotation Comparison ==> Thread was being aborted. ==> Apollo Admin ==> LineNo : 406
+21-11-2014 15:05:48 ==> Foreign Quotation Comparison ==> Thread was being aborted. ==> Apollo Admin ==> LineNo : 406
+21-11-2014 15:58:06 ==> Foreign Quotation Comparison ==> Thread was being aborted. ==> Apollo Admin ==> LineNo : 406
+21-11-2014 15:58:20 ==> Foreign Quotation Comparison ==> Thread was being aborted. ==> Apollo Admin ==> LineNo : 406
+21-11-2014 15:59:00 ==> Foreign Quotation Comparison ==> Thread was being aborted. ==> Apollo Admin ==> LineNo : 406
+21-11-2014 16:00:17 ==> Foreign Quotation Comparison ==> Thread was being aborted. ==> Apollo Admin ==> LineNo : 406
+21-11-2014 16:01:04 ==> Foreign Quotation Comparison ==> Thread was being aborted. ==> Apollo Admin ==> LineNo : 406
+21-11-2014 16:02:26 ==> Foreign Quotation Comparison ==> Thread was being aborted. ==> Apollo Admin ==> LineNo : 406
+21-11-2014 16:03:15 ==> Foreign Quotation Comparison ==> Thread was being aborted. ==> Apollo Admin ==> LineNo : 406
+21-11-2014 16:09:03 ==> Foreign Quotation Comparison ==> Thread was being aborted. ==> Apollo Admin ==> LineNo : 406
+21-11-2014 16:29:16 ==> Foreign Quotation Comparison ==> Thread was being aborted. ==> Apollo Admin ==> LineNo : 407
+21-11-2014 16:29:25 ==> Foreign Quotation Comparison ==> Thread was being aborted. ==> Apollo Admin ==> LineNo : 407
+21-11-2014 16:30:26 ==> Foreign Quotation Comparison ==> Thread was being aborted. ==> Apollo Admin ==> LineNo : 407
+21-11-2014 16:31:23 ==> Foreign Quotation Comparison ==> Thread was being aborted. ==> Apollo Admin ==> LineNo : 407
+21-11-2014 16:32:05 ==> Foreign Quotation Comparison ==> Thread was being aborted. ==> Apollo Admin ==> LineNo : 407
+21-11-2014 16:34:04 ==> Foreign Quotation Comparison ==> Thread was being aborted. ==> Apollo Admin ==> LineNo : 407
+21-11-2014 16:39:13 ==> Foreign Quotation Comparison ==> Thread was being aborted. ==> Apollo Admin ==> LineNo : 407
+21-11-2014 16:41:00 ==> Foreign Quotation Comparison ==> Thread was being aborted. ==> Apollo Admin ==> LineNo : 407
+21-11-2014 16:41:19 ==> Foreign Quotation Comparison ==> Thread was being aborted. ==> Apollo Admin ==> LineNo : 407
+21-11-2014 16:43:53 ==> Foreign Quotation Comparison ==> Thread was being aborted. ==> Apollo Admin ==> LineNo : 407
+21-11-2014 16:51:01 ==> Foreign Quotation Comparison ==> Thread was being aborted. ==> Apollo Admin ==> LineNo : 407
+21-11-2014 16:51:22 ==> Foreign Quotation Comparison ==> Thread was being aborted. ==> Apollo Admin ==> LineNo : 407
+24-11-2014 14:11:11 ==> Foreign Quotation Comparison ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx).Couldn't store <E416EDC0-33E7-4425-B1A1-343828C04046,C8E53B21-463C-4409-BA1C-AC574921C224> in FEnqID Column.  Expected type is Guid. ==> Apollo Admin ==> LineNo : 564
+24-11-2014 14:11:13 ==> Foreign Quotation Comparison ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx).Couldn't store <E416EDC0-33E7-4425-B1A1-343828C04046,C8E53B21-463C-4409-BA1C-AC574921C224> in FEnqID Column.  Expected type is Guid. ==> Apollo Admin ==> LineNo : 564
+24-11-2014 14:11:14 ==> Foreign Quotation Comparison ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx).Couldn't store <E416EDC0-33E7-4425-B1A1-343828C04046,C8E53B21-463C-4409-BA1C-AC574921C224> in FEnqID Column.  Expected type is Guid. ==> Apollo Admin ==> LineNo : 564
+24-11-2014 14:11:16 ==> Foreign Quotation Comparison ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx).Couldn't store <E416EDC0-33E7-4425-B1A1-343828C04046,C8E53B21-463C-4409-BA1C-AC574921C224> in FEnqID Column.  Expected type is Guid. ==> Apollo Admin ==> LineNo : 564
+24-11-2014 14:11:17 ==> Foreign Quotation Comparison ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx).Couldn't store <E416EDC0-33E7-4425-B1A1-343828C04046,C8E53B21-463C-4409-BA1C-AC574921C224> in FEnqID Column.  Expected type is Guid. ==> Apollo Admin ==> LineNo : 564
+24-11-2014 14:11:20 ==> Foreign Quotation Comparison ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx).Couldn't store <E416EDC0-33E7-4425-B1A1-343828C04046,C8E53B21-463C-4409-BA1C-AC574921C224> in FEnqID Column.  Expected type is Guid. ==> Apollo Admin ==> LineNo : 564
+24-11-2014 14:12:13 ==> Foreign Quotation Comparison ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx).Couldn't store <E416EDC0-33E7-4425-B1A1-343828C04046,C8E53B21-463C-4409-BA1C-AC574921C224> in FEnqID Column.  Expected type is Guid. ==> Apollo Admin ==> LineNo : 564
+24-11-2014 14:23:32 ==> Foreign Quotation Comparison ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx).Couldn't store <E416EDC0-33E7-4425-B1A1-343828C04046,C8E53B21-463C-4409-BA1C-AC574921C224> in FEnqID Column.  Expected type is Guid. ==> Apollo Admin ==> LineNo : 564
+24-11-2014 14:31:45 ==> Foreign Quotation Comparison ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx).Couldn't store <E416EDC0-33E7-4425-B1A1-343828C04046,C8E53B21-463C-4409-BA1C-AC574921C224> in FEnqID Column.  Expected type is Guid. ==> Apollo Admin ==> LineNo : 564
+24-11-2014 14:32:12 ==> Foreign Quotation Comparison ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx).Couldn't store <E416EDC0-33E7-4425-B1A1-343828C04046,C8E53B21-463C-4409-BA1C-AC574921C224> in FEnqID Column.  Expected type is Guid. ==> Apollo Admin ==> LineNo : 564
+24-11-2014 15:13:39 ==> Foreign Quotation Comparison ==> Thread was being aborted. ==> Apollo Admin ==> LineNo : 407
+24-11-2014 17:51:29 ==> Inspection Plan Request ==> Object reference not set to an instance of an object. ==> Apollo Admin
+24-11-2014 18:59:27 ==> Inspection Plan Request ==> Object reference not set to an instance of an object. ==> Apollo Admin
+26-11-2014 11:22:48 ==> Foreign Quotation Comparison ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx). ==> Balaji Customer User One ==> LineNo : 98
+26-11-2014 12:51:55 ==> Inspection Report Status ==> Input string was not in a correct format. ==> Apollo Admin ==> LineNo : 78
+26-11-2014 12:56:08 ==> Inspection Report Status ==> Input string was not in a correct format. ==> Apollo Admin ==> LineNo : 78
+27-11-2014 12:10:06 ==> Inspection Plan Request ==> Thread was being aborted. ==> CustomerUser KSR
+27-11-2014 17:59:15 ==> Foreign Quotation Comparison ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx). ==> Balaji Group BLG ==> LineNo : 1109
+27-11-2014 18:21:13 ==> Foreign Quotation Comparison ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx). ==> Balaji Group BLG ==> LineNo : 1109
+27-11-2014 18:21:44 ==> Foreign Quotation Comparison ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx). ==> Balaji Group BLG ==> LineNo : 1109
+27-11-2014 18:23:47 ==> Foreign Quotation Comparison ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx). ==> Balaji Group BLG ==> LineNo : 1109
+27-11-2014 18:24:24 ==> Foreign Quotation Comparison ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx). ==> Balaji Group BLG ==> LineNo : 1109
+05-12-2014 17:05:28 ==> Foreign Purchase Order Status ==> Cannot find table 1. ==> Apollo Admin ==> LineNo : 121
+05-12-2014 17:06:59 ==> Foreign Purchase Order Status ==> Cannot find table 1. ==> Apollo Admin ==> LineNo : 121
+05-12-2014 17:08:31 ==> Inspection Plan Request ==> Thread was being aborted. ==> RR RRG
+05-12-2014 17:13:05 ==> Inspection Plan Request ==> Thread was being aborted. ==> RR RRG
+05-12-2014 17:28:49 ==> Inspection Plan Request ==> Thread was being aborted. ==> RR RRG
+05-12-2014 17:29:16 ==> Inspection Plan Request ==> Thread was being aborted. ==> RR RRG
+05-12-2014 17:30:50 ==> Foreign Purchase Order Status ==> Cannot find table 1. ==> Apollo Admin ==> LineNo : 121
+05-12-2014 17:32:36 ==> Foreign Purchase Order Status ==> Cannot find table 1. ==> Apollo Admin ==> LineNo : 121
+08-12-2014 11:16:55 ==> Inspection Plan Request ==> Thread was being aborted. ==> RR RRG
+10-12-2014 12:07:30 ==> New Local Purchase Order ==> Error while Saving. ==> Apollo Admin
+12-12-2014 13:10:39 ==> New Local Purchase Order Verbal ==> Column 'Check' does not belong to table Table. ==> Apollo Admin ==> LineNo : 1200
+12-12-2014 15:12:32 ==> New Local Purchase Order Verbal ==> Error while Saving. ==> Apollo Admin
+12-12-2014 15:13:14 ==> New Local Purchase Order Verbal ==> Error while Saving. ==> Apollo Admin
+12-12-2014 15:21:38 ==> New Local Purchase Order Verbal ==> Error while Saving. ==> Apollo Admin
+15-12-2014 11:45:42 ==> New FPO ==> Error while Inserting. ==> RR RRG
+15-12-2014 11:48:16 ==> New FPO ==> Error while Inserting. ==> RR RRG
+15-12-2014 11:48:55 ==> New Foreign Purchase Order ==> Object reference not set to an instance of an object. ==> RR RRG ==> LineNo : 138
+15-12-2014 11:50:20 ==> New Local Purchase Order ==> Error while Saving. ==> RR RRG
+15-12-2014 14:11:01 ==> New Local Purchase Order Verbal ==> Cannot find table 1. ==> RR RRG ==> LineNo : 1227
+15-12-2014 14:15:18 ==> New Local Purchase Order Verbal ==> Cannot find table 1. ==> RR RRG ==> LineNo : 1227
+15-12-2014 14:58:26 ==> Foreign Purchase Order Status ==> There is no row at position 0. ==> Apollo Admin ==> LineNo : 341
+15-12-2014 17:21:16 ==> New Local Purchase Order Verbal ==> Column 'qty' does not belong to table Table4. ==> RR RRG ==> LineNo : 1227
+15-12-2014 17:27:20 ==> New Local Purchase Order Verbal ==> Input string was not in a correct format. ==> RR RRG ==> LineNo : 1229
+15-12-2014 17:28:28 ==> New Local Purchase Order Verbal ==> Input string was not in a correct format. ==> RR RRG ==> LineNo : 1229
+15-12-2014 17:29:07 ==> New Local Purchase Order Verbal ==> Input string was not in a correct format. ==> RR RRG ==> LineNo : 1229
+15-12-2014 17:29:46 ==> New Local Purchase Order Verbal ==> Input string was not in a correct format. ==> RR RRG ==> LineNo : 1229
+15-12-2014 17:40:26 ==> Inspection Report Status ==> Input string was not in a correct format. ==> RR RRG ==> LineNo : 78
+15-12-2014 17:41:17 ==> Inspection Report Status ==> Input string was not in a correct format. ==> RR RRG ==> LineNo : 78
+15-12-2014 17:41:34 ==> Inspection Report Status ==> Input string was not in a correct format. ==> RR RRG ==> LineNo : 78
+15-12-2014 17:58:30 ==> Inspection Report Status ==> Input string was not in a correct format. ==> RR RRG ==> LineNo : 78
+16-12-2014 14:07:01 ==> New Local Purchase Order Verbal ==> Object reference not set to an instance of an object. ==> RR RRG ==> LineNo : 685
+16-12-2014 14:07:09 ==> New Local Purchase Order Verbal ==> Object reference not set to an instance of an object. ==> RR RRG ==> LineNo : 685
+17-12-2014 14:15:03 ==> New Foreign Purchase Order ==> Object reference not set to an instance of an object. ==> Apollo Admin ==> LineNo : 138
+17-12-2014 14:17:21 ==> New Foreign Purchase Order ==> Object reference not set to an instance of an object. ==> Apollo Admin ==> LineNo : 138
+17-12-2014 14:22:12 ==> New Foreign Purchase Order ==> Object reference not set to an instance of an object. ==> Apollo Admin ==> LineNo : 138
+18-12-2014 16:16:06 ==> New Local Purchase Order ==> Unable to cast object of type 'System.Data.DataTable' to type 'System.Collections.ArrayList'. ==> Apollo Admin ==> LineNo : 1890
+18-12-2014 16:35:33 ==> New Local Purchase Order ==> Input string was not in a correct format. ==> Apollo Admin ==> LineNo : 1891
+18-12-2014 16:35:53 ==> New Local Purchase Order ==> Input string was not in a correct format. ==> Apollo Admin ==> LineNo : 1891
+18-12-2014 16:37:38 ==> New Local Purchase Order ==> Input string was not in a correct format. ==> Apollo Admin ==> LineNo : 1899
+18-12-2014 16:37:56 ==> New Local Purchase Order ==> Input string was not in a correct format. ==> Apollo Admin ==> LineNo : 1899
+18-12-2014 16:38:41 ==> New Local Purchase Order ==> Input string was not in a correct format. ==> Apollo Admin ==> LineNo : 1899
+18-12-2014 16:42:08 ==> New Local Purchase Order ==> Input string was not in a correct format. ==> Apollo Admin ==> LineNo : 1899
+18-12-2014 16:44:42 ==> New Local Purchase Order ==> There is no row at position 5. ==> Apollo Admin ==> LineNo : 1899
+18-12-2014 16:46:24 ==> New Local Purchase Order ==> There is no row at position 5. ==> Apollo Admin ==> LineNo : 1899
+18-12-2014 16:46:32 ==> New Local Purchase Order ==> There is no row at position 5. ==> Apollo Admin ==> LineNo : 1899
+18-12-2014 16:46:55 ==> New Local Purchase Order ==> There is no row at position 5. ==> Apollo Admin ==> LineNo : 1899
+18-12-2014 16:49:25 ==> New Local Purchase Order ==> There is no row at position 5. ==> Apollo Admin ==> LineNo : 1899
+18-12-2014 17:59:50 ==> New Local Purchase Order ==> There is no row at position -1. ==> Apollo Admin ==> LineNo : 1937
+18-12-2014 18:01:19 ==> New Local Purchase Order ==> There is no row at position -1. ==> Apollo Admin ==> LineNo : 1935
+18-12-2014 18:07:12 ==> New Local Purchase Order ==> There is no row at position 6. ==> Apollo Admin ==> LineNo : 1999
+22-12-2014 12:26:30 ==> Foreign Purchase Order Status ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx). ==> Balaji Customer User One ==> LineNo : 273
+23-12-2014 14:32:40 ==> Local Purchase Order Status ==> Cannot find table 1. ==> RR RRG ==> LineNo : 366
+23-12-2014 14:39:27 ==> Local Purchase Order Status ==> Cannot find table 1. ==> Apollo Admin ==> LineNo : 366
+23-12-2014 14:39:48 ==> Local Purchase Order Status ==> Cannot find table 1. ==> Apollo Admin ==> LineNo : 366
+23-12-2014 15:02:09 ==> Local Purchase Order Status ==> Cannot find table 1. ==> Apollo Admin ==> LineNo : 367
+23-12-2014 15:15:38 ==> Local Purchase Order Status ==> Cannot find table 1. ==> Apollo Admin ==> LineNo : 367
+26-12-2014 14:52:25 ==> Local Purchase Order Details ==> Cannot find table 0. ==> RR RRG ==> LineNo : 140
+26-12-2014 14:54:34 ==> Local Purchase Order Details ==> Cannot find table 0. ==> RR RRG ==> LineNo : 140
+29-12-2014 12:51:01 ==> Foreign Quotation Comparison ==> Column 'PartNum' does not belong to table Table1. ==> Apollo Admin ==> LineNo : 390
+29-12-2014 12:51:44 ==> Foreign Quotation Comparison ==> Column 'PartNum' does not belong to table Table1. ==> Apollo Admin ==> LineNo : 390
+29-12-2014 16:39:46 ==> Foreign Quotation Comparison ==> String was not recognized as a valid DateTime. ==> customer user two ==> LineNo : 390
+29-12-2014 16:49:57 ==> Foreign Quotation Comparison ==> String was not recognized as a valid DateTime. ==> customer user two ==> LineNo : 390
+29-12-2014 17:39:27 ==> Foreign Quotation Comparison ==> String was not recognized as a valid DateTime. ==> customer user two ==> LineNo : 391
+29-12-2014 17:39:41 ==> Foreign Quotation Comparison ==> String was not recognized as a valid DateTime. ==> customer user two ==> LineNo : 391
+29-12-2014 17:40:31 ==> Foreign Quotation Comparison ==> String was not recognized as a valid DateTime. ==> customer user two ==> LineNo : 390
+29-12-2014 17:41:12 ==> Foreign Quotation Comparison ==> String was not recognized as a valid DateTime. ==> customer user two ==> LineNo : 390
+29-12-2014 17:52:48 ==> Foreign Quotation Comparison ==> String was not recognized as a valid DateTime. ==> customer user two ==> LineNo : 391
+29-12-2014 17:59:19 ==> Foreign Quotation Comparison ==> String was not recognized as a valid DateTime. ==> customer user two ==> LineNo : 375
+29-12-2014 17:59:34 ==> Foreign Quotation Comparison ==> String was not recognized as a valid DateTime. ==> customer user two ==> LineNo : 375
+07-01-2015 16:46:45 ==> Inspection Report ==> Thread was being aborted. ==> Customer User RRG ==> LineNo : 67
+28-01-2015 13:06:08 ==> New Local Purchase Order ==> There is no row at position -10. ==> RR RRG ==> LineNo : 2010
+28-01-2015 14:34:20 ==> New Local Purchase Order ==> There is no row at position -9. ==> RR RRG ==> LineNo : 2010
+29-01-2015 17:55:10 ==> New Local Purchase Order ==> There is no row at position -10. ==> Apollo Admin ==> LineNo : 2010
+04-02-2015 11:21:59 ==> New FPO ==> Error while Inserting. ==> Apollo Admin
+04-02-2015 11:54:50 ==> New FPO ==> Error while Inserting. ==> Apollo Admin
+04-02-2015 11:55:37 ==> New FPO ==> Error while Inserting. ==> Apollo Admin
+04-02-2015 14:29:17 ==> New Foreign Purchase Order ==> Object reference not set to an instance of an object. ==> Apollo Admin ==> LineNo : 142
+04-02-2015 14:50:14 ==> New FPO ==> Error while Inserting. ==> Apollo Admin
+04-02-2015 14:50:57 ==> New FPO ==> Error while Inserting. ==> Apollo Admin
+04-02-2015 14:52:10 ==> New FPO ==> Error while Inserting. ==> Apollo Admin
+04-02-2015 14:52:16 ==> New Foreign Purchase Order ==> Object reference not set to an instance of an object. ==> Apollo Admin ==> LineNo : 142
+04-02-2015 14:52:16 ==> New Foreign Purchase Order ==> Column 'Check' does not belong to table Table1. ==> Apollo Admin ==> LineNo : 902
+04-02-2015 14:52:25 ==> New Foreign Purchase Order ==> Object reference not set to an instance of an object. ==> Apollo Admin ==> LineNo : 142
+04-02-2015 14:53:12 ==> New FPO ==> Error while Inserting. ==> Apollo Admin
+04-02-2015 14:53:52 ==> New Foreign Purchase Order ==> Object reference not set to an instance of an object. ==> Apollo Admin ==> LineNo : 142
+04-02-2015 14:54:33 ==> New FPO ==> Error while Inserting. ==> Apollo Admin
+04-02-2015 14:55:47 ==> New Foreign Purchase Order ==> Object reference not set to an instance of an object. ==> Apollo Admin ==> LineNo : 142
+04-02-2015 14:56:55 ==> New FPO ==> Error while Inserting. ==> Apollo Admin
+04-02-2015 15:09:50 ==> New FPO ==> Error while Inserting. ==> Apollo Admin
+04-02-2015 15:18:42 ==> New Foreign Purchase Order ==> Object reference not set to an instance of an object. ==> Apollo Admin ==> LineNo : 142
+04-02-2015 15:19:46 ==> New FPO ==> Error while Inserting. ==> Apollo Admin
+04-02-2015 15:20:09 ==> New Foreign Purchase Order ==> Object reference not set to an instance of an object. ==> Apollo Admin ==> LineNo : 142
+04-02-2015 15:20:09 ==> New Foreign Purchase Order ==> Column 'Check' does not belong to table Table1. ==> Apollo Admin ==> LineNo : 902
+04-02-2015 15:20:16 ==> New Foreign Purchase Order ==> Object reference not set to an instance of an object. ==> Apollo Admin ==> LineNo : 142
+04-02-2015 15:22:18 ==> New FPO ==> Error while Inserting. ==> Apollo Admin
+04-02-2015 15:27:45 ==> New Foreign Purchase Order ==> Object reference not set to an instance of an object. ==> Apollo Admin ==> LineNo : 142
+04-02-2015 15:28:34 ==> New Foreign Purchase Order ==> Object reference not set to an instance of an object. ==> Apollo Admin ==> LineNo : 142
+04-02-2015 15:53:04 ==> New Foreign Purchase Order ==> Object reference not set to an instance of an object. ==> Apollo Admin ==> LineNo : 142
+04-02-2015 15:53:55 ==> New Foreign Purchase Order ==> Object reference not set to an instance of an object. ==> Apollo Admin ==> LineNo : 142
+04-02-2015 16:01:00 ==> New Foreign Purchase Order ==> Object reference not set to an instance of an object. ==> Apollo Admin ==> LineNo : 142
+04-02-2015 16:40:46 ==> New FPO ==> Error while Inserting. ==> Apollo Admin
+04-02-2015 16:57:58 ==> New FPO ==> Error while Inserting. ==> Apollo Admin
+04-02-2015 17:52:08 ==> New FPO ==> Error while Inserting. ==> Apollo Admin
+04-02-2015 17:52:56 ==> New FPO ==> Error while Inserting. ==> Apollo Admin
+04-02-2015 18:03:13 ==> New FPO ==> Error while Inserting. ==> Apollo Admin
+04-02-2015 18:20:35 ==> New FPO ==> Error while Inserting. ==> Apollo Admin
+04-02-2015 18:23:04 ==> New FPO ==> Error while Inserting. ==> Apollo Admin
+04-02-2015 18:31:20 ==> New FPO ==> Error while Inserting. ==> Apollo Admin
+04-02-2015 18:46:08 ==> New FPO ==> Error while Inserting. ==> Apollo Admin
+04-02-2015 18:46:39 ==> New FPO ==> Error while Inserting. ==> Apollo Admin
+05-02-2015 10:20:22 ==> New FPO ==> Error while Inserting. ==> Apollo Admin
+05-02-2015 10:26:13 ==> New FPO ==> Error while Inserting. ==> RR RRG
+05-02-2015 10:27:43 ==> New FPO ==> Error while Inserting. ==> RR RRG
+05-02-2015 10:30:04 ==> New FPO ==> Error while Inserting. ==> RR RRG
+05-02-2015 10:31:26 ==> New FPO ==> Error while Inserting. ==> RR RRG
+05-02-2015 10:31:59 ==> New FPO ==> Error while Inserting. ==> RR RRG
+05-02-2015 10:51:21 ==> New FPO ==> Error while Inserting. ==> Apollo Admin
+05-02-2015 10:53:12 ==> New FPO ==> Error while Inserting. ==> Apollo Admin
+05-02-2015 10:57:26 ==> New FPO ==> Error while Inserting. ==> Apollo Admin
+05-02-2015 11:13:39 ==> New FPO ==> Error while Inserting. ==> Apollo Admin
+09-02-2015 16:23:41 ==> New Foreign Purchase Order ==> Object reference not set to an instance of an object. ==> Apollo Admin ==> LineNo : 142
+09-02-2015 16:23:48 ==> New Foreign Purchase Order ==> Object reference not set to an instance of an object. ==> Apollo Admin ==> LineNo : 142
+09-02-2015 16:23:55 ==> New Foreign Purchase Order ==> Object reference not set to an instance of an object. ==> Apollo Admin ==> LineNo : 142
+09-02-2015 16:52:31 ==> New Foreign Purchase Order ==> Object reference not set to an instance of an object. ==> Apollo Admin ==> LineNo : 143
+10-02-2015 19:10:33 ==> New Local Purchase Order ==> There is no row at position 2. ==> Apollo Admin ==> LineNo : 1954
+11-02-2015 15:09:56 ==> New Local Purchase Order ==> There is no row at position -2. ==> Apollo Admin ==> LineNo : 1932
+11-02-2015 16:34:13 ==> New Local Purchase Order ==> There is no row at position 0. ==> Apollo Admin ==> LineNo : 1929
+12-02-2015 12:48:30 ==> New Local Purchase Order ==> Unable to cast object of type 'System.Web.UI.WebControls.HiddenField' to type 'System.Web.UI.WebControls.Label'. ==> Apollo Admin ==> LineNo : 1743
+12-02-2015 12:48:30 ==> New Local Purchase Order ==> Unable to cast object of type 'System.Web.UI.WebControls.HiddenField' to type 'System.Web.UI.WebControls.Label'. ==> Apollo Admin ==> LineNo : 1743
+12-02-2015 12:48:30 ==> New Local Purchase Order ==> Unable to cast object of type 'System.Web.UI.WebControls.HiddenField' to type 'System.Web.UI.WebControls.Label'. ==> Apollo Admin ==> LineNo : 1743
+12-02-2015 12:48:30 ==> New Local Purchase Order ==> Unable to cast object of type 'System.Web.UI.WebControls.HiddenField' to type 'System.Web.UI.WebControls.Label'. ==> Apollo Admin ==> LineNo : 1743
+12-02-2015 12:48:46 ==> New Local Purchase Order ==> There is no row at position -2. ==> Apollo Admin ==> LineNo : 2030
+12-02-2015 12:49:19 ==> New Local Purchase Order ==> Unable to cast object of type 'System.Web.UI.WebControls.HiddenField' to type 'System.Web.UI.WebControls.Label'. ==> Apollo Admin ==> LineNo : 1743
+12-02-2015 12:49:19 ==> New Local Purchase Order ==> Unable to cast object of type 'System.Web.UI.WebControls.HiddenField' to type 'System.Web.UI.WebControls.Label'. ==> Apollo Admin ==> LineNo : 1743
+12-02-2015 12:49:19 ==> New Local Purchase Order ==> Unable to cast object of type 'System.Web.UI.WebControls.HiddenField' to type 'System.Web.UI.WebControls.Label'. ==> Apollo Admin ==> LineNo : 1743
+12-02-2015 12:49:19 ==> New Local Purchase Order ==> Unable to cast object of type 'System.Web.UI.WebControls.HiddenField' to type 'System.Web.UI.WebControls.Label'. ==> Apollo Admin ==> LineNo : 1743
+12-02-2015 12:50:40 ==> New Local Purchase Order ==> Unable to cast object of type 'System.Web.UI.WebControls.HiddenField' to type 'System.IConvertible'. ==> Apollo Admin ==> LineNo : 1753
+12-02-2015 12:50:40 ==> New Local Purchase Order ==> Unable to cast object of type 'System.Web.UI.WebControls.HiddenField' to type 'System.IConvertible'. ==> Apollo Admin ==> LineNo : 1753
+12-02-2015 12:50:40 ==> New Local Purchase Order ==> Unable to cast object of type 'System.Web.UI.WebControls.HiddenField' to type 'System.IConvertible'. ==> Apollo Admin ==> LineNo : 1753
+12-02-2015 12:50:40 ==> New Local Purchase Order ==> Unable to cast object of type 'System.Web.UI.WebControls.HiddenField' to type 'System.IConvertible'. ==> Apollo Admin ==> LineNo : 1753
+12-02-2015 12:51:41 ==> New Local Purchase Order ==> There is no row at position 4. ==> Apollo Admin ==> LineNo : 1781
+12-02-2015 12:51:53 ==> New Local Purchase Order ==> There is no row at position -2. ==> Apollo Admin ==> LineNo : 2030
+12-02-2015 12:52:34 ==> New Local Purchase Order ==> There is no row at position 4. ==> Apollo Admin ==> LineNo : 1781
+12-02-2015 12:53:12 ==> New Local Purchase Order ==> There is no row at position 4. ==> Apollo Admin ==> LineNo : 1781
+12-02-2015 12:54:40 ==> New Local Purchase Order ==> There is no row at position -2. ==> Apollo Admin ==> LineNo : 2030
+12-02-2015 12:57:34 ==> New Local Purchase Order ==> There is no row at position -2. ==> Apollo Admin ==> LineNo : 2030
+12-02-2015 12:59:01 ==> New Local Purchase Order ==> There is no row at position -2. ==> Apollo Admin ==> LineNo : 2030
+12-02-2015 18:57:11 ==> Inspection Report Status ==> Input string was not in a correct format. ==> Apollo Admin ==> LineNo : 78
+16-02-2015 15:42:46 ==> Local Purchase Order Status ==> Cannot find table 0. ==> Apollo Admin ==> LineNo : 79
+16-02-2015 15:52:00 ==> Local Purchase Order Status ==> Cannot find table 0. ==> Apollo Admin ==> LineNo : 79
+26-02-2015 11:07:27 ==> Inspection Report Status ==> Input string was not in a correct format. ==> Super Admin ==> LineNo : 78
+04-03-2015 14:08:28 ==> New Local Purchase Order Verbal ==> Cannot find table 0. ==> RR RRG ==> LineNo : 671
+04-03-2015 14:08:59 ==> New Local Purchase Order Verbal ==> Cannot find table 0. ==> RR RRG ==> LineNo : 671
+04-03-2015 14:11:17 ==> New Local Purchase Order Verbal ==> Object reference not set to an instance of an object. ==> RR RRG ==> LineNo : 695
+04-03-2015 14:11:46 ==> New Local Purchase Order Verbal ==> Object reference not set to an instance of an object. ==> RR RRG ==> LineNo : 695
+04-03-2015 14:14:20 ==> New Local Purchase Order Verbal ==> Object reference not set to an instance of an object. ==> RR RRG ==> LineNo : 695
+04-03-2015 14:14:51 ==> New Local Purchase Order Verbal ==> Object reference not set to an instance of an object. ==> RR RRG ==> LineNo : 695
+04-03-2015 14:15:41 ==> New Local Purchase Order Verbal ==> Object reference not set to an instance of an object. ==> RR RRG ==> LineNo : 695
+04-03-2015 14:16:44 ==> New Local Purchase Order Verbal ==> Object reference not set to an instance of an object. ==> RR RRG ==> LineNo : 695
+04-03-2015 14:17:00 ==> New Local Purchase Order Verbal ==> Object reference not set to an instance of an object. ==> RR RRG ==> LineNo : 695
+04-03-2015 18:20:26 ==> New Local Purchase Order ==> There is no row at position 2. ==> Balaji Group BLG ==> LineNo : 1949
+04-03-2015 18:43:47 ==> New Local Purchase Order ==> There is no row at position 2. ==> Balaji Group BLG ==> LineNo : 1949
+04-03-2015 18:44:16 ==> New Local Purchase Order ==> There is no row at position 2. ==> Balaji Group BLG ==> LineNo : 2045
+04-03-2015 18:50:35 ==> New Local Purchase Order ==> There is no row at position 1. ==> Balaji Group BLG ==> LineNo : 2045
+04-03-2015 18:51:59 ==> New Local Purchase Order Verbal ==> Object reference not set to an instance of an object. ==> Apollo Admin ==> LineNo : 695
+04-03-2015 19:05:16 ==> New Local Purchase Order Verbal ==> Object reference not set to an instance of an object. ==> Apollo Admin ==> LineNo : 695
+25-03-2015 16:18:00 ==> Local Purchase Order Status ==> Input string was not in a correct format. ==> Apollo Admin ==> LineNo : 1028
+25-03-2015 16:18:22 ==> Local Purchase Order Status ==> Input string was not in a correct format. ==> Apollo Admin ==> LineNo : 1028
+25-03-2015 16:19:00 ==> Local Purchase Order Status ==> Input string was not in a correct format. ==> Apollo Admin ==> LineNo : 1028
+25-03-2015 16:19:16 ==> Local Purchase Order Status ==> Input string was not in a correct format. ==> Apollo Admin ==> LineNo : 1028
+25-03-2015 16:20:08 ==> Local Purchase Order Status ==> Input string was not in a correct format. ==> Apollo Admin ==> LineNo : 1028
+01-04-2015 11:56:39 ==> Local Purchase Order Status ==> Column 'IsVerbal' does not belong to table Table1. ==> Apollo Admin ==> LineNo : 1035
+02-04-2015 12:34:00 ==> New Local Purchase Order ==> Cannot find table 3. ==> Apollo Admin ==> LineNo : 1134
+02-04-2015 14:31:51 ==> New Local Purchase Order ==> Cannot find table 3. ==> Apollo Admin ==> LineNo : 1134
+05-05-2015 13:33:33 ==> Inspection Report Status ==> Input string was not in a correct format. ==> GLOCEM PVT LTD GCM ==> LineNo : 78
+18-05-2015 13:05:00 ==> New FPO ==> Error while Inserting. ==> GLOCEM PVT LTD GCM
+18-05-2015 15:25:26 ==> Inspection Report Status ==> Input string was not in a correct format. ==> Apollo Admin ==> LineNo : 78
+19-05-2015 14:04:03 ==> Local Purchase Order Status ==> Thread was being aborted. ==> Diamond Cements Pvt Ltd ==> LineNo : 64
+21-05-2015 19:04:18 ==> New Local Purchase Order ==> There is no row at position 998. ==> GLOCEM PVT LTD GCM ==> LineNo : 1819
+21-05-2015 19:04:18 ==> New Local Purchase Order ==> There is no row at position 999. ==> GLOCEM PVT LTD GCM ==> LineNo : 1819
+21-05-2015 19:05:56 ==> New Local Purchase Order ==> There is no row at position 998. ==> GLOCEM PVT LTD GCM ==> LineNo : 1819
+21-05-2015 19:05:56 ==> New Local Purchase Order ==> There is no row at position 999. ==> GLOCEM PVT LTD GCM ==> LineNo : 1819
+22-05-2015 13:01:14 ==> New Local Purchase Order ==> There is no row at position 998. ==> GLOCEM PVT LTD GCM ==> LineNo : 1819
+22-05-2015 13:01:14 ==> New Local Purchase Order ==> There is no row at position 999. ==> GLOCEM PVT LTD GCM ==> LineNo : 1819
+25-05-2015 11:28:57 ==> Foreign Quotation Comparison ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx). ==> Diamond Cements Pvt Ltd ==> LineNo : 98
+27-05-2015 10:55:20 ==> New Local Purchase Order Verbal ==> Object reference not set to an instance of an object. ==> GLOCEM PVT LTD GCM ==> LineNo : 711
+27-05-2015 11:14:12 ==> New Local Purchase Order Verbal ==> Object reference not set to an instance of an object. ==> GLOCEM PVT LTD GCM ==> LineNo : 711
+27-05-2015 11:14:54 ==> New Local Purchase Order Verbal ==> Object reference not set to an instance of an object. ==> GLOCEM PVT LTD GCM ==> LineNo : 711
+27-05-2015 11:20:33 ==> New Local Purchase Order Verbal ==> Object reference not set to an instance of an object. ==> GLOCEM PVT LTD GCM ==> LineNo : 711
+27-05-2015 11:20:37 ==> New Local Purchase Order Verbal ==> Object reference not set to an instance of an object. ==> GLOCEM PVT LTD GCM ==> LineNo : 711
+27-05-2015 11:20:52 ==> New Local Purchase Order Verbal ==> Object reference not set to an instance of an object. ==> GLOCEM PVT LTD GCM ==> LineNo : 711
+27-05-2015 11:24:13 ==> New Local Purchase Order Verbal ==> Object reference not set to an instance of an object. ==> GLOCEM PVT LTD GCM ==> LineNo : 711
+29-05-2015 17:46:19 ==> New Local Purchase Order ==> There is no row at position 0. ==> ZenQ ZenQ ==> LineNo : 1134
+02-06-2015 17:38:35 ==> New Local Purchase Order ==> There is no row at position 10. ==> ZenQ ZenQ ==> LineNo : 1819
+02-06-2015 17:38:35 ==> New Local Purchase Order ==> There is no row at position 11. ==> ZenQ ZenQ ==> LineNo : 1819
+02-06-2015 17:38:35 ==> New Local Purchase Order ==> There is no row at position 12. ==> ZenQ ZenQ ==> LineNo : 1819
+02-06-2015 17:38:35 ==> New Local Purchase Order ==> There is no row at position 13. ==> ZenQ ZenQ ==> LineNo : 1819
+02-06-2015 17:38:35 ==> New Local Purchase Order ==> There is no row at position 14. ==> ZenQ ZenQ ==> LineNo : 1819
+02-06-2015 17:38:35 ==> New Local Purchase Order ==> There is no row at position 15. ==> ZenQ ZenQ ==> LineNo : 1819
+02-06-2015 17:38:35 ==> New Local Purchase Order ==> There is no row at position 16. ==> ZenQ ZenQ ==> LineNo : 1819
+02-06-2015 17:38:35 ==> New Local Purchase Order ==> There is no row at position 17. ==> ZenQ ZenQ ==> LineNo : 1819
+02-06-2015 17:38:35 ==> New Local Purchase Order ==> There is no row at position 18. ==> ZenQ ZenQ ==> LineNo : 1819
+02-06-2015 17:38:35 ==> New Local Purchase Order ==> There is no row at position 19. ==> ZenQ ZenQ ==> LineNo : 1819
+02-06-2015 17:39:07 ==> New Local Purchase Order ==> There is no row at position 10. ==> ZenQ ZenQ ==> LineNo : 1819
+02-06-2015 17:39:07 ==> New Local Purchase Order ==> There is no row at position 11. ==> ZenQ ZenQ ==> LineNo : 1819
+02-06-2015 17:39:07 ==> New Local Purchase Order ==> There is no row at position 12. ==> ZenQ ZenQ ==> LineNo : 1819
+02-06-2015 17:39:07 ==> New Local Purchase Order ==> There is no row at position 13. ==> ZenQ ZenQ ==> LineNo : 1819
+02-06-2015 17:39:07 ==> New Local Purchase Order ==> There is no row at position 14. ==> ZenQ ZenQ ==> LineNo : 1819
+02-06-2015 17:39:07 ==> New Local Purchase Order ==> There is no row at position 15. ==> ZenQ ZenQ ==> LineNo : 1819
+02-06-2015 17:39:07 ==> New Local Purchase Order ==> There is no row at position 16. ==> ZenQ ZenQ ==> LineNo : 1819
+02-06-2015 17:39:07 ==> New Local Purchase Order ==> There is no row at position 17. ==> ZenQ ZenQ ==> LineNo : 1819
+02-06-2015 17:39:07 ==> New Local Purchase Order ==> There is no row at position 18. ==> ZenQ ZenQ ==> LineNo : 1819
+02-06-2015 17:39:07 ==> New Local Purchase Order ==> There is no row at position 19. ==> ZenQ ZenQ ==> LineNo : 1819
+02-06-2015 17:39:12 ==> New Local Purchase Order ==> There is no row at position 10. ==> ZenQ ZenQ ==> LineNo : 1972
+02-06-2015 17:39:21 ==> New Local Purchase Order ==> There is no row at position 10. ==> ZenQ ZenQ ==> LineNo : 1819
+02-06-2015 17:39:21 ==> New Local Purchase Order ==> There is no row at position 11. ==> ZenQ ZenQ ==> LineNo : 1819
+02-06-2015 17:39:21 ==> New Local Purchase Order ==> There is no row at position 12. ==> ZenQ ZenQ ==> LineNo : 1819
+02-06-2015 17:39:21 ==> New Local Purchase Order ==> There is no row at position 13. ==> ZenQ ZenQ ==> LineNo : 1819
+02-06-2015 17:39:21 ==> New Local Purchase Order ==> There is no row at position 14. ==> ZenQ ZenQ ==> LineNo : 1819
+02-06-2015 17:39:21 ==> New Local Purchase Order ==> There is no row at position 15. ==> ZenQ ZenQ ==> LineNo : 1819
+02-06-2015 17:39:21 ==> New Local Purchase Order ==> There is no row at position 16. ==> ZenQ ZenQ ==> LineNo : 1819
+02-06-2015 17:39:21 ==> New Local Purchase Order ==> There is no row at position 17. ==> ZenQ ZenQ ==> LineNo : 1819
+02-06-2015 17:39:21 ==> New Local Purchase Order ==> There is no row at position 18. ==> ZenQ ZenQ ==> LineNo : 1819
+02-06-2015 17:39:21 ==> New Local Purchase Order ==> There is no row at position 19. ==> ZenQ ZenQ ==> LineNo : 1819
+02-06-2015 17:39:23 ==> New Local Purchase Order ==> There is no row at position 10. ==> ZenQ ZenQ ==> LineNo : 1972
+10-06-2015 17:09:02 ==> Foreign Quotation Comparison ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx). ==> Apollo Customer User Two ==> LineNo : 98
+10-06-2015 17:13:39 ==> Foregn Quotation Conformation Basket ==> Thread was being aborted. ==> Apollo Admin ==> LineNo : 309
+12-06-2015 12:27:45 ==> New Foreign Purchase Order ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx). ==> GLOCEM PVT LTD GCM ==> LineNo : 1441
+12-06-2015 12:28:01 ==> Foregn Quotation Conformation Basket ==> Thread was being aborted. ==> GLOCEM PVT LTD GCM ==> LineNo : 309
+12-06-2015 12:28:29 ==> Foregn Quotation Conformation Basket ==> Thread was being aborted. ==> GLOCEM PVT LTD GCM ==> LineNo : 309
+12-06-2015 12:28:42 ==> New Foreign Purchase Order ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx). ==> GLOCEM PVT LTD GCM ==> LineNo : 1441
+12-06-2015 12:37:07 ==> New Foreign Purchase Order ==> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx). ==> GLOCEM PVT LTD GCM ==> LineNo : 1441
+12-06-2015 14:50:50 ==> Local Purchase Order Details ==> Thread was being aborted. ==> GLOCEM PVT LTD GCM ==> LineNo : 282
+12-06-2015 14:50:50 ==> Local Purchase Order Details ==> Thread was being aborted. ==> GLOCEM PVT LTD GCM
+17-06-2015 12:05:33 ==> New Local Purchase Order ==> Object reference not set to an instance of an object. ==> GLOCEM PVT LTD GCM ==> LineNo : 1812
+17-06-2015 12:05:34 ==> New Local Purchase Order ==> Object reference not set to an instance of an object. ==> GLOCEM PVT LTD GCM ==> LineNo : 1812
+17-06-2015 12:06:14 ==> New Local Purchase Order ==> Object reference not set to an instance of an object. ==> GLOCEM PVT LTD GCM ==> LineNo : 1812
+17-06-2015 12:06:14 ==> New Local Purchase Order ==> Object reference not set to an instance of an object. ==> GLOCEM PVT LTD GCM ==> LineNo : 1812
+17-06-2015 12:34:07 ==> New Local Purchase Order ==> Object reference not set to an instance of an object. ==> GLOCEM PVT LTD GCM ==> LineNo : 1813
+17-06-2015 12:46:16 ==> New Local Purchase Order ==> Object reference not set to an instance of an object. ==> GLOCEM PVT LTD GCM ==> LineNo : 1813
+17-06-2015 12:47:43 ==> New Local Purchase Order ==> Object reference not set to an instance of an object. ==> GLOCEM PVT LTD GCM ==> LineNo : 1813
+17-06-2015 12:47:43 ==> New Local Purchase Order ==> Object reference not set to an instance of an object. ==> GLOCEM PVT LTD GCM ==> LineNo : 1813
+17-06-2015 12:48:16 ==> New Local Purchase Order ==> Object reference not set to an instance of an object. ==> GLOCEM PVT LTD GCM ==> LineNo : 1813
+17-06-2015 12:48:17 ==> New Local Purchase Order ==> Object reference not set to an instance of an object. ==> GLOCEM PVT LTD GCM ==> LineNo : 1813
+02-07-2015 15:26:36 ==> Local Purchase Order Details ==> Cannot find table 0. ==> System Admin ==> LineNo : 154
+02-07-2015 18:21:04 ==> Inspection Plan Request ==> Thread was being aborted. ==> System Admin
+02-07-2015 18:43:41 ==> Inspection Plan ==> Data inserted successfully. ==> System Admin
+02-07-2015 18:43:41 ==> Inspection Plan ==> Thread was being aborted. ==> System Admin ==> LineNo : 410
+30-07-2015 14:41:16 ==> Inspection Report Status ==> Input string was not in a correct format. ==> Volta Impex Pvt.Ltd. VIPL ==> LineNo : 78
+30-07-2015 14:41:19 ==> Inspection Report Status ==> Input string was not in a correct format. ==> Volta Impex Pvt.Ltd. VIPL ==> LineNo : 78
+11-08-2015 14:58:17 ==> New Local Purchase Order ==> There is no row at position 0. ==> Volta Impex Pvt.Ltd. VIPL ==> LineNo : 1138
+11-08-2015 14:58:22 ==> New Local Purchase Order ==> There is no row at position -1. ==> Volta Impex Pvt.Ltd. VIPL ==> LineNo : 1826
+11-08-2015 14:58:47 ==> New Local Purchase Order ==> There is no row at position 0. ==> Volta Impex Pvt.Ltd. VIPL ==> LineNo : 1138
+11-08-2015 14:58:49 ==> New Local Purchase Order ==> There is no row at position -1. ==> Volta Impex Pvt.Ltd. VIPL ==> LineNo : 1826
+11-08-2015 15:01:12 ==> New Local Purchase Order ==> There is no row at position 0. ==> Volta Impex Pvt.Ltd. VIPL ==> LineNo : 1138
+11-08-2015 15:01:19 ==> New Local Purchase Order ==> There is no row at position -1. ==> Volta Impex Pvt.Ltd. VIPL ==> LineNo : 1826
+11-08-2015 15:02:02 ==> New Local Purchase Order ==> There is no row at position -1. ==> Volta Impex Pvt.Ltd. VIPL ==> LineNo : 1826
+11-08-2015 15:05:41 ==> New Local Purchase Order ==> There is no row at position 0. ==> Volta Impex Pvt.Ltd. VIPL ==> LineNo : 1138
+11/14/2018 12:08:01 PM ==> New Local Purchase Order ==> Input string was not in a correct format. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 1661
+11/14/2018 12:58:54 PM ==> New Local Purchase Order ==> Input string was not in a correct format. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 1661
+11/14/2018 1:02:16 PM ==> New Local Purchase Order ==> Input string was not in a correct format. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 1661
+11/14/2018 1:11:27 PM ==> New Local Purchase Order ==> Input string was not in a correct format. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 1661
+11/20/2018 1:20:43 PM ==> New Local Purchase Order ==> Input string was not in a correct format. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 1661
+11/20/2018 2:12:53 PM ==> New Local Purchase Order ==> Input string was not in a correct format. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 1661
+11/20/2018 2:21:50 PM ==> New Local Purchase Order ==> Input string was not in a correct format. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 1661
+11/20/2018 2:28:20 PM ==> New Local Purchase Order ==> Input string was not in a correct format. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 1661
+11/20/2018 2:29:38 PM ==> New Local Purchase Order ==> Input string was not in a correct format. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 1661
+11/20/2018 2:46:56 PM ==> New Local Purchase Order ==> Input string was not in a correct format. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 1661
+11/20/2018 2:58:05 PM ==> New Local Purchase Order ==> Input string was not in a correct format. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 1661
+11/20/2018 3:18:54 PM ==> New Local Purchase Order ==> Input string was not in a correct format. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 1661
+11/20/2018 3:24:12 PM ==> New Local Purchase Order ==> Input string was not in a correct format. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 1661
+11/20/2018 3:27:55 PM ==> New Local Purchase Order ==> Input string was not in a correct format. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 1661
+11/20/2018 3:30:51 PM ==> New Local Purchase Order ==> Input string was not in a correct format. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 1661
+11/20/2018 3:33:20 PM ==> New Local Purchase Order ==> Input string was not in a correct format. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 1661
+11/20/2018 3:37:24 PM ==> New Local Purchase Order ==> Input string was not in a correct format. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 1661
+11/20/2018 3:38:17 PM ==> New Local Purchase Order ==> Input string was not in a correct format. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 1661
+11/20/2018 3:38:34 PM ==> New Local Purchase Order ==> Input string was not in a correct format. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 1661
+11/20/2018 3:41:21 PM ==> New Local Purchase Order ==> Input string was not in a correct format. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 1661
+11/20/2018 3:46:43 PM ==> New Local Purchase Order ==> Input string was not in a correct format. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 1661
+11/20/2018 4:41:31 PM ==> New Local Purchase Order ==> Input string was not in a correct format. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 1661
+11/20/2018 4:44:46 PM ==> New Local Purchase Order ==> Input string was not in a correct format. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 1661
+11/20/2018 4:46:39 PM ==> New Local Purchase Order ==> Input string was not in a correct format. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 1661
+11/20/2018 4:55:48 PM ==> New Local Purchase Order ==> Input string was not in a correct format. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 1661
+11/21/2018 3:19:58 PM ==> New Local Purchase Order ==> Input string was not in a correct format. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 1661
+5/15/2019 2:28:33 PM ==> Foreign Quotation Comparison ==> The IListSource does not contain any data sources. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 163
+5/15/2019 2:28:45 PM ==> Foreign Quotation Comparison ==> The IListSource does not contain any data sources. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 163
+5/16/2019 11:29:37 AM ==> New Foreign Purchase Order ==> There is no row at position 0. ==> Manjuna Devi ==> LineNo : 403
+5/16/2019 11:29:41 AM ==> New Foreign Purchase Order ==> There is no row at position 0. ==> Manjuna Devi ==> LineNo : 403
+5/16/2019 11:29:42 AM ==> New Foreign Purchase Order ==> There is no row at position 0. ==> Manjuna Devi ==> LineNo : 403
+5/16/2019 11:29:43 AM ==> New Foreign Purchase Order ==> There is no row at position 0. ==> Manjuna Devi ==> LineNo : 403
+5/16/2019 11:29:45 AM ==> New Foreign Purchase Order ==> There is no row at position 0. ==> Manjuna Devi ==> LineNo : 403
+5/16/2019 11:29:49 AM ==> New Foreign Purchase Order ==> There is no row at position 0. ==> Manjuna Devi ==> LineNo : 403
+5/16/2019 11:29:54 AM ==> New Foreign Purchase Order ==> There is no row at position 0. ==> Manjuna Devi ==> LineNo : 403
+5/16/2019 11:29:59 AM ==> New Foreign Purchase Order ==> There is no row at position 0. ==> Manjuna Devi ==> LineNo : 403
+5/16/2019 11:30:11 AM ==> New Foreign Purchase Order ==> There is no row at position 0. ==> Manjuna Devi ==> LineNo : 403
+5/16/2019 11:30:12 AM ==> New Foreign Purchase Order ==> There is no row at position 0. ==> Manjuna Devi ==> LineNo : 403
+5/16/2019 11:30:13 AM ==> New Foreign Purchase Order ==> There is no row at position 0. ==> Manjuna Devi ==> LineNo : 403
+5/16/2019 11:30:14 AM ==> New Foreign Purchase Order ==> There is no row at position 0. ==> Manjuna Devi ==> LineNo : 403
+5/16/2019 11:30:22 AM ==> New Foreign Purchase Order ==> There is no row at position 0. ==> Manjuna Devi ==> LineNo : 403
+5/16/2019 11:30:25 AM ==> New Foreign Purchase Order ==> There is no row at position 0. ==> Manjuna Devi ==> LineNo : 403
+5/16/2019 11:30:29 AM ==> New Foreign Purchase Order ==> There is no row at position 0. ==> Manjuna Devi ==> LineNo : 403
+5/16/2019 11:34:46 AM ==> New Foreign Purchase Order ==> There is no row at position 0. ==> Manjuna Devi ==> LineNo : 403
+5/16/2019 11:34:47 AM ==> New Foreign Purchase Order ==> There is no row at position 0. ==> Manjuna Devi ==> LineNo : 403
+5/16/2019 11:34:48 AM ==> New Foreign Purchase Order ==> There is no row at position 0. ==> Manjuna Devi ==> LineNo : 403
+6/11/2019 3:25:50 PM ==> Local Purchase Order Details ==> Syntax error in aggregate argument: Expecting a single column argument with possible 'Child' qualifier. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 378
+6/11/2019 3:27:06 PM ==> Local Purchase Order Details ==> Syntax error in aggregate argument: Expecting a single column argument with possible 'Child' qualifier. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 378
+6/11/2019 3:30:09 PM ==> Local Purchase Order Details ==> Cannot evaluate. Expression 'System.Data.NameNode' is not an aggregate. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 378
+6/11/2019 3:30:39 PM ==> Local Purchase Order Details ==> Cannot evaluate. Expression 'System.Data.NameNode' is not an aggregate. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 378
+6/11/2019 5:44:05 PM ==> Local Purchase Order Details ==> Specified cast is not valid. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 380
+6/11/2019 5:44:35 PM ==> Local Purchase Order Details ==> Specified cast is not valid. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 380
+6/11/2019 5:46:51 PM ==> Local Purchase Order Details ==> Specified cast is not valid. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 380
+6/11/2019 5:56:33 PM ==> Local Purchase Order Details ==> Specified cast is not valid. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 383
+6/11/2019 5:58:18 PM ==> Local Purchase Order Details ==> Specified cast is not valid. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 383
+6/11/2019 6:00:20 PM ==> Local Purchase Order Details ==> Specified cast is not valid. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 384
+6/11/2019 6:03:15 PM ==> Local Purchase Order Details ==> Specified cast is not valid. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 384
+6/11/2019 6:19:23 PM ==> Local Purchase Order Details ==> Unable to cast object of type 'System.Decimal' to type 'System.String'. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 383
+6/11/2019 6:20:28 PM ==> Local Purchase Order Details ==> Unable to cast object of type 'System.Decimal' to type 'System.String'. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 383
+6/11/2019 6:23:51 PM ==> Local Purchase Order Details ==> Specified cast is not valid. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 383
+6/11/2019 6:26:17 PM ==> Local Purchase Order Details ==> Specified cast is not valid. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 383
+6/11/2019 6:27:17 PM ==> Local Purchase Order Details ==> Unable to cast object of type 'System.Decimal' to type 'System.String'. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 383
+6/11/2019 6:28:45 PM ==> Local Purchase Order Details ==> Specified cast is not valid. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 383
+6/11/2019 6:29:46 PM ==> Local Purchase Order Details ==> Specified cast is not valid. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 383
+6/11/2019 6:30:58 PM ==> Local Purchase Order Details ==> Specified cast is not valid. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 383
+6/11/2019 6:33:19 PM ==> Local Purchase Order Details ==> Specified cast is not valid. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 383
+6/11/2019 6:34:32 PM ==> Local Purchase Order Details ==> Specified cast is not valid. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 383
+6/11/2019 6:35:31 PM ==> Local Purchase Order Details ==> Unable to cast object of type 'System.Decimal' to type 'System.String'. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 383
+6/11/2019 6:36:24 PM ==> Local Purchase Order Details ==> Unable to cast object of type 'System.Decimal' to type 'System.String'. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 383
+6/11/2019 6:41:31 PM ==> Local Purchase Order Details ==> Unable to cast object of type 'System.Decimal' to type 'System.String'. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 383
+6/11/2019 6:47:01 PM ==> Local Purchase Order Details ==> Invalid usage of aggregate function Sum() and Type: String. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 393
+6/11/2019 6:49:34 PM ==> Local Purchase Order Details ==> Specified cast is not valid. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 383
+6/11/2019 6:49:49 PM ==> Local Purchase Order Details ==> Specified cast is not valid. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 383
+6/11/2019 6:54:32 PM ==> Local Purchase Order Details ==> Column 'ExDutyPercentage' does not belong to table Table. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 383
+6/14/2019 11:33:23 AM ==> New Local Purchase Order ==> Input string was not in a correct format. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 1662
+6/14/2019 11:40:30 AM ==> New Local Purchase Order ==> Input string was not in a correct format. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 1662
+6/14/2019 6:58:02 PM ==> New Local Purchase Order ==> Input string was not in a correct format. ==> VOLTA IMPEX PRIVATE LIMITED VIPL ==> LineNo : 1662

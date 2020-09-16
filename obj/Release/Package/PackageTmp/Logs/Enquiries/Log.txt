@@ -1,0 +1,225 @@
+08-27-2014 PM 12:00:06 ==> NewEnquiry ==> Saved successfully. ==> GLOCEM PVT LTD GCM
+08-27-2014 PM 12:00:39 ==> FloatEnquiry ==> Data inserted successfully. ==> GLOCEM PVT LTD GCM
+09-01-2014 PM 05:46:31 ==> Add Items ==> Inserted successfully in Item Master. ==> CUSTOMER USER CTU
+09-01-2014 PM 05:48:09 ==> Add Items ==> Inserted successfully in Item Master. ==> CUSTOMER USER CTU
+09-01-2014 PM 05:52:09 ==> Add Items ==> Inserted successfully in Item Master. ==> Deepika Glocem User
+09-01-2014 PM 06:11:47 ==> Add Items ==> Inserted successfully in Item Master. ==> Deepika Glocem User
+09-01-2014 PM 06:18:18 ==> Add Items ==> Inserted successfully in Item Master. ==> Deepika Glocem User
+09-01-2014 PM 06:22:29 ==> Add Items ==> Inserted successfully in Item Master. ==> Deepika Glocem User
+09-01-2014 PM 06:35:03 ==> Add Items ==> Inserted successfully in Item Master. ==> Deepika Glocem User
+09-01-2014 PM 06:36:31 ==> Add Items ==> Inserted successfully in Item Master. ==> Deepika Glocem User
+09-01-2014 PM 06:37:27 ==> Add Items ==> Inserted successfully in Item Master. ==> Deepika Glocem User
+09-01-2014 PM 07:08:29 ==> Add Items ==> Inserted successfully in Item Master. ==> Deepika Glocem User
+09-19-2014 PM 12:11:44 ==> FloatEnquiry ==> Data inserted successfully. ==> M K GROUP  MKG
+09-19-2014 PM 12:49:11 ==> FloatEnquiry ==> Data inserted successfully. ==> Company One CMP
+07-10-2014 11:31:18 ==> NewEnquiry ==> Saved successfully. ==> First Client SECOND User
+07-10-2014 11:31:33 ==> FloatEnquiry ==> Data inserted successfully. ==> First Client SECOND User
+07-10-2014 11:32:32 ==> NewEnquiry ==> Data Updated successfully. ==> First Client SECOND User
+07-10-2014 11:32:43 ==> FloatEnquiry ==> Data inserted successfully. ==> First Client SECOND User
+08-10-2014 19:06:48 ==> NewEnquiry ==> Saved successfully. ==> First Client SECOND User
+08-10-2014 19:08:48 ==> NewEnquiry ==> Saved successfully. ==> First Client SECOND User
+09-10-2014 10:43:54 ==> NewEnquiry ==> Saved successfully. ==> First Client SECOND User
+09-10-2014 10:44:24 ==> FloatEnquiry ==> Data inserted successfully. ==> First Client SECOND User
+09-10-2014 15:46:40 ==> NewEnquiry ==> Data Updated successfully. ==> First Client SECOND User
+09-10-2014 15:56:55 ==> NewEnquiry ==> Saved successfully. ==> First Client SECOND User
+09-10-2014 15:59:05 ==> NewEnquiry ==> Data Updated successfully. ==> First Client SECOND User
+09-10-2014 16:03:57 ==> NewEnquiry ==> Data Updated successfully. ==> First Client SECOND User
+09-10-2014 16:44:14 ==> NewEnquiry ==> Data Updated successfully. ==> First Client SECOND User
+09-10-2014 16:53:45 ==> NewEnquiry ==> Saved successfully. ==> First Client SECOND User
+09-10-2014 16:54:45 ==> NewEnquiry ==> Data Updated successfully. ==> First Client SECOND User
+09-10-2014 16:55:07 ==> NewEnquiry ==> Data Updated successfully. ==> First Client SECOND User
+09-10-2014 16:55:22 ==> NewEnquiry ==> Data Updated successfully. ==> First Client SECOND User
+09-10-2014 16:55:41 ==> NewEnquiry ==> Data Updated successfully. ==> First Client SECOND User
+10-10-2014 11:55:16 ==> NewEnquiry ==> Saved successfully. ==> First Client SECOND User
+10-10-2014 14:31:59 ==> NewEnquiry ==> Data Updated successfully. ==> First Client SECOND User
+10-10-2014 14:57:03 ==> NewEnquiry ==> Data Updated successfully. ==> First Client SECOND User
+10-10-2014 15:10:21 ==> NewEnquiry ==> Saved successfully. ==> First Client SECOND User
+10-10-2014 15:46:39 ==> NewEnquiry ==> Saved successfully. ==> First Client SECOND User
+10-10-2014 15:57:10 ==> NewEnquiry ==> Saved successfully. ==> First Client SECOND User
+10-10-2014 16:56:19 ==> NewEnquiry ==> Data Updated successfully. ==> First Client SECOND User
+10-10-2014 17:13:22 ==> NewEnquiry ==> Data Updated successfully. ==> First Client SECOND User
+16-10-2014 14:39:45 ==> NewEnquiry ==> Saved successfully. ==> Testing Company Test
+16-10-2014 14:40:05 ==> FloatEnquiry ==> Data inserted successfully. ==> Testing Company Test
+16-10-2014 15:40:00 ==> NewEnquiry ==> Saved successfully. ==> Testing Company Test
+16-10-2014 15:40:08 ==> FloatEnquiry ==> Data inserted successfully. ==> Testing Company Test
+16-10-2014 17:48:38 ==> NewEnquiry ==> Saved successfully. ==> Test Customer
+16-10-2014 17:49:07 ==> FloatEnquiry ==> Data inserted successfully. ==> Testing Company Test
+20-10-2014 15:34:45 ==> NewEnquiry ==> Saved successfully. ==> First Client SECOND User
+20-10-2014 15:35:02 ==> FloatEnquiry ==> Data inserted successfully. ==> First Client SECOND User
+20-10-2014 15:59:59 ==> NewEnquiry ==> Saved successfully. ==> First Client SECOND User
+20-10-2014 16:00:10 ==> FloatEnquiry ==> Data inserted successfully. ==> First Client SECOND User
+20-10-2014 17:05:13 ==> NewEnquiry ==> Saved successfully. ==> First Client SECOND User
+20-10-2014 17:05:22 ==> FloatEnquiry ==> Data inserted successfully. ==> First Client SECOND User
+22-10-2014 11:11:12 ==> NewEnquiry ==> Saved successfully. ==> First Client SECOND User
+22-10-2014 11:11:24 ==> FloatEnquiry ==> Data inserted successfully. ==> First Client SECOND User
+22-10-2014 15:30:28 ==> NewEnquiry ==> Saved successfully. ==> First Client SECOND User
+22-10-2014 15:30:39 ==> FloatEnquiry ==> Data inserted successfully. ==> First Client SECOND User
+27-10-2014 14:48:14 ==> NewEnquiry ==> Saved successfully. ==> First Client SECOND User
+27-10-2014 14:48:41 ==> FloatEnquiry ==> Data inserted successfully. ==> First Client SECOND User
+31-10-2014 11:18:19 ==> NewEnquiry ==> Saved successfully. ==> First Client SECOND User
+31-10-2014 11:18:29 ==> FloatEnquiry ==> Data inserted successfully. ==> First Client SECOND User
+03-11-2014 17:08:01 ==> NewEnquiry ==> Saved successfully. ==> First Client SECOND User
+03-11-2014 17:08:22 ==> FloatEnquiry ==> Data inserted successfully. ==> First Client SECOND User
+03-11-2014 17:16:14 ==> NewEnquiry ==> Saved successfully. ==> First Client SECOND User
+03-11-2014 17:29:58 ==> NewEnquiry ==> Saved successfully. ==> First Client SECOND User
+03-11-2014 17:30:10 ==> FloatEnquiry ==> Data inserted successfully. ==> First Client SECOND User
+04-11-2014 17:33:30 ==> NewEnquiry ==> Saved successfully. ==> First Client SECOND User
+04-11-2014 17:33:55 ==> FloatEnquiry ==> Data inserted successfully. ==> First Client SECOND User
+05-11-2014 16:46:01 ==> NewEnquiry ==> Saved successfully. ==> First Client SECOND User
+05-11-2014 16:46:11 ==> FloatEnquiry ==> Data inserted successfully. ==> First Client SECOND User
+07-11-2014 12:16:36 ==> NewEnquiry ==> Saved successfully. ==> Apollo Admin
+07-11-2014 12:16:46 ==> FloatEnquiry ==> Data inserted successfully. ==> Apollo Admin
+11-11-2014 11:44:36 ==> NewEnquiry ==> Saved successfully. ==> Apollo Admin
+11-11-2014 11:44:45 ==> FloatEnquiry ==> Data inserted successfully. ==> Apollo Admin
+11-11-2014 11:52:19 ==> NewEnquiry ==> Saved successfully. ==> First Client SECOND User
+11-11-2014 11:52:29 ==> FloatEnquiry ==> Data inserted successfully. ==> First Client SECOND User
+11-11-2014 12:52:13 ==> NewEnquiry ==> Saved successfully. ==> First Client SECOND User
+11-11-2014 12:52:28 ==> FloatEnquiry ==> Data inserted successfully. ==> First Client SECOND User
+11-11-2014 15:42:23 ==> NewEnquiry ==> Saved successfully. ==> First Client SECOND User
+11-11-2014 15:42:51 ==> FloatEnquiry ==> Data inserted successfully. ==> First Client SECOND User
+12-11-2014 11:49:33 ==> NewEnquiry ==> Saved successfully. ==> Balaji Customer User One
+12-11-2014 15:53:34 ==> NewEnquiry ==> Saved successfully. ==> First Client SECOND User
+12-11-2014 15:53:45 ==> FloatEnquiry ==> Data inserted successfully. ==> First Client SECOND User
+12-11-2014 16:18:25 ==> NewEnquiry ==> Saved successfully. ==> First Client SECOND User
+12-11-2014 16:18:35 ==> FloatEnquiry ==> Data inserted successfully. ==> First Client SECOND User
+12-11-2014 16:44:00 ==> NewEnquiry ==> Saved successfully. ==> First Client SECOND User
+12-11-2014 16:44:10 ==> FloatEnquiry ==> Data inserted successfully. ==> First Client SECOND User
+13-11-2014 12:10:26 ==> NewEnquiry ==> Saved successfully. ==> Balaji Customer User One
+13-11-2014 14:30:53 ==> NewEnquiry ==> Saved successfully. ==> Apollo Admin
+13-11-2014 14:31:03 ==> FloatEnquiry ==> Data inserted successfully. ==> Apollo Admin
+14-11-2014 11:28:12 ==> NewEnquiry ==> Saved successfully. ==> First Client SECOND User
+14-11-2014 11:28:23 ==> FloatEnquiry ==> Data inserted successfully. ==> First Client SECOND User
+14-11-2014 12:25:58 ==> NewEnquiry ==> Saved successfully. ==> First Client SECOND User
+14-11-2014 12:26:09 ==> FloatEnquiry ==> Data inserted successfully. ==> First Client SECOND User
+18-11-2014 11:52:06 ==> NewEnquiry ==> Saved successfully. ==> Balaji Group BLG
+18-11-2014 11:52:40 ==> FloatEnquiry ==> Data inserted successfully. ==> Balaji Group BLG
+18-11-2014 12:33:58 ==> NewEnquiry ==> Saved successfully. ==> Balaji Customer User Two
+18-11-2014 14:43:00 ==> NewEnquiry ==> Saved successfully. ==> Apollo Admin
+18-11-2014 14:55:41 ==> NewEnquiry ==> Saved successfully. ==> Apollo Admin
+18-11-2014 14:59:10 ==> NewEnquiry ==> Saved successfully. ==> Apollo Admin
+18-11-2014 16:12:40 ==> NewEnquiry ==> Saved successfully. ==> Apollo Admin
+20-11-2014 13:06:03 ==> Floated Foreign Enquiry Vendor ==> Data inserted successfully. ==> purchase userone
+20-11-2014 14:23:40 ==> Floated Foreign Enquiry Vendor ==> Data inserted successfully. ==> purchase userone
+24-11-2014 11:16:26 ==> NewEnquiry ==> Saved successfully. ==> IBMCO IBMCO
+25-11-2014 10:18:57 ==> NewEnquiry ==> Saved successfully. ==> Balaji Customer User One
+26-11-2014 17:43:07 ==> Add Items ==> Inserted successfully in Item Master. ==> First Client SECOND User
+26-11-2014 17:48:38 ==> Add Items ==> Inserted successfully in Item Master. ==> First Client SECOND User
+27-11-2014 15:28:25 ==> NewEnquiry ==> Saved successfully. ==> First Client SECOND User
+27-11-2014 17:05:31 ==> NewEnquiry ==> Saved successfully. ==> First Client SECOND User
+27-11-2014 17:12:44 ==> NewEnquiry ==> Saved successfully. ==> First Client SECOND User
+27-11-2014 17:13:44 ==> FloatEnquiry ==> Data inserted successfully. ==> First Client SECOND User
+28-11-2014 10:46:00 ==> NewEnquiry ==> Saved successfully. ==> First Client SECOND User
+28-11-2014 10:46:27 ==> FloatEnquiry ==> Data inserted successfully. ==> First Client SECOND User
+28-11-2014 18:22:00 ==> NewEnquiry ==> Saved successfully. ==> First Client SECOND User
+28-11-2014 18:22:15 ==> FloatEnquiry ==> Data inserted successfully. ==> First Client SECOND User
+09-12-2014 13:06:04 ==> NewEnquiry ==> Saved successfully. ==> First Client SECOND User
+09-12-2014 13:06:16 ==> FloatEnquiry ==> Data inserted successfully. ==> First Client SECOND User
+09-12-2014 14:23:22 ==> NewEnquiry ==> Saved successfully. ==> Apollo Admin
+09-12-2014 14:23:41 ==> FloatEnquiry ==> Data inserted successfully. ==> Apollo Admin
+09-12-2014 15:23:36 ==> NewEnquiry ==> Saved successfully. ==> Apollo Admin
+09-12-2014 15:23:49 ==> FloatEnquiry ==> Data inserted successfully. ==> Apollo Admin
+09-12-2014 17:37:40 ==> NewEnquiry ==> Saved successfully. ==> Apollo Admin
+09-12-2014 17:37:54 ==> FloatEnquiry ==> Data inserted successfully. ==> Apollo Admin
+10-12-2014 12:12:27 ==> NewEnquiry ==> Saved successfully. ==> Apollo Admin
+10-12-2014 12:12:41 ==> FloatEnquiry ==> Data inserted successfully. ==> Apollo Admin
+10-12-2014 18:12:13 ==> NewEnquiry ==> Saved successfully. ==> First Client SECOND User
+10-12-2014 18:12:28 ==> FloatEnquiry ==> Data inserted successfully. ==> First Client SECOND User
+12-12-2014 16:21:07 ==> NewEnquiry ==> Saved successfully. ==> Apollo Customer User
+12-12-2014 16:21:29 ==> Floated Foreign Enquiry Vendor ==> Data inserted successfully. ==> Apollo Customer User
+15-12-2014 11:30:42 ==> NewEnquiry ==> Saved successfully. ==> RR RRG
+15-12-2014 11:31:00 ==> FloatEnquiry ==> Data inserted successfully. ==> RR RRG
+15-12-2014 11:36:50 ==> FloatEnquiry ==> Data inserted successfully. ==> RR RRG
+15-12-2014 11:43:14 ==> FloatEnquiry ==> Data inserted successfully. ==> RR RRG
+18-12-2014 11:03:56 ==> NewEnquiry ==> Saved successfully. ==> Apollo Customer User
+18-12-2014 11:05:41 ==> Floated Foreign Enquiry Vendor ==> Data inserted successfully. ==> Apollo Customer User
+18-12-2014 12:47:32 ==> NewEnquiry ==> Saved successfully. ==> RR RRG
+07-01-2015 16:41:30 ==> Floated Foreign Enquiry Vendor ==> Data Updated successfully. ==> Customer User RRG
+08-01-2015 11:54:31 ==> Floated Foreign Enquiry Vendor ==> Data Updated successfully. ==> Customer User RRG
+08-01-2015 11:57:17 ==> Floated Foreign Enquiry Vendor ==> Data Updated successfully. ==> Customer User RRG
+08-01-2015 12:09:09 ==> Floated Foreign Enquiry Vendor ==> Data Updated successfully. ==> Customer User RRG
+08-01-2015 12:10:46 ==> Floated Foreign Enquiry Vendor ==> Data Updated successfully. ==> Customer User RRG
+08-01-2015 12:11:03 ==> Floated Foreign Enquiry Vendor ==> Data Updated successfully. ==> Customer User RRG
+09-01-2015 11:14:26 ==> NewEnquiry ==> Saved successfully. ==> Customer User RRG
+22-01-2015 12:31:52 ==> NewEnquiry ==> Saved successfully. ==> RR RRG
+02-02-2015 13:55:49 ==> Add Items ==> Inserted successfully in Item Master. ==> Apollo Admin
+02-02-2015 13:55:57 ==> NewEnquiry ==> Saved successfully. ==> Apollo Admin
+02-02-2015 13:56:25 ==> FloatEnquiry ==> Data inserted successfully. ==> Apollo Admin
+02-02-2015 18:17:57 ==> NewEnquiry ==> Saved successfully. ==> Apollo Admin
+03-02-2015 13:22:36 ==> NewEnquiry ==> Saved successfully. ==> RR RRG
+03-02-2015 13:23:03 ==> NewEnquiry ==> Saved successfully. ==> RR RRG
+03-02-2015 13:30:34 ==> NewEnquiry ==> Saved successfully. ==> RR RRG
+03-02-2015 13:33:55 ==> NewEnquiry ==> Saved successfully. ==> RR RRG
+03-02-2015 13:34:16 ==> NewEnquiry ==> Saved successfully. ==> RR RRG
+03-02-2015 15:04:50 ==> NewEnquiry ==> Saved successfully. ==> Apollo Customer User
+03-02-2015 15:12:24 ==> NewEnquiry ==> Saved successfully. ==> Apollo Customer User
+03-02-2015 15:18:58 ==> NewEnquiry ==> Saved successfully. ==> Apollo Customer User
+04-02-2015 15:38:49 ==> NewEnquiry ==> Saved successfully. ==> Apollo Admin
+05-02-2015 11:26:44 ==> NewEnquiry ==> Saved successfully. ==> Apollo Admin
+05-02-2015 12:06:39 ==> NewEnquiry ==> Saved successfully. ==> Apollo Admin
+06-02-2015 15:32:56 ==> NewEnquiry ==> Saved successfully. ==> Apollo Admin
+06-02-2015 15:55:19 ==> NewEnquiry ==> Saved successfully. ==> Apollo Admin
+10-03-2015 15:22:19 ==> NewEnquiry ==> Saved successfully. ==> Apollo Admin
+10-03-2015 15:24:32 ==> NewEnquiry ==> Saved successfully. ==> Apollo Admin
+10-03-2015 15:31:01 ==> NewEnquiry ==> Saved successfully. ==> Apollo Admin
+10-03-2015 15:39:23 ==> NewEnquiry ==> Saved successfully. ==> Apollo Admin
+10-03-2015 16:06:03 ==> NewEnquiry ==> Saved successfully. ==> Apollo Admin
+10-03-2015 16:08:02 ==> NewEnquiry ==> Saved successfully. ==> Apollo Admin
+10-03-2015 16:16:55 ==> NewEnquiry ==> Data Updated successfully. ==> Apollo Admin
+10-03-2015 16:19:36 ==> NewEnquiry ==> Data Updated successfully. ==> Apollo Admin
+11-03-2015 12:53:09 ==> NewEnquiry ==> Saved successfully. ==> Apollo Admin
+01-04-2015 11:41:23 ==> NewEnquiry ==> Saved successfully. ==> Apollo Admin
+01-04-2015 11:41:48 ==> FloatEnquiry ==> Data inserted successfully. ==> Apollo Admin
+01-04-2015 12:31:00 ==> NewEnquiry ==> Saved successfully. ==> Apollo Admin
+01-04-2015 12:31:46 ==> FloatEnquiry ==> Data inserted successfully. ==> Apollo Admin
+07-05-2015 18:09:52 ==> NewEnquiry ==> Saved successfully. ==> Apollo Admin
+07-05-2015 18:10:17 ==> NewEnquiry ==> Data Updated successfully. ==> Apollo Admin
+11-05-2015 14:43:30 ==> NewEnquiry ==> Saved successfully. ==> Apollo Admin
+11-05-2015 14:44:27 ==> FloatEnquiry ==> Data inserted successfully. ==> Apollo Admin
+11-05-2015 15:02:24 ==> Foreign Enquiy Details ==> rassdk://F:\Voms5.7\VOMS_ERP\RDLC5.6\FEnquiryCrp.rpt ==> Apollo Admin
+11-05-2015 17:19:44 ==> NewEnquiry ==> Saved successfully. ==> Apollo Admin
+11-05-2015 17:20:10 ==> FloatEnquiry ==> Data inserted successfully. ==> Apollo Admin
+15-05-2015 16:17:06 ==> NewEnquiry ==> Saved successfully. ==> GLOCEM PVT LTD GCM
+18-05-2015 15:36:08 ==> NewEnquiry ==> Saved successfully. ==> GLOCEM PVT LTD GCM
+18-05-2015 15:36:26 ==> FloatEnquiry ==> Data inserted successfully. ==> GLOCEM PVT LTD GCM
+18-05-2015 17:44:39 ==> NewEnquiry ==> Saved successfully. ==> GLOCEM PVT LTD GCM
+18-05-2015 17:45:07 ==> NewEnquiry ==> Data Updated successfully. ==> GLOCEM PVT LTD GCM
+18-05-2015 17:45:41 ==> NewEnquiry ==> Saved successfully. ==> GLOCEM PVT LTD GCM
+19-05-2015 16:16:34 ==> Floated Foreign Enquiry Vendor ==> Data inserted successfully. ==> Diamond Cements Pvt Ltd
+19-05-2015 16:19:39 ==> FloatEnquiry ==> Data inserted successfully. ==> GLOCEM PVT LTD GCM
+22-05-2015 19:06:54 ==> FloatEnquiry ==> Data Updated successfully. ==> Apollo Admin
+09-06-2015 17:42:30 ==> NewEnquiry ==> Saved successfully. ==> GLOCEM PVT LTD GCM
+09-06-2015 17:42:40 ==> FloatEnquiry ==> Data inserted successfully. ==> GLOCEM PVT LTD GCM
+10-06-2015 17:05:35 ==> FloatEnquiry ==> Data inserted successfully. ==> Company One CMP
+16-06-2015 11:58:11 ==> NewEnquiry ==> Saved successfully. ==> GLOCEM PVT LTD GCM
+16-06-2015 11:58:19 ==> FloatEnquiry ==> Data inserted successfully. ==> GLOCEM PVT LTD GCM
+17-06-2015 17:09:03 ==> NewEnquiry ==> Saved successfully. ==> GLOCEM PVT LTD GCM
+17-06-2015 17:09:13 ==> FloatEnquiry ==> Data inserted successfully. ==> GLOCEM PVT LTD GCM
+22-06-2015 12:39:21 ==> NewEnquiry ==> Saved successfully. ==> GLOCEM PVT LTD GCM
+22-06-2015 12:39:29 ==> FloatEnquiry ==> Data inserted successfully. ==> GLOCEM PVT LTD GCM
+29-06-2015 14:50:54 ==> NewEnquiry ==> Data Updated successfully. ==> System Admin
+29-06-2015 15:31:21 ==> FloatEnquiry ==> Data inserted successfully. ==> System Admin
+02-07-2015 15:19:40 ==> NewEnquiry ==> Saved successfully. ==> System Admin
+02-07-2015 15:20:05 ==> FloatEnquiry ==> Data inserted successfully. ==> System Admin
+06-07-2015 18:24:58 ==> NewEnquiry ==> Saved successfully. ==> GLOCEM PVT LTD GCM
+06-07-2015 18:25:07 ==> FloatEnquiry ==> Data inserted successfully. ==> GLOCEM PVT LTD GCM
+16-07-2015 12:40:58 ==> NewEnquiry ==> Saved successfully. ==> Larsen and Tubro
+16-07-2015 12:47:58 ==> Floated Foreign Enquiry Vendor ==> Data inserted successfully. ==> Larsen and Tubro
+16-07-2015 17:20:55 ==> NewEnquiry ==> Data Updated successfully. ==> Volta Impex Pvt.Ltd. VIPL
+16-07-2015 17:21:23 ==> NewEnquiry ==> Data Updated successfully. ==> Volta Impex Pvt.Ltd. VIPL
+11-08-2015 12:40:53 ==> NewEnquiry ==> Saved successfully. ==> Glocem Glocem
+11-08-2015 12:41:05 ==> FloatEnquiry ==> Data inserted successfully. ==> Glocem Glocem
+10/16/2018 4:37:27 PM ==> NewEnquiry ==> Saved successfully. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+10/16/2018 4:37:49 PM ==> FloatEnquiry ==> Data inserted successfully. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+10/18/2018 12:17:41 PM ==> NewEnquiry ==> Saved successfully. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+10/18/2018 12:17:55 PM ==> FloatEnquiry ==> Data inserted successfully. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+10/29/2018 12:51:30 PM ==> NewEnquiry ==> Saved successfully. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+10/29/2018 12:51:48 PM ==> FloatEnquiry ==> Data inserted successfully. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+10/31/2018 1:02:42 PM ==> NewEnquiry ==> Saved successfully. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+10/31/2018 1:03:18 PM ==> FloatEnquiry ==> Data inserted successfully. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+11/2/2018 9:51:39 AM ==> NewEnquiry ==> Saved successfully. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+11/2/2018 9:52:01 AM ==> FloatEnquiry ==> Data inserted successfully. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+11/30/2018 3:15:25 PM ==> NewEnquiry ==> Saved successfully. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+12/11/2018 10:15:55 AM ==> NewEnquiry ==> Saved successfully. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+2/19/2019 3:38:29 PM ==> NewEnquiry ==> Saved successfully. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+4/8/2019 2:47:44 PM ==> FloatEnquiry ==> Data inserted successfully. ==> VOLTA IMPEX PRIVATE LIMITED VIPL
+6/3/2019 11:18:40 AM ==> FloatEnquiry ==> Data inserted successfully. ==> VOLTA IMPEX PRIVATE LIMITED VIPL

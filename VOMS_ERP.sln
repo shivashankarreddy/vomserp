@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "VOMS_ERP", ".", "{C265FF34-D619-4706-BAB7-37C2AC6BA544}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFramework = "3.5"
+		ProjectReferences = "{28C0E91B-2D67-48D9-9E18-4BF3B1739470}|BAL.dll;{8697DDA2-84AB-463F-AF54-A88617E7EF1A}|DAL.dll;"
+		Debug.AspNetCompiler.VirtualPath = "/VOMS_ERP"
+		Debug.AspNetCompiler.PhysicalPath = "..\VOMS_ERP\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\VOMS_ERP\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/VOMS_ERP"
+		Release.AspNetCompiler.PhysicalPath = "..\VOMS_ERP\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\VOMS_ERP\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "50470"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BAL", "BAL\BAL.csproj", "{28C0E91B-2D67-48D9-9E18-4BF3B1739470}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{8697DDA2-84AB-463F-AF54-A88617E7EF1A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C265FF34-D619-4706-BAB7-37C2AC6BA544}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C265FF34-D619-4706-BAB7-37C2AC6BA544}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C265FF34-D619-4706-BAB7-37C2AC6BA544}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{C265FF34-D619-4706-BAB7-37C2AC6BA544}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{28C0E91B-2D67-48D9-9E18-4BF3B1739470}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28C0E91B-2D67-48D9-9E18-4BF3B1739470}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28C0E91B-2D67-48D9-9E18-4BF3B1739470}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28C0E91B-2D67-48D9-9E18-4BF3B1739470}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8697DDA2-84AB-463F-AF54-A88617E7EF1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8697DDA2-84AB-463F-AF54-A88617E7EF1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8697DDA2-84AB-463F-AF54-A88617E7EF1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8697DDA2-84AB-463F-AF54-A88617E7EF1A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
