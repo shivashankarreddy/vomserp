@@ -885,7 +885,8 @@ namespace VOMS_ERP.Enquiries
                         {
                             fpono += "<a href='javascript:void(0)' id='OpenDialog' onclick='OpenPopup(5,this)' >" + FPONumber + "</a>" + br;
                             //fpono += FPDS.Tables[0].Rows[i]["ForeignPurchaseOrderNo"].ToString() + br;
-                            fpodate += Convert.ToDateTime(FPDS.Tables[0].Rows[i]["FPODate"]).ToString("dd/MM/yyyy").Replace('-', '/') + br;
+                            //fpodate += Convert.ToDateTime(FPDS.Tables[0].Rows[i]["FPODate"]).ToString("dd/MM/yyyy").Replace('-', '/') + br;
+                            fpodate += Convert.ToDateTime(FPDS.Tables[0].Rows[i]["ReceivedDate"]).ToString("dd/MM/yyyy").Replace('-', '/') + br;
                             fpoduedate += Convert.ToDateTime(FPDS.Tables[0].Rows[i]["FPODueDate"]).ToString("dd/MM/yyyy").Replace('-', '/') + br;
                             //fpoduedate += FPDS.Tables[0].Rows[i]["FPODueDate"].ToString() + br;
                         }
@@ -935,7 +936,8 @@ namespace VOMS_ERP.Enquiries
                                     "' class='bcLabel'>FPO Date:</span></td>");
                                 sb.Append("<td class='bcTdnormal'><input id='txtSuplrNm" + i +
                                     "' class='bcAsptextbox' type='text' readonly='readonly' value='"
-                                    + CommonBLL.DateDisplay_1(Convert.ToDateTime(FPDS.Tables[0].Rows[i]["FPODate"].ToString()))
+                                    //+ CommonBLL.DateDisplay_1(Convert.ToDateTime(FPDS.Tables[0].Rows[i]["FPODate"].ToString()))
+                                    + CommonBLL.DateDisplay_1(Convert.ToDateTime(FPDS.Tables[0].Rows[i]["ReceivedDate"].ToString()))                                    
                                     + "' name='txtlenqdt" + i + "'/></td>");
                                 sb.Append("<td class='bcTdnormal'><span id='lbllqNo' class='bcLabel'>" +
                                     "FPO Due Date :</span></td>");
