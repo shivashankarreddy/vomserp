@@ -363,7 +363,11 @@
                             className: 'btncolor',
                             //background:'green',
                             action: function (e, dt, node, config) {
-                                window.location.href = "FEStatusNew.aspx";
+                                //window.location.href = "FEStatusNew.aspx";
+                                if ($("#ctl00_username").html().indexOf("PRASAD") != -1)
+                                    window.location.href = "FeStatusOverView.aspx";
+                                else
+                                    window.location.href = "FEStatusNew.aspx";
                             }
                         },
                     ]
