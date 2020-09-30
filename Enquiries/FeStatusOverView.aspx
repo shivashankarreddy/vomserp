@@ -44,7 +44,10 @@
                                                         FE Number
                                                     </th>
                                                     <th width="5%">
-                                                        Recv Date
+                                                        FE Recv Date
+                                                    </th>
+                                                    <th width="5%">
+                                                        FPO Date
                                                     </th>
                                                     <th width="10%">
                                                         FPO Number
@@ -61,8 +64,6 @@
                                                     <th>
                                                         Department
                                                     </th>
-                                                    
-                                                    
                                                     <%--<th width="15%">
                                                         Date
                                                     </th>--%>
@@ -74,7 +75,7 @@
                                                 <tr>
                                                     <th style="text-align: right" colspan="4">
                                                     </th>
-                                                    <th colspan="2" align="left">
+                                                    <th colspan="4" align="left">
                                                     </th>
                                                     <th colspan="3" align="right">
                                                     </th>
@@ -90,10 +91,13 @@
                                                         FE Number
                                                     </th>
                                                     <th>
-                                                        Recv Date
+                                                        FE Recv Date
                                                     </th>
                                                     <th>
                                                         FPO Number
+                                                    </th>
+                                                    <th>
+                                                        FPO Date
                                                     </th>
                                                     <th>
                                                         Target Date
@@ -107,9 +111,7 @@
                                                     <th>
                                                         Department
                                                     </th>
- 
-
-                                                    <%--                                                   <th>
+                                                    <%--<th>
                                                         Date
                                                     </th>--%>
                                                 </tr>
@@ -128,6 +130,7 @@
                                         <asp:HiddenField ID="HFSubject" runat="server" Value="" />
                                         <asp:HiddenField ID="HFStatus" runat="server" Value="" />
                                         <asp:HiddenField ID="HFDept" runat="server" Value="" />
+                                        <asp:HiddenField ID="HFFPODate" runat="server" Value="" />
                                         <asp:HiddenField ID="HFCust" runat="server" Value="" />
                                     </td>
                                 </tr>
@@ -534,11 +537,12 @@
                 {
                     "aoColumns": [
                                     { "type": "text" },
-                                    { "type": "date-range" },
-                                    { "type": "text" },
-                                    { "type": "date-range" },
-                                    { "type": "text" },
-                                    { "type": "date-range" },
+                                    { "type": "date-range" }, //Enq Date
+                                    { "type": "text" }, //FE NO
+                                    { "type": "date-range" }, // FE Received Date
+                                    {"type": "date-range" }, // FPO Date
+                                    { "type": "text" }, // FPO No
+                                    { "type": "date-range" }, // FPO Target Date
                                     { "type": "text" },
                                     { "type": "text" },
                                     { "type": "text" },
@@ -565,6 +569,9 @@
                 }
                 else if (InDex == 4) {
                     $('[id$=HFRcvdFromDt]').val(Valuee);
+                }
+                else if (InDex == 4) {
+                    $('[id$=HFFPODate]').val(Valuee);
                 }
                 else if (InDex == 5) {
                     $('[id$=HFRcvdToDt]').val(Valuee);
