@@ -3580,12 +3580,13 @@ namespace DataTables_Dot_Net2010
                 string Cust = HttpContext.Current.Request.Params["sSearch_0"];
                 string Edate = HttpContext.Current.Request.Params["sSearch_1"];
                 string FeNo = HttpContext.Current.Request.Params["sSearch_2"];
-                string FPONoo = HttpContext.Current.Request.Params["sSearch_4"];
                 string RDate = HttpContext.Current.Request.Params["sSearch_3"];
-                string date = HttpContext.Current.Request.Params["sSearch_5"];
-                string Dept = HttpContext.Current.Request.Params["sSearch_8"];
-                string Status = HttpContext.Current.Request.Params["sSearch_7"];
-                string Subject = HttpContext.Current.Request.Params["sSearch_6"];
+                string FPODate = HttpContext.Current.Request.Params["sSearch_4"];
+                string FPONoo = HttpContext.Current.Request.Params["sSearch_5"];                
+                string date = HttpContext.Current.Request.Params["sSearch_6"];
+                string Subject = HttpContext.Current.Request.Params["sSearch_7"];
+                string Status = HttpContext.Current.Request.Params["sSearch_8"];
+                string Dept = HttpContext.Current.Request.Params["sSearch_9"];
                 //string date = HttpContext.Current.Request.Params["sSearch_7"];
                 string ModeWhere = "";
 
@@ -3610,6 +3611,13 @@ namespace DataTables_Dot_Net2010
                     DateTime EndDat = date.Split('~')[1].ToString() == "" ? CommonBLL.EndDate : CommonBLL.DateCheck(date.Split('~')[1].ToString());
                     if (FrmDt.ToShortDateString() != "1/1/0001" && EndDat.ToShortDateString() != "1/1/0001")
                         s.Append(" and FPODueDate between '" + FrmDt.ToString("MM/dd/yyyy") + "' and '" + EndDat.ToString("MM/dd/yyyy") + "'");
+                }
+                if (FPODate != "" && FPODate != "~")
+                {
+                    DateTime FrmDt = FPODate.Split('~')[0].ToString() == "" ? CommonBLL.StartDate : CommonBLL.DateCheck(FPODate.Split('~')[0].ToString());
+                    DateTime EndDat = FPODate.Split('~')[1].ToString() == "" ? CommonBLL.EndDate : CommonBLL.DateCheck(FPODate.Split('~')[1].ToString());
+                    if (FrmDt.ToShortDateString() != "1/1/0001" && EndDat.ToShortDateString() != "1/1/0001")
+                        s.Append(" and FPODate between '" + FrmDt.ToString("MM/dd/yyyy") + "' and '" + EndDat.ToString("MM/dd/yyyy") + "'");
                 }
                 if (FeNo != "")
                     s.Append(" and EnquireNumber LIKE '%" + FeNo + "%'");
@@ -3681,12 +3689,12 @@ namespace DataTables_Dot_Net2010
 
                 string query = @"  
 							declare @MAA TABLE(ForeignEnquireId uniqueidentifier,EnquiryDate datetime,EnquireNumber varchar(500),FPONumber varchar(max),
-							ReceivedDate datetime,FPODueDate datetime,Subject varchar(max),Status varchar(500),DepartmentId varchar(500),CustmrNm varchar(500),
+							ReceivedDate datetime,FPODueDate datetime, FPODate datetime, Subject varchar(max),Status varchar(500),DepartmentId varchar(500),CustmrNm varchar(500),
 							CreatedBy uniqueidentifier)
 							INSERT
 							INTO
-								@MAA (ForeignEnquireId,EnquiryDate,EnquireNumber,FPONumber,ReceivedDate,f.FPODueDate,Subject,Status,DepartmentId,CustmrNm,CreatedBy)
-										select f.ForeignEnquireId,f.EnquiryDate,f.EnquireNumber,f.FPONumber,f.ReceivedDate,f.FPODueDate,f.Subject,
+								@MAA (ForeignEnquireId,EnquiryDate,EnquireNumber,FPONumber,ReceivedDate,FPODueDate,FPODate,Subject,Status,DepartmentId,CustmrNm,CreatedBy)
+										select f.ForeignEnquireId,f.EnquiryDate,f.EnquireNumber,f.FPONumber,f.ReceivedDate,f.FPODueDate,f.FPODate,f.Subject,
 										f.Status,f.DepartmentId,f.CustmrNm,f.CreatedBy from FE_SinglePage f
 									{4}                   
 
@@ -3702,7 +3710,8 @@ namespace DataTables_Dot_Net2010
 										   ,[@MAA].ForeignEnquireId
 										   ,[@MAA].EnquiryDate
 										   ,[@MAA].EnquireNumber
-										   ,[@MAA].FPONumber
+                                           ,[@MAA].FPODate
+                                           ,[@MAA].FPONumber
 										   ,[@MAA].ReceivedDate
 										   ,[@MAA].Subject
 										   ,[@MAA].Status
@@ -3775,10 +3784,13 @@ namespace DataTables_Dot_Net2010
 
                     string FPONo = data["FPONumber"].ToString().Replace("\"", "\\\"");
                     FPONo = FPONo.Replace("\t", "-");
-                    sb.AppendFormat(@"""4"": ""{0}""", FPONo.Replace(Environment.NewLine, "\\n"));
+                    sb.AppendFormat(@"""5"": ""{0}""", FPONo.Replace(Environment.NewLine, "\\n"));
                     sb.Append(",");
 
                     sb.AppendFormat(@"""3"": ""{0:dd/MM/yyyy}""", data["ReceivedDate"]);
+                    sb.Append(",");
+
+                    sb.AppendFormat(@"""4"": ""{0:dd/MM/yyyy}""", data["FPODate"]);//New column for FPO Date 4
                     sb.Append(",");
 
                     sb.AppendFormat(@"""1"": ""{0:dd/MM/yyyy}""", data["EnquiryDate"]);
@@ -3786,20 +3798,20 @@ namespace DataTables_Dot_Net2010
 
                     string Subjt = data["Subject"].ToString().Replace("\"", "\\\"");
                     Subjt = Subjt.Replace("\t", "-");
-                    sb.AppendFormat(@"""6"": ""{0}""", Subjt.Replace(Environment.NewLine, "\\n"));
+                    sb.AppendFormat(@"""7"": ""{0}""", Subjt.Replace(Environment.NewLine, "\\n"));
                     sb.Append(",");
 
                     string DeptID = data["DepartmentId"].ToString().Replace("\"", "\\\"");
                     DeptID = DeptID.Replace("\t", "-");
-                    sb.AppendFormat(@"""8"": ""{0}""", DeptID.Replace(Environment.NewLine, "\\n"));
+                    sb.AppendFormat(@"""9"": ""{0}""", DeptID.Replace(Environment.NewLine, "\\n"));
                     sb.Append(",");
 
                     string StatIDd = data["Status"].ToString().Replace("\"", "\\\"");
                     StatIDd = StatIDd.Replace("\t", "-");
-                    sb.AppendFormat(@"""7"": ""{0}""", StatIDd.Replace(Environment.NewLine, "\\n"));
+                    sb.AppendFormat(@"""8"": ""{0}""", StatIDd.Replace(Environment.NewLine, "\\n"));
                     sb.Append(",");
 
-                    sb.AppendFormat(@"""5"": ""{0:dd/MM/yyyy}""", data["FPODueDate"]);
+                    sb.AppendFormat(@"""6"": ""{0:dd/MM/yyyy}""", data["FPODueDate"]);
                     sb.Append(",");
 
                     string CustID = data["CustmrNm"].ToString().Replace("\"", "\\\"");
