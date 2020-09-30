@@ -551,44 +551,44 @@
                                     ]
                 });
 
-            $("tfoot input").change(function (i) {
-                var InDex = $("tfoot input").index(this);
-                var Valuee = this.value;
+//            $("tfoot input").change(function (i) {
+//                var InDex = $("tfoot input").index(this);
+//                var Valuee = this.value;
 
-                if (InDex == 0) {
-                    $('[id$=HFStatus]').val(Valuee);
-                }
-                else if (InDex == 1) {
-                    $('[id$=HFToDate]').val(Valuee);
-                }
-                else if (InDex == 2) {
-                    $('[id$=HFFENo]').val(Valuee);
-                }
-                else if (InDex == 3) {
-                    $('[id$=HFFPONo]').val(Valuee);
-                }
-                else if (InDex == 4) {
-                    $('[id$=HFRcvdFromDt]').val(Valuee);
-                }
-                else if (InDex == 4) {
-                    $('[id$=HFFPODate]').val(Valuee);
-                }
-                else if (InDex == 5) {
-                    $('[id$=HFRcvdToDt]').val(Valuee);
-                }
-                else if (InDex == 6) {
-                    $('[id$=HFSubject]').val(Valuee);
-                }
-                else if (InDex == 7) {
-                    $('[id$=HFStatus]').val(Valuee);
-                }
-                else if (InDex == 8) {
-                    $('[id$=HFDept]').val(Valuee);
-                }
-                else if (InDex == 9) {
-                    $('[id$=HFFromDate]').val(Valuee);
-                }
-            });
+//                if (InDex == 0) {
+//                    $('[id$=HFStatus]').val(Valuee);
+//                }
+//                else if (InDex == 1) {
+//                    $('[id$=HFToDate]').val(Valuee);
+//                }
+//                else if (InDex == 2) {
+//                    $('[id$=HFFENo]').val(Valuee);
+//                }
+//                else if (InDex == 3) {
+//                    $('[id$=HFFPONo]').val(Valuee);
+//                }
+//                else if (InDex == 4) {
+//                    $('[id$=HFRcvdFromDt]').val(Valuee);
+//                }
+//                else if (InDex == 4) {
+//                    $('[id$=HFFPODate]').val(Valuee);
+//                }
+//                else if (InDex == 5) {
+//                    $('[id$=HFRcvdToDt]').val(Valuee);
+//                }
+//                else if (InDex == 6) {
+//                    $('[id$=HFSubject]').val(Valuee);
+//                }
+//                else if (InDex == 7) {
+//                    $('[id$=HFStatus]').val(Valuee);
+//                }
+//                else if (InDex == 8) {
+//                    $('[id$=HFDept]').val(Valuee);
+//                }
+//                else if (InDex == 9) {
+//                    $('[id$=HFFromDate]').val(Valuee);
+//                }
+//            });
 
             /* Init the table */
             oTable = $('#tblFeStatOverView').dataTable();
