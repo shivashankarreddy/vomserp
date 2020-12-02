@@ -121,6 +121,15 @@ namespace VOMS_ERP.Enquiries {
         protected global::System.Web.UI.WebControls.HiddenField HFDept;
         
         /// <summary>
+        /// HFFPODate control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.HiddenField HFFPODate;
+        
+        /// <summary>
         /// HFCust control.
         /// </summary>
         /// <remarks>
