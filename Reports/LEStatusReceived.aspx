@@ -1,134 +1,108 @@
-﻿<%@ Page  Language="C#" MasterPageFile="~/MasterPage.Master" AutoEventWireup="true" CodeBehind="StatusofFpo.aspx.cs" Inherits="VOMS_ERP.Reports.StatusofFpo" %>
-<asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/MasterPage.Master" AutoEventWireup="true"
+    CodeBehind="LEStatusReceived.aspx.cs" Inherits="VOMS_ERP.Reports.LEStatusReceived" %>
 
+<asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
     <table class="MainTable" align="center">
         <tr>
             <td class="bcTdNewTable">
-                <table style="width: 98%; vertical-align: top;" align="center">
+                <table width="100%">
                     <tr class="bcTRTitleRow">
-                        <td class="bcTdTitleLeft" align="left">
-                            <table width="100%">
-                                <tr>
-                                    <td>
-                                        &nbsp;&nbsp;&nbsp;<asp:Label ID="Label2" runat="server" Style="font-size: 15.5px;
-                                            font-weight: bold" Text="Status Of FPO's" CssClass="bcTdTitleLabel"></asp:Label><div
-                                                id="divMyMessage" runat="server" align="center" class="formError1" />
-                                    </td>
-                                </tr>
-                            </table>
+                        <td>
+                            &nbsp;&nbsp;&nbsp;<asp:Label ID="Label1" runat="server" Style="font-size: 15.5px;
+                                font-weight: bold" Text="Status of Local Enquires" CssClass="bcTdTitleLabel"></asp:Label>
+                            <asp:HiddenField ID="HF_HeadText" runat="server" />
+                            <div id="divMyMessage" runat="server" align="center" class="formError1" />
                         </td>
                     </tr>
                     <tr>
                         <td align="right">
-                            <asp:ImageButton ID="btnexcel" runat="server" ImageUrl="../images/EXCEL.png" title="Export Excel"
-                                OnClick="btnExcelExpt_Click"></asp:ImageButton>
+                            <asp:ImageButton ID="ImageButton2" runat="server" ImageUrl="../images/EXCEL.png"
+                                title="Export Excel" OnClick="btnExcelExpt_Click"></asp:ImageButton>
                         </td>
                     </tr>
                 </table>
-            </td>
-        </tr>
-        <tr>
-            <td class="bcTdNewTable">
-                <table id="FPOStatus" class="widthFull fontsize10 displayNone" cellpadding="0" cellspacing="0"
-                    border="0">
+                <table id="tblOscarNominees" cellpadding="0" cellspacing="0" border="0" class="display">
                     <thead>
                         <tr>
-                            <th id="ForeignQuotationId" runat="server" visible="false">
-                            </th>
-                            <th width="18%">
-                                FPO No.
-                            </th>
-                            <th width="12%">
-                                FPO Date
-                            </th>
-                            <th width="15%">
-                                Enquiry No.
-                            </th>
-                            <th width="12%">
-                               Enquiry Date
+                            <th width="10%">
+                                FE Number
                             </th>
                             <th width="10%">
-                                Total Amount($)
+                                FE Date
+                            </th>
+                            <th width="20%">
+                                Floated To
+                            </th>
+                            <th width="20%">
+                                Floated No.
+                            </th>
+                            <th width="10%">
+                                Floated Date
                             </th>
                             <th width="10%">
                                 Customer
                             </th>
-                            <th>
-                                Options
-                            </th>
-                            <th>
-                                Remarks
-                            </th>
-                            <th>
+                            <th width="25%">
                                 Comments
                             </th>
-                            <th>Created By</th>
+                            
                         </tr>
                     </thead>
-                    <tbody>
+                    <tbody class="tbody">
                     </tbody>
                     <tfoot>
                         <tr>
-                            <th style="text-align: right" colspan="4">
+                            <th style="text-align: right" colspan="5">
                             </th>
-                            <th colspan="5" align="left">
+                            <th colspan="1" align="left">
                             </th>
                         </tr>
                         <tr>
                             <th>
-                                FPO No.
+                                FE Number
                             </th>
                             <th>
-                              FPO Date
-                            </th>
-                             <th>
-                                Enquiry No.
+                                FE Date
                             </th>
                             <th>
-                               Enquiry Date
+                                Floated To
                             </th>
                             <th>
-                                Total Amount
+                                Floated No.
                             </th>
                             <th>
-                                customer
+                                Floated Date
                             </th>
                             <th>
-                                Options
-                            </th>
-                            <th>
-                                Remarks
+                                Customer
                             </th>
                             <th>
                                 Comments
                             </th>
-                            <th>Created By</th>
+                            
                         </tr>
                     </tfoot>
                 </table>
             </td>
         </tr>
         <tr>
-            <td><asp:HiddenField ID="HFFPONO" runat="server" Value="" />
-                <asp:HiddenField ID="HFFpoFrmDt" runat="server" Value="" />
-                <asp:HiddenField ID="HFFpoToDate" runat="server" Value="" />
-                <asp:HiddenField ID="HFFENO" runat="server" Value="" />
-                <asp:HiddenField ID="HFFEFrmDt" runat="server" Value="" />
-                <asp:HiddenField ID="HFFEToDt" runat="server" Value="" />
-                <asp:HiddenField ID="HFFQNO" runat="server" Value="" />
-                <asp:HiddenField ID="HFFQFrmDt" runat="server" Value="" />
-                <asp:HiddenField ID="HFFQToDt" runat="server" Value="" />
-                <asp:HiddenField ID="HFFQAmount" runat="server" Value="" />
+            <td>
+                <asp:HiddenField ID="HFFENo" runat="server" Value="" />
+                <asp:HiddenField ID="HFFromDate" runat="server" Value="" />
+                <asp:HiddenField ID="HFToDate" runat="server" Value="" />
+                <asp:HiddenField ID="HFRcvdFromDt" runat="server" Value="" />
+                <asp:HiddenField ID="HFRcvdToDt" runat="server" Value="" />
+                <asp:HiddenField ID="HFFloatedTo" runat="server" Value="" />
+                <asp:HiddenField ID="HFFloatedNo" runat="server" Value="" />
                 <asp:HiddenField ID="HFCust" runat="server" Value="" />
-                <asp:HiddenField ID="HFStat" runat="server" Value="" />
-                <asp:HiddenField ID="HFRemarks" runat="server" Value="" />
+                <asp:HiddenField ID="HFComments" runat="server" Value="" />
+                <asp:HiddenField ID="HFRegret" runat="server" Value="" />
+                <asp:HiddenField ID="HiddenField1" runat="server" Value="" />
                 <asp:HiddenField ID="HFCreatedBy" runat="server" Value="" />
-                 <asp:HiddenField ID="HFComments" runat="server" Value="" />
             </td>
         </tr>
     </table>
-
-<link href="../JScript/media_ColVis/css/ColVis.css" rel="stylesheet" type="text/css" />
+    <link href="../JScript/media_ColVis/css/ColVis.css" rel="stylesheet" type="text/css" />
     <link href="../JScript/media/css/TableTools.css" rel="stylesheet" type="text/css" />
     <link href="../JScript/media/css/TableTools_JUI.css" rel="stylesheet" type="text/css" />
     <link href="../JScript/Scripts/css/themes/overcast/jquery.ui.theme.css" rel="stylesheet"
@@ -167,16 +141,13 @@
         }
     </style>
     <script type="text/javascript">
-        $(document).ready(function () {
-            $(".aligntable").width($(window).width() - 84 + "px");
-        });
-
-        var oTable = null;
+        var oTable;
         $(document).ready(function () {
             $.datepicker.regional[""].dateFormat = 'dd/mm/yy';
             $.datepicker.setDefaults($.datepicker.regional['']);
+
             /*          Main Functionality       */
-            oTable = $('#FPOStatus').dataTable({
+            oTable = $('#tblOscarNominees').dataTable({
                 "aLengthMenu": [[100, 250, 500, 1000, -1], [100, 250, 500, 1000, "All"]],
                 "iDisplayLength": 100,
                 "aaSorting": [[0, "asc"]],
@@ -186,7 +157,7 @@
                 "sPaginationType": "full_numbers",
                 "bServerSide": true,
                 "bDestroy": true,
-                "sAjaxSource": "ReportService.asmx/GetFPOStatus",
+                "sAjaxSource": "ReportService.asmx/GetStatusLERecv",
                 "fnServerData": function (sSource, aoData, fnCallback) {
                     $.ajax({
                         "dataType": 'json',
@@ -198,7 +169,7 @@
                                 function (msg) {
                                     var json = jQuery.parseJSON(msg.d);
                                     fnCallback(json);
-                                    $("#FPOStatus").show();
+                                    $("#tblOscarNominees").show();
                                 }
                     });
                 },
@@ -224,35 +195,20 @@
                     "bSmart": true
                 }
             }).makeEditable({
-                sUpdateURL: "StatusofFpo.ashx",
-                "aoColumns": [null, null, null, null, null, null,
-                            {
-                                type: 'select',
-                                indicator: 'Saving...',
-                                loadtext: 'loading...',
-                                data: "{'Select':'Select','HOLD':'HOLD','UNHOLD':'UNHOLD', 'CANCEL':'CANCEL'}",
-                                onblur: 'submit'
-                            },
-                            {
-                                indicator: 'Saving...',
-                                tooltip: 'DOUBLE CLICK ON THE RECORD TO EDIT AND CLICK ENTER TO SAVE',
-                                loadtext: 'loading...',
-                                type: 'textarea',
-                                onblur: 'submit'
-                            },null]
+                sUpdateURL: "StatusFeRecevdHandler.ashx",
+                "aoColumns": [null, null, null, null, null, null, null,
+                            null, null]
             });
 
-            $("#FPOStatus").dataTable().columnFilter(
+            $("#tblOscarNominees").dataTable().columnFilter(
                 {
                     //sPlaceHolder: "foot:before",
-                    "aoColumns": [{ "type": "text" },
-                                    { "type": "date-range" },
+                    "aoColumns": [
                                     { "type": "text" },
-                                    { "type": "date-range" },
-                                    { "type": "text" },
+                                    { "type": "date-range", width: "50px" },
                                     { "type": "text" },
                                     { "type": "text" },
-                                    { "type": "text" },
+                                    { "type": "date-range", width: "50px" },
                                     { "type": "text" },
                                     { "type": "text" }
                                     ]
@@ -263,46 +219,50 @@
                 var Valuee = this.value;
 
                 if (InDex == 0) {
-                    $('[id$=HFFPONO]').val(Valuee);
+                    $('[id$=HFFENo ]').val(Valuee);
                 }
                 else if (InDex == 1) {
-                    $('[id$=HFFpoFrmDt]').val(Valuee);
+                    $('[id$=HFFromDate ]').val(Valuee);
                 }
                 else if (InDex == 2) {
-                    $('[id$=HFFpoToDate]').val(Valuee);
+                    $('[id$=HFToDate]').val(Valuee);
                 }
                 else if (InDex == 3) {
-                    $('[id$=HFFENO]').val(Valuee);
+                    $('[id$=HFFloatedTo]').val(Valuee);
                 }
                 else if (InDex == 4) {
-                    $('[id$=HFFEFrmDt]').val(Valuee);
+                    $('[id$=HFFloatedNo]').val(Valuee);
                 }
                 else if (InDex == 5) {
-                    $('[id$=HFFEToDt]').val(Valuee);
+                    $('[id$=HFRcvdFromDt]').val(Valuee);
                 }
+
                 else if (InDex == 6) {
-                    $('[id$=HFFQAmount]').val(Valuee);
+                    $('[id$=HFRcvdToDt]').val(Valuee);
                 }
                 else if (InDex == 7) {
                     $('[id$=HFCust]').val(Valuee);
                 }
                 else if (InDex == 8) {
-                    $('[id$=HFStat]').val(Valuee);
-                }
-                else if (InDex == 9) {
-                    $('[id$=HFRemarks]').val(Valuee);
-                }
-                else if (InDex == 10) {
                     $('[id$=HFComments]').val(Valuee);
-                }
-                else if (InDex == 11) {
-                    $('[id$=HFCreatedBy]').val(Valuee);
-                }
+                } 
             });
 
             /* Init the table */
-            oTable = $('#FPOStatus').dataTable();
+            oTable = $('#tblOscarNominees').dataTable();
         });
     </script>
-
+    <script type="text/jscript">
+        function SuccessMessage(msg) {
+            $("#<%=divMyMessage.ClientID %> span").remove();
+            $('[id$=divMyMessage]').append('<span class="Success">' + msg + '</span>');
+            $('[id$=divMyMessage]').fadeTo(2000, 1).fadeOut(3000);
+        }
+        function ErrorMessage(msg) {
+            $("#<%=divMyMessage.ClientID %> span").remove();
+            $('[id$=divMyMessage]').append('<span class="Error">' + msg + '</span>');
+            $('[id$=divMyMessage]').fadeTo(2000, 1).fadeOut(3000);
+        }
+        
+    </script>
 </asp:Content>

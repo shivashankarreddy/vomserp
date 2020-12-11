@@ -1,4 +1,4 @@
-﻿<%@ Page  Language="C#" MasterPageFile="~/MasterPage.Master" AutoEventWireup="true"
+﻿<%@ Page Language="C#" MasterPageFile="~/MasterPage.Master" AutoEventWireup="true"
     CodeBehind="FPOAwaitedaspx.aspx.cs" Inherits="VOMS_ERP.Reports.FPOAwaitedaspx" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
@@ -61,7 +61,10 @@
                                 Remarks
                             </th>
                             <th>
-                               Created By
+                                Comments
+                            </th>
+                            <th>
+                                Created By
                             </th>
                         </tr>
                     </thead>
@@ -71,7 +74,7 @@
                         <tr>
                             <th style="text-align: right" colspan="5">
                             </th>
-                            <th colspan="4" align="left">
+                            <th colspan="5" align="left">
                             </th>
                         </tr>
                         <tr>
@@ -79,7 +82,7 @@
                                 Enquiry No.
                             </th>
                             <th>
-                               Enquiry Date
+                                Enquiry Date
                             </th>
                             <th>
                                 Quotation No.
@@ -100,7 +103,10 @@
                                 Remarks
                             </th>
                             <th>
-                               Created By
+                                Comments
+                            </th>
+                            <th>
+                                Created By
                             </th>
                         </tr>
                     </tfoot>
@@ -120,6 +126,7 @@
                 <asp:HiddenField ID="HFStat" runat="server" Value="" />
                 <asp:HiddenField ID="HFRemarks" runat="server" Value="" />
                 <asp:HiddenField ID="HFCreatBy" runat="server" Value="" />
+                <asp:HiddenField ID="HFComments" runat="server" Value="" />
             </td>
         </tr>
     </table>
@@ -234,7 +241,7 @@
                                 loadtext: 'loading...',
                                 type: 'textarea',
                                 onblur: 'submit'
-                            }]
+                            }, null]
             });
 
             $("#FPOAwaited").dataTable().columnFilter(
@@ -245,6 +252,7 @@
                                     { "type": "date-range" },
                                     { "type": "text" },
                                     { "type": "date-range" },
+                                    { "type": "text" },
                                     { "type": "text" },
                                     { "type": "text" },
                                     { "type": "text" },
@@ -288,6 +296,9 @@
                     $('[id$=HFRemarks]').val(Valuee);
                 }
                 else if (InDex == 10) {
+                    $('[id$=HFComments]').val(Valuee);
+                }
+                else if (InDex == 11) {
                     $('[id$=HFCreatBy]').val(Valuee);
                 }
             });

@@ -42,7 +42,8 @@ namespace VOMS_ERP.Reports
                 string Customer = HFCust.Value;
                 string Stat = HFStat.Value;
                 string Remarks = HFRemarks.Value;
-
+                string CreatedBy = HFCreatBy.Value;
+                string Comments = HFComments.Value;
 
 
                 if (FEFrmDt == "1-1-0001" || FEFrmDt == "1-1-1900")
@@ -53,7 +54,7 @@ namespace VOMS_ERP.Reports
                     FQFrmDt = "";
                 if (FQToDt == "1-1-0001")
                     FQToDt = "";
-                DataSet ds = RPBL.Export_FPOAwaited(FENO, FEFrmDt, FEToDt, FQNO, FQFrmDt, FQToDt, TotAmt, Customer, Stat, Remarks, new Guid(Session["CompanyID"].ToString()));
+                DataSet ds = RPBL.Export_FPOAwaited(FENO, FEFrmDt, FEToDt, FQNO, FQFrmDt, FQToDt, TotAmt, Customer, Stat, Remarks, CreatedBy, Comments,new Guid(Session["CompanyID"].ToString()));
                 ds.Tables[0].Columns.Remove("StatusTypeId");
                 if (ds != null && ds.Tables.Count > 0)
                 {
@@ -70,6 +71,7 @@ namespace VOMS_ERP.Reports
                     if (FQToDt != "" && (Convert.ToDateTime(FQToDt).ToString("dd-MM-yyyy") == "01-01-0001" || CommonBLL.DateDisplay_2(Convert.ToDateTime(FQToDt)) == CommonBLL.EndDtMMddyyyy_FS))
                         FQToDt = "";
 
+
                     string MTitle = "DETAILS OF FOREIGN QUOTATIONS SENT", MTcustomer = "", MTDTS = "", MTAW = " AND AWAITED FPO's ";
                     if (HFCust.Value != "")
                         MTcustomer = HFCust.Value;
@@ -83,9 +85,9 @@ namespace VOMS_ERP.Reports
                     htextw.Write("<center><b>" + MTitle + " "
                                               + (MTcustomer != "" ? " TO " + MTcustomer.ToUpper() : "") + "" + MTAW
                                               + MTDTS + "</center></b>");
-                   
+
                     DataGrid dgGrid = new DataGrid();
-                     dgGrid.DataSource = ds.Tables[0];
+                    dgGrid.DataSource = ds.Tables[0];
                     dgGrid.DataBind();
                     Tuple<string, DataGrid> t = CommonBLL.ExcelExportStyle(dgGrid);
                     dgGrid = t.Item2;
@@ -99,7 +101,7 @@ namespace VOMS_ERP.Reports
                         {
                             System.Drawing.Image image = System.Drawing.Image.FromStream(ms);
                             string FilePath = Server.MapPath("../images/Logos/" + Session["CompanyID"].ToString() + ".png");
-                                //Server.MapPath("\\" + CommonBLL.GetReportsPath() + "\\Logos\\" + Session["CompanyID"].ToString() + ".png");
+                            //Server.MapPath("\\" + CommonBLL.GetReportsPath() + "\\Logos\\" + Session["CompanyID"].ToString() + ".png");
                             image.Save(FilePath);
                         }
 

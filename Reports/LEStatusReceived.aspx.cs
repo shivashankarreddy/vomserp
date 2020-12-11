@@ -9,15 +9,14 @@ using System.Collections;
 using System.Data;
 using System.IO;
 using System.Threading;
-
 namespace VOMS_ERP.Reports
 {
-    public partial class StatusFeRecevd : System.Web.UI.Page
+    public partial class LEStatusReceived : System.Web.UI.Page
     {
-
         #region Variables
         ErrorLog ELog = new ErrorLog();
         FEnquiryBLL frnfenq = new FEnquiryBLL();
+        BAL.LEnquiryBLL NLEBL = new LEnquiryBLL();
         #endregion
 
         #region PageLoad
@@ -61,7 +60,7 @@ namespace VOMS_ERP.Reports
             try
             {
                 string Mode = HttpUtility.ParseQueryString(HttpContext.Current.Request.UrlReferrer.Query)["Mode"];
-                string FrmDt = "", ToDat = "", CreatedDT = "";
+                string FrmDt = "", ToDat = "", CreatedDT = ""; Guid LoginID = Guid.Empty;
                 string FromRcvdDt = "", ToRcvdDt = "";
                 FrmDt = HFFromDate.Value == "" ? CommonBLL.StartDate.ToString("yyyy-MM-dd") : CommonBLL.DateCheck_Print(HFFromDate.Value).ToString("yyyy-MM-dd");
                 ToDat = HFToDate.Value == "" ? CommonBLL.EndDate.ToString("yyyy-MM-dd") : CommonBLL.DateCheck_Print(HFToDate.Value).ToString("yyyy-MM-dd");
@@ -69,11 +68,10 @@ namespace VOMS_ERP.Reports
                 ToRcvdDt = HFRcvdToDt.Value == "" ? CommonBLL.EndDate.ToString("yyyy-MM-dd") : CommonBLL.DateCheck_Print(HFRcvdToDt.Value).ToString("yyyy-MM-dd");
 
                 string FENo = HFFENo.Value;
-                string Subject = HFSubject.Value;
-                string Status = HFStatus.Value;
-                string dept = HFDept.Value;
-                string Cust = HFCust.Value;
+                string FloatedTo = HFFloatedTo.Value;
+                string FloatedNo = HFFloatedNo.Value;
                 string Comments = HFComments.Value;
+                string Cust = HFCust.Value;
 
                 if (FrmDt == "1-1-0001" || FrmDt == "1-1-1900")
                     FrmDt = "";
@@ -83,8 +81,7 @@ namespace VOMS_ERP.Reports
                     FromRcvdDt = "";
                 if (ToRcvdDt == "1-1-0001")
                     ToRcvdDt = "";
-                DataSet ds = frnfenq.Select_StatusFERecvSearch(FrmDt, ToDat, FENo, FromRcvdDt, ToRcvdDt, Subject,
-                    Status, dept, Cust, CreatedDT,Comments, new Guid(Session["CompanyID"].ToString()));
+                DataSet ds = NLEBL.LE_Search(FrmDt, ToDat, FloatedNo, FENo, "", "", FloatedTo, Cust, CreatedDT, LoginID, Comments, FromRcvdDt, ToRcvdDt, new Guid(Session["CompanyID"].ToString()));
 
                 if (ds != null && ds.Tables.Count > 0)
                 {
@@ -99,7 +96,7 @@ namespace VOMS_ERP.Reports
                     if (ToDat != "" && CommonBLL.DateDisplay_2(Convert.ToDateTime(ToDat)) == CommonBLL.EndDtMMddyyyy_FS)
                         ToDat = "";
 
-                    string MTitle = "STATUS OF PENDING FOREIGN ENQUIRIES RECEIVED ", MTcustomer = "", MTDTS = "";
+                    string MTitle = "STATUS OF PENDING LOCAL ENQUIRIES  ", MTcustomer = "", MTDTS = "";
                     if (HFCust.Value != "")
                         MTcustomer = HFCust.Value;
                     if (FrmDt != "" && ToDat != "")
@@ -109,6 +106,10 @@ namespace VOMS_ERP.Reports
                     else
                         MTDTS = " TILL " + DateTime.Now.ToString("dd-MM-yyyy");
                     htextw.Write("<center><b>" + MTitle + " " + (MTcustomer != "" ? " FOR " + MTcustomer.ToUpper() : "") + "" + MTDTS + "</center></b>");
+                    ds.Tables[0].Columns.Remove("Subject");
+                    ds.Tables[0].Columns.Remove("Status");
+                    ds.Tables[0].Columns.Remove("IsActive");
+                    ds.Tables[0].AcceptChanges();
                     DataGrid dgGrid = new DataGrid();
                     dgGrid.DataSource = ds.Tables[0];
                     dgGrid.DataBind();
@@ -124,7 +125,7 @@ namespace VOMS_ERP.Reports
                         {
                             System.Drawing.Image image = System.Drawing.Image.FromStream(ms);
                             string FilePath = Server.MapPath("../images/Logos/" + Session["CompanyID"].ToString() + ".png");
-                                //Server.MapPath("\\" + CommonBLL.GetReportsPath() + "\\Logos\\" + Session["CompanyID"].ToString() + ".png");
+                            //Server.MapPath("\\" + CommonBLL.GetReportsPath() + "\\Logos\\" + Session["CompanyID"].ToString() + ".png");
                             image.Save(FilePath);
                         }
 

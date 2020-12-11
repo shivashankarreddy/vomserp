@@ -193,6 +193,7 @@
 
     <siteMapNode url="" title="Reports" description="Reports" roles="Admin">
       <siteMapNode url="~/Reports/StatusFeRecevd.aspx" title="FE Received" description="FE Receeived" accesskey="" roles="Admin" />
+      <siteMapNode url="~/Reports/LEStatusReceived.aspx" title="LE Received" description="LE Received" accesskey="" roles="Admin" />
       <siteMapNode url="~/Reports/StatusofFpo.aspx" title="Status of FPO's" description="Status of FPO's" accesskey=""  roles="Admin"/>
       <siteMapNode url="~/Reports/FPOAwaitedaspx.aspx" title="FPO's Awaited" description="FPO's Awaited" accesskey=""  roles="Admin"/>
       <siteMapNode url="~/Reports/WeeklyEnquiryReport.aspx" title="Weekly Enquiry Reports" description="Weekly Enquiry Reports" accesskey=""  roles="Admin"/>

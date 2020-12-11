@@ -232,13 +232,13 @@
                 else if (InDex == 6) {
                     $('[id$=HFStatus]').val(Valuee);
                 } 
-                else if (InDex == 7) {
+                else if (InDex == 8) {
                     $('[id$=HFDelFrmDate]').val(Valuee);
                 } 
-                else if (InDex == 8) {
+                else if (InDex == 9) {
                     $('[id$=HFDelToDate]').val(Valuee);
                 }
-                else if (InDex == 9) {
+                else if (InDex == 7) {
                     $('[id$=HFCreatedBy]').val(Valuee);
                 }
             });

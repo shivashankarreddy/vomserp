@@ -45,6 +45,7 @@ namespace VOMS_ERP.Reports
                 string Customer = HFCust.Value;
                 string Stat = HFStat.Value;
                 string Remarks = HFRemarks.Value;
+                string Comments = HFComments.Value;
 
                 if (FpoFrmDate == "1-1-0001" || FpoFrmDate == "1-1-1900")
                     FpoFrmDate = "";
@@ -58,7 +59,7 @@ namespace VOMS_ERP.Reports
                     FQFrmDt = "";
                 if (FQToDt == "1-1-0001")
                     FQToDt = "";
-                DataSet ds = RPBL.Export_FPOStatus(FpoNo, FpoFrmDate, FpoToDate, FENO, FEFrmDt, FEToDt, FQNO, FQFrmDt, FQToDt, TotAmt, Customer, Stat, Remarks, new Guid(Session["CompanyID"].ToString()));
+                DataSet ds = RPBL.Export_FPOStatus(FpoNo, FpoFrmDate, FpoToDate, FENO, FEFrmDt, FEToDt, FQNO, FQFrmDt, FQToDt, TotAmt, Customer, Stat, Remarks,Comments, new Guid(Session["CompanyID"].ToString()));
 
                 if (ds != null && ds.Tables.Count > 0)
                 {

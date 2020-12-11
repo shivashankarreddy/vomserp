@@ -10,7 +10,7 @@
 namespace VOMS_ERP.Reports {
     
     
-    public partial class StatusFeRecevd {
+    public partial class LEStatusReceived {
         
         /// <summary>
         /// Label1 control.
@@ -94,22 +94,22 @@ namespace VOMS_ERP.Reports {
         protected global::System.Web.UI.WebControls.HiddenField HFRcvdToDt;
         
         /// <summary>
-        /// HFSubject control.
+        /// HFFloatedTo control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.HiddenField HFSubject;
+        protected global::System.Web.UI.WebControls.HiddenField HFFloatedTo;
         
         /// <summary>
-        /// HFDept control.
+        /// HFFloatedNo control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.HiddenField HFDept;
+        protected global::System.Web.UI.WebControls.HiddenField HFFloatedNo;
         
         /// <summary>
         /// HFCust control.
@@ -121,13 +121,13 @@ namespace VOMS_ERP.Reports {
         protected global::System.Web.UI.WebControls.HiddenField HFCust;
         
         /// <summary>
-        /// HFStatus control.
+        /// HFComments control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.HiddenField HFStatus;
+        protected global::System.Web.UI.WebControls.HiddenField HFComments;
         
         /// <summary>
         /// HFRegret control.
@@ -155,14 +155,5 @@ namespace VOMS_ERP.Reports {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.HiddenField HFCreatedBy;
-        
-        /// <summary>
-        /// HFComments control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.HiddenField HFComments;
     }
 }

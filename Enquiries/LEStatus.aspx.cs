@@ -484,7 +484,7 @@ namespace VOMS_ERP.Enquiries
                     FrmDt = "";
                 if (ToDat == "1-1-0001")
                     ToDat = "";
-                DataSet ds = NLEBL.LE_Search(FrmDt, ToDat, LENo, FENo, Subject, Status, supp, Customer, CreatedDT, LoginID, new Guid(Session["CompanyID"].ToString()));
+                DataSet ds = NLEBL.LE_Search(FrmDt, ToDat, LENo, FENo, Subject, Status, supp, Customer, CreatedDT, LoginID, "", "", "", new Guid(Session["CompanyID"].ToString()));
 
                 if (ds != null && ds.Tables.Count > 0)
                 {
@@ -533,7 +533,7 @@ namespace VOMS_ERP.Enquiries
                         {
                             System.Drawing.Image image = System.Drawing.Image.FromStream(ms);
                             string FilePath = Server.MapPath("../images/Logos/" + Session["CompanyID"].ToString() + ".png");
-                                //Server.MapPath("\\" + CommonBLL.GetReportsPath() + "\\Logos\\" + Session["CompanyID"].ToString() + ".png");
+                            //Server.MapPath("\\" + CommonBLL.GetReportsPath() + "\\Logos\\" + Session["CompanyID"].ToString() + ".png");
                             image.Save(FilePath);
                         }
 

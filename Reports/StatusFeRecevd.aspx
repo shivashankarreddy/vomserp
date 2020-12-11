@@ -1,4 +1,4 @@
-﻿<%@ Page  Language="C#" MasterPageFile="~/MasterPage.Master" AutoEventWireup="true"
+﻿<%@ Page Language="C#" MasterPageFile="~/MasterPage.Master" AutoEventWireup="true"
     CodeBehind="StatusFeRecevd.aspx.cs" Inherits="VOMS_ERP.Reports.StatusFeRecevd" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
@@ -51,7 +51,12 @@
                             <th>
                                 Remarks
                             </th>
-                            <th>Created By</th>
+                            <th>
+                                Comments
+                            </th>
+                            <th>
+                                Created By
+                            </th>
                         </tr>
                     </thead>
                     <tbody class="tbody">
@@ -60,7 +65,7 @@
                         <tr>
                             <th style="text-align: right" colspan="5">
                             </th>
-                            <th colspan="4" align="left">
+                            <th colspan="5" align="left">
                             </th>
                         </tr>
                         <tr>
@@ -86,12 +91,15 @@
                                 Status
                             </th>
                             <th>
-                                
                             </th>
                             <th>
-                                
                             </th>
-                            <th>Created By</th>
+                            <th>
+                                Comments
+                            </th>
+                            <th>
+                                Created By
+                            </th>
                         </tr>
                     </tfoot>
                 </table>
@@ -111,6 +119,7 @@
                 <asp:HiddenField ID="HFRegret" runat="server" Value="" />
                 <asp:HiddenField ID="HiddenField1" runat="server" Value="" />
                 <asp:HiddenField ID="HFCreatedBy" runat="server" Value="" />
+                <asp:HiddenField ID="HFComments" runat="server" Value="" />
             </td>
         </tr>
     </table>
@@ -213,7 +222,7 @@
                                 type: 'select',
                                 data: "{'Select':'Select','Regret':'Regret','UnRegret':'UnRegret'}",
                                 indicator: 'Saving...',
-                                loadtext: 'loading...',                                
+                                loadtext: 'loading...',
                                 tooltip: 'DOUBLE CLICK ON THE RECORD TO EDIT AND CLICK ENTER TO SAVE',
                                 onblur: 'submit'
                             },
@@ -223,7 +232,7 @@
                                 loadtext: 'loading...',
                                 tooltip: 'DOUBLE CLICK ON THE RECORD TO EDIT AND CLICK ENTER TO SAVE',
                                 onblur: 'submit'
-                            }]
+                            }, null]
             });
 
             $("#tblOscarNominees").dataTable().columnFilter(
@@ -238,6 +247,7 @@
                                     { "type": "text" },
                                     { "type": "text" },
                                     null, null,
+                                    { "type": "text" },
                                     { "type": "text" }
                                     ]
                 });
@@ -274,11 +284,14 @@
                 else if (InDex == 8) {
                     $('[id$=HFStatus]').val(Valuee);
                 }
-                else if (InDex == 9) {
+                else if (InDex == 12) {
                     $('[id$=HFRegret]').val(Valuee);
                 }
                 else if (InDex == 10) {
                     $('[id$=HFRemarks]').val(Valuee);
+                }
+                else if (InDex == 9) {
+                    $('[id$=HFComments]').val(Valuee);
                 }
                 else if (InDex == 11) {
                     $('[id$=HFCreatedBy]').val(Valuee);

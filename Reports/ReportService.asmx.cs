@@ -2969,7 +2969,8 @@ namespace VOMS_ERP.Reports
                 string Dept = HttpContext.Current.Request.Params["sSearch_4"];
                 string Cust = HttpContext.Current.Request.Params["sSearch_5"];
                 string Status = HttpContext.Current.Request.Params["sSearch_6"];
-                string createdBy = HttpContext.Current.Request.Params["sSearch_9"];
+                string Comments = HttpContext.Current.Request.Params["sSearch_9"];
+                string createdBy = HttpContext.Current.Request.Params["sSearch_10"];
 
                 StringBuilder s = new StringBuilder();
                 if (date != "")
@@ -2996,6 +2997,8 @@ namespace VOMS_ERP.Reports
                     s.Append(" and DepartmentId LIKE '%" + Dept + "%'");
                 if (Cust != "")
                     s.Append(" and CusmorId LIKE '%" + Cust + "%'");
+                if (Comments != "")
+                    s.Append(" and Comments LIKE '%" + Comments + "%'");
                 if (createdBy != "")
                     s.Append(" and CreatedBy LIKE '%" + createdBy + "%'");
 
@@ -3017,6 +3020,9 @@ namespace VOMS_ERP.Reports
                     sb.Append(" OR DepartmentId LIKE ");
                     sb.Append(wrappedSearch);
                     sb.Append(" OR CusmorId LIKE ");
+                    sb.Append(wrappedSearch);
+
+                    sb.Append(" OR Comments LIKE ");
                     sb.Append(wrappedSearch);
 
 
@@ -3067,11 +3073,11 @@ namespace VOMS_ERP.Reports
                 string query = @"  
 							declare @MAA TABLE(EnquiryDate date, EnquireNumber nvarchar(400), ReceivedDate date, Subject nvarchar(MAX),
 							ForeignEnquireId Uniqueidentifier, StatusTypeId nvarchar(MAX), DepartmentId nvarchar(MAX), CusmorId nvarchar(MAX), 
-							IsRegret nvarchar(MAX), Remarks nvarchar(MAX), CreatedDate datetime, CreatedBy nvarchar(MAX))
+							IsRegret nvarchar(MAX), Remarks nvarchar(MAX), CreatedDate datetime, CreatedBy nvarchar(MAX), Comments nvarchar(MAX))
 							INSERT INTO @MAA ( EnquireNumber,EnquiryDate,  ReceivedDate, Subject, ForeignEnquireId ,  DepartmentId, CusmorId, 
-								StatusTypeId, IsRegret, Remarks, CreatedDate, CreatedBy)
+								StatusTypeId, IsRegret, Remarks, CreatedDate, CreatedBy,Comments)
 								Select EnquireNumber,EnquiryDate,  ReceivedDate, Subject, ForeignEnquireId ,  DepartmentId, CusmorId, 
-								StatusTypeId, IsRegret, Remarks, CreatedDate, f.Created_By from View_GetStatusFERec f
+								StatusTypeId, IsRegret, Remarks, CreatedDate, f.Created_By,f.Comments from View_GetStatusFERec f
 									{4}                   
 
 							SELECT *
@@ -3095,6 +3101,7 @@ namespace VOMS_ERP.Reports
 										   ,[@MAA].Remarks
 										   ,[@MAA].CreatedDate 
                                            ,[@MAA].CreatedBy
+                                           ,[@MAA].Comments
 									  FROM
 										  @MAA {1}) RawResults) Results WHERE
 										 RowNumber BETWEEN {2} AND {3} order by CreatedDate Desc";
@@ -3191,8 +3198,299 @@ namespace VOMS_ERP.Reports
                     sb.AppendFormat(@"""8"": ""{0}""", Remarkss.Replace(Environment.NewLine, "\\n"));
                     sb.Append(",");
 
+                    string Commentss = data["Comments"].ToString().Replace("\"", "\\\"");
+                    sb.AppendFormat(@"""9"": ""{0}""", Commentss.Replace(Environment.NewLine, "\\n"));
+                    sb.Append(",");
+
                     string createdByy = data["CreatedBy"].ToString().Replace("\"", "\\\"");
-                    sb.AppendFormat(@"""9"": ""{0}""", createdByy.Replace(Environment.NewLine, "\\n"));
+                    sb.AppendFormat(@"""10"": ""{0}""", createdByy.Replace(Environment.NewLine, "\\n"));
+                    sb.Append("},");
+
+
+                }
+                conn.Close();
+                if (totalRecords.Length == 0)
+                {
+                    sb.Append("{");
+                    sb.Append(@"""sEcho"": ");
+                    sb.AppendFormat(@"""{0}""", sEcho);
+                    sb.Append(",");
+                    sb.Append(@"""iTotalRecords"": 0");
+                    sb.Append(",");
+                    sb.Append(@"""iTotalDisplayRecords"": 0");
+                    sb.Append(", ");
+                    sb.Append(@"""aaData"": [ ");
+                    sb.Append("]}");
+                    outputJson = sb.ToString();
+
+                    return outputJson;
+                }
+                outputJson = sb.Remove(sb.Length - 1, 1).ToString();
+                sb.Clear();
+
+                sb.Append("{");
+                sb.Append(@"""sEcho"": ");
+                sb.AppendFormat(@"""{0}""", sEcho);
+                sb.Append(",");
+                sb.Append(@"""iTotalRecords"": ");
+                sb.Append(totalRecords);
+                sb.Append(",");
+                sb.Append(@"""iTotalDisplayRecords"": ");
+                sb.Append(totalDisplayRecords);
+                sb.Append(", ");
+                sb.Append(@"""aaData"": [ ");
+                sb.Append(outputJson);
+                sb.Append("]}");
+                outputJson = sb.ToString();
+
+                return outputJson;
+            }
+            catch (Exception ex)
+            {
+                ErrorLog ELog = new ErrorLog();
+                string ErrMsg = ex.Message;
+                int LineNo = ExceptionHelper.LineNumber(ex);
+                ELog.CreateErrorLog(Server.MapPath("../Logs/Enquiries/ErrorLog"), "Added Items WebService", ex.Message.ToString());
+                return "";
+            }
+        }
+
+        /// <summary>
+        /// FOR FOREIGN ENQUIRY
+        /// </summary>
+        /// <param name="toParse"></param>
+        /// <returns></returns>
+        //[WebMethod(EnableSession = true)]
+        [WebMethod(EnableSession = true)]
+        [ScriptMethod(UseHttpGet = true)]
+        [WebInvoke(ResponseFormat = WebMessageFormat.Json, BodyStyle = WebMessageBodyStyle.Bare, Method = "GET")]
+        public string GetStatusLERecv()
+        {
+            try
+            {
+                int sEcho = ToInt(HttpContext.Current.Request.Params["sEcho"]);
+                int iDisplayLength = ToInt(HttpContext.Current.Request.Params["iDisplayLength"]);
+                int iDisplayStart = ToInt(HttpContext.Current.Request.Params["iDisplayStart"]);
+                string rawSearch = HttpContext.Current.Request.Params["sSearch"];
+
+                string FeNo = HttpContext.Current.Request.Params["sSearch_0"];
+                string date = HttpContext.Current.Request.Params["sSearch_1"];
+                string FloatedTo = HttpContext.Current.Request.Params["sSearch_2"];
+                string FloatedNo = HttpContext.Current.Request.Params["sSearch_3"];
+                string FloatDate = HttpContext.Current.Request.Params["sSearch_4"];
+                string Cust = HttpContext.Current.Request.Params["sSearch_5"];
+                string Comments = HttpContext.Current.Request.Params["sSearch_6"];
+
+                StringBuilder s = new StringBuilder();
+                if (date != "")
+                {
+                    if (date != "~")
+                    {
+                        DateTime FrmDt = date.Split('~')[0].ToString() == "" ? CommonBLL.StartDate : CommonBLL.DateCheck(date.Split('~')[0].ToString());
+                        DateTime EndDat = date.Split('~')[1].ToString() == "" ? CommonBLL.EndDate : CommonBLL.DateCheck(date.Split('~')[1].ToString());
+                        if (FrmDt.ToShortDateString() != "1/1/0001" && EndDat.ToShortDateString() != "1/1/0001")
+                            s.Append(" and ForeignEnquiryDate  between '" + FrmDt.ToString("MM/dd/yyyy") + "' and '" + EndDat.ToString("MM/dd/yyyy") + "'");
+                    }
+                }
+                if (FeNo != "")
+                    s.Append(" and [Foreign EnquireNo] LIKE '%" + FeNo + "%'");
+                if (FloatDate != "")
+                {
+                    if (FloatDate != "~")
+                    {
+                        DateTime FrmDt = FloatDate.Split('~')[0].ToString() == "" ? CommonBLL.StartDate : CommonBLL.DateCheck(FloatDate.Split('~')[0].ToString());
+                        DateTime EndDat = FloatDate.Split('~')[1].ToString() == "" ? CommonBLL.EndDate : CommonBLL.DateCheck(FloatDate.Split('~')[1].ToString());
+                        if (FrmDt.ToShortDateString() != "1/1/0001" && EndDat.ToShortDateString() != "1/1/0001")
+                            s.Append(" and LEIssueDate between '" + FrmDt.ToString("MM/dd/yyyy") + "' and '" + EndDat.ToString("MM/dd/yyyy") + "'");
+                    }
+                }
+                if (FloatedTo != "")
+                    s.Append(" and Suppliers LIKE '%" + FloatedTo + "%'");
+                if (FloatedNo != "")
+                    s.Append(" and EnquireNumber LIKE '%" + FloatedNo + "%'");
+
+                if (Cust != "")
+                    s.Append(" and CustomerName LIKE '%" + Cust + "%'");
+                if (Comments != "")
+                    s.Append(" and Comments LIKE '%" + Comments + "%'");
+
+                var sb = new StringBuilder();
+                var filteredWhere = string.Empty;
+                var wrappedSearch = "'%" + rawSearch + "%'";
+                if (rawSearch.Length > 0)
+                {
+                    sb.Append(" WHERE ForeignEnquiryDate LIKE ");
+                    sb.Append(wrappedSearch);
+                    sb.Append(" OR EnquireNumber LIKE ");
+                    sb.Append(wrappedSearch);
+                    sb.Append(" OR LEIssueDate LIKE ");
+                    sb.Append(wrappedSearch);
+                    sb.Append(" OR Suppliers LIKE ");
+                    sb.Append(wrappedSearch);
+                    sb.Append(" OR [Foreign EnquireNo] LIKE ");
+                    sb.Append(wrappedSearch);
+                    sb.Append(" OR CustomerName LIKE ");
+                    sb.Append(wrappedSearch);
+                    sb.Append(" OR Comments LIKE ");
+                    sb.Append(wrappedSearch);
+
+                    filteredWhere = sb.ToString();
+                }
+
+
+                ////ORDERING
+
+                sb.Clear();
+
+                string orderByClause = string.Empty;
+                sb.Append(ToInt(HttpContext.Current.Request.Params["iSortCol_0"]));
+
+                sb.Append(" ");
+
+                sb.Append(HttpContext.Current.Request.Params["sSortDir_0"]);
+
+                orderByClause = "0 DESC";
+
+                if (!String.IsNullOrEmpty(orderByClause))
+                {
+
+                    orderByClause = orderByClause.Replace("0", ", EnquireNumber ");
+                    //orderByClause = orderByClause.Replace("1", ", EnquireNumber ");
+                    //orderByClause = orderByClause.Replace("2", ", ReceivedDate ");
+                    //orderByClause = orderByClause.Replace("3", ", Subject ");
+                    //orderByClause = orderByClause.Replace("4", ", ForeignEnquireId ");
+                    //orderByClause = orderByClause.Replace("5", ", StatusTypeId ");
+                    //orderByClause = orderByClause.Replace("6", ", DepartmentId ");
+                    //orderByClause = orderByClause.Replace("7", ", CusmorId ");
+                    //orderByClause = orderByClause.Replace("8", ", MAIL ");
+                    //orderByClause = orderByClause.Replace("9", ", EDIT ");
+                    //orderByClause = orderByClause.Replace("10", ", Delt ");
+                    orderByClause = orderByClause.Remove(0, 1);
+                }
+                else
+                {
+                    orderByClause = "ID ASC";
+                }
+                orderByClause = "ORDER BY " + orderByClause;
+
+                sb.Clear();
+
+                var numberOfRowsToReturn = "";
+                numberOfRowsToReturn = iDisplayLength == -1 ? "TotalRows" : (iDisplayStart + iDisplayLength).ToString();
+
+                string query = @"  
+							declare @MAA TABLE( EnquireNumber nvarchar(400),EnquiryDate nvarchar(MAX), FloatedTo nvarchar(MAX), FloatedNo nvarchar(MAX),
+							   FloatedDate  nvarchar(MAX), CustomerName nvarchar(MAX),Comments nvarchar(MAX),CreatedDate datetime,IsActive nvarchar(400))
+							INSERT INTO @MAA ( EnquireNumber,EnquiryDate,  FloatedTo, FloatedNo, FloatedDate,  CustomerName, Comments,CreatedDate,IsActive)
+								select l.[Foreign EnquireNo] as [FE No.],convert(varchar(12),l.ForeignEnquiryDate,103) as [FE Date],l.Suppliers as [Floated To],  
+                                l.EnquireNumber as [Floated No], convert(varchar(12),l.LEIssueDate,103) as [Floated Date],    
+                                 l.CustomerName,l.Comments,l.CreatedDate,l.IsActive from View_LE_Search l
+									{4}                   
+
+							SELECT *
+							FROM
+								(SELECT row_number() OVER ({0}) AS RowNumber
+									  , *
+								 FROM
+									 (SELECT (SELECT count([@MAA].EnquireNumber)
+											  FROM
+												  @MAA) AS TotalRows
+										   , ( SELECT  count( [@MAA].EnquireNumber) FROM @MAA {1}) AS TotalDisplayRows			   
+										   ,[@MAA].EnquireNumber
+										   ,[@MAA].EnquiryDate     
+										   ,[@MAA].FloatedTo
+										   ,[@MAA].FloatedNo
+										   ,[@MAA].FloatedDate     
+										   ,[@MAA].CustomerName 
+										   ,[@MAA].Comments 
+										   ,[@MAA].CreatedDate  
+									  FROM
+										  @MAA {1}) RawResults) Results WHERE
+										 RowNumber BETWEEN {2} AND {3} order by CreatedDate Desc";
+
+                Guid CompanyID = new Guid(Session["CompanyID"].ToString());
+                query = String.Format(query, orderByClause, filteredWhere, iDisplayStart + 1, numberOfRowsToReturn, s.ToString() == "" ?
+                    "where l.IsActive <> 0 and l.CompanyId =" + "'" + CompanyID + "'" : "where l.IsActive <> 0  and l.CompanyId = " + "'" + CompanyID + "'" + s.ToString());
+                s.Clear();
+                var connectionString = ConfigurationManager.ConnectionStrings["Constring"].ConnectionString;
+                SqlConnection conn = new SqlConnection(connectionString);
+
+                if (conn.State == ConnectionState.Closed)
+                    conn.Open();
+
+                var DB = new SqlCommand();
+                DB.Connection = conn;
+                DB.CommandText = query;
+                var data = DB.ExecuteReader();
+
+                var totalDisplayRecords = "";
+                var totalRecords = "";
+                string outputJson = string.Empty;
+
+                var rowClass = "";
+                var count = 0;
+
+                while (data.Read())
+                {
+
+                    if (totalRecords.Length == 0)
+                    {
+                        totalRecords = data["TotalRows"].ToString();
+                        totalDisplayRecords = data["TotalDisplayRows"].ToString();
+                    }
+                    sb.Append("{");
+                    sb.AppendFormat(@"""DT_RowId"": ""{0}""", data["EnquireNumber"].ToString());
+                    sb.Append(",");
+                    sb.AppendFormat(@"""DT_RowClass"": ""{0}""", rowClass);
+                    sb.Append(",");
+
+
+                    string EnqNo = data["EnquireNumber"].ToString().Replace("\"", "\\\"");
+                    //string EnqId = data["EnquireNumber"].ToString().Replace("\"", "\\\"");
+
+                    EnqNo = EnqNo.Replace("\t", "-");
+                    sb.AppendFormat(@"""0"": ""{0}""", EnqNo.Replace(Environment.NewLine, "\\n"));
+                    sb.Append(",");
+                    if ((data["EnquiryDate"]) == "9999-12-31")
+                    {
+                        sb.AppendFormat(@"""1"": ""{0:dd/MM/yyyy}""", "");
+                        sb.Append(",");
+                    }
+                    else
+                    {
+                        sb.AppendFormat(@"""1"": ""{0:dd/MM/yyyy}""", data["EnquiryDate"]);
+                        sb.Append(",");
+                    }
+
+                    if ((data["FloatedDate"]) == "9999-12-31")
+                    {
+                        sb.AppendFormat(@"""4"": ""{0:dd/MM/yyyy}""", "");
+                        sb.Append(",");
+                    }
+                    else
+                    {
+                        sb.AppendFormat(@"""4"": ""{0:dd/MM/yyyy}""", data["FloatedDate"]);
+                        sb.Append(",");
+                    }
+
+                    string Subjt = data["FloatedTo"].ToString().Replace("\"", "\\\"");
+                    Subjt = Subjt.Replace("\t", "-");
+                    sb.AppendFormat(@"""2"": ""{0}""", Subjt.Replace(Environment.NewLine, "\\n"));
+                    sb.Append(",");
+
+                    string DeptID = data["FloatedNo"].ToString().Replace("\"", "\\\"");
+                    DeptID = DeptID.Replace("\t", "-");
+                    sb.AppendFormat(@"""3"": ""{0}""", DeptID.Replace(Environment.NewLine, "\\n"));
+                    sb.Append(",");
+
+                    string CustID = data["CustomerName"].ToString().Replace("\"", "\\\"");
+                    CustID = CustID.Replace("\t", "-");
+                    sb.AppendFormat(@"""5"": ""{0}""", CustID.Replace(Environment.NewLine, "\\n"));
+                    sb.Append(",");
+
+                    string StatIDd = data["Comments"].ToString().Replace("\"", "\\\"");
+                    StatIDd = StatIDd.Replace("\t", "-");
+                    sb.AppendFormat(@"""6"": ""{0}""", StatIDd.Replace(Environment.NewLine, "\\n"));
                     sb.Append("},");
 
 
@@ -3271,7 +3569,8 @@ namespace VOMS_ERP.Reports
                 string Cust = HttpContext.Current.Request.Params["sSearch_5"];
                 string Stat = HttpContext.Current.Request.Params["sSearch_6"];
                 string Remarks = HttpContext.Current.Request.Params["sSearch_7"];
-                string CreatedBy = HttpContext.Current.Request.Params["sSearch_8"];
+                string Comments = HttpContext.Current.Request.Params["sSearch_8"];
+                string CreatedBy = HttpContext.Current.Request.Params["sSearch_9"];
                 StringBuilder s = new StringBuilder();
                 if (FENo != "")
                     s.Append(" and EnquireNumber LIKE '%" + FENo + "%'");
@@ -3315,6 +3614,8 @@ namespace VOMS_ERP.Reports
                     s.Append(" and Remarks LIKE '%" + Remarks + "%'");
                 if (CreatedBy != "")
                     s.Append(" and CreatedBy LIKE '%" + CreatedBy + "%'");
+                if (Comments != "")
+                    s.Append(" and Comments LIKE '%" + Comments + "%'");
 
                 var sb = new StringBuilder();
 
@@ -3340,6 +3641,9 @@ namespace VOMS_ERP.Reports
                     sb.Append(wrappedSearch);
                     sb.Append(" OR Remarks LIKE ");
                     sb.Append(wrappedSearch);
+                    sb.Append(" OR Comments LIKE ");
+                    sb.Append(wrappedSearch);
+
                     sb.Append(" OR CreatedBy LIKE ");
                     sb.Append(wrappedSearch);
 
@@ -3375,10 +3679,10 @@ namespace VOMS_ERP.Reports
 
                 string query = @"  
 						declare @MAA TABLE(FQID uniqueidentifier,FEID uniqueidentifier,ForeignQuotationId uniqueidentifier,EnquireNumber nvarchar(MAX),EnquiryDate date,Quotationnumber nvarchar(MAX),QuotationDate date,
-						TotalAmount nvarchar(MAX),CustomerName nvarchar(MAX), Stat bigint, Remarks nvarchar(MAX),CreatedBy nvarchar(MAX), CompanyId uniqueidentifier);
+						TotalAmount nvarchar(MAX),CustomerName nvarchar(MAX), Stat bigint, Remarks nvarchar(MAX),CreatedBy nvarchar(MAX), CompanyId uniqueidentifier,Comments nvarchar(MAX));
 						
-						INSERT INTO @MAA (FQID,FEID,ForeignQuotationId, EnquireNumber,EnquiryDate,Quotationnumber,QuotationDate,TotalAmount,CustomerName,Stat,Remarks,CreatedBy,CompanyId)
-						SELECT FQID,FEID,FrnQuotationID,EnquireNumber,EnquiryDate,Quotationnumber,QuotationDate,TotalAmount,CustomerName,StatusTypeId,Remarks,CreatedBy,CompanyId from View_FPOAwaited b
+						INSERT INTO @MAA (FQID,FEID,ForeignQuotationId, EnquireNumber,EnquiryDate,Quotationnumber,QuotationDate,TotalAmount,CustomerName,Stat,Remarks,CreatedBy,CompanyId,Comments)
+						SELECT FQID,FEID,FrnQuotationID,EnquireNumber,EnquiryDate,Quotationnumber,QuotationDate,TotalAmount,CustomerName,StatusTypeId,Remarks,CreatedBy,CompanyId,Comments from View_FPOAwaited b
 							{4}
 							select * From 
 								
@@ -3401,7 +3705,8 @@ namespace VOMS_ERP.Reports
 										   ,[@MAA].Stat
 										   ,[@MAA].Remarks
                                            ,[@MAA].CreatedBy
-										   ,[@MAA].CompanyId         
+										   ,[@MAA].CompanyId   
+                                           ,[@MAA].Comments       
 									  FROM
 										  @MAA {1}) RawResults) Results 
 											
@@ -3483,8 +3788,13 @@ namespace VOMS_ERP.Reports
                     string Remarkss = data["Remarks"].ToString().Replace("\"", "\\\"");
                     sb.AppendFormat(@"""7"": ""{0}""", Remarkss.Replace(Environment.NewLine, "\\n"));
                     sb.Append(",");
+
+                    string Commentss = data["Comments"].ToString().Replace("\"", "\\\"");
+                    sb.AppendFormat(@"""8"": ""{0}""", Commentss.Replace(Environment.NewLine, "\\n"));
+                    sb.Append(",");
+
                     string CreatedB = data["CreatedBy"].ToString().Replace("\"", "\\\"");
-                    sb.AppendFormat(@"""8"": ""{0}""", CreatedB.Replace(Environment.NewLine, "\\n"));
+                    sb.AppendFormat(@"""9"": ""{0}""", CreatedB.Replace(Environment.NewLine, "\\n"));
                     sb.Append("},");
                 }
                 conn.Close();
@@ -3569,7 +3879,8 @@ namespace VOMS_ERP.Reports
                 string Cust = HttpContext.Current.Request.Params["sSearch_5"];
                 string Stat = HttpContext.Current.Request.Params["sSearch_6"];
                 string Remarks = HttpContext.Current.Request.Params["sSearch_7"];
-                string CreatedBy = HttpContext.Current.Request.Params["sSearch_8"];
+                string Comments = HttpContext.Current.Request.Params["sSearch_8"];
+                string CreatedBy = HttpContext.Current.Request.Params["sSearch_9"];
 
                 StringBuilder s = new StringBuilder();
                 if (FpoNo != "")
@@ -3601,8 +3912,10 @@ namespace VOMS_ERP.Reports
                     s.Append(" and  Stat LIKE '%" + Stat + "%'");
                 if (Remarks != "")
                     s.Append(" and Remarks LIKE '%" + Remarks + "%'");
+                if (Comments != "")
+                    s.Append(" and Comments LIKE '%" + Comments + "%'");
                 if (CreatedBy != "")
-                    s.Append(" and CreatedBy LIKE '%" + Remarks + "%'");
+                    s.Append(" and CreatedBy LIKE '%" + CreatedBy + "%'");
 
 
                 //var sb = new StringBuilder();
@@ -3632,6 +3945,8 @@ namespace VOMS_ERP.Reports
                     sb.Append(" OR Stat LIKE ");
                     sb.Append(wrappedSearch);
                     sb.Append(" OR Remarks LIKE ");
+                    sb.Append(wrappedSearch);
+                    sb.Append(" OR Comments LIKE ");
                     sb.Append(wrappedSearch);
                     sb.Append(" OR CreatedBy LIKE ");
                     sb.Append(wrappedSearch);
@@ -3668,11 +3983,11 @@ namespace VOMS_ERP.Reports
 
                 string query = @"  
 						declare @MAA TABLE(FpoId uniqueidentifier,FpoNum nvarchar(max),FpoDate datetime, FEID uniqueidentifier,ForeignQuotationId uniqueidentifier,EnquireNumber nvarchar(MAX),EnquiryDate date,Quotationnumber nvarchar(MAX),QuotationDate date,
-						TotalAmount nvarchar(MAX),CustomerName nvarchar(MAX), Stat nvarchar(50), Remarks nvarchar(MAX), CreatedBy nvarchar(MAX));
+						TotalAmount nvarchar(MAX),CustomerName nvarchar(MAX), Stat nvarchar(50), Remarks nvarchar(MAX), CreatedBy nvarchar(MAX), Comments nvarchar(MAX));
 
-						INSERT INTO @MAA (FpoId,FpoNum,FpoDate, EnquireNumber,EnquiryDate,TotalAmount,CustomerName,Stat,Remarks, CreatedBy)
+						INSERT INTO @MAA (FpoId,FpoNum,FpoDate, EnquireNumber,EnquiryDate,TotalAmount,CustomerName,Stat,Remarks, CreatedBy,Comments)
                         
-                        Select FpoId,FpoNum,FpoDate, EnquireNumber,EnquiryDate,TotalAmount,CustomerName,Stat,Remarks, fp.CreatedBy from View_GetFPOStatus fp where fp.StatusTypeId >= 50 and  fp.StatusTypeId < 60
+                        Select FpoId,FpoNum,FpoDate, EnquireNumber,EnquiryDate,TotalAmount,CustomerName,Stat,Remarks, fp.CreatedBy,fp.Comments from View_GetFPOStatus fp where fp.StatusTypeId >= 50 and  fp.StatusTypeId < 60
 						
 						{4}
 						select * From
@@ -3692,6 +4007,8 @@ namespace VOMS_ERP.Reports
 										   ,[@MAA].Stat
 										   ,[@MAA].Remarks
                                            ,[@MAA].CreatedBy
+                                           ,[@MAA].Comments
+                                            
 									  FROM
 										  @MAA {1}) RawResults) Results 
 											
@@ -3784,8 +4101,12 @@ namespace VOMS_ERP.Reports
                     sb.AppendFormat(@"""7"": ""{0}""", Remarkss.Replace(Environment.NewLine, "\\n"));
                     sb.Append(",");
 
+                    string Commentss = data["Comments"].ToString().Replace("\"", "\\\"");
+                    sb.AppendFormat(@"""8"": ""{0}""", Commentss.Replace(Environment.NewLine, "\\n"));
+                    sb.Append(",");
+
                     string CreatedByy = data["CreatedBy"].ToString().Replace("\"", "\\\"");
-                    sb.AppendFormat(@"""8"": ""{0}""", CreatedByy.Replace(Environment.NewLine, "\\n"));
+                    sb.AppendFormat(@"""9"": ""{0}""", CreatedByy.Replace(Environment.NewLine, "\\n"));
                     sb.Append("},");
                 }
                 conn.Close();
