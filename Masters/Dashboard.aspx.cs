@@ -56,7 +56,9 @@ namespace VOMS_ERP.Masters
 
                     if (!IsPostBack)
                     {
-                        if (Session["AccessRole"] != null && Session["AccessRole"].ToString() == "Customer")
+                        if (Session["UserMail"].ToString() == "msrvprasad@gmail.com")
+                            Response.Redirect("~/Enquiries/FeStatusOverView.aspx", false);
+                        else if (Session["AccessRole"] != null && Session["AccessRole"].ToString() == "Customer")
                         {
                             Response.Redirect("~/Masters/Home.aspx", false);
                         }
