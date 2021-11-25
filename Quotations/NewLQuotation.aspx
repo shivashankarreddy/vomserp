@@ -596,11 +596,8 @@
         }
 
         function CheckExDuty(obj) {
-            var ExDuty = 0;
-            if ($('[id$=txtPercent]').length > 0) {
-                var txtExDuty = GetClientID("txtPercent" + (parseInt(obj))).attr("id"); //txtPercent
-                ExDuty = $('#' + txtExDuty).val();
-            }
+            var txtExDuty = GetClientID("txtPercent" + (parseInt(obj))).attr("id"); //txtPercent
+            var ExDuty = $('#' + txtExDuty).val();
             var ExChk = $("[id$=rbtnExdt]").find(":checked").val();
             if (ExDuty > 99.99 && ExChk == 0) {
 
@@ -776,13 +773,6 @@
         }
     </script>
     <script type="text/javascript">
-
-        function scroll2Row(rowID) {
-            var trHeight = $('#tblItems tbody tr').eq(0).height();
-            var scroll = parseInt(rowID - 2) * trHeight;
-            $('#ctl00_ContentPlaceHolder1_divLQItems').scrollTop(scroll);
-        }
-
         function FillItemGrid(obj1, obj2) {
             var ddl = GetClientID("ddl" + (parseInt(obj2) + 1)).attr("id");
             var obj3 = $('#' + ddl).val();
@@ -998,11 +988,8 @@
             var Rmrks = $('#' + txtRmrks).val();
             var txtDiscount = GetClientID("txtDiscount" + (parseInt(obj))).attr("id");
             var Discount = $('#' + txtDiscount).val();
-            var ExDuty = 0;
-            if ($('[id$=txtPercent]').length > 0) {
-                var txtExDuty = GetClientID("txtPercent" + (parseInt(obj))).attr("id");
-                ExDuty = (txtExDuty == undefined ? "0" : $('#' + txtExDuty).val()); if (txtExDuty == '') { txtExDuty = 0.00; ExDuty = 0; }
-            }
+            var txtExDuty = GetClientID("txtPercent" + (parseInt(obj))).attr("id");
+            var ExDuty = (txtExDuty == undefined ? "0" : $('#' + txtExDuty).val()); if (txtExDuty == '') { txtExDuty = 0.00; ExDuty = 0; }
             var ChkChaild = GetClientID("ckhChaild" + (parseInt(obj))).attr("id");
             var Chaild = $('#' + ChkChaild).is(':checked');
 
@@ -1142,12 +1129,12 @@
 
                         }
                         else if (ExDuty == '' || ExDuty == '.') {
-                            if ($('[id$=txtPercent]').length > 0) {
-                                var txtExDuty = GetClientID("txtPercent" + (parseInt(obj))).attr("id");
-                                $('#' + txtExDuty).val('0.00');
-                                $('[id$=' + txtExDuty + ']').focus();
-                                ErrorMessage('ExDutyPercentage Cannot Be Empty.');
-                            }
+                            var txtExDuty = GetClientID("txtPercent" + (parseInt(obj))).attr("id");
+                            $('#' + txtExDuty).val('0.00');
+                            $('[id$=' + txtExDuty + ']').focus();
+
+                            ErrorMessage('ExDutyPercentage Cannot Be Empty.');
+
                         }
                         else if (qty == '' || qty == '.') {
                             var txtqty = GetClientID("txtQuantity" + (parseInt(obj))).attr("id");
@@ -1210,7 +1197,6 @@
                 $('[id$=dvDsnt]').hide();
             }
             Expnder();
-            scroll2Row(obj);
         }
 
         function doConfirm(id) {
@@ -1973,12 +1959,8 @@
                 var Rmrks = $('#' + txtRmrks).val();
                 var txtDiscount = GetClientID("txtDiscount" + (parseInt(obj))).attr("id");
                 var Discount = $('#' + txtDiscount).val();
-                var ExDuty = 0;
-                if ($('[id$=txtPercent]').length > 0) {
-                    var txtExDuty = GetClientID("txtPercent" + (parseInt(obj))).attr("id");
-                    ExDuty = (txtExDuty == undefined ? "0" : $('#' + txtExDuty).val());
-                }
-
+                var txtExDuty = GetClientID("txtPercent" + (parseInt(obj))).attr("id");
+                var ExDuty = (txtExDuty == undefined ? "0" : $('#' + txtExDuty).val());
                 var lblGrandTotal = GetClientID("spnGrandTotal" + (parseInt(obj))).attr("id");
                 var GrandTotal = $('#' + lblGrandTotal).text(); if (GrandTotal == '') { GrandTotal = 0.00; }
                 var ChkChaild = GetClientID("ckhChaild" + (parseInt(obj))).attr("id");
@@ -2053,12 +2035,12 @@
 
                         }
                         else if (ExDuty == '' || ExDuty == '.') {
-                            if ($('[id$=txtPercent]').length > 0) {
-                                var txtExDuty = GetClientID("txtPercent" + (parseInt(obj))).attr("id");
-                                $('#' + txtExDuty).val('0.00');
-                                $('[id$=' + txtExDuty + ']').focus();
-                                ErrorMessage('ExDutyPercentage Cannot Be Empty.');
-                            }
+                            var txtExDuty = GetClientID("txtPercent" + (parseInt(obj))).attr("id");
+                            $('#' + txtExDuty).val('0.00');
+                            $('[id$=' + txtExDuty + ']').focus();
+
+                            ErrorMessage('ExDutyPercentage Cannot Be Empty.');
+
                         }
                         else if (qty == '' || qty == '.') {
                             var txtqty = GetClientID("txtQuantity" + (parseInt(obj))).attr("id");
@@ -2070,7 +2052,6 @@
                         }
                     }
                 }
-                scroll2Row(obj);
             }
             catch (Error) {
                 ErrorMessage(Error.Message);

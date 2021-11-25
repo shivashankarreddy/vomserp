@@ -273,7 +273,7 @@
           </TableAdapter>
           <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="SP_ShipmentPrfINV_RDLCTableAdapter" GeneratorDataComponentClassName="SP_ShipmentPrfINV_RDLCTableAdapter" Name="SP_ShipmentPrfINV_RDLC" UserDataComponentName="SP_ShipmentPrfINV_RDLCTableAdapter">
             <MainSource>
-              <DbSource ConnectionRef="Constring (Web.config)" DbObjectName="VOMS_UAT_V2_100417.dbo.SP_ShipmentPrfINV_RDLC" DbObjectType="StoredProcedure" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="false" UserGetMethodName="GetData" UserSourceName="Fill">
+              <DbSource ConnectionRef="Constring (Web.config)" DbObjectName="voms.dbo.SP_ShipmentPrfINV_RDLC" DbObjectType="StoredProcedure" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="false" UserGetMethodName="GetData" UserSourceName="Fill">
                 <SelectCommand>
                   <DbCommand CommandType="StoredProcedure" ModifiedByUser="false">
                     <CommandText>dbo.SP_ShipmentPrfINV_RDLC</CommandText>
@@ -308,6 +308,10 @@
               <Mapping SourceColumn="FreightAmount" DataSetColumn="FreightAmount" />
               <Mapping SourceColumn="FPOSNo" DataSetColumn="FPOSNo" />
               <Mapping SourceColumn="Spec_Make" DataSetColumn="Spec_Make" />
+              <Mapping SourceColumn="EndUserCode" DataSetColumn="EndUserCode" />
+              <Mapping SourceColumn="IntegratedTax" DataSetColumn="IntegratedTax" />
+              <Mapping SourceColumn="ForeignPOId" DataSetColumn="ForeignPOId" />
+              <Mapping SourceColumn="HSCode" DataSetColumn="HSCode" />
             </Mappings>
             <Sources />
           </TableAdapter>
@@ -804,7 +808,7 @@
           </TableAdapter>
           <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="SP_PackingListRDLCTableAdapter" GeneratorDataComponentClassName="SP_PackingListRDLCTableAdapter" Name="SP_PackingListRDLC" UserDataComponentName="SP_PackingListRDLCTableAdapter">
             <MainSource>
-              <DbSource ConnectionRef="Constring (Web.config)" DbObjectName="VOMS_UAT_V2_100417.dbo.SP_PackingListRDLC" DbObjectType="StoredProcedure" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="false" UserGetMethodName="GetData" UserSourceName="Fill">
+              <DbSource ConnectionRef="Constring (Web.config)" DbObjectName="voms.dbo.SP_PackingListRDLC" DbObjectType="StoredProcedure" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="false" UserGetMethodName="GetData" UserSourceName="Fill">
                 <SelectCommand>
                   <DbCommand CommandType="StoredProcedure" ModifiedByUser="false">
                     <CommandText>dbo.SP_PackingListRDLC</CommandText>
@@ -817,9 +821,9 @@
               </DbSource>
             </MainSource>
             <Mappings>
+              <Mapping SourceColumn="FPOId" DataSetColumn="FPOId" />
               <Mapping SourceColumn="SrNo" DataSetColumn="SrNo" />
               <Mapping SourceColumn="SNo" DataSetColumn="SNo" />
-              <Mapping SourceColumn="FPOId" DataSetColumn="FPOId" />
               <Mapping SourceColumn="ItemID" DataSetColumn="ItemID" />
               <Mapping SourceColumn="CustName" DataSetColumn="CustName" />
               <Mapping SourceColumn="TotalPkgs" DataSetColumn="TotalPkgs" />
@@ -835,6 +839,7 @@
               <Mapping SourceColumn="HSCode" DataSetColumn="HSCode" />
               <Mapping SourceColumn="FPONmbr" DataSetColumn="FPONmbr" />
               <Mapping SourceColumn="PkgNos" DataSetColumn="PkgNos" />
+              <Mapping SourceColumn="Remarks" DataSetColumn="Remarks" />
             </Mappings>
             <Sources />
           </TableAdapter>
@@ -1625,7 +1630,7 @@
         <xs:element name="SP_ShipmentPrfINV_RDLC" msprop:Generator_TableClassName="SP_ShipmentPrfINV_RDLCDataTable" msprop:Generator_TableVarName="tableSP_ShipmentPrfINV_RDLC" msprop:Generator_RowChangedName="SP_ShipmentPrfINV_RDLCRowChanged" msprop:Generator_TablePropName="SP_ShipmentPrfINV_RDLC" msprop:Generator_RowDeletingName="SP_ShipmentPrfINV_RDLCRowDeleting" msprop:Generator_RowChangingName="SP_ShipmentPrfINV_RDLCRowChanging" msprop:Generator_RowEvHandlerName="SP_ShipmentPrfINV_RDLCRowChangeEventHandler" msprop:Generator_RowDeletedName="SP_ShipmentPrfINV_RDLCRowDeleted" msprop:Generator_RowClassName="SP_ShipmentPrfINV_RDLCRow" msprop:Generator_UserTableName="SP_ShipmentPrfINV_RDLC" msprop:Generator_RowEvArgName="SP_ShipmentPrfINV_RDLCRowChangeEvent">
           <xs:complexType>
             <xs:sequence>
-              <xs:element name="Description" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnDescription" msprop:Generator_ColumnPropNameInRow="Description" msprop:Generator_ColumnPropNameInTable="DescriptionColumn" msprop:Generator_UserColumnName="Description" minOccurs="0">
+              <xs:element name="Description" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnDescription" msprop:Generator_ColumnPropNameInRow="Description" msprop:Generator_ColumnPropNameInTable="DescriptionColumn" msprop:Generator_UserColumnName="Description">
                 <xs:simpleType>
                   <xs:restriction base="xs:string">
                     <xs:maxLength value="2147483647" />
@@ -1731,6 +1736,34 @@
               <xs:element name="FreightAmount" msprop:Generator_ColumnVarNameInTable="columnFreightAmount" msprop:Generator_ColumnPropNameInRow="FreightAmount" msprop:Generator_ColumnPropNameInTable="FreightAmountColumn" msprop:Generator_UserColumnName="FreightAmount" type="xs:decimal" minOccurs="0" />
               <xs:element name="FPOSNo" msprop:Generator_ColumnVarNameInTable="columnFPOSNo" msprop:Generator_ColumnPropNameInRow="FPOSNo" msprop:Generator_ColumnPropNameInTable="FPOSNoColumn" msprop:Generator_UserColumnName="FPOSNo" type="xs:int" />
               <xs:element name="Spec_Make" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnSpec_Make" msprop:Generator_ColumnPropNameInRow="Spec_Make" msprop:Generator_ColumnPropNameInTable="Spec_MakeColumn" msprop:Generator_UserColumnName="Spec_Make" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="2147483647" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="EndUserCode" msprop:Generator_ColumnVarNameInTable="columnEndUserCode" msprop:Generator_ColumnPropNameInRow="EndUserCode" msprop:Generator_ColumnPropNameInTable="EndUserCodeColumn" msprop:Generator_UserColumnName="EndUserCode" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="250" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="IntegratedTax" msprop:Generator_ColumnVarNameInTable="columnIntegratedTax" msprop:Generator_ColumnPropNameInRow="IntegratedTax" msprop:Generator_ColumnPropNameInTable="IntegratedTaxColumn" msprop:Generator_UserColumnName="IntegratedTax" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="ForeignPOId" msprop:Generator_ColumnVarNameInTable="columnForeignPOId" msprop:Generator_ColumnPropNameInRow="ForeignPOId" msprop:Generator_ColumnPropNameInTable="ForeignPOIdColumn" msprop:Generator_UserColumnName="ForeignPOId">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="2147483647" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="HSCode" msprop:Generator_ColumnVarNameInTable="columnHSCode" msprop:Generator_ColumnPropNameInRow="HSCode" msprop:Generator_ColumnPropNameInTable="HSCodeColumn" msprop:Generator_UserColumnName="HSCode" minOccurs="0">
                 <xs:simpleType>
                   <xs:restriction base="xs:string">
                     <xs:maxLength value="2147483647" />
@@ -2828,9 +2861,9 @@
         <xs:element name="SP_PackingListRDLC" msprop:Generator_TableClassName="SP_PackingListRDLCDataTable" msprop:Generator_TableVarName="tableSP_PackingListRDLC" msprop:Generator_RowChangedName="SP_PackingListRDLCRowChanged" msprop:Generator_TablePropName="SP_PackingListRDLC" msprop:Generator_RowDeletingName="SP_PackingListRDLCRowDeleting" msprop:Generator_RowChangingName="SP_PackingListRDLCRowChanging" msprop:Generator_RowEvHandlerName="SP_PackingListRDLCRowChangeEventHandler" msprop:Generator_RowDeletedName="SP_PackingListRDLCRowDeleted" msprop:Generator_RowClassName="SP_PackingListRDLCRow" msprop:Generator_UserTableName="SP_PackingListRDLC" msprop:Generator_RowEvArgName="SP_PackingListRDLCRowChangeEvent">
           <xs:complexType>
             <xs:sequence>
+              <xs:element name="FPOId" msdata:DataType="System.Guid, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" msprop:Generator_ColumnVarNameInTable="columnFPOId" msprop:Generator_ColumnPropNameInRow="FPOId" msprop:Generator_ColumnPropNameInTable="FPOIdColumn" msprop:Generator_UserColumnName="FPOId" type="xs:string" />
               <xs:element name="SrNo" msprop:Generator_ColumnVarNameInTable="columnSrNo" msprop:Generator_ColumnPropNameInRow="SrNo" msprop:Generator_ColumnPropNameInTable="SrNoColumn" msprop:Generator_UserColumnName="SrNo" type="xs:int" />
               <xs:element name="SNo" msdata:ReadOnly="true" msdata:AutoIncrement="true" msdata:AutoIncrementSeed="-1" msdata:AutoIncrementStep="-1" msprop:Generator_ColumnVarNameInTable="columnSNo" msprop:Generator_ColumnPropNameInRow="SNo" msprop:Generator_ColumnPropNameInTable="SNoColumn" msprop:Generator_UserColumnName="SNo" type="xs:long" />
-              <xs:element name="FPOId" msdata:DataType="System.Guid, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" msprop:Generator_ColumnVarNameInTable="columnFPOId" msprop:Generator_ColumnPropNameInRow="FPOId" msprop:Generator_ColumnPropNameInTable="FPOIdColumn" msprop:Generator_UserColumnName="FPOId" type="xs:string" />
               <xs:element name="ItemID" msdata:DataType="System.Guid, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" msprop:Generator_ColumnVarNameInTable="columnItemID" msprop:Generator_ColumnPropNameInRow="ItemID" msprop:Generator_ColumnPropNameInTable="ItemIDColumn" msprop:Generator_UserColumnName="ItemID" type="xs:string" />
               <xs:element name="CustName" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnCustName" msprop:Generator_ColumnPropNameInRow="CustName" msprop:Generator_ColumnPropNameInTable="CustNameColumn" msprop:Generator_UserColumnName="CustName" minOccurs="0">
                 <xs:simpleType>
@@ -2878,7 +2911,7 @@
               <xs:element name="PartNumber" msprop:Generator_ColumnVarNameInTable="columnPartNumber" msprop:Generator_ColumnPropNameInRow="PartNumber" msprop:Generator_ColumnPropNameInTable="PartNumberColumn" msprop:Generator_UserColumnName="PartNumber" minOccurs="0">
                 <xs:simpleType>
                   <xs:restriction base="xs:string">
-                    <xs:maxLength value="400" />
+                    <xs:maxLength value="2147483647" />
                   </xs:restriction>
                 </xs:simpleType>
               </xs:element>
@@ -2901,7 +2934,7 @@
               <xs:element name="FPONmbr" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnFPONmbr" msprop:Generator_ColumnPropNameInRow="FPONmbr" msprop:Generator_ColumnPropNameInTable="FPONmbrColumn" msprop:Generator_UserColumnName="FPONmbr" minOccurs="0">
                 <xs:simpleType>
                   <xs:restriction base="xs:string">
-                    <xs:maxLength value="526" />
+                    <xs:maxLength value="2147483647" />
                   </xs:restriction>
                 </xs:simpleType>
               </xs:element>
@@ -2909,6 +2942,13 @@
                 <xs:simpleType>
                   <xs:restriction base="xs:string">
                     <xs:maxLength value="63" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Remarks" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnRemarks" msprop:Generator_ColumnPropNameInRow="Remarks" msprop:Generator_ColumnPropNameInTable="RemarksColumn" msprop:Generator_UserColumnName="Remarks" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="2147483647" />
                   </xs:restriction>
                 </xs:simpleType>
               </xs:element>

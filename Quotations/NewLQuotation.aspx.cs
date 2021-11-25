@@ -81,9 +81,9 @@ namespace VOMS_ERP.Quotations
                             txtqdt.Attributes.Add("readonly", "readonly");
                             HttpContext.Current.Session["IsItems"] = false;
                             Session["PaymentTerms"] = CommonBLL.FirstRowPaymentTerms();
+                            GetData();
                             HFID.Value = Guid.Empty.ToString();
                             HideUnwantedFields();
-                            GetData();
                             Session.Remove("TCs");
                             if (Request.QueryString["SupID"] != null && Session["UsrPermissions"] == null && ((string[])Session["UsrPermissions"] == null))
                             {
@@ -1194,11 +1194,7 @@ namespace VOMS_ERP.Quotations
                         ExPercent = Convert.ToDouble(dsi.Tables[1].Rows[0]["ExPercent"].ToString());
                     for (int k = 0; k < dsi.Tables[0].Rows.Count; k++)
                     {
-                        if (Session["HideFields"] != null && ((DataTable)Session["HideFields"]).Rows.Count > 0)
-                            dsi.Tables[0].Rows[k]["ExDutyPercentage"] = 0;
-                        else
-                            dsi.Tables[0].Rows[k]["ExDutyPercentage"] = 0.1;
-
+                        dsi.Tables[0].Rows[k]["ExDutyPercentage"] = 0.1;
                         dsi.Tables[0].Rows[k]["DiscountPercentage"] = "0.00";
                         dsi.Tables[0].Rows[k]["GrandTotal"] = "0.00";
                         dsi.Tables[0].Rows[k]["Check"] = true;
@@ -1300,13 +1296,7 @@ namespace VOMS_ERP.Quotations
                     "<th align='center'>Part No</th><th align='center'>Spec</th><th align='center'>Make" +
                     "</th><th align='center'>Qty</th><th align='center'>Units</th><th align='center'>Price</th>" +
                     "<th align='center'>Amount</th>" +
-                    "<th align='center'>Discount</th>");
-
-                    if (Session["HideFields"] != null && ((DataTable)Session["HideFields"]).Rows.Count > 0) { }
-                    else
-                        sb.Append("<th align='center'>GST</th>");
-
-                    sb.Append("<th align='center'>Net Rate</th>"
+                    "<th align='center'>Discount</th><th align='center'>GST</th><th align='center'>Net Rate</th>"
                     + "<th align='center'>Total</th><th>Remarks</th><th></th><th class='rounded-Last'></th>");
                     sb.Append("</tr></thead><tbody class='bcGridViewMain'>");
 
@@ -1439,19 +1429,17 @@ namespace VOMS_ERP.Quotations
                                 ")' maxlength='18' onblur='extractNumber(this,2,false);' onkeyup='CheckDiscount(" + sno +
                                 "); extractNumber(this,2,false);' onkeypress='return blockNonNumbers(this, event, true, false);' " +
                                 "  style='text-align: right; width:50px;' class='bcAsptextbox'/>%</td>");
-                            if (Session["HideFields"] != null && ((DataTable)Session["HideFields"]).Rows.Count > 0)
-                            {
-                                //sb.Append("<td></td>"); 
-                            }
-                            else
-                            {
-                                sb.Append("<td><input type='text' size='05px' id='txtPercent" + sno +
-                                "' onfocus='this.select()' onMouseUp='return false' value='"
-                                    + Convert.ToString(ds.Tables[0].Rows[i]["ExDutyPercentage"]) + "' onchange='FillItemsAll(" + sno
-                                    + ")' onblur='extractNumber(this,2,false);' onkeyup='CheckExDuty(" + sno
-                                    + "); extractNumber(this,2,false);' onkeypress='return blockNonNumbers(this, event, true, false);' " +
-                                    " maxlength='18' style='text-align: right; width: 50px;' class='bcAsptextbox'/>%</td>");
-                            }
+                            //if (Session["HideFields"] != null && ((DataTable)Session["HideFields"]).Rows.Count > 0)
+                            //    sb.Append("");
+                            //else
+                            //{
+                            sb.Append("<td><input type='text' size='05px' id='txtPercent" + sno +
+                            "' onfocus='this.select()' onMouseUp='return false' value='"
+                                + Convert.ToString(ds.Tables[0].Rows[i]["ExDutyPercentage"]) + "' onchange='FillItemsAll(" + sno
+                                + ")' onblur='extractNumber(this,2,false);' onkeyup='CheckExDuty(" + sno
+                                + "); extractNumber(this,2,false);' onkeypress='return blockNonNumbers(this, event, true, false);' " +
+                                " maxlength='18' style='text-align: right; width: 50px;' class='bcAsptextbox'/>%</td>");
+                            // }
                             if (Convert.ToDecimal(ds.Tables[0].Rows[i]["ExDutyPercentage"].ToString()) > 0)
                                 FlagExDuty = 1;
                             if (Convert.ToDecimal(ds.Tables[0].Rows[i]["DiscountPercentage"].ToString()) > 0)
@@ -1515,13 +1503,13 @@ namespace VOMS_ERP.Quotations
                             + FlagDiscount + "'/> </th>");
                         sb.Append("<th colspan='4' align='right'><b><span>Total Amount(" + PriceSymbol + "): <label id='lblTotalAmt'>"
                             + Math.Round(Convert.ToDecimal(TotalAmount), 2) + "</label></span></b></th>");
-                        sb.Append("<th colspan='3' align='right'><b><span>Grand Total(" + PriceSymbol + "): <label id='lblGTAmt'> "
+                        sb.Append("<th colspan='4' align='right'><b><span>Grand Total(" + PriceSymbol + "): <label id='lblGTAmt'> "
                             + Math.Round(Convert.ToDecimal(GrandTotal), 2) + "</label></span></b></th>");
-                        sb.Append("<th colspan='1' class='rounded-foot-right' ><b><span></span></b></th>");
+                        sb.Append("<th colspan='4' class='rounded-foot-right' ><b><span></span></b></th>");
                         sb.Append("</tr>");
                     }
 
-                    sb.Append("<tfoot><tr><th></th><th colspan='15'>");
+                    sb.Append("<tfoot><tr><th></th><th colspan='16'>");
 
                     #region Paging
 
@@ -1656,12 +1644,8 @@ namespace VOMS_ERP.Quotations
                     "<th align='center'>Part No</th><th align='center'>Spec</th><th align='center'>Make" +
                     "</th><th align='center'>Qty</th><th align='center'>Units</th><th align='center'>Price</th>" +
                     "<th align='center'>Amount</th>" +
-                    "<th align='center'>Discount</th>");
-                if (Session["HideFields"] != null && ((DataTable)Session["HideFields"]).Rows.Count > 0) { }
-                else
-                    sb.Append("<th align='center'>Ex Duty</th>");
-                sb.Append("<th align='center'>Net Rate</th>"
-                + "<th align='center'>Total</th><th>Remarks</th><th></th><th class='rounded-Last'></th>");
+                    "<th align='center'>Discount</th><th align='center'>Ex Duty</th><th align='center'>Net Rate</th>"
+                    + "<th align='center'>Total</th><th>Remarks</th><th></th><th class='rounded-Last'></th>");
                 sb.Append("</tr></thead><tbody class='bcGridViewMain'>");
 
                 if (ds.Tables.Count > 0 && ds.Tables[0].Rows.Count > 0)
@@ -1762,9 +1746,7 @@ namespace VOMS_ERP.Quotations
                             "); extractNumber(this,2,false);' onkeypress='return blockNonNumbers(this, event, true, " +
                             " false);' onchange='FillItemsAll(" + sno + ")' maxlength='18' style='text-align: right; width:50px;'/>%</td>");
                         if (Session["HideFields"] != null && ((DataTable)Session["HideFields"]).Rows.Count > 0)
-                        {
-                            //sb.Append("<th align='right'> &nbsp;</th>");
-                        }
+                            sb.Append("<th align='right'> &nbsp;</th>");
                         else
                         {
                             sb.Append("<td><input type='text' size='05px' id='txtPercent" + sno
@@ -1816,7 +1798,7 @@ namespace VOMS_ERP.Quotations
 
                     sb.Append("<tfoot>");
                     sb.Append("<tr class='bcGridViewHeaderStyle'>");
-                    sb.Append("<th colspan='4' class='rounded-foot-left'><b><span></span></b></th>");
+                    sb.Append("<th colspan='5' class='rounded-foot-left'><b><span></span></b></th>");
                     sb.Append("<th align='right'> <input type='hidden' name='HFExDuty' id='HFExDuty' value='" + FlagExDuty + "'/> </th>");
                     sb.Append("<th align='right'> <input type='hidden' name='HFDiscount' id='HFDiscount' value='" + FlagDiscount + "'/> </th>");
                     sb.Append("<th colspan='4' align='right'><b><span>Total Amount(" + PriceSymbol + "): <label id='lblTotalAmt'>"
@@ -2118,7 +2100,6 @@ namespace VOMS_ERP.Quotations
                     if (HideFields.Tables[0].AsEnumerable().Any(r => r.Field<string>("FieldDescription").Contains(CommonBLL.TotalExciseDutyText)))
                     {
                         lblED.Visible = chkExdt.Visible = chkSGST.Visible = chkIGST.Visible = false;
-                        Span5.Visible = Span6.Visible = false;
                         //ScriptManager.RegisterStartupScript(this.Page, this.GetType(), "ShowChkExDuty", "CHeck('chkExdt','dvExdt');", false);
                     }
                     if (HideFields.Tables[0].AsEnumerable().Any(r => r.Field<string>("FieldDescription").Contains(CommonBLL.PriceTagText)))

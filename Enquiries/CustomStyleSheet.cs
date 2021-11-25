@@ -401,8 +401,7 @@ namespace VOMS_ERP.Enquiries
                 tss.DefaultTableStyle = StringValue.FromString("TableStyleMedium9");
                 tss.DefaultPivotStyle = StringValue.FromString("PivotStyleLight16");
                 ss.Append(tss);
-                return ss;​
-
+                return ss;
                 //Fonts fts = new Fonts();
                 //DocumentFormat.OpenXml.Spreadsheet.Font ft = new DocumentFormat.OpenXml.Spreadsheet.Font();
                 //FontName ftn = new FontName();

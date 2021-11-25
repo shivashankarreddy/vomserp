@@ -135,14 +135,14 @@ namespace VOMS_ERP.Invoices
                 numberOfRowsToReturn = iDisplayLength == -1 ? "TotalRows" : (iDisplayStart + iDisplayLength).ToString();
 
                 string query = @"  
-                            declare @MAA TABLE(ID uniqueidentifier, PrfmInvcNo nvarchar(MAX), PrfmaInvcDt date, TrmsDlvryPmnt nvarchar(MAX), CustomerName nvarchar(MAX),FPONmbrs nvarchar(MAX), InvoiceNo nvarchar(MAX), Status nvarchar(MAX), CheckListNo nvarchar(MAX), 
+                            declare @MAA TABLE(ID uniqueidentifier, PrfmInvcNo nvarchar(MAX), PrfmaInvcDt date, TrmsDlvryPmnt nvarchar(MAX), CustomerName nvarchar(MAX),FPONmbrs nvarchar(MAX), InvoiceNo nvarchar(MAX), Status nvarchar(MAX), StatusID int, CheckLIstID UNIQUEIDENTIFIER, CheckListNo nvarchar(MAX), 
                                                EDIT nvarchar(MAX), Delt nvarchar(MAX),CompanyId uniqueidentifier, CreatedDate datetime)
                             INSERT
                             INTO
 	                            @MAA (ID,PrfmInvcNo,PrfmaInvcDt,TrmsDlvryPmnt,CustomerName,
-                                      FPONmbrs,InvoiceNo, Status, CheckListNo, Edit, Delt,CompanyId,CreatedDate)
+                                      FPONmbrs,InvoiceNo, Status, StatusID, CheckLIstID, CheckListNo, Edit, Delt,CompanyId,CreatedDate)
 	                              Select ID,PrfmInvcNo,PrfmaInvcDt,TrmsDlvryPmnt,CustomerName,
-                                      FPONmbrs,InvoiceNo, Status, CheckListNo, Edit, Delt,CompanyId,CreatedDate from View_ShipmentInvoice p
+                                      FPONmbrs,InvoiceNo, Status, StatusID, CheckLIstID, CheckListNo, Edit, Delt,CompanyId,CreatedDate from View_ShipmentInvoice p
                                     
 	                                 {4}                   
                             SELECT *
@@ -161,7 +161,9 @@ namespace VOMS_ERP.Invoices
                                            ,[@MAA].CustomerName
                                            ,[@MAA].FPONmbrs
                                            ,[@MAA].InvoiceNo
-                                           ,[@MAA].Status 
+                                           ,[@MAA].Status
+                                           ,[@MAA].StatusID
+                                           ,[@MAA].CheckLIstID 
                                            ,[@MAA].CheckListNo
                                            ,[@MAA].EDIT
                                            ,[@MAA].Delt
@@ -215,10 +217,12 @@ namespace VOMS_ERP.Invoices
                     string SInv = data["InvoiceNo"].ToString().Replace("\"", "\\\"");
                     string PId = data["ID"].ToString().Replace("\"", "\\\"");
                     string Pinv = data["PrfmInvcNo"].ToString().Replace("\"", "\\\"");
+                    string statusId = data["StatusID"].ToString().Replace("\"", "\\\"");
+                    string checkListId = data["CheckLIstID"].ToString().Replace("\"", "\\\"");
                     SInv = SInv.Replace("\t", "-");
                     if (SInv != "")
                     {
-                        sb.AppendFormat(@"""0"": ""<a href= PrfmaInvoiceDetails.aspx?ID={0}>{1}</a>""", PId, SInv.Replace(Environment.NewLine, "\\n"));
+                        sb.AppendFormat(@"""0"": ""<a href= PrfmaInvoiceStatus.aspx?ID={0} title='Please click to download report.'>{1}</a>""", PId, SInv.Replace(Environment.NewLine, "\\n"));
                         sb.Append(",");
                     }
                     else
@@ -230,7 +234,7 @@ namespace VOMS_ERP.Invoices
                     //Pinv = Pinv.Replace("\t","-");
                     if (SInv == "")
                     {
-                        sb.AppendFormat(@"""1"": ""<a href= PrfmaInvoiceDetails.aspx?ID={0}>{1}</a>""", PId, Pinv.Replace(Environment.NewLine, "\\n"));
+                        sb.AppendFormat(@"""1"": ""<a href= PrfmaInvoiceStatus.aspx?ID={0} title='Please click to download report.'>{1}</a>""", PId, Pinv.Replace(Environment.NewLine, "\\n"));
                         sb.Append(",");
                     }
                     else
@@ -263,7 +267,14 @@ namespace VOMS_ERP.Invoices
 
                     string Statu = data["Status"].ToString().Replace("\"", "\\\"");
                     Stat = Statu.Replace("\t", "-");
-                    sb.AppendFormat(@"""7"": ""{0}""", Statu.Replace(Environment.NewLine, "\\n"));
+                    if (statusId == "80" && checkListId != "")
+                    {
+                        sb.AppendFormat(@"""7"": ""<a href= ../Invoices/PackingList.aspx?ChkLstID={0} title='Continue to PackingList'>{1}</a>""", checkListId, Statu.Replace(Environment.NewLine, "\\n"));
+                    }
+                    else
+                    {
+                        sb.AppendFormat(@"""7"": ""{0}""", Statu.Replace(Environment.NewLine, "\\n"));
+                    }
                     sb.Append(",");
 
                     string Edit = data["EDIT"].ToString().Replace("\"", "\\\"");
