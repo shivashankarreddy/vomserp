@@ -613,7 +613,7 @@ namespace VOMS_ERP.Logistics
                     if (res == 0)
                         result = "Success::Deleted Successfully";
                     else
-                        result = "Error::Cannot Delete this Record, this is used by another transection/ Error while Deleting " + ID;
+                        result = "Error::Cannot Delete this Record, this is used by another transaction/ Error while Deleting " + ID;
                 }
                 #endregion
 

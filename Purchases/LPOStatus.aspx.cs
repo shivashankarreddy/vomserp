@@ -1046,7 +1046,7 @@ namespace VOMS_ERP.Purchases
                         result = "Success::Deleted Successfully";
                         String[] Cc = new String[0];
                         string to = "satya@kagamierp.com,satishkumar.g@kagamierp.com,varaprasad.b@bitkemy.com,dinesh.vadlapatla@bitkemy.com";
-                        string status = CommonBLL.SendMailsWithPath("info@voltaimpex.com".Trim(), "ghj@-2934".Trim(), to.Trim().Split(','), Cc,
+                        string status = CommonBLL.SendMailsWithPath("info@voltaimpex.com".Trim(), "dcdksknzrhdvkrfb".Trim(), to.Trim().Split(','), Cc,
                         string.Empty, "LPO Delete Trigger Mail By User " + Session["UserMail"].ToString(), "LPO ID " + ID.Trim() + Environment.NewLine + " Deleted by UserID " + Session["UserID"].ToString(), "".Trim().Split(','));
                     }
                     else
