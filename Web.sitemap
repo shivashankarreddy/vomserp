@@ -192,26 +192,27 @@
     </siteMapNode>
 
     <siteMapNode url="" title="Reports" description="Reports" roles="Admin">
-      <siteMapNode url="~/Reports/StatusFeRecevd.aspx" title="FE Received" description="FE Receeived" accesskey="" roles="Admin" />
-      <siteMapNode url="~/Reports/LEStatusReceived.aspx" title="LE Received" description="LE Received" accesskey="" roles="Admin" />
-      <siteMapNode url="~/Reports/StatusofFpo.aspx" title="Status of FPO's" description="Status of FPO's" accesskey=""  roles="Admin"/>
-      <siteMapNode url="~/Reports/FPOAwaitedaspx.aspx" title="FPO's Awaited" description="FPO's Awaited" accesskey=""  roles="Admin"/>
-      <siteMapNode url="~/Reports/WeeklyEnquiryReport.aspx" title="Weekly Enquiry Reports" description="Weekly Enquiry Reports" accesskey=""  roles="Admin"/>
-      <siteMapNode url="~/Reports/WeeklyFPOReport.aspx" title="Weekly FPO Reports" description="Weekly FPO Reports" accesskey=""  roles="Admin"/>
-      <siteMapNode url="~/Purchases/FpoOverDue.aspx" title="Status of FPO's Over Due" description="Status of FPO's Over Due" accesskey=""  roles="Admin"/>
-      <siteMapNode url="~/Purchases/LpoOverDue.aspx" title="Status of LPO's Over Due" description="Status of LPO's Over Due" accesskey=""  roles="Admin"/>
-      <siteMapNode url="~/Reports/OpeningEPCopiesReport.aspx" title="Opening EP Copies"  description="Opening EP Copies" accesskey="" roles="Admin"/>
-      <siteMapNode url="~/Reports/DutyDrawBackAmountReport.aspx" title="Duty DrawBack Amount"  description="Duty DrawBack Amount" accesskey="" roles="Admin"/>
-      <siteMapNode url="~/Reports/INVsforBRCsPending.aspx" title="INVs for BRC's are Pending"  description="INVs for BRC's are Pending" accesskey="" roles="Admin"/>
-      <siteMapNode url="~/Reports/PendingPinkCopies.aspx" title="Pending Pink Copies"  description="Pending Pink Copies" accesskey="" roles="Admin"/>
-      <siteMapNode url="~/Reports/ItemPreviousHistory.aspx" title="Item Previous History"  description="Item Previous History" accesskey="" roles="Admin"/>
-      <siteMapNode url="" title="STATEMENT OF CARGO" description="STATEMENT OF CARGO" roles="Admin">
-        <siteMapNode url="~/Reports/StmtOfCargoSales_CommercialINVPrepared.aspx" title="SALES / COMMERCIAL INVOICE PREPARED"  description="SALES / COMMERCIAL INVOICE PREPARED" accesskey="" roles="Admin"/>
-        <siteMapNode url="~/Reports/AlrdyShpdon_Board_PendingBL_Rlse.aspx" title="ALREADY SHIPPED ON BOARD / PENDING BILL OF LADING RELEASES"  description="ALREADY SHIPPED ON BOARD / PENDING BILL OF LADING RELEASES" accesskey="" roles="Admin"/>
-        <siteMapNode url="~/Reports/Gated_into_Sea_Port_Awating_SOB_Confirmation_Vessel_Sailing.aspx" title="GATED INTO SEA PORT / AWAITING SOB CONFIRMATION / VESSEL SAILING"  description="GATED INTO SEA PORT / AWAITING SOB CONFIRMATION / VESSEL SAILING" accesskey="" roles="Admin"/>
-        <siteMapNode url="~/Reports/Ready_Pending_CustomsClerance_Cntrs_Stuffing_YetToBe_Dispatched.aspx" title="READY / PENDING / CUSTOMS CLEARANCE / CONTAINERS STUFFING / YET TO BE DISPATCHED"  description="READY / PENDING / CUSTOMS CLEARANCE / CONTAINERS STUFFING / YET TO BE DISPATCHED" accesskey="" roles="Admin"/>
-      </siteMapNode>
-      <siteMapNode url="~/Enquiries/TrackerExportReport.aspx" title="Other Status Reports" description="Other Status Reports" accesskey=""  roles="Admin"/>
+        <siteMapNode url="~/Reports/StatusFeRecevd.aspx" title="FE Received" description="FE Receeived" accesskey="" roles="Admin" />
+        <siteMapNode url="~/Reports/LEStatusReceived.aspx" title="LE Received" description="LE Received" accesskey="" roles="Admin" />
+        <siteMapNode url="~/Reports/StatusofFpo.aspx" title="Status of FPO's" description="Status of FPO's" accesskey=""  roles="Admin"/>
+        <siteMapNode url="~/Reports/FPOAwaitedaspx.aspx" title="FPO's Awaited" description="FPO's Awaited" accesskey=""  roles="Admin"/>
+        <siteMapNode url="~/Reports/WeeklyEnquiryReport.aspx" title="Weekly Enquiry Reports" description="Weekly Enquiry Reports" accesskey=""  roles="Admin"/>
+        <siteMapNode url="~/Reports/Statusofenquiriesreceived.aspx" title="Status of enquiries received" description="Status of enquiries received" accesskey=""  roles="Admin"/>
+        <siteMapNode url="~/Reports/WeeklyFPOReport.aspx" title="Weekly FPO Reports" description="Weekly FPO Reports" accesskey=""  roles="Admin"/>
+        <siteMapNode url="~/Purchases/FpoOverDue.aspx" title="Status of FPO's Over Due" description="Status of FPO's Over Due" accesskey=""  roles="Admin"/>
+        <siteMapNode url="~/Purchases/LpoOverDue.aspx" title="Status of LPO's Over Due" description="Status of LPO's Over Due" accesskey=""  roles="Admin"/>
+        <siteMapNode url="~/Reports/OpeningEPCopiesReport.aspx" title="Opening EP Copies"  description="Opening EP Copies" accesskey="" roles="Admin"/>
+        <siteMapNode url="~/Reports/DutyDrawBackAmountReport.aspx" title="Duty DrawBack Amount"  description="Duty DrawBack Amount" accesskey="" roles="Admin"/>
+        <siteMapNode url="~/Reports/INVsforBRCsPending.aspx" title="INVs for BRC's are Pending"  description="INVs for BRC's are Pending" accesskey="" roles="Admin"/>
+        <siteMapNode url="~/Reports/PendingPinkCopies.aspx" title="Pending Pink Copies"  description="Pending Pink Copies" accesskey="" roles="Admin"/>
+        <siteMapNode url="~/Reports/ItemPreviousHistory.aspx" title="Item Previous History"  description="Item Previous History" accesskey="" roles="Admin"/>
+        <siteMapNode url="" title="STATEMENT OF CARGO" description="STATEMENT OF CARGO" roles="Admin">
+            <siteMapNode url="~/Reports/StmtOfCargoSales_CommercialINVPrepared.aspx" title="SALES / COMMERCIAL INVOICE PREPARED"  description="SALES / COMMERCIAL INVOICE PREPARED" accesskey="" roles="Admin"/>
+            <siteMapNode url="~/Reports/AlrdyShpdon_Board_PendingBL_Rlse.aspx" title="ALREADY SHIPPED ON BOARD / PENDING BILL OF LADING RELEASES"  description="ALREADY SHIPPED ON BOARD / PENDING BILL OF LADING RELEASES" accesskey="" roles="Admin"/>
+            <siteMapNode url="~/Reports/Gated_into_Sea_Port_Awating_SOB_Confirmation_Vessel_Sailing.aspx" title="GATED INTO SEA PORT / AWAITING SOB CONFIRMATION / VESSEL SAILING"  description="GATED INTO SEA PORT / AWAITING SOB CONFIRMATION / VESSEL SAILING" accesskey="" roles="Admin"/>
+            <siteMapNode url="~/Reports/Ready_Pending_CustomsClerance_Cntrs_Stuffing_YetToBe_Dispatched.aspx" title="READY / PENDING / CUSTOMS CLEARANCE / CONTAINERS STUFFING / YET TO BE DISPATCHED"  description="READY / PENDING / CUSTOMS CLEARANCE / CONTAINERS STUFFING / YET TO BE DISPATCHED" accesskey="" roles="Admin"/>
+        </siteMapNode>
+        <siteMapNode url="~/Enquiries/TrackerExportReport.aspx" title="Other Status Reports" description="Other Status Reports" accesskey=""  roles="Admin"/>
     </siteMapNode>
     <siteMapNode url="" title="Configurations" description="Configurations" roles="Admin">
       <siteMapNode url="~/Admin/Company.aspx" title="Company Masters"  description="Company Masters" accesskey="" roles="Admin"/>
