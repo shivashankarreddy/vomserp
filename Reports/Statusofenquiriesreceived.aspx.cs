@@ -69,8 +69,14 @@ namespace VOMS_ERP.Reports
         {
             try
             {
-                DateTime fromdate = txtFromDate.Text.Trim() == "" ? CommonBLL.StartDate : CommonBLL.DateInsert(txtFromDate.Text);
-                DateTime todate = txtToDate.Text.Trim() == "" ? CommonBLL.EndDate : CommonBLL.DateInsert(txtToDate.Text);
+                DateTime fromdate = txtFromDate.Text.Trim() == "" ? DateTime.Now : CommonBLL.DateInsert(txtFromDate.Text);
+                DateTime todate = txtToDate.Text.Trim() == "" ? DateTime.Now.AddDays(-15) : CommonBLL.DateInsert(txtToDate.Text);
+                
+                if (txtFromDate.Text.Trim() == "")
+                    txtFromDate.Text = CommonBLL.DateDisplay(DateTime.Now);
+                if (txtToDate.Text.Trim() == "")
+                    txtToDate.Text = CommonBLL.DateDisplay(DateTime.Now.AddDays(-15));
+
                 EditDS = new DataSet();
                 NewEnquiryBLL NEBLL = new NewEnquiryBLL();
                 EditDS = NEBLL.StatusOfEnquiriesReceived(fromdate, todate);
@@ -104,12 +110,12 @@ namespace VOMS_ERP.Reports
                         sb.Append("<td>" + EditDS.Tables[0].Rows[i]["FPO NO"].ToString() + "</td>");
                         sb.Append("<td>" + EditDS.Tables[0].Rows[i]["DATE OF FPO"].ToString() + "</td>");
                         sb.Append("<td>" + EditDS.Tables[0].Rows[i]["FPO VALUE (USD)"].ToString() + "</td>");
-                        sb.Append("<td>" + EditDS.Tables[0].Rows[i]["DATE OF LPO"].ToString() + "</td>");
-                        sb.Append("<td>" + EditDS.Tables[0].Rows[i]["LPOIncharge"].ToString() + "</td>");
+                        sb.Append("<td>" + EditDS.Tables[0].Rows[i]["DATE OF LPO"].ToString() + "</td>");                        
                         sb.Append("<td>" + EditDS.Tables[0].Rows[i]["ReceivedAtGodown"].ToString() + "</td>");
                         sb.Append("<td>" + EditDS.Tables[0].Rows[i]["LEODate"].ToString() + "</td>");
                         sb.Append("<td>" + EditDS.Tables[0].Rows[i]["FOB INR"].ToString() + "</td>");
                         sb.Append("<td>" + EditDS.Tables[0].Rows[i]["FOB USD"].ToString() + "</td>");
+                        sb.Append("<td>" + EditDS.Tables[0].Rows[i]["LPOIncharge"].ToString() + "</td>");
                         sb.Append("<td></td></tr>");
                     }
                 }
