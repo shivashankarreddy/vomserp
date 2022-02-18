@@ -69,8 +69,8 @@ namespace VOMS_ERP.Reports
         {
             try
             {
-                DateTime fromdate = txtFromDate.Text.Trim() == "" ? DateTime.Now : CommonBLL.DateInsert(txtFromDate.Text);
-                DateTime todate = txtToDate.Text.Trim() == "" ? DateTime.Now.AddDays(-15) : CommonBLL.DateInsert(txtToDate.Text);
+                DateTime fromdate = txtFromDate.Text.Trim() == "" ? DateTime.Now.AddDays(-15) : CommonBLL.DateInsert(txtFromDate.Text);
+                DateTime todate = txtToDate.Text.Trim() == "" ? DateTime.Now : CommonBLL.DateInsert(txtToDate.Text);
                 
                 if (txtFromDate.Text.Trim() == "")
                     txtFromDate.Text = CommonBLL.DateDisplay(DateTime.Now.AddDays(-15));
