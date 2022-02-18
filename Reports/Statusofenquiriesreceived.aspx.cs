@@ -73,9 +73,9 @@ namespace VOMS_ERP.Reports
                 DateTime todate = txtToDate.Text.Trim() == "" ? DateTime.Now.AddDays(-15) : CommonBLL.DateInsert(txtToDate.Text);
                 
                 if (txtFromDate.Text.Trim() == "")
-                    txtFromDate.Text = CommonBLL.DateDisplay(DateTime.Now);
+                    txtFromDate.Text = CommonBLL.DateDisplay(DateTime.Now.AddDays(-15));
                 if (txtToDate.Text.Trim() == "")
-                    txtToDate.Text = CommonBLL.DateDisplay(DateTime.Now.AddDays(-15));
+                    txtToDate.Text = CommonBLL.DateDisplay(DateTime.Now);
 
                 EditDS = new DataSet();
                 NewEnquiryBLL NEBLL = new NewEnquiryBLL();
